@@ -5,25 +5,19 @@
  */
 
 /*!
- * Vue.js v2.6.10
+ * vue-client-only v2.0.0
+ * (c) 2019-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+/*!
+ * Vue.js v2.6.11
  * (c) 2014-2019 Evan You
  * Released under the MIT License.
  */
 
 /*!
-  * vue-router v3.0.7
-  * (c) 2019 Evan You
+  * vue-router v3.1.5
+  * (c) 2020 Evan You
   * @license MIT
   */
-
-/**
- * vue-meta v1.6.0
- * (c) 2019 Declan de Wet & Sébastien Chopin (@Atinux)
- * @license MIT
- */
-
-/*
-	object-assign
-	(c) Sindre Sorhus
-	@license MIT
-	*/
