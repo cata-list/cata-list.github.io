@@ -1,5 +1,5 @@
 # cata-list
-Curated lists of valuable information, media, tools, and wisdom which can help to inform, empower, and act as catalysts for positive change in this perilous yet promising time. This website is not intended to convey 'The Answer(s)' or 'The Truth' but rather practical information, tools, and 'maps' which may be useful on one's individual journey toward truth, understanding, and purpose. Think for yourself and question everything..
+Curated lists of valuable information, media, tools, and wisdom which can help to inform, empower, and act as catalysts for positive change in this perilous yet promising time. This website is not intended to convey 'The Answer(s)' or 'The Truth' but rather practical information, tools, and 'maps' which may be useful on one's individual journey toward truth, understanding, and purpose. Think for yourself and question everything.
 
 ## Create & run a local copy
 1. clone or download this repository
