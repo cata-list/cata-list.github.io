@@ -1,5 +1,5 @@
 # cata-list
-Curated lists of valuable information, media, tools, and wisdom which can help to inform, empower, and act as catalysts for positive change in this perilous yet promising time. 
+Lists of some of the best information, media, tools, and wisdom which can help to inform, empower, and act as catalysts for positive change in this perilous yet promising time.
 
 This website is not intended to convey 'The Answer(s)' or 'The Truth' but rather practical information, tools, and 'maps' which may be useful on one's individual journey toward truth, understanding, and purpose. Think for yourself and question everything.
 
@@ -8,12 +8,11 @@ This website is not intended to convey 'The Answer(s)' or 'The Truth' but rather
 2. navigate to the directory via the [command line](https://cmder.net/)
 3. use [live-server](https://github.com/tapio/live-server) or a similar tool to serve the files
 
-## Experimentation
+## Development
 - Check out the [main](https://github.com/cata-list/cata-list_main) branch. 
 
 ## To Do / Coming Soon
 - create social media presence to generate more feedback and discussion
 - create/utilize back-end/database to enable user interaction (creating lists, etc.)
 - create new Articles page with relatively brief outline / summary of major world issues
-- (?) create experimental branch in case recent watchers / cloners are interested in collaboration
 - other misc. stuff in personal list
