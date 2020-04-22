@@ -3,11 +3,6 @@ Lists of some of the best information, media, tools, and wisdom which can help t
 
 This website is not intended to convey 'The Answer(s)' or 'The Truth' but rather practical information, tools, and 'maps' which may be useful on one's individual journey toward truth, understanding, and purpose. Think for yourself and question everything.
 
-## RSS / JSON Feed
-RSS: https://cata-list.github.io/api/rss
-
-JSON: https://cata-list.github.io/api/json
-
 ## Create & run a local copy
 1. clone or download this repository
 2. navigate to the directory via the [command line](https://cmder.net/)
@@ -17,6 +12,7 @@ JSON: https://cata-list.github.io/api/json
 - Check out the [main](https://github.com/cata-list/cata-list_main) branch. 
 
 ## To Do / Coming Soon
+- RSS / JSON Feed
 - create social media presence to generate more feedback and discussion
 - create/utilize back-end/database to enable user interaction (creating lists, etc.)
 - create new Articles page with relatively brief outline / summary of major world issues
