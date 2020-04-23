@@ -4,358 +4,163 @@
   "description": "Lists of some of the best information, media, tools, and wisdom which can help to inform, empower, and act as catalysts for positive change in this perilous yet promising time.",
   "language": "en-US",
   "copyright": "Copyright © 2020 Matthew McCutcheon. All rights reserved",
-  "date": "4/21/2020, 6:31:18 PM",
-  "id": "RcFWIgemn1F-_v6jOudm6",
+  "date": "4/23/2020, 11:23:42 AM",
+  "id": "FEtX86bxN4d91fRzolkiX",
   "articles": [
     {
-      "category": "Articles / Voting / Corruption",
-      "title": "Kayfabe",
-      "source": "Wikipedia",
-      "date": "",
-      "link": "https://en.wikipedia.org/wiki/Kayfabe",
-      "description": "In professional wrestling, kayfabe (also called work or worked) is the portrayal of staged events within the industry as 'real' or 'true',  specifically the portrayal of competition, rivalries, and relationships between participants as being genuine and not of a staged or predetermined nature of any kind. The term kayfabe has evolved to also become a code word of sorts for maintaining this 'reality' within the direct or indirect presence of the general public."
-    },
-    {
-      "category": "Articles / Sustainability / Problems / Pollution",
-      "title": "2020 Chernobyl Exclusion Zone Wildfires",
-      "source": "Wikipedia",
-      "date": "",
-      "link": "https://en.wikipedia.org/wiki/2020_Chernobyl_Exclusion_Zone_wildfires",
-      "description": "The 2020 Chernobyl Exclusion Zone wildfires were a series of wildfires that began burning inside Ukraine's Chernobyl Exclusion Zone in April 2020. The fires were largely extinguished within two weeks, at least one suspect was arrested for alleged arson."
-    },
-    {
-      "category": "Articles / Opposition / Health / Water",
-      "title": "Another Disaster Is Ready to Catch the US Unprepared: Drought",
-      "source": "Ars Technica",
-      "date": "Apr 17 2020",
-      "link": "https://arstechnica.com/science/2020/04/another-disaster-is-ready-to-catch-the-us-unprepared-drought/",
-      "description": "Like COVID-19, water insecurity is set to hit the most vulnerable the hardest."
-    },
-    {
-      "category": "Articles / Sustainability / Pollution",
-      "title": "EPA Says Incidental Benefits of Pollution Rules Don't Count",
-      "source": "Ars Technica",
-      "date": "Apr 18 2020",
-      "link": "https://arstechnica.com/tech-policy/2020/04/epa-keeps-mercury-limits-in-place-but-undercuts-their-foundation/",
-      "description": "Cutting mercury emissions removes soot, too, but the EPA won't consider that."
-    },
-    {
-      "category": "Articles / Sustainability / Problems / Pollution",
-      "title": "Sci-Fi Fanatics Suspected of Arson as Wildfires Near Chernobyl Create World's Worst Air Pollution",
+      "category": "Articles / Opposition / Surveillance",
+      "title": "Police Deploy 'Pandemic Drone' to Detect Fevers and Enforce Social Distancing",
       "source": "Gizmodo",
-      "date": "Apr 17 2020",
-      "link": "https://earther.gizmodo.com/sci-fi-cult-arson-suspected-as-wildfires-near-chernobyl-1842921250",
-      "description": "Wildfires are burning yet again in the area outside the Chernobyl Nuclear Power Plant in Ukraine. The latest round of blazes has sent smoke traveling to the capital of Kyiv, creating some of the worst air pollution in the world."
+      "date": "Apr 23 2020",
+      "description": "Police in Westport, Connecticut, announced this week that they're testing a so-called 'pandemic drone' that can detect when people on the ground have fevers. The new drone platform will also be used to determine when people are closer than six feet to each other. Police will be able to deliver a ver…",
+      "wikiextract": "",
+      "link": "https://gizmodo.com/police-deploy-pandemic-drone-to-detect-fevers-and-enfor-1843017443"
     },
     {
-      "category": "Articles / Sustainability / Problems / Industry",
-      "title": "As Africa Drowns in Garbage, the Plastics Business Keeps Booming",
-      "source": "The Intercept",
-      "date": "Apr 19 2020",
-      "link": "https://theintercept.com/2020/04/19/africa-plastic-waste-kenya-ethiopia/",
-      "description": "In a Kenyan dump overflowing with plastic waste, waste-pickers risk disease and injury to collect precious scraps for redemption."
+      "category": "Articles / Technology / Space",
+      "title": "SpaceX Successfully Launches 60 More Starlink Satellites as It Continues Towards 2020 Service Debut",
+      "source": "TechCrunch",
+      "date": "Apr 22 2020",
+      "description": "SpaceX has launched another big batch of Starlink satellites, the low Earth orbit spacecraft that will provide connectivity for its globe-spanning high-bandwidth broadband internet network. This brings the total number of Starlink satellites on orbit to 422, though the company plans to de-orbit two…",
+      "wikiextract": "",
+      "link": "https://techcrunch.com/2020/04/22/spacex-successfully-launches-60-more-starlink-satellites-as-it-continues-towards-2020-service-debut/"
     },
     {
-      "category": "Articles / Opposition / Health / Air",
-      "title": "Areas With More Air Pollution Have Had More Covid-19 Fatalities",
-      "source": "Gizmodo",
-      "date": "Apr 20 2020",
-      "link": "https://earther.gizmodo.com/areas-with-more-air-pollution-have-had-more-covid-19-fa-1842965921",
-      "description": "New research shows that exposure to air pollution may be 'one of the most important contributors to fatality' caused by covid-19."
-    },
-    {
-      "category": "Articles / Sustainability / Problems / Industry",
-      "title": "Offshore Drilling Has Dug Itself a Deeper Hole Since Deepwater Horizon",
-      "source": "The Verge",
-      "date": "Apr 20 2020",
-      "link": "https://www.theverge.com/2020/4/20/21228577/offshore-drilling-deepwater-horizon-10-year-anniversary",
-      "description": "There are new worst-case scenarios that the industry still isn't prepared for."
+      "category": "Articles / Opposition / Health",
+      "title": "Chinese Agents Helped Spread Messages That Sowed Virus Panic in U.S., Officials Say",
+      "source": "The New York Times",
+      "date": "Apr 22 2020",
+      "description": "American officials were alarmed by fake text messages and social media posts that said President Trump was locking down the country. Experts see a convergence with Russian tactics.",
+      "wikiextract": "",
+      "link": "https://www.nytimes.com/2020/04/22/us/politics/coronavirus-china-disinformation.html"
     },
     {
       "category": "Articles / Sustainability / Solutions / Other",
-      "title": "Oil Plunges Below Zero for First Time in Unprecedented Wipeout",
-      "source": "Bloomberg",
-      "date": "Apr 19 2020",
-      "link": "https://www.bloomberg.com/news/articles/2020-04-19/oil-drops-to-18-year-low-on-global-demand-crunch-storage-woes",
-      "description": "Of all the wild, unprecedented swings in financial markets since the coronavirus pandemic broke out, none has been more jaw-dropping than Monday’s collapse in a key segment of U.S. oil trading."
+      "title": "Air Quality Is Way Better in Nine Major Cities After Coronavirus Confinement",
+      "source": "The Verge",
+      "date": "Apr 22 2020",
+      "description": "But pollution levels could rebound as restrictions relax.",
+      "wikiextract": "",
+      "link": "https://www.theverge.com/2020/4/22/21230917/air-quality-pollution-coronavirus-lockdown-social-distancing-cities"
     },
     {
-      "category": "Articles / Sustainability / Problems / Pollution",
-      "title": "'Horrible Hybrids': The Plastic Products That Give Recyclers Nightmares",
-      "source": "The Guardian",
-      "date": "Apr 20 2020",
-      "link": "https://www.theguardian.com/environment/2020/apr/20/plastic-products-recyclers-single-use",
-      "description": "From singing birthday cards to baby food pouches, a growing trend of mixing materials is making recycling even harder"
-    },
-    {
-      "category": "Articles / Sustainability / Problems / Industry",
-      "title": "The Coal Industry's a New 'Clean Coal' Scheme Is Dirty",
-      "source": "Gizmodo",
-      "date": "Apr 21 2020",
-      "link": "https://earther.gizmodo.com/the-coal-industrys-a-new-clean-coal-scheme-is-dirty-1842653029",
-      "description": "In the summer of 2017, Mary Hess, a retired postal worker, heard rumors about a proposal for a mysterious new coal plant to be built in her town of Dale, Indiana. But for months, they were just rumors, because it was hard to find any details about the project."
-    },
-    {
-      "category": "Articles / Opposition / Health",
-      "title": "New MIT Machine Learning Model Shows Relaxing Quarantine Rules Will Spike COVID-19 Cases – TechCrunch",
-      "source": "TechCrunch",
-      "date": "Apr 16 2020",
-      "link": "https://techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/",
-      "description": "MIT has developed a new model of the spread of COVID-19 infection, based on publicly available data, combined with established epidemiological equations about outbreaks, and neural network-based inference. The model, described in a new report, proves accurate when trained on data spanning late Janu…"
+      "category": "Articles / Sustainability / Solutions / Other",
+      "title": "Clear Skies and Social Distancing Help Europe Shatter Solar Energy Records",
+      "source": "Engadget",
+      "date": "Apr 22 2020",
+      "description": "The coronavirus pandemic is helping multiple countries in Europe set new records for solar energy generation. Production in the UK peaked at 9.68 gigawatts on Monday, according to a tracker developed by The University of Sheffield in collaboration with the National Grid.",
+      "wikiextract": "",
+      "link": "https://www.engadget.com/germany-uk-spain-solar-energy-record-coronavirus-133031282.html"
     },
     {
       "category": "Articles / Opposition / Surveillance",
-      "title": "U.S. Judge Blocks Twitter's Bid to Reveal Government Surveillance Requests",
+      "title": "Leaked Pics From Amazon Ring Show Potential New Surveillance Features",
+      "source": "Ars Technica",
+      "date": "Apr 22 2020",
+      "description": "Amazon wouldn't be the first consumer company to do it, but it would be the biggest.",
+      "wikiextract": "",
+      "link": "https://arstechnica.com/tech-policy/2020/04/ring-cameras-may-someday-scan-license-plates-and-faces-leak-shows/"
+    },
+    {
+      "category": "Articles / Opposition / Other",
+      "title": "Google Sees State-Sponsored Hackers Ramping Up Coronavirus Attacks",
+      "source": "Wired",
+      "date": "Apr 22 2020",
+      "description": "More than 12 government-backed groups are using the pandemic as cover for digital reconnaissance and espionage, according to a new report.",
+      "wikiextract": "",
+      "link": "https://www.wired.com/story/google-state-sponsored-hackers-coronavirus-phishing-malware/"
+    },
+    {
+      "category": "Articles / Opposition / Government / General",
+      "title": "The Ongoing Travesty — and Dangers — of the Prosecution and Attempted Extradition of Julian Assange",
+      "source": "The Intercept",
+      "date": "Apr 22 2020",
+      "description": "SYSTEM UPDATE examines the greatest threat to press freedom, by far, in the last decade.",
+      "wikiextract": "",
+      "link": "https://theintercept.com/2020/04/22/watch-the-ongoing-travesty-and-dangers-of-the-prosecution-and-attempted-extradition-of-julian-assange/"
+    },
+    {
+      "category": "Articles / Sustainability / Problems / Pollution",
+      "title": "As Coronavirus Spreads So Does Single-Use Plastic. Here's What That Means for Our Environment",
+      "source": "Vice",
+      "date": "Apr 22 2020",
+      "description": "As oil prices rapidly drop, recycling centers remain shut and plastic personal protective equipment becomes biohazard waste, the pandemic could worsen the already serious plastic pollution problem.",
+      "wikiextract": "",
+      "link": "https://www.vice.com/en_us/article/dygn8a/coronavirus-and-single-use-plastic-in-environment-earth-day"
+    },
+    {
+      "category": "Articles / Opposition / Other",
+      "title": "Exclusive: Facebook Agreed to Censor Posts After Vietnam Slowed Traffic",
       "source": "Reuters",
-      "date": "Apr 18 2020",
-      "link": "https://www.reuters.com/article/us-usa-twitter-lawsuit/u-s-judge-blocks-twitters-bid-to-reveal-government-surveillance-requests-idUSKBN2200CS",
-      "description": "Twitter Inc will not be able to reveal surveillance requests it received from the U.S. government after a federal judge accepted government arguments that this was likely to harm national security after a near six-year long legal battle."
-    },
-    {
-      "category": "Articles / Opposition / Health",
-      "title": "Carnival Executives Knew They Had a Virus Problem, But Kept the Party Going",
-      "source": "Bloomberg",
-      "date": "Apr 16 2020",
-      "link": "https://www.bloomberg.com/features/2020-carnival-cruise-coronavirus/",
-      "description": "More than 1,500 people on the company’s cruise ships have been diagnosed with Covid-19, and dozens have died."
+      "date": "Apr 22 2020",
+      "description": "Facebook's local servers in Vietnam were taken offline early this year, slowing local traffic to a crawl until it agreed to significantly increase the censorship of 'anti-state' posts for local users, two sources at the company told Reuters on Tuesday.",
+      "wikiextract": "",
+      "link": "https://www.reuters.com/article/us-vietnam-facebook-exclusive/exclusive-facebook-agreed-to-censor-posts-after-vietnam-slowed-traffic-sources-idUSKCN2232JX"
     },
     {
       "category": "Articles / Opposition / Money",
-      "title": "'We Needed to Go': Rich Americans Activate Pandemic Escape Plans",
+      "title": "JPMorgan's Small Business Loans Instead Went to Its Biggest Customers",
       "source": "Bloomberg",
-      "date": "Apr 19 2020",
-      "link": "https://www.bloomberg.com/news/articles/2020-04-19/-we-needed-to-go-rich-americans-activate-pandemic-escape-plans",
-      "description": "Interest in New Zealand bunkers has surged."
-    },
-    {
-      "category": "Articles / Opposition / Health",
-      "title": "CDC's Failed Coronavirus Tests Were Tainted With Coronavirus, Feds Confirm",
-      "source": "Ars Technica",
-      "date": "Apr 20 2020",
-      "link": "https://arstechnica.com/science/2020/04/cdcs-failed-coronavirus-tests-were-tainted-with-coronavirus-feds-confirm/",
-      "description": "A federal investigation found CDC researchers not following protocol."
-    },
-    {
-      "category": "Articles / Opposition / Health",
-      "title": "'Church' Claims Bleach Is Coronavirus-Curing 'Sacrament,' Faces Wrath of FDA",
-      "source": "Ars Technica",
-      "date": "Apr 20 2020",
-      "link": "https://arstechnica.com/tech-policy/2020/04/church-of-bleach-ordered-to-stop-selling-bleach-as-covid-19-cure/",
-      "description": "Injunction forces 'non-religious church' to stop selling bleach as miracle drug."
-    },
-    {
-      "category": "Articles / Opposition / Health",
-      "title": "Buildings Have Their Own Microbiomes – We're Striving to Make Them Healthy Places",
-      "source": "The Conversation",
-      "date": "Apr 20 2020",
-      "link": "https://theconversation.com/buildings-have-their-own-microbiomes-were-striving-to-make-them-healthy-places-134975",
-      "description": "We spend 90% of our lives indoors, and every building has its own indoor microbiome. Can we learn to manage them in ways that support helpful microbes and suppress harmful ones?"
-    },
-    {
-      "category": "Articles / Opposition / Money",
-      "title": "Coronavirus: Why We Should Be Sceptical About the Benevolence of Billionaires",
-      "source": "The Conversation",
-      "date": "Apr 20 2020",
-      "link": "https://theconversation.com/coronavirus-why-we-should-be-sceptical-about-the-benevolence-of-billionaires-136448",
-      "description": "Generosity is good, but philanthropy can come at a significant social cost."
+      "date": "Apr 22 2020",
+      "description": "JPMorgan Chase & Co. provided loans to virtually all of its commercial banking customers that sought financing through the small business relief program, while the lender’s smallest customers were almost entirely shut out, according to data disclosed by the bank.",
+      "wikiextract": "",
+      "link": "https://www.bloomberg.com/news/articles/2020-04-22/jpmorgan-commercial-clients-beat-out-smaller-ones-for-sba-loans"
     },
     {
       "category": "Articles / Opposition / Other / Data Leaks",
-      "title": "267 Million Facebook Profiles Sold for $600 on the Dark Web",
-      "source": "BleepingComputer",
+      "title": "Almost 8,000 Could Be Affected by Federal Emergency Loan Data Breach",
+      "source": "Ars Technica",
+      "date": "Apr 21 2020",
+      "description": "Pressing the back button could expose another applicant's private information.",
+      "wikiextract": "",
+      "link": "https://arstechnica.com/tech-policy/2020/04/sba-says-data-breach-may-have-affected-almost-8000-loan-applicants/"
+    },
+    {
+      "category": "Articles / Opposition / Health",
+      "title": "Anti-Quarantine Protests Are Dangerous and Weird",
+      "source": "Wired",
+      "date": "Apr 21 2020",
+      "description": "Please don't make them seem more normal than they are.",
+      "wikiextract": "",
+      "link": "https://www.wired.com/story/anti-quarantine-protestors-are-dangerous-and-weird/"
+    },
+    {
+      "category": "Articles / Sustainability / Problems / Pollution",
+      "title": "The Biggest Environmental Disaster in U.S. History Never Really Ended",
+      "source": "Vice",
+      "date": "Apr 21 2020",
+      "description": "Cleanup workers on the Deepwater Horizon oil spill are still suffering 10 years later.",
+      "wikiextract": "",
+      "link": "https://www.vice.com/en_us/article/884z93/the-biggest-environmental-disaster-in-us-history-never-really-ended"
+    },
+    {
+      "category": "Articles / Opposition / Other",
+      "title": "Who's Behind the 'Reopen' Domain Surge?",
+      "source": "Krebs on Security",
       "date": "Apr 20 2020",
-      "link": "https://www.bleepingcomputer.com/news/security/267-million-facebook-profiles-sold-for-600-on-the-dark-web/",
-      "description": "Threat actors are selling over 267 million Facebook profiles for £500 ($623) on dark web sites and hacker forums. While none of these records include passwords, they do contain information that could allow attackers to perform spear phishing or SMS attacks to steal credentials."
+      "description": "The past few weeks have seen a large number of new domain registrations beginning with the word 'reopen' and ending with U.S. city or state names. The largest number of them were created just hours after President Trump sent a series of all-caps tweets urging citizens to 'liberate' themselves from new gun control measures and state leaders who've enacted strict social distancing restrictions in the face of the COVID-19 pandemic. Here's a closer look at who and what appear to be behind these domains.",
+      "wikiextract": "",
+      "link": "https://krebsonsecurity.com/2020/04/whos-behind-the-reopen-domain-surge/"
     },
     {
-      "category": "Articles / Opposition / Other / Data Leaks",
-      "title": "Over 500,000 Zoom Accounts Sold on Hacker Forums, the Dark Web",
-      "source": "BleepingComputer",
-      "date": "Apr 13 2020",
-      "link": "https://www.bleepingcomputer.com/news/security/over-500-000-zoom-accounts-sold-on-hacker-forums-the-dark-web/",
-      "description": "Over 500,000 Zoom accounts are being sold on the dark web and hacker forums for less than a penny each, and in some cases, given away for free."
-    },
-    {
-      "category": "Articles / Opposition / Money",
-      "title": "Who Ordered the Car Bomb That Killed Maltese Journalist Daphne Caruana Galizia?",
+      "category": "Articles / Opposition / Government / Prison-Industrial Complex",
+      "title": "73% of Inmates at an Ohio Prison Test Positive for Coronavirus",
       "source": "NPR",
-      "date": "Jul 21 2018",
-      "link": "https://www.npr.org/2018/07/22/630866527/mastermind-behind-malta-journalist-killing-remains-a-mystery",
-      "description": "The reporter was killed last October, as she was digging up dirt on Malta's most powerful. The final words on her blog were: 'There are crooks everywhere you look now. The situation is desperate.'"
-    },
-    {
-      "category": "Articles / Opposition / Government / Law Enforcement",
-      "title": "Waco Siege",
-      "source": "Wikipedia",
-      "date": "",
-      "link": "https://en.wikipedia.org/wiki/Waco_siege",
-      "description": "The Waco siege was the siege of a compound belonging to the religious sect Branch Davidians, carried out by American federal and Texas state law enforcement, as well as the U.S. military, between February 28 and April 19, 1993. The incident began when the ATF attempted to raid the ranch. An intense gun battle erupted, resulting in the deaths of four government agents and six Branch Davidians. Upon the ATF's failure to raid the compound, a siege lasting 51 days was initiated by the Federal Bureau of Investigation (FBI). Eventually, the FBI launched an assault and initiated a tear gas attack in an attempt to force the Branch Davidians out of the ranch. During the attack, a fire engulfed Mount Carmel Center. This resulted in the deaths of 76 Branch Davidians, including 25 children, two pregnant women and David Koresh."
-    },
-    {
-      "category": "Articles / Opposition / Health",
-      "title": "Crimson Contagion",
-      "source": "Wikipedia",
-      "date": "",
-      "link": "https://en.wikipedia.org/wiki/Crimson_Contagion",
-      "description": "Crimson Contagion was a simulation administered by the U.S. Department of Health and Human Services from January to August 2019 that tested the capacity of the U.S. federal government and twelve U.S. states to respond to a severe influenza pandemic originating in China. The exercise involves a scenario in which tourists returning from China spread a respiratory virus in the United States, beginning in Chicago. In less than two months the virus had infected 110 million Americans, killing more than half a million. The report issued at the conclusion of the exercise outlines the government's limited capacity to respond to a pandemic, with federal agencies lacking the funds, coordination, and resources to facilitate an effective response to the virus."
+      "date": "Apr 19 2020",
+      "description": "No other state has reported as many cases of COVID-19 behind bars as Ohio, in large part because no other state has tested as many inmates.",
+      "wikiextract": "",
+      "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/04/20/838943211/73-of-inmates-at-an-ohio-prison-test-positive-for-coronavirus"
     }
   ],
   "media": [
     {
-      "category": "Media / YouTube / Last Week Tonight",
-      "title": "Coronavirus V",
-      "date": "Apr 19 2020",
-      "description": "",
-      "link": "https://www.youtube.com/watch?v=dRFbwjwQ4VE"
-    },
-    {
-      "category": "Media / YouTube / DW Documentary",
-      "title": "How Artificial Intelligence is Changing Our Society",
-      "date": "Apr 18 2020",
-      "description": "",
-      "link": "https://www.youtube.com/watch?v=-ePZ7OdY-Dw"
+      "category": "Media / Television",
+      "title": "Dirty Money",
+      "date": "",
+      "year": "2018 –",
+      "plot": "A series documenting various stories about exposing the greed, corruption, and crime spreading through the global economy."
     }
   ],
-  "tools": [
-    {
-      "category": "Tools / Time",
-      "title": "Time and Date Calculator",
-      "info": "Allows you to easily add/subtract time and days, calculate days between dates, and also convert time to different units.",
-      "link": "https://timedatecalc.com/"
-    },
-    {
-      "category": "Tools / Free Courses",
-      "title": "Open Education Database",
-      "info": "A list of over 10,000 free online courses.",
-      "link": "https://oedb.org/open/"
-    },
-    {
-      "category": "Tools / Maths & Calculators",
-      "title": "EscherMath",
-      "info": "Math and the Art of M.C. Escher",
-      "link": "https://mathstat.slu.edu/escher/index.php/Math_and_the_Art_of_M._C._Escher"
-    },
-    {
-      "category": "Tools / Productivity",
-      "title": "Linkdash",
-      "info": "Generate a handy dashboard of links in seconds.",
-      "link": "https://github.com/igimanaloto/linkdash"
-    },
-    {
-      "category": "Tools / Communication",
-      "title": "Receive SMS",
-      "info": "A free website to receive SMS and voice mail online.",
-      "link": "https://receive-smss.com/"
-    },
-    {
-      "category": "Tools / Communication",
-      "title": "LettuceMeet",
-      "info": "Easy group scheduling.",
-      "link": "https://lettucemeet.com/"
-    },
-    {
-      "category": "Tools / General Learning",
-      "title": "JSTOR & Artstor - Open and free content",
-      "info": "How to find the millions of journal articles, ebooks, images, and other media available on JSTOR and Artstor as Open Access or free to everyone.",
-      "link": "https://about.jstor.org/oa-and-free/"
-    },
-    {
-      "category": "Tools / Books",
-      "title": "LibraryThing",
-      "info": "Enter what you're reading or your whole library. It's an easy, library-quality catalog.",
-      "link": "https://www.librarything.com/"
-    },
-    {
-      "category": "Tools / General Learning",
-      "title": "Library of Congress Catalog",
-      "info": "Find material the Library's collections of books, periodicals, manuscripts, maps, music, recordings, images, and electronic resources. Search by keyword or browse for authors/creators, subjects, names/titles, uniform titles, and call numbers.",
-      "link": "https://catalog.loc.gov/"
-    },
-    {
-      "category": "Tools / Books",
-      "title": "mdBook",
-      "info": "Create book from markdown files. Like Gitbook but implemented in Rust.",
-      "link": "https://github.com/rust-lang/mdBook"
-    },
-    {
-      "category": "Tools / Productivity",
-      "title": "Tailscale",
-      "info": "Tailscale creates a virtual network, based on WireGuard, to connect your devices and services directly, no proxies needed.",
-      "link": "https://tailscale.com/"
-    },
-    {
-      "category": "Tools / Internet",
-      "title": "22120",
-      "info": "Self-host the Internet with an Offline Archive.",
-      "link": "https://github.com/dosyago/22120"
-    },
-    {
-      "category": "Tools / General Learning",
-      "title": "LibraryBox",
-      "info": "The LibraryBox Project Website.",
-      "link": "http://jasongriffey.net/librarybox/index.php"
-    },
-    {
-      "category": "Tools / Composition",
-      "title": "Write.md",
-      "info": "Sharable, distraction-free Markdown Editor.",
-      "link": "https://writemd.xyz/"
-    },
-    {
-      "category": "Tools / Time",
-      "title": "Time Cop",
-      "info": "A time tracking app that respects your privacy and gets the job done without getting too fancy.",
-      "link": "https://timecop.app/en/"
-    },
-    {
-      "category": "Tools / Health & Fitness",
-      "title": "grocy",
-      "info": "A web-based self-hosted groceries & household management solution for your home.",
-      "link": "https://grocy.info/"
-    },
-    {
-      "category": "Tools / Unsorted",
-      "title": "Senate Stock Watcher",
-      "info": "See the stock trades US Senators are making as they are reported.",
-      "link": "https://senatestockwatcher.com/"
-    },
-    {
-      "category": "Tools / Productivity",
-      "title": "Spaced Time",
-      "info": "Using the spaced time repetition technique, you can permemantly store information in your brain, instead of the cloud.",
-      "link": "https://www.spacedtime.com/"
-    },
-    {
-      "category": "Tools / Data Storage",
-      "title": "orbit-db",
-      "info": "Peer-to-Peer Databases for the Decentralized Web.",
-      "link": "https://github.com/orbitdb/orbit-db"
-    },
-    {
-      "category": "Tools / Productivity",
-      "title": "Workstream Home",
-      "info": "A super-fast, virtual computer you can use for anything. Get a new computer in less than 5 minutes, zero-configuration required.",
-      "link": "https://workstream.paperspace.com/"
-    },
-    {
-      "category": "Tools / Data Storage",
-      "title": "Scuttlebot",
-      "info": "An open source peer-to-peer log store used as a database, identity provider, and messaging system. It features global replication, file-syncronization, and end-to-end encryption.",
-      "link": "http://scuttlebot.io/"
-    },
-    {
-      "category": "Tools / Unsorted",
-      "title": "Wikipedia Analysis Tool",
-      "info": "Navigate edits to the English Wikipedia made by IPs belonging to known organizations.",
-      "link": "https://wikiwho.ailef.tech/"
-    }
-  ],
-  "quotes": [
-    {
-      "category": "Quotes / People",
-      "author": "Bertrand Russell",
-      "link": "https://en.wikiquote.org/wiki/Bertrand_Russell",
-      "quote": "One of the painful things about our time is that those who feel certainty are stupid, and those with any imagination and understanding are filled with doubt and indecision."
-    }
-  ]
+  "tools": [],
+  "quotes": []
 }
