@@ -4,260 +4,152 @@
   "description": "Lists of some of the best information, media, tools, and wisdom which can help to inform, empower, and act as catalysts for positive change in this perilous yet promising time.",
   "language": "en-US",
   "copyright": "Copyright © 2020 Matthew McCutcheon. All rights reserved",
-  "date": "4/29/2020, 10:45:47 AM",
-  "id": "gmcszDEs9EVjbEux918a8",
+  "date": "5/4/2020, 5:25:33 PM",
+  "id": "dNqdPT5H_fMopmkrIGUwU",
   "articles": [
     {
-      "category": "Voting / General",
-      "title": "Supreme Court Rules Georgia Can't Put the Law Behind a Paywall",
-      "source": "Ars Technica",
-      "date": "Apr 27 2020",
-      "description": "The state of Georgia licensed the official copy of state law to LexisNexis.",
+      "title": "China Thinks Backlash to Its Coronavirus Response Could Lead to All-Out War With the U.S.",
+      "source": "Vice",
+      "date": "May 04 2020",
+      "description": "A State Security report warned that anti-China sentiment, led by the U.S., has not been this high since the 1989 Tiananmen Square crackdown.",
       "wikiextract": "",
-      "link": "https://arstechnica.com/tech-policy/2020/04/supreme-court-rules-georgia-cant-put-the-law-behind-a-paywall/"
+      "link": "https://www.vice.com/en_us/article/wxeww4/china-thinks-backlash-to-its-coronavirus-response-could-lead-to-all-out-war-with-the-us"
     },
     {
-      "category": "Technology / Other",
-      "title": "Navy Releases Three Videos That Showcase 'Unidentified' Objects",
-      "source": "Ars Technica",
-      "date": "Apr 27 2020",
-      "description": "'DOD is releasing the videos in order to clear up any misconceptions by the public.'",
-      "wikiextract": "",
-      "link": "https://arstechnica.com/science/2020/04/navy-releases-three-videos-that-showcase-unidentified-objects/"
-    },
-    {
-      "category": "Sustainability / Problems / Other",
-      "title": "'Insect Apocalypse' More Complex Than Thought",
-      "source": "BBC News",
-      "date": "Apr 23 2020",
-      "description": "The health of insect populations globally is far more varied than previous research suggested.",
-      "wikiextract": "",
-      "link": "https://www.bbc.com/news/science-environment-52399373"
-    },
-    {
-      "category": "Sustainability / Problems / Other",
-      "title": "Insect Numbers Down 25% Since 1990, Global Study Finds",
-      "source": "The Guardian",
-      "date": "Apr 23 2020",
-      "description": "Scientists say insects are vital and the losses worrying, with accelerating declines in Europe called 'shocking'",
-      "wikiextract": "",
-      "link": "https://www.theguardian.com/environment/2020/apr/23/insect-numbers-down-25-since-1990-global-study-finds"
-    },
-    {
-      "category": "Opposition / Government / Medical-Industrial Complex",
-      "title": "Medical Staffing Companies Cut Doctors' Pay While Spending Millions on Political Ads",
-      "source": "ProPublica",
-      "date": "Apr 20 2020",
-      "description": "While cutting benefits for emergency room doctors and other medical workers, TeamHealth and Envision have spent millions on ads meant to pressure politicians working on legislation to cap out-of-network costs for Americans.",
-      "wikiextract": "",
-      "link": "https://www.propublica.org/article/medical-staffing-companies-cut-doctors-pay-while-spending-millions-on-political-ads"
-    },
-    {
-      "category": "Opposition / Money",
-      "title": "'Heads We Win, Tails You Lose': How America's Rich Have Turned Pandemic Into Profit",
-      "source": "The Guardian",
-      "date": "Apr 26 2020",
-      "description": "As 26 million Americans lose their jobs, the billionaire class has added $308bn to its wealth",
-      "wikiextract": "",
-      "link": "https://www.theguardian.com/world/2020/apr/26/heads-we-win-tails-you-lose-how-americas-rich-have-turned-pandemic-into-profit"
-    },
-    {
-      "category": "Opposition / Government / Medical-Industrial Complex",
-      "title": "Drugmaker Jaguar Health Triples Price of Antidiarrheal Pill as It Pursues Coronavirus Use",
-      "source": "Axios",
-      "date": "Apr 23 2020",
-      "description": "Jaguar Health is in financial trouble and turned to a massive price hike.",
-      "wikiextract": "",
-      "link": "https://www.axios.com/pharma-jaguar-health-mytesi-drug-price-coronavirus-8ea874b1-9e75-47cf-ba47-475ef7d58e3b.html"
-    },
-    {
-      "category": "Opposition / Other",
-      "title": "Many Supposedly Grassroots Reopen Sites Are Tied to One Pro-Gun Lobbyist",
-      "source": "Ars Technica",
-      "date": "Apr 24 2020",
-      "description": "Sites protesting the COVID-19 lockdown are an astroturf campaign, researchers say.",
-      "wikiextract": "",
-      "link": "https://arstechnica.com/information-technology/2020/04/many-supposedly-grass-roots-reopen-sites-are-tied-to-one-pro-gun-lobbyist/"
-    },
-    {
-      "category": "Opposition / Other",
-      "title": "Over 100 Militant Groups Have Been Promoting Second Civil War on Facebook",
-      "source": "Gizmodo",
-      "date": "Apr 24 2020",
-      "description": "God help us if Mark Zuckerberg's next congressional hearing is on the subject of the Bloody Insurrection of 2020. As HuffPost first reported, a scourge of far-right extremist accounts on Facebook appear to be gearing up for a meme-inspired civil war amid the covid-19 outbreak.",
-      "wikiextract": "",
-      "link": "https://gizmodo.com/report-over-100-militant-groups-have-been-promoting-se-1843051231"
-    },
-    {
-      "category": "Opposition / Health",
-      "title": "Coronavirus Death Toll Has Now Surpassed 50,000 in the U.S.",
-      "source": "Gizmodo",
-      "date": "Apr 24 2020",
-      "description": "The number of deaths being attributed to the novel coronavirus has now exceeded 50,000, according to data maintained by Johns Hopkins University.",
-      "wikiextract": "",
-      "link": "https://gizmodo.com/coronavirus-death-toll-has-now-surpassed-50-000-in-the-1843051973"
-    },
-    {
-      "category": "Opposition / Health",
-      "title": "Trump Corrects Conservatives: I Did Suggest Injecting Disinfectant but Only as a Hilarious Joke",
-      "source": "Gizmodo",
-      "date": "Apr 24 2020",
-      "description": "Conservatives would have you believe that the president didn't suggest injecting disinfectant as a potential coronavirus cure on Thursday. But Trump himself now says he did—apparently 'sarcastically' as part of a private, convoluted prank.",
-      "wikiextract": "",
-      "link": "https://gizmodo.com/trump-corrects-conservatives-i-did-suggest-injecting-d-1843046860"
-    },
-    {
-      "category": "Opposition / Other",
-      "title": "'Murder Threats' to Telecoms Engineers Over 5G",
-      "source": "BBC News",
-      "date": "Apr 23 2020",
-      "description": "Key workers reveal the abuse they've received while working on the UK's communications networks.",
-      "wikiextract": "",
-      "link": "https://www.bbc.com/news/newsbeat-52395771"
-    },
-    {
-      "category": "Opposition / Government / Prison-Industrial Complex",
-      "title": "In Four U.S. State Prisons, Nearly 3,300 Inmates Test Positive for Coronavirus -- 96% Without Symptoms",
-      "source": "Reuters",
-      "date": "Apr 26 2020",
-      "description": "When the first cases of the new coronavirus surfaced in Ohio's prisons, the director in charge felt like she was fighting a ghost.",
-      "wikiextract": "",
-      "link": "https://www.reuters.com/article/us-health-coronavirus-prisons-testing-in/in-four-u-s-state-prisons-nearly-3300-inmates-test-positive-for-coronavirus-96-without-symptoms-idUSKCN2270RX"
-    },
-    {
-      "category": "Opposition / Other",
-      "title": "US Blames China for Hacks Allegedly Targeting COVID-19 Research",
-      "source": "Engadget",
-      "date": "Apr 25 2020",
-      "description": "US officials are pinning a surge of hacks on a Chinese bid to steal COVID-19 treatment and vaccine research.",
-      "wikiextract": "",
-      "link": "https://www.engadget.com/us-blames-china-for-covid-19-research-hacks-171706759.html"
-    },
-    {
-      "category": "Opposition / Health",
-      "title": "US Was Warned of Threat From Anti-Vaxxers in Event of Pandemic",
-      "source": "The Guardian",
-      "date": "Apr 27 2020",
-      "description": "FBI-connected researchers suggested biggest threat in controlling outbreak was from 'those who categorically reject vaccination'",
-      "wikiextract": "",
-      "link": "https://www.theguardian.com/us-news/2020/apr/27/us-warning-pandemic-anti-vaxxers"
-    },
-    {
-      "category": "Opposition / Health",
-      "title": "Chinese Trolls Are Spreading Coronavirus Disinformation in Taiwan",
-      "source": "BuzzFeed News",
-      "date": "Mar 05 2020",
-      "description": "'Even in five years of looking at troubling disinfo every day, I'm not sure I've ever seen anything quite this malicious.'",
-      "wikiextract": "",
-      "link": "https://www.buzzfeednews.com/article/craigsilverman/chinese-trolls-coronavirus-disinformation-taiwan"
-    },
-    {
-      "category": "Opposition / Money",
-      "title": "U.S. Economy Shrinks at 4.8% Pace, Signaling Start of Recession",
-      "source": "Bloomberg",
-      "date": "Apr 29 2020",
-      "description": "The record-long U.S. economic expansion is over after almost 11 years, with what’s likely to be the deepest recession in at least eight decades now under way.",
-      "wikiextract": "",
-      "link": "https://www.bloomberg.com/news/articles/2020-04-29/u-s-economy-shrinks-at-4-8-pace-signaling-start-of-recession"
-    },
-    {
-      "category": "Opposition / Other / Data Leaks",
-      "title": "Nine Million Logs of Brits' Road Journeys Spill Onto the Internet From Password-Less Number-Plate Camera Dashboard",
-      "source": "The Register",
-      "date": "Apr 28 2020",
-      "description": "Democratising mass surveillance, one snafu at a time",
-      "wikiextract": "",
-      "link": "https://www.theregister.co.uk/2020/04/28/anpr_sheffield_council/"
-    },
-    {
-      "category": "Opposition / Other",
-      "title": "How Spies Snuck Malware Into the Google Play Store — Again and Again",
+      "title": "Which States Are Reopening, Which Remain on Lockdown, and Why",
       "source": "Wired",
-      "date": "Apr 29 2020",
-      "description": "Malicious Android apps from the so-called PhantomLance campaign targeted hundreds of users, and at least two slipped past Google's defenses.",
+      "date": "May 04 2020",
+      "description": "There's not a national plan to restart US businesses. That's led to inconsistencies among governors' orders, and some confusion among residents.",
       "wikiextract": "",
-      "link": "https://www.wired.com/story/phantomlance-google-play-malware-apt32/"
+      "link": "https://www.wired.com/story/which-states-reopening-lockdown/"
     },
     {
-      "category": "Opposition / Health",
-      "title": "Pence Comes Under Fire for Going Maskless at Mayo Clinic",
-      "source": "Associated Press",
-      "date": "Apr 28 2020",
-      "description": "MINNEAPOLIS (AP) — Vice President Mike Pence chose not to wear a face mask Tuesday during a tour of the Mayo Clinic in Rochester, Minnesota, an apparent violation of the world-renowned medical...",
-      "wikiextract": "",
-      "link": "https://apnews.com/96a451475c34ed11b3698e3dc4eff371"
-    },
-    {
-      "category": "Opposition / Health",
-      "title": "Trump Admin Threatens to Sue States That Don't Lift Pandemic Orders",
-      "source": "Ars Technica",
-      "date": "Apr 28 2020",
-      "description": "AG Barr says state orders for containing COVID-19 may violate Constitution.",
-      "wikiextract": "",
-      "link": "https://arstechnica.com/tech-policy/2020/04/trump-admin-threatens-to-sue-states-that-dont-lift-pandemic-orders/"
-    },
-    {
-      "category": "Opposition / Health",
-      "title": "More Than 1 Million People in the US Have Tested Positive for COVID-19",
-      "source": "The Verge",
-      "date": "Apr 28 2020",
-      "description": "The most of any country in the world.",
-      "wikiextract": "",
-      "link": "https://www.theverge.com/2020/4/28/21238180/coronavirus-cases-usa-1-million-covid-19-positive-tests"
-    },
-    {
-      "category": "Opposition / Health",
-      "title": "Toxic PFAS Fallout Found Near Incinerator in Upstate New York",
+      "title": "Medical Expert: Federal Jail Intentionally Destroying Medical Records and Hiding Extent of Coronavirus Behind Bars",
       "source": "The Intercept",
+      "date": "May 04 2020",
+      "description": "'Several current practices in MDC actually promote a more rapid spread of COVID-19 inside the facility.'",
+      "wikiextract": "",
+      "link": "https://theintercept.com/2020/05/01/mdc-brooklyn-jail-coronavirus-medical-records/"
+    },
+    {
+      "title": "Donald Trump's Four-Step Plan to Reopen the US Economy – and Why It Will Be Lethal",
+      "source": "The Guardian",
+      "date": "May 03 2020",
+      "description": "The president and his allies are hiding the facts and pretending 'freedom' conquers all. As a result, more Americans will die",
+      "wikiextract": "",
+      "link": "https://www.theguardian.com/commentisfree/2020/may/03/donald-trump-reopen-us-economy-lethal-robert-reich"
+    },
+    {
+      "title": "White House Blocks Fauci From Testifying to Congress on Coronavirus Response",
+      "source": "Reuters",
+      "date": "May 02 2020",
+      "description": "Top U.S. health official Anthony Fauci will not testify next week to a congressional committee examining the Trump administration's response to the coronavirus pandemic, the White House said on Friday, calling it 'counterproductive' to have individuals involved in the response testify.",
+      "wikiextract": "",
+      "link": "https://www.reuters.com/article/health-coronavirus-usa-fauci/white-house-blocks-fauci-from-testifying-to-congress-on-coronavirus-response-idUSKBN22E03O"
+    },
+    {
+      "title": "The World Is Still Producing More Oil Than It Needs. Why?",
+      "source": "Wired",
+      "date": "May 01 2020",
+      "description": "Today, petroleum producers around the world will start shutting down wells after the Covid-19 pandemic caused demand to plummet. What took them so long?",
+      "wikiextract": "",
+      "link": "https://www.wired.com/story/the-world-is-still-producing-more-oil-than-it-needs-why/"
+    },
+    {
+      "title": "Judge Orders FCC to Hand Over IP Addresses Linked to Fake Net Neutrality Comments",
+      "source": "Gizmodo",
+      "date": "May 01 2020",
+      "description": "A Manhattan federal judge has ruled the Federal Communications Commission must provide two reporters access to server logs that may provide new insight into the allegations of fraud stemming from agency's 2017 net neutrality rollback.",
+      "wikiextract": "",
+      "link": "https://gizmodo.com/judge-orders-fcc-to-hand-over-ip-addresses-linked-to-fa-1843202071"
+    },
+    {
+      "title": "Congress Is Investigating Cruise Ship Company Carnival Over COVID-19 Outbreaks",
+      "source": "The Verge",
+      "date": "May 01 2020",
+      "description": "Carnival is accused of failing to take action when it knew the risks of the novel coronavirus.",
+      "wikiextract": "",
+      "link": "https://www.theverge.com/2020/5/1/21244432/carnival-princess-cruises-congress-investigation-covid-19-coronavirus-outbreak"
+    },
+    {
+      "title": "China Warns Australia It Could Face Boycotts Over Call for an Independent Inquiry Into Coronavirus",
+      "source": "Time",
+      "date": "May 01 2020",
+      "description": "China has accused Australia of parroting the United States in its call for an inquiry independent of the WHO to determine the origins of COVID-19.",
+      "wikiextract": "",
+      "link": "https://time.com/5830675/china-australia-coronavirus-inquiry/"
+    },
+    {
+      "title": "Jobs Collapse Is Deeper Than the Government Says",
+      "source": "Bloomberg",
+      "date": "Apr 30 2020",
+      "description": "Economists' workforce surveys are more current than the government's. And more terrifying.",
+      "wikiextract": "",
+      "link": "https://www.bloomberg.com/opinion/articles/2020-04-30/jobs-collapse-is-deeper-than-the-government-says"
+    },
+    {
+      "title": "People With Guns (And No Masks) Swarmed the Michigan State Capitol to Protest the Coronavirus Lockdown",
+      "source": "Vice",
+      "date": "Apr 30 2020",
+      "description": "Some state legislators, anticipating the possibility of violence, had even come to work that day wearing bulletproof vests.",
+      "wikiextract": "",
+      "link": "https://www.vice.com/en_us/article/y3makv/protestors-with-guns-and-no-masks-swarmed-the-michigan-state-capitol-to-protest-the-coronavirus-lockdown"
+    },
+    {
+      "title": "'Microplastic Hot Spots' Are Tainting Deep-Sea Ecosystems",
+      "source": "Wired",
+      "date": "Apr 30 2020",
+      "description": "Scientists found 2 million microplastic particles in a square meter of sediment, as currents drag debris into seafloor versions of the Great Pacific Garbage Patch.",
+      "wikiextract": "",
+      "link": "https://www.wired.com/story/microplastic-hotspots/"
+    },
+    {
+      "title": "Pence Threatened to Punish the Reporter Who Proved His Office Ignored the Rule That He Needed a Mask to Visit the Mayo Clinic",
+      "source": "Business Insider",
+      "date": "Apr 30 2020",
+      "description": "Steve Herman undermined Pence's wife's claim that the vice president didn't know he was supposed to wear a mask during the much-criticized visit.",
+      "wikiextract": "",
+      "link": "https://www.businessinsider.com/pence-threatened-reporter-proved-knew-mayo-clinic-mask-rule-2020-5"
+    },
+    {
+      "title": "It Could Take Decades for the Ocean Floor to Recover From Deep Sea Mining",
+      "source": "Gizmodo",
       "date": "Apr 29 2020",
-      "description": "PFAS contamination was found in soil and water near an incinerator in New York state that has been burning firefighting foam for the Department of Defense.",
+      "description": "A new study has found that the impacts of deep sea mining are still felt a quarter of a century later.",
       "wikiextract": "",
-      "link": "https://theintercept.com/2020/04/28/toxic-pfas-afff-upstate-new-york/"
+      "link": "https://earther.gizmodo.com/it-could-take-decades-for-the-ocean-floor-to-recover-fr-1843162892"
     },
     {
-      "category": "Opposition / Other",
-      "title": "Chinese Internet Users Who Uploaded Coronavirus Memories to GitHub Have Been Arrested",
-      "source": "Quartz",
-      "date": "Apr 27 2020",
-      "description": "Some people had been using GitHub, which remains accessible in China, to preserve articles and accounts of the pandemic before they get scrubbed by censors.",
+      "title": "Stocks Are Recovering While the Economy Collapses. That Makes More Sense Than You'd Think.",
+      "source": "Time",
+      "date": "Apr 29 2020",
+      "description": "While the economy is contracting, the market is soaring. If you look closely at what's up and down, it actually makes sense--for now.",
       "wikiextract": "",
-      "link": "https://qz.com/1846277/china-arrests-users-behind-github-coronavirus-memories-page/"
+      "link": "https://time.com/5828898/stocks-recovering-economy-collapses-makes-sense/"
     },
     {
-      "category": "Opposition / Other",
-      "title": "Overseas Censorship of Chinese Issues",
-      "source": "Wikipedia",
-      "date": "",
-      "description": "",
-      "wikiextract": "Overseas censorship of Chinese issues refers to censorship outside the People's Republic of China of topics considered sensitive by the ruling Communist Party of China. Censored topics include the political status of Taiwan, human rights in Tibet, Xinjiang re-education camps and the persecution of Uyghurs, the Tiananmen Square Massacre, the 2019–20 Hong Kong protests, and human rights in China in general. With limited pushback by foreign governments and corporations, these issues have led to growing concern about self-censorship, compelled speech and a chilling effect on free speech in other countries.",
-      "link": "https://en.wikipedia.org/wiki/Overseas_censorship_of_Chinese_issues"
+      "title": "Google Play Has Been Spreading Advanced Android Malware for Years",
+      "source": "Ars Technica",
+      "date": "Apr 29 2020",
+      "description": "Advanced hacker group seeded market with at least 8 apps likely since 2016.",
+      "wikiextract": "",
+      "link": "https://arstechnica.com/information-technology/2020/04/sophisticated-android-backdoors-have-been-populating-google-play-for-years/"
     },
     {
-      "category": "Opposition / Philosophy & Psychology & Sociology",
-      "title": "Self-Censorship",
-      "source": "Wikipedia",
-      "date": "",
-      "description": "",
-      "wikiextract": "Self-censorship is the act of censoring or classifying one's own discourse. This is done out of fear of, or deference to, the sensibilities or preferences (actual or perceived) of others and without overt pressure from any specific party or institution of authority.",
-      "link": "https://en.wikipedia.org/wiki/Self-censorship"
+      "title": "The Pandemic Is Accelerating Coal's Demise",
+      "source": "Bloomberg",
+      "date": "Apr 28 2020",
+      "description": "Electricity in Europe, India, China, and parts of the U.S. is less and less reliant on coal.",
+      "wikiextract": "",
+      "link": "https://www.bloomberg.com/news/articles/2020-04-28/the-coronavirus-pandemic-is-accelerating-coal-s-demise"
     },
     {
-      "category": "Opposition / Philosophy & Psychology & Sociology",
-      "title": "Compelled Speech",
-      "source": "Wikipedia",
-      "date": "",
-      "description": "",
-      "wikiextract": "Compelled speech is a transmission of expression required by law. A related legal concept is protected speech.  Just as freedom of speech protects free expression, in many cases it similarly protects an individual from being required to utter or otherwise express a thought with which they disagree.",
-      "link": "https://en.wikipedia.org/wiki/Compelled_speech"
-    },
-    {
-      "category": "Opposition / Philosophy & Psychology & Sociology",
-      "title": "Chilling Effect",
-      "source": "Wikipedia",
-      "date": "",
-      "description": "",
-      "wikiextract": "In a legal context, a chilling effect is the inhibition or discouragement of the legitimate exercise of natural and legal rights by the threat of legal sanction. The right that is most often described as being suppressed by a chilling effect is the US constitutional right to free speech. A chilling effect may be caused by legal actions such as the passing of a law, the decision of a court, or the threat of a lawsuit; any legal action that would cause people to hesitate to exercise a legitimate right (freedom of speech or otherwise) for fear of legal repercussions.",
-      "link": "https://en.wikipedia.org/wiki/Chilling_effect"
+      "title": "Inside the Race to Build the Best Quantum Computer on Earth",
+      "source": "MIT Technology Review",
+      "date": "Feb 26 2020",
+      "description": "Google's most advanced computer isn't at the company's headquarters in Mountain View, California, nor anywhere in the febrile sprawl of Silicon Valley. It's a few hours' drive south in Santa Barbara, in a flat, soulless office park inhabited mostly by technology firms you've never heard of. An open-…",
+      "wikiextract": "",
+      "link": "https://www.technologyreview.com/2020/02/26/916744/quantum-computer-race-ibm-google/"
     }
   ]
 }
