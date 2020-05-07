@@ -4,9 +4,161 @@
   "description": "Lists of some of the best information, media, tools, and wisdom which can help to inform, empower, and act as catalysts for positive change in this perilous yet promising time.",
   "language": "en-US",
   "copyright": "Copyright © 2020 Matthew McCutcheon. All rights reserved",
-  "date": "5/4/2020, 5:25:33 PM",
-  "id": "dNqdPT5H_fMopmkrIGUwU",
+  "date": "5/7/2020, 2:22:30 PM",
+  "id": "2gHZF6kz-miGlJaHdlwJI",
   "articles": [
+    {
+      "title": "Whistleblower Details How HHS Officials Refused to Secure N95 Masks as Pandemic Loomed",
+      "source": "The Intercept",
+      "date": "May 07 2020",
+      "description": "The report from Richard Bright reveals a new villain in the tragic saga of the administration's mismanagement of the coronavirus crisis: Robert Kadlec.",
+      "wikiextract": "",
+      "link": "https://theintercept.com/2020/05/07/coronavirus-whistleblower-hhs-n95-ppe/"
+    },
+    {
+      "title": "Farmers Are Destroying Mountains of Food. Here's What to Do About It",
+      "source": "The Guardian",
+      "date": "May 07 2020",
+      "description": "The Covid-19 pandemic has revealed the cracks in a corporate-focused system supported by polices that favor profits at any cost",
+      "wikiextract": "",
+      "link": "https://www.theguardian.com/commentisfree/2020/may/07/farmers-food-covid-19"
+    },
+    {
+      "title": "Prisons Will Worsen Coronavirus Crisis in Rural America",
+      "source": "The Intercept",
+      "date": "May 07 2020",
+      "description": "The prison economy has been a lifeline for rural communities for decades, but that lifeline has transformed into a vector for coronavirus.",
+      "wikiextract": "",
+      "link": "https://theintercept.com/2020/05/07/coronavirus-america-rural-prisons/"
+    },
+    {
+      "title": "We've Known How to Make Healthier Buildings for Decades",
+      "source": "The Verge",
+      "date": "May 07 2020",
+      "description": "During the pandemic, people are now demanding them.",
+      "wikiextract": "",
+      "link": "https://www.theverge.com/2020/5/7/21249496/building-ventilation-design-health-humidity-cost"
+    },
+    {
+      "title": "Nearly 20,000 Teens in Georgia Have Received Their Driver's Licenses Without a Road Test",
+      "source": "CNN",
+      "date": "May 06 2020",
+      "description": "Georgia isn't the only state that is waiving road tests. Wisconsin announced this week that it will start doing the same for 16- and 17-year-olds, starting Monday.",
+      "wikiextract": "",
+      "link": "https://www.cnn.com/2020/05/06/us/driver-license-road-test-wisconsin-georgia-trnd/index.html"
+    },
+    {
+      "title": "Here Are the Companies Getting Rich From the Coronavirus Pandemic",
+      "source": "Vice",
+      "date": "May 06 2020",
+      "description": "Scott Disick, of 'Keeping Up With the Kardashians' fame, pushed out a line of T-shirts and hoodies emblazoned with the timely message 'Wash Your Hands.'",
+      "wikiextract": "",
+      "link": "https://www.vice.com/en_us/article/akzw7p/here-are-the-companies-getting-rich-from-the-coronavirus-pandemic"
+    },
+    {
+      "title": "Mass Incarceration Poses a Uniquely American Risk in the Coronavirus Pandemic",
+      "source": "The Intercept",
+      "date": "May 06 2020",
+      "description": "The virus has exposed just how deadly prisons and jails are for incarcerated people, and for society at large.",
+      "wikiextract": "",
+      "link": "https://theintercept.com/2020/05/06/coronavirus-prison-jail-mass-incarceration/"
+    },
+    {
+      "title": "U.S. Companies Cut Thousands of Workers While Continuing to Reward Shareholders During Pandemic",
+      "source": "Washington Post",
+      "date": "May 05 2020",
+      "description": "As the pandemic squeezes big companies, executives are making decisions about who will bear the brunt of the sacrifices, and in at least some cases, workers have been the first to lose, even as shareholders continue to collect.",
+      "wikiextract": "",
+      "link": "https://www.washingtonpost.com/business/2020/05/05/dividends-layoffs-coronavirus/"
+    },
+    {
+      "title": "Speaker Pelosi Supports Push for Taxpayer Bailout of Corporate Lobbyists",
+      "source": "The Intercept",
+      "date": "May 05 2020",
+      "description": "Trade groups have stepped up a campaign for $25 billion and PPP eligibility in the next phase of coronavirus relief.",
+      "wikiextract": "",
+      "link": "https://theintercept.com/2020/05/05/lobbyists-trade-groups-bailout/"
+    },
+    {
+      "title": "America's Renewable Energy Sources Have Produced More Electricity Than Coal Every Day for 40 Days Straight",
+      "source": "Newsweek",
+      "date": "May 05 2020",
+      "description": "The transition away from coal for electricity generation in the U.S. accelerated in 2020 due to lower gas prices, warmer weather and the economic conditions resulting from COVID-19, analysis found.",
+      "wikiextract": "",
+      "link": "https://www.newsweek.com/america-renewable-energy-electricity-generation-tops-coal-plants-april-2020-40-days-1501967"
+    },
+    {
+      "title": "An AI Can Simulate an Economy Millions of Times to Create Fairer Tax Policy",
+      "source": "MIT Technology Review",
+      "date": "May 05 2020",
+      "description": "Deep reinforcement learning has trained AIs to beat humans at complex games like Go and StarCraft. Could it also do a better job at running the economy?",
+      "wikiextract": "",
+      "link": "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/"
+    },
+    {
+      "title": "U.K. Reports Highest Coronavirus Death Toll in Europe",
+      "source": "Axios",
+      "date": "May 05 2020",
+      "description": "It surpassed Italy.",
+      "wikiextract": "",
+      "link": "https://www.axios.com/coronavirus-united-kingdom-most-deaths-europe-50220ebe-12df-487b-bb9d-699eb03c4c50.html"
+    },
+    {
+      "title": "Jared Kushner's Shadow Coronavirus Task Force Used a Spreadsheet Called 'VIP Update' to Procure PPE From Inexperienced Trump Allies Over Legitimate Vendors",
+      "source": "Business Insider",
+      "date": "May 05 2020",
+      "description": "In theory, the group was supposed to find the most promising leads on protective gear and funnel them to FEMA. Instead, it prioritized Trump allies.",
+      "wikiextract": "",
+      "link": "https://www.businessinsider.com/jared-kushner-coronavirus-task-force-prioritized-ppe-trump-associates-nyt-2020-5"
+    },
+    {
+      "title": "US Projects 200,000 New COVID-19 Cases per Day, 3,000 Daily Deaths by June",
+      "source": "Ars Technica",
+      "date": "May 04 2020",
+      "description": "Leaked gov't document predicts rise in deaths as Trump aims to 'open up America.'",
+      "wikiextract": "",
+      "link": "https://arstechnica.com/science/2020/05/us-projects-200000-new-covid-19-cases-per-day-3000-daily-deaths-by-june/"
+    },
+    {
+      "title": "Three Russian Doctors 'Fall' From Hospital Windows, Raising Questions Amid Coronavirus Pandemic",
+      "source": "CNN",
+      "date": "May 04 2020",
+      "description": "Three frontline health care workers have mysteriously fallen out of hospital windows in Russia over the past two weeks, heightening public attention to the working conditions for doctors and medical professionals amid the coronavirus pandemic.",
+      "wikiextract": "",
+      "link": "https://www.cnn.com/2020/05/04/europe/russia-medical-workers-windows-intl/index.html"
+    },
+    {
+      "title": "The World Came Together for a Virtual Vaccine Summit. The U.S. Was Conspicuously Absent.",
+      "source": "Washington Post",
+      "date": "May 04 2020",
+      "description": "International donors are on track to raise $8.2 billion to mass-produce drugs, vaccines and testing kits. The Trump administration says the U.S. remains the world's largest health and humanitarian donor.",
+      "wikiextract": "",
+      "link": "https://www.washingtonpost.com/world/europe/the-world-comes-together-for-a-virtual-vaccine-summit-the-us-is-conspicuously-absent/2020/05/04/ac5b6754-8a5c-11ea-80df-d24b35a568ae_story.html"
+    },
+    {
+      "title": "How Many Jobs Do Robots Really Replace?",
+      "source": "MIT News",
+      "date": "May 03 2020",
+      "description": "MIT economist Daron Acemoglu's new research puts a number on the job costs of automation.",
+      "wikiextract": "",
+      "link": "http://news.mit.edu/2020/how-many-jobs-robots-replace-0504"
+    },
+    {
+      "title": "Hostile States Trying to Steal Coronavirus Research, Says UK Agency",
+      "source": "The Guardian",
+      "date": "May 03 2020",
+      "description": "Experts say Russia, Iran and China likely to be behind cyber-attacks on universities",
+      "wikiextract": "",
+      "link": "https://www.theguardian.com/world/2020/may/03/hostile-states-trying-to-steal-coronavirus-research-says-uk-agency"
+    },
+    {
+      "title": "US Store Guard Killed After Mask Row With Customer",
+      "source": "BBC News",
+      "date": "May 02 2020",
+      "description": "A Michigan store guard is shot in the back of the head after confronting a customer who had no mask.",
+      "wikiextract": "",
+      "link": "https://www.bbc.com/news/world-us-canada-52540266"
+    },
     {
       "title": "China Thinks Backlash to Its Coronavirus Response Could Lead to All-Out War With the U.S.",
       "source": "Vice",
