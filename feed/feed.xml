@@ -1,271 +1,455 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss>
-  <channel>
-    <title>cata-list</title>
-    <link>https://cata-list.github.io/</link>
-    <id>2gHZF6kz-miGlJaHdlwJI</id>
-    <description>Lists of some of the best information, media, tools, and wisdom which can help to inform, empower, and act as catalysts for positive change in this perilous yet promising time.</description>
-    <lastBuildDate>Thu May 07 2020 14:22:30 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
-    <language>en-US</language>
-    <copyright>Copyright © 2020 Matthew McCutcheon. All rights reserved</copyright>
-    <item>
-      <title>Whistleblower Details How HHS Officials Refused to Secure N95 Masks as Pandemic Loomed</title>
-      <source>The Intercept</source>
-      <pubDate>May 07 2020</pubDate>
-      <description><![CDATA[The report from Richard Bright reveals a new villain in the tragic saga of the administration's mismanagement of the coronavirus crisis: Robert Kadlec.]]></description>
-      <link>https://theintercept.com/2020/05/07/coronavirus-whistleblower-hhs-n95-ppe/</link>
-    </item>
-    <item>
-      <title>Farmers Are Destroying Mountains of Food. Here's What to Do About It</title>
-      <source>The Guardian</source>
-      <pubDate>May 07 2020</pubDate>
-      <description><![CDATA[The Covid-19 pandemic has revealed the cracks in a corporate-focused system supported by polices that favor profits at any cost]]></description>
-      <link>https://www.theguardian.com/commentisfree/2020/may/07/farmers-food-covid-19</link>
-    </item>
-    <item>
-      <title>Prisons Will Worsen Coronavirus Crisis in Rural America</title>
-      <source>The Intercept</source>
-      <pubDate>May 07 2020</pubDate>
-      <description><![CDATA[The prison economy has been a lifeline for rural communities for decades, but that lifeline has transformed into a vector for coronavirus.]]></description>
-      <link>https://theintercept.com/2020/05/07/coronavirus-america-rural-prisons/</link>
-    </item>
-    <item>
-      <title>We've Known How to Make Healthier Buildings for Decades</title>
-      <source>The Verge</source>
-      <pubDate>May 07 2020</pubDate>
-      <description><![CDATA[During the pandemic, people are now demanding them.]]></description>
-      <link>https://www.theverge.com/2020/5/7/21249496/building-ventilation-design-health-humidity-cost</link>
-    </item>
-    <item>
-      <title>Nearly 20,000 Teens in Georgia Have Received Their Driver's Licenses Without a Road Test</title>
-      <source>CNN</source>
-      <pubDate>May 06 2020</pubDate>
-      <description><![CDATA[Georgia isn't the only state that is waiving road tests. Wisconsin announced this week that it will start doing the same for 16- and 17-year-olds, starting Monday.]]></description>
-      <link>https://www.cnn.com/2020/05/06/us/driver-license-road-test-wisconsin-georgia-trnd/index.html</link>
-    </item>
-    <item>
-      <title>Here Are the Companies Getting Rich From the Coronavirus Pandemic</title>
-      <source>Vice</source>
-      <pubDate>May 06 2020</pubDate>
-      <description><![CDATA[Scott Disick, of 'Keeping Up With the Kardashians' fame, pushed out a line of T-shirts and hoodies emblazoned with the timely message 'Wash Your Hands.']]></description>
-      <link>https://www.vice.com/en_us/article/akzw7p/here-are-the-companies-getting-rich-from-the-coronavirus-pandemic</link>
-    </item>
-    <item>
-      <title>Mass Incarceration Poses a Uniquely American Risk in the Coronavirus Pandemic</title>
-      <source>The Intercept</source>
-      <pubDate>May 06 2020</pubDate>
-      <description><![CDATA[The virus has exposed just how deadly prisons and jails are for incarcerated people, and for society at large.]]></description>
-      <link>https://theintercept.com/2020/05/06/coronavirus-prison-jail-mass-incarceration/</link>
-    </item>
-    <item>
-      <title>U.S. Companies Cut Thousands of Workers While Continuing to Reward Shareholders During Pandemic</title>
-      <source>Washington Post</source>
-      <pubDate>May 05 2020</pubDate>
-      <description><![CDATA[As the pandemic squeezes big companies, executives are making decisions about who will bear the brunt of the sacrifices, and in at least some cases, workers have been the first to lose, even as shareholders continue to collect.]]></description>
-      <link>https://www.washingtonpost.com/business/2020/05/05/dividends-layoffs-coronavirus/</link>
-    </item>
-    <item>
-      <title>Speaker Pelosi Supports Push for Taxpayer Bailout of Corporate Lobbyists</title>
-      <source>The Intercept</source>
-      <pubDate>May 05 2020</pubDate>
-      <description><![CDATA[Trade groups have stepped up a campaign for $25 billion and PPP eligibility in the next phase of coronavirus relief.]]></description>
-      <link>https://theintercept.com/2020/05/05/lobbyists-trade-groups-bailout/</link>
-    </item>
-    <item>
-      <title>America's Renewable Energy Sources Have Produced More Electricity Than Coal Every Day for 40 Days Straight</title>
-      <source>Newsweek</source>
-      <pubDate>May 05 2020</pubDate>
-      <description><![CDATA[The transition away from coal for electricity generation in the U.S. accelerated in 2020 due to lower gas prices, warmer weather and the economic conditions resulting from COVID-19, analysis found.]]></description>
-      <link>https://www.newsweek.com/america-renewable-energy-electricity-generation-tops-coal-plants-april-2020-40-days-1501967</link>
-    </item>
-    <item>
-      <title>An AI Can Simulate an Economy Millions of Times to Create Fairer Tax Policy</title>
-      <source>MIT Technology Review</source>
-      <pubDate>May 05 2020</pubDate>
-      <description><![CDATA[Deep reinforcement learning has trained AIs to beat humans at complex games like Go and StarCraft. Could it also do a better job at running the economy?]]></description>
-      <link>https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/</link>
-    </item>
-    <item>
-      <title>U.K. Reports Highest Coronavirus Death Toll in Europe</title>
-      <source>Axios</source>
-      <pubDate>May 05 2020</pubDate>
-      <description><![CDATA[It surpassed Italy.]]></description>
-      <link>https://www.axios.com/coronavirus-united-kingdom-most-deaths-europe-50220ebe-12df-487b-bb9d-699eb03c4c50.html</link>
-    </item>
-    <item>
-      <title>Jared Kushner's Shadow Coronavirus Task Force Used a Spreadsheet Called 'VIP Update' to Procure PPE From Inexperienced Trump Allies Over Legitimate Vendors</title>
-      <source>Business Insider</source>
-      <pubDate>May 05 2020</pubDate>
-      <description><![CDATA[In theory, the group was supposed to find the most promising leads on protective gear and funnel them to FEMA. Instead, it prioritized Trump allies.]]></description>
-      <link>https://www.businessinsider.com/jared-kushner-coronavirus-task-force-prioritized-ppe-trump-associates-nyt-2020-5</link>
-    </item>
-    <item>
-      <title>US Projects 200,000 New COVID-19 Cases per Day, 3,000 Daily Deaths by June</title>
-      <source>Ars Technica</source>
-      <pubDate>May 04 2020</pubDate>
-      <description><![CDATA[Leaked gov't document predicts rise in deaths as Trump aims to 'open up America.']]></description>
-      <link>https://arstechnica.com/science/2020/05/us-projects-200000-new-covid-19-cases-per-day-3000-daily-deaths-by-june/</link>
-    </item>
-    <item>
-      <title>Three Russian Doctors 'Fall' From Hospital Windows, Raising Questions Amid Coronavirus Pandemic</title>
-      <source>CNN</source>
-      <pubDate>May 04 2020</pubDate>
-      <description><![CDATA[Three frontline health care workers have mysteriously fallen out of hospital windows in Russia over the past two weeks, heightening public attention to the working conditions for doctors and medical professionals amid the coronavirus pandemic.]]></description>
-      <link>https://www.cnn.com/2020/05/04/europe/russia-medical-workers-windows-intl/index.html</link>
-    </item>
-    <item>
-      <title>The World Came Together for a Virtual Vaccine Summit. The U.S. Was Conspicuously Absent.</title>
-      <source>Washington Post</source>
-      <pubDate>May 04 2020</pubDate>
-      <description><![CDATA[International donors are on track to raise $8.2 billion to mass-produce drugs, vaccines and testing kits. The Trump administration says the U.S. remains the world's largest health and humanitarian donor.]]></description>
-      <link>https://www.washingtonpost.com/world/europe/the-world-comes-together-for-a-virtual-vaccine-summit-the-us-is-conspicuously-absent/2020/05/04/ac5b6754-8a5c-11ea-80df-d24b35a568ae_story.html</link>
-    </item>
-    <item>
-      <title>How Many Jobs Do Robots Really Replace?</title>
-      <source>MIT News</source>
-      <pubDate>May 03 2020</pubDate>
-      <description><![CDATA[MIT economist Daron Acemoglu's new research puts a number on the job costs of automation.]]></description>
-      <link>http://news.mit.edu/2020/how-many-jobs-robots-replace-0504</link>
-    </item>
-    <item>
-      <title>Hostile States Trying to Steal Coronavirus Research, Says UK Agency</title>
-      <source>The Guardian</source>
-      <pubDate>May 03 2020</pubDate>
-      <description><![CDATA[Experts say Russia, Iran and China likely to be behind cyber-attacks on universities]]></description>
-      <link>https://www.theguardian.com/world/2020/may/03/hostile-states-trying-to-steal-coronavirus-research-says-uk-agency</link>
-    </item>
-    <item>
-      <title>US Store Guard Killed After Mask Row With Customer</title>
-      <source>BBC News</source>
-      <pubDate>May 02 2020</pubDate>
-      <description><![CDATA[A Michigan store guard is shot in the back of the head after confronting a customer who had no mask.]]></description>
-      <link>https://www.bbc.com/news/world-us-canada-52540266</link>
-    </item>
-    <item>
-      <title>China Thinks Backlash to Its Coronavirus Response Could Lead to All-Out War With the U.S.</title>
-      <source>Vice</source>
-      <pubDate>May 04 2020</pubDate>
-      <description><![CDATA[A State Security report warned that anti-China sentiment, led by the U.S., has not been this high since the 1989 Tiananmen Square crackdown.]]></description>
-      <link>https://www.vice.com/en_us/article/wxeww4/china-thinks-backlash-to-its-coronavirus-response-could-lead-to-all-out-war-with-the-us</link>
-    </item>
-    <item>
-      <title>Which States Are Reopening, Which Remain on Lockdown, and Why</title>
-      <source>Wired</source>
-      <pubDate>May 04 2020</pubDate>
-      <description><![CDATA[There's not a national plan to restart US businesses. That's led to inconsistencies among governors' orders, and some confusion among residents.]]></description>
-      <link>https://www.wired.com/story/which-states-reopening-lockdown/</link>
-    </item>
-    <item>
-      <title>Medical Expert: Federal Jail Intentionally Destroying Medical Records and Hiding Extent of Coronavirus Behind Bars</title>
-      <source>The Intercept</source>
-      <pubDate>May 04 2020</pubDate>
-      <description><![CDATA['Several current practices in MDC actually promote a more rapid spread of COVID-19 inside the facility.']]></description>
-      <link>https://theintercept.com/2020/05/01/mdc-brooklyn-jail-coronavirus-medical-records/</link>
-    </item>
-    <item>
-      <title>Donald Trump's Four-Step Plan to Reopen the US Economy – and Why It Will Be Lethal</title>
-      <source>The Guardian</source>
-      <pubDate>May 03 2020</pubDate>
-      <description><![CDATA[The president and his allies are hiding the facts and pretending 'freedom' conquers all. As a result, more Americans will die]]></description>
-      <link>https://www.theguardian.com/commentisfree/2020/may/03/donald-trump-reopen-us-economy-lethal-robert-reich</link>
-    </item>
-    <item>
-      <title>White House Blocks Fauci From Testifying to Congress on Coronavirus Response</title>
-      <source>Reuters</source>
-      <pubDate>May 02 2020</pubDate>
-      <description><![CDATA[Top U.S. health official Anthony Fauci will not testify next week to a congressional committee examining the Trump administration's response to the coronavirus pandemic, the White House said on Friday, calling it 'counterproductive' to have individuals involved in the response testify.]]></description>
-      <link>https://www.reuters.com/article/health-coronavirus-usa-fauci/white-house-blocks-fauci-from-testifying-to-congress-on-coronavirus-response-idUSKBN22E03O</link>
-    </item>
-    <item>
-      <title>The World Is Still Producing More Oil Than It Needs. Why?</title>
-      <source>Wired</source>
-      <pubDate>May 01 2020</pubDate>
-      <description><![CDATA[Today, petroleum producers around the world will start shutting down wells after the Covid-19 pandemic caused demand to plummet. What took them so long?]]></description>
-      <link>https://www.wired.com/story/the-world-is-still-producing-more-oil-than-it-needs-why/</link>
-    </item>
-    <item>
-      <title>Judge Orders FCC to Hand Over IP Addresses Linked to Fake Net Neutrality Comments</title>
-      <source>Gizmodo</source>
-      <pubDate>May 01 2020</pubDate>
-      <description><![CDATA[A Manhattan federal judge has ruled the Federal Communications Commission must provide two reporters access to server logs that may provide new insight into the allegations of fraud stemming from agency's 2017 net neutrality rollback.]]></description>
-      <link>https://gizmodo.com/judge-orders-fcc-to-hand-over-ip-addresses-linked-to-fa-1843202071</link>
-    </item>
-    <item>
-      <title>Congress Is Investigating Cruise Ship Company Carnival Over COVID-19 Outbreaks</title>
-      <source>The Verge</source>
-      <pubDate>May 01 2020</pubDate>
-      <description><![CDATA[Carnival is accused of failing to take action when it knew the risks of the novel coronavirus.]]></description>
-      <link>https://www.theverge.com/2020/5/1/21244432/carnival-princess-cruises-congress-investigation-covid-19-coronavirus-outbreak</link>
-    </item>
-    <item>
-      <title>China Warns Australia It Could Face Boycotts Over Call for an Independent Inquiry Into Coronavirus</title>
-      <source>Time</source>
-      <pubDate>May 01 2020</pubDate>
-      <description><![CDATA[China has accused Australia of parroting the United States in its call for an inquiry independent of the WHO to determine the origins of COVID-19.]]></description>
-      <link>https://time.com/5830675/china-australia-coronavirus-inquiry/</link>
-    </item>
-    <item>
-      <title>Jobs Collapse Is Deeper Than the Government Says</title>
-      <source>Bloomberg</source>
-      <pubDate>Apr 30 2020</pubDate>
-      <description><![CDATA[Economists' workforce surveys are more current than the government's. And more terrifying.]]></description>
-      <link>https://www.bloomberg.com/opinion/articles/2020-04-30/jobs-collapse-is-deeper-than-the-government-says</link>
-    </item>
-    <item>
-      <title>People With Guns (And No Masks) Swarmed the Michigan State Capitol to Protest the Coronavirus Lockdown</title>
-      <source>Vice</source>
-      <pubDate>Apr 30 2020</pubDate>
-      <description><![CDATA[Some state legislators, anticipating the possibility of violence, had even come to work that day wearing bulletproof vests.]]></description>
-      <link>https://www.vice.com/en_us/article/y3makv/protestors-with-guns-and-no-masks-swarmed-the-michigan-state-capitol-to-protest-the-coronavirus-lockdown</link>
-    </item>
-    <item>
-      <title>'Microplastic Hot Spots' Are Tainting Deep-Sea Ecosystems</title>
-      <source>Wired</source>
-      <pubDate>Apr 30 2020</pubDate>
-      <description><![CDATA[Scientists found 2 million microplastic particles in a square meter of sediment, as currents drag debris into seafloor versions of the Great Pacific Garbage Patch.]]></description>
-      <link>https://www.wired.com/story/microplastic-hotspots/</link>
-    </item>
-    <item>
-      <title>Pence Threatened to Punish the Reporter Who Proved His Office Ignored the Rule That He Needed a Mask to Visit the Mayo Clinic</title>
-      <source>Business Insider</source>
-      <pubDate>Apr 30 2020</pubDate>
-      <description><![CDATA[Steve Herman undermined Pence's wife's claim that the vice president didn't know he was supposed to wear a mask during the much-criticized visit.]]></description>
-      <link>https://www.businessinsider.com/pence-threatened-reporter-proved-knew-mayo-clinic-mask-rule-2020-5</link>
-    </item>
-    <item>
-      <title>It Could Take Decades for the Ocean Floor to Recover From Deep Sea Mining</title>
-      <source>Gizmodo</source>
-      <pubDate>Apr 29 2020</pubDate>
-      <description><![CDATA[A new study has found that the impacts of deep sea mining are still felt a quarter of a century later.]]></description>
-      <link>https://earther.gizmodo.com/it-could-take-decades-for-the-ocean-floor-to-recover-fr-1843162892</link>
-    </item>
-    <item>
-      <title>Stocks Are Recovering While the Economy Collapses. That Makes More Sense Than You'd Think.</title>
-      <source>Time</source>
-      <pubDate>Apr 29 2020</pubDate>
-      <description><![CDATA[While the economy is contracting, the market is soaring. If you look closely at what's up and down, it actually makes sense--for now.]]></description>
-      <link>https://time.com/5828898/stocks-recovering-economy-collapses-makes-sense/</link>
-    </item>
-    <item>
-      <title>Google Play Has Been Spreading Advanced Android Malware for Years</title>
-      <source>Ars Technica</source>
-      <pubDate>Apr 29 2020</pubDate>
-      <description><![CDATA[Advanced hacker group seeded market with at least 8 apps likely since 2016.]]></description>
-      <link>https://arstechnica.com/information-technology/2020/04/sophisticated-android-backdoors-have-been-populating-google-play-for-years/</link>
-    </item>
-    <item>
-      <title>The Pandemic Is Accelerating Coal's Demise</title>
-      <source>Bloomberg</source>
-      <pubDate>Apr 28 2020</pubDate>
-      <description><![CDATA[Electricity in Europe, India, China, and parts of the U.S. is less and less reliant on coal.]]></description>
-      <link>https://www.bloomberg.com/news/articles/2020-04-28/the-coronavirus-pandemic-is-accelerating-coal-s-demise</link>
-    </item>
-    <item>
-      <title>Inside the Race to Build the Best Quantum Computer on Earth</title>
-      <source>MIT Technology Review</source>
-      <pubDate>Feb 26 2020</pubDate>
-      <description><![CDATA[Google's most advanced computer isn't at the company's headquarters in Mountain View, California, nor anywhere in the febrile sprawl of Silicon Valley. It's a few hours' drive south in Santa Barbara, in a flat, soulless office park inhabited mostly by technology firms you've never heard of. An open-…]]></description>
-      <link>https://www.technologyreview.com/2020/02/26/916744/quantum-computer-race-ibm-google/</link>
-    </item>
-  </channel>
-</rss>
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <rss>
+    <channel>
+      <title>cata-list</title>
+      <link>https://cata-list.github.io/</link>
+      <id>k9FNV6918Ms_KgIApJbnN</id>
+      <description>Lists of some of the best information, media, tools, and wisdom which can help to inform, empower, and act as catalysts for positive change in this perilous yet promising time.</description>
+      <lastBuildDate>Thu May 14 2020 18:26:16 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+      <language>en-US</language>
+      <copyright>Copyright © 2020 Matthew McCutcheon. All rights reserved.</copyright>
+			<item>
+				<title>Senate Passes Spying Bill Without Search and Browsing History Protections</title>
+				<source>Ars Technica</source>
+				<pubDate>May 14 2020</pubDate>
+				<description><![CDATA[An amendment protecting search and browsing histories failed in a 59-37 vote.]]></description>
+				<link>https://arstechnica.com/tech-policy/2020/05/limits-on-fbi-access-to-search-histories-fails-by-one-senate-vote/</link>
+			</item>
+      <item>
+				<title>Struggling Oil Companies Are Taking Advantage of US Coronavirus Aid</title>
+				<source>The Guardian</source>
+				<pubDate>May 14 2020</pubDate>
+				<description><![CDATA[Recent review finds at least $113m in taxpayer-backed loans meant for small businesses have gone to fossil fuel industry]]></description>
+				<link>https://www.theguardian.com/business/2020/may/14/us-oil-gas-companies-coronavirus-relief-loan-ppp</link>
+			</item>
+			<item>
+				<title>In a First, Renewable Energy Is Poised to Eclipse Coal in U.S.</title>
+				<source>The New York Times</source>
+				<pubDate>May 13 2020</pubDate>
+				<description><![CDATA[The coronavirus has pushed the coal industry to once-unthinkable lows, and the consequences for climate change are big.]]></description>
+				<link>https://www.nytimes.com/2020/05/13/climate/coronavirus-coal-electricity-renewables.html</link>
+			</item>
+			<item>
+				<title>Police Shot and Killed a 26-Year-Old EMT in Her Apartment While Looking for Someone Else Entirely</title>
+				<source>Vice</source>
+				<pubDate>May 13 2020</pubDate>
+				<description><![CDATA[Breonna Taylor had no criminal record, and police found no drugs in her home.]]></description>
+				<link>https://www.vice.com/en_us/article/qj44wv/what-we-know-about-breonna-taylor-lousiville-kentucky-emt-police-shooting-death</link>
+			</item>
+			<item>
+				<title>FBI Accuses China of Attempting to Steal US COVID-19 Research</title>
+				<source>Engadget</source>
+				<pubDate>May 13 2020</pubDate>
+				<description><![CDATA[The FBI warns that China-backed hackers are attempting to steal COVID-19 research from organizations in the US.]]></description>
+				<link>https://www.engadget.com/fbi-cisa-accuse-china-covid-19-research-hacking-194610071.html</link>
+			</item>
+			<item>
+				<title>Here's Who Just Voted to Let the FBI Seize Your Online Search History Without a Warrant</title>
+				<source>Gizmodo</source>
+				<pubDate>May 13 2020</pubDate>
+				<description><![CDATA[A bipartisan amendment that would have prohibited law enforcement agencies, such as the FBI, from obtaining the web browsing and internet search histories of Americans without a warrant failed to pass in the U.S. Senate on Wednesday by a single vote.]]></description>
+				<link>https://gizmodo.com/heres-who-just-voted-to-let-the-f-b-i-seize-your-searc-1843445032</link>
+			</item>
+			<item>
+				<title>The New Alzheimer's–Air Pollution Link</title>
+				<source>Scientific American</source>
+				<pubDate>May 01 2020</pubDate>
+				<description><![CDATA[Toxic airborne particles can travel from lungs and nose to the brain, and exposure is linked to memory loss]]></description>
+				<link>https://www.scientificamerican.com/article/the-new-alzheimers-air-pollution-link/</link>
+			</item>
+			<item>
+				<title>U.S. Warns That Chinese Hackers Are Targeting Virus Research</title>
+				<source>Bloomberg</source>
+				<pubDate>May 13 2020</pubDate>
+				<description><![CDATA[Hackers working for the Chinese government are trying to steal valuable research on coronavirus vaccines and treatments from U.S. health care, pharmaceutical and research organizations, the FBI and the Department of Homeland Security warned Wednesday.]]></description>
+				<link>https://www.bloomberg.com/news/articles/2020-05-13/u-s-warns-of-chinese-hackers-targeting-virus-research-groups</link>
+			</item>
+			<item>
+				<title>Your Boss Is Watching You: Work-From-Home Boom Leads to More Surveillance</title>
+				<source>NPR</source>
+				<pubDate>May 13 2020</pubDate>
+				<description><![CDATA[With more people now working from home, employers are increasingly relying on tracking software to monitor what employees do when they're on the clock.]]></description>
+				<link>https://www.npr.org/2020/05/13/854014403/your-boss-is-watching-you-work-from-home-boom-leads-to-more-surveillance</link>
+			</item>
+			<item>
+				<title>Big Oil's Climate Plans Don't Come Close to Meeting the Paris Agreement</title>
+				<source>Gizmodo</source>
+				<pubDate>May 12 2020</pubDate>
+				<description><![CDATA[Climate action plans are all the rage for polluting companies. Last month, Shell pledged to reach net-zero carbon emissions by 2050. It's just the latest example: Other oil giants have recently made similar pledges as well. These pronouncements use pseudo-inspirational marketing speak, promising to …]]></description>
+				<link>https://earther.gizmodo.com/big-oils-climate-plans-dont-come-close-to-meeting-the-p-1843418530</link>
+			</item>
+			<item>
+				<title>COVID-19 Resurges in Reopened Countries; Wuhan Sees First Cluster in a Month</title>
+				<source>Ars Technica</source>
+				<pubDate>May 12 2020</pubDate>
+				<description><![CDATA[China ordered all Wuhan residents get tested for COVID-19—that's ~11 million people.]]></description>
+				<link>https://arstechnica.com/science/2020/05/covid-19-resurges-in-reopened-countries-wuhan-sees-first-cluster-in-a-month/</link>
+			</item>
+			<item>
+				<title>Federal Whistleblower Says Boss Pushed Him to Buy Drugs That Hadn't Been Tested in Humans</title>
+				<source>The Intercept</source>
+				<pubDate>May 12 2020</pubDate>
+				<description><![CDATA[Rick Bright's complaint points to the influence of industry over the Trump administration's coronavirus response.]]></description>
+				<link>https://theintercept.com/2020/05/12/richard-bright-barda-coronavirus-whistleblower/</link>
+			</item>
+			<item>
+				<title>That Fresh Sea Breeze You Breathe May Be Laced With Microplastic</title>
+				<source>Wired</source>
+				<pubDate>May 12 2020</pubDate>
+				<description><![CDATA[Researchers have discovered that the ocean is burping tiny plastic particles, which then blow onto land—and potentially into your lungs.]]></description>
+				<link>https://www.wired.com/story/sea-breeze-microplastic/</link>
+			</item>
+			<item>
+				<title>Online Voting Has Worked So Far. That Doesn't Mean It's Safe</title>
+				<source>Wired</source>
+				<pubDate>May 12 2020</pubDate>
+				<description><![CDATA[Proponents of mobile and internet voting point to its uneventful track record. That's not good enough.]]></description>
+				<link>https://www.wired.com/story/online-voting-worked-so-far-doesnt-mean-safe/</link>
+			</item>
+			<item>
+				<title>Large Chunks of a Chinese Rocket Missed New York City by About 15 Minutes</title>
+				<source>Ars Technica</source>
+				<pubDate>May 12 2020</pubDate>
+				<description><![CDATA[China's Long March 5B rocket launched without a second stage.]]></description>
+				<link>https://arstechnica.com/science/2020/05/large-chunks-of-a-chinese-rocket-missed-new-york-city-by-about-15-minutes/</link>
+			</item>
+			<item>
+				<title>How Much Is a Human Life Actually Worth?</title>
+				<source>Wired</source>
+				<pubDate>May 11 2020</pubDate>
+				<description><![CDATA[As the US economy reopens amid a deadly pandemic, a dire question looms. Let's weigh the risks—and do the math.]]></description>
+				<link>https://www.wired.com/story/how-much-is-human-life-worth-in-dollars/</link>
+			</item>
+			<item>
+				<title>The Bailout Is Working — for the Rich</title>
+				<source>ProPublica</source>
+				<pubDate>May 10 2020</pubDate>
+				<description><![CDATA[The economy is in free fall but Wall Street is thriving, and stocks of big private equity firms are soaring dramatically higher. That tells you who investors think is the real beneficiary of the federal government's massive rescue efforts.]]></description>
+				<link>https://www.propublica.org/article/the-bailout-is-working-for-the-rich</link>
+			</item>
+			<item>
+				<title>The Pandemic Is Bringing Back Single-Use Plastics in a Huge Way</title>
+				<source>Vice</source>
+				<pubDate>May 09 2020</pubDate>
+				<description><![CDATA[States are rolling back their plastic bag bans and restaurants are turning to single-use utensils to reopen in the face of the coronavirus pandemic.]]></description>
+				<link>https://www.vice.com/en_us/article/n7wja8/the-pandemic-is-bringing-back-single-use-plastics-in-a-huge-way</link>
+			</item>
+			<item>
+				<title>At Least $72 Million in Coronavirus Bailout Loans Went to Big Oil and Gas Companies</title>
+				<source>Vice</source>
+				<pubDate>May 08 2020</pubDate>
+				<description><![CDATA[At least 16 drillers, fuel transporters, oil technology firms and service providers tapped the Small Business Association's Paycheck Protection Program.]]></description>
+				<link>https://www.vice.com/en_us/article/v7g4w3/millions-in-small-business-coronavirus-bailout-loans-are-going-to-oil-and-gas-companies</link>
+			</item>
+			<item>
+				<title>With a Distracted Public, the Pentagon Tries to Get Away With Killing Innocent Civilians</title>
+				<source>The Intercept</source>
+				<pubDate>May 08 2020</pubDate>
+				<description><![CDATA[The Pentagon's annual report to Congress covering civilian casualties appears to be yet another case of woefully underreporting innocent deaths.]]></description>
+				<link>https://theintercept.com/2020/05/08/civilian-casualties-us-airstrikes-pentagon/</link>
+			</item>
+			<item>
+				<title>US Marshals Says Prisoners' Personal Information Taken in Data Breach</title>
+				<source>TechCrunch</source>
+				<pubDate>May 08 2020</pubDate>
+				<description><![CDATA[Current and former prisoners were notified of the breach on May 1.]]></description>
+				<link>https://techcrunch.com/2020/05/08/us-marshals-prisoner-data-breach/</link>
+			</item>
+			<item>
+				<title>U.S. Unemployment Just Hit Its Highest Level Since the Great Depression</title>
+				<source>Vice</source>
+				<pubDate>May 08 2020</pubDate>
+				<description><![CDATA[The American job market is in full-on meltdown.]]></description>
+				<link>https://www.vice.com/en_us/article/n7wjpd/us-unemployment-just-hit-its-highest-level-since-the-great-depression-15-percent-coronavirus</link>
+			</item>
+			<item>
+				<title>For Cops Who Kill, Special Supreme Court Protection</title>
+				<source>Reuters</source>
+				<pubDate>May 08 2020</pubDate>
+				<description><![CDATA[The U.S. high court's continual refinement of an obscure doctrine called qualified immunity has made it harder to hold police liable for excessive force.]]></description>
+				<link>https://www.reuters.com/investigates/special-report/usa-police-immunity-scotus/</link>
+			</item>
+			<item>
+				<title>An Oil Spill and the Coronavirus Are Creating a Crisis in Ecuador's Amazon</title>
+				<source>Gizmodo</source>
+				<pubDate>May 08 2020</pubDate>
+				<description><![CDATA[Imagine being told to shelter at home due to a global pandemic, only to have your home, drinking water, and food stores destroyed. It would be a nightmare, but that is exactly what happened for indigenous people in the Ecuadorian Amazon after a massive oil spill polluted two major rivers.]]></description>
+				<link>https://earther.gizmodo.com/an-oil-spill-and-the-coronavirus-are-creating-a-crisis-1843338899</link>
+			</item>
+			<item>
+				<title>CDC Guide to Reopening Was Trashed by the Trump Admin. It Just Leaked</title>
+				<source>Ars Technica</source>
+				<pubDate>May 07 2020</pubDate>
+				<description><![CDATA[Trump admin allegedly told CDC its reopening guide would 'never see the light of day.']]></description>
+				<link>https://arstechnica.com/science/2020/05/cdc-guide-to-reopening-was-trashed-by-the-trump-admin-it-just-leaked/</link>
+			</item>
+			<item>
+				<title>We Are Tenants on Our Own Devices</title>
+				<source>Wired</source>
+				<pubDate>May 20 2019</pubDate>
+				<description><![CDATA[It's time to assert our sovereignty over our own stuff.]]></description>
+				<link>https://www.wired.com/story/right-to-repair-tenants-on-our-own-devices/</link>
+			</item>
+			<item>
+				<title>Whistleblower Details How HHS Officials Refused to Secure N95 Masks as Pandemic Loomed</title>
+				<source>The Intercept</source>
+				<pubDate>May 07 2020</pubDate>
+				<description><![CDATA[The report from Richard Bright reveals a new villain in the tragic saga of the administration's mismanagement of the coronavirus crisis: Robert Kadlec.]]></description>
+				<link>https://theintercept.com/2020/05/07/coronavirus-whistleblower-hhs-n95-ppe/</link>
+			</item>
+			<item>
+				<title>Farmers Are Destroying Mountains of Food. Here's What to Do About It</title>
+				<source>The Guardian</source>
+				<pubDate>May 07 2020</pubDate>
+				<description><![CDATA[The Covid-19 pandemic has revealed the cracks in a corporate-focused system supported by polices that favor profits at any cost]]></description>
+				<link>https://www.theguardian.com/commentisfree/2020/may/07/farmers-food-covid-19</link>
+			</item>
+			<item>
+				<title>Prisons Will Worsen Coronavirus Crisis in Rural America</title>
+				<source>The Intercept</source>
+				<pubDate>May 07 2020</pubDate>
+				<description><![CDATA[The prison economy has been a lifeline for rural communities for decades, but that lifeline has transformed into a vector for coronavirus.]]></description>
+				<link>https://theintercept.com/2020/05/07/coronavirus-america-rural-prisons/</link>
+			</item>
+			<item>
+				<title>We've Known How to Make Healthier Buildings for Decades</title>
+				<source>The Verge</source>
+				<pubDate>May 07 2020</pubDate>
+				<description><![CDATA[During the pandemic, people are now demanding them.]]></description>
+				<link>https://www.theverge.com/2020/5/7/21249496/building-ventilation-design-health-humidity-cost</link>
+			</item>
+			<item>
+				<title>Nearly 20,000 Teens in Georgia Have Received Their Driver's Licenses Without a Road Test</title>
+				<source>CNN</source>
+				<pubDate>May 06 2020</pubDate>
+				<description><![CDATA[Georgia isn't the only state that is waiving road tests. Wisconsin announced this week that it will start doing the same for 16- and 17-year-olds, starting Monday.]]></description>
+				<link>https://www.cnn.com/2020/05/06/us/driver-license-road-test-wisconsin-georgia-trnd/index.html</link>
+			</item>
+			<item>
+				<title>Here Are the Companies Getting Rich From the Coronavirus Pandemic</title>
+				<source>Vice</source>
+				<pubDate>May 06 2020</pubDate>
+				<description><![CDATA[Scott Disick, of 'Keeping Up With the Kardashians' fame, pushed out a line of T-shirts and hoodies emblazoned with the timely message 'Wash Your Hands.']]></description>
+				<link>https://www.vice.com/en_us/article/akzw7p/here-are-the-companies-getting-rich-from-the-coronavirus-pandemic</link>
+			</item>
+			<item>
+				<title>Mass Incarceration Poses a Uniquely American Risk in the Coronavirus Pandemic</title>
+				<source>The Intercept</source>
+				<pubDate>May 06 2020</pubDate>
+				<description><![CDATA[The virus has exposed just how deadly prisons and jails are for incarcerated people, and for society at large.]]></description>
+				<link>https://theintercept.com/2020/05/06/coronavirus-prison-jail-mass-incarceration/</link>
+			</item>
+			<item>
+				<title>U.S. Companies Cut Thousands of Workers While Continuing to Reward Shareholders During Pandemic</title>
+				<source>Washington Post</source>
+				<pubDate>May 05 2020</pubDate>
+				<description><![CDATA[As the pandemic squeezes big companies, executives are making decisions about who will bear the brunt of the sacrifices, and in at least some cases, workers have been the first to lose, even as shareholders continue to collect.]]></description>
+				<link>https://www.washingtonpost.com/business/2020/05/05/dividends-layoffs-coronavirus/</link>
+			</item>
+			<item>
+				<title>Speaker Pelosi Supports Push for Taxpayer Bailout of Corporate Lobbyists</title>
+				<source>The Intercept</source>
+				<pubDate>May 05 2020</pubDate>
+				<description><![CDATA[Trade groups have stepped up a campaign for $25 billion and PPP eligibility in the next phase of coronavirus relief.]]></description>
+				<link>https://theintercept.com/2020/05/05/lobbyists-trade-groups-bailout/</link>
+			</item>
+			<item>
+				<title>America's Renewable Energy Sources Have Produced More Electricity Than Coal Every Day for 40 Days Straight</title>
+				<source>Newsweek</source>
+				<pubDate>May 05 2020</pubDate>
+				<description><![CDATA[The transition away from coal for electricity generation in the U.S. accelerated in 2020 due to lower gas prices, warmer weather and the economic conditions resulting from COVID-19, analysis found.]]></description>
+				<link>https://www.newsweek.com/america-renewable-energy-electricity-generation-tops-coal-plants-april-2020-40-days-1501967</link>
+			</item>
+			<item>
+				<title>An AI Can Simulate an Economy Millions of Times to Create Fairer Tax Policy</title>
+				<source>MIT Technology Review</source>
+				<pubDate>May 05 2020</pubDate>
+				<description><![CDATA[Deep reinforcement learning has trained AIs to beat humans at complex games like Go and StarCraft. Could it also do a better job at running the economy?]]></description>
+				<link>https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/</link>
+			</item>
+			<item>
+				<title>U.K. Reports Highest Coronavirus Death Toll in Europe</title>
+				<source>Axios</source>
+				<pubDate>May 05 2020</pubDate>
+				<description><![CDATA[It surpassed Italy.]]></description>
+				<link>https://www.axios.com/coronavirus-united-kingdom-most-deaths-europe-50220ebe-12df-487b-bb9d-699eb03c4c50.html</link>
+			</item>
+			<item>
+				<title>Jared Kushner's Shadow Coronavirus Task Force Used a Spreadsheet Called 'VIP Update' to Procure PPE From Inexperienced Trump Allies Over Legitimate Vendors</title>
+				<source>Business Insider</source>
+				<pubDate>May 05 2020</pubDate>
+				<description><![CDATA[In theory, the group was supposed to find the most promising leads on protective gear and funnel them to FEMA. Instead, it prioritized Trump allies.]]></description>
+				<link>https://www.businessinsider.com/jared-kushner-coronavirus-task-force-prioritized-ppe-trump-associates-nyt-2020-5</link>
+			</item>
+			<item>
+				<title>US Projects 200,000 New COVID-19 Cases per Day, 3,000 Daily Deaths by June</title>
+				<source>Ars Technica</source>
+				<pubDate>May 04 2020</pubDate>
+				<description><![CDATA[Leaked gov't document predicts rise in deaths as Trump aims to 'open up America.']]></description>
+				<link>https://arstechnica.com/science/2020/05/us-projects-200000-new-covid-19-cases-per-day-3000-daily-deaths-by-june/</link>
+			</item>
+			<item>
+				<title>Three Russian Doctors Fall From Hospital Windows, Raising Questions Amid Coronavirus Pandemic</title>
+				<source>CNN</source>
+				<pubDate>May 04 2020</pubDate>
+				<description><![CDATA[Three frontline health care workers have mysteriously fallen out of hospital windows in Russia over the past two weeks, heightening public attention to the working conditions for doctors and medical professionals amid the coronavirus pandemic.]]></description>
+				<link>https://www.cnn.com/2020/05/04/europe/russia-medical-workers-windows-intl/index.html</link>
+			</item>
+			<item>
+				<title>The World Came Together for a Virtual Vaccine Summit. The U.S. Was Conspicuously Absent.</title>
+				<source>Washington Post</source>
+				<pubDate>May 04 2020</pubDate>
+				<description><![CDATA[International donors are on track to raise $8.2 billion to mass-produce drugs, vaccines and testing kits. The Trump administration says the U.S. remains the world's largest health and humanitarian donor.]]></description>
+				<link>https://www.washingtonpost.com/world/europe/the-world-comes-together-for-a-virtual-vaccine-summit-the-us-is-conspicuously-absent/2020/05/04/ac5b6754-8a5c-11ea-80df-d24b35a568ae_story.html</link>
+			</item>
+			<item>
+				<title>How Many Jobs Do Robots Really Replace?</title>
+				<source>MIT News</source>
+				<pubDate>May 03 2020</pubDate>
+				<description><![CDATA[MIT economist Daron Acemoglu's new research puts a number on the job costs of automation.]]></description>
+				<link>http://news.mit.edu/2020/how-many-jobs-robots-replace-0504</link>
+			</item>
+			<item>
+				<title>Hostile States Trying to Steal Coronavirus Research, Says UK Agency</title>
+				<source>The Guardian</source>
+				<pubDate>May 03 2020</pubDate>
+				<description><![CDATA[Experts say Russia, Iran and China likely to be behind cyber-attacks on universities]]></description>
+				<link>https://www.theguardian.com/world/2020/may/03/hostile-states-trying-to-steal-coronavirus-research-says-uk-agency</link>
+			</item>
+			<item>
+				<title>US Store Guard Killed After Mask Row With Customer</title>
+				<source>BBC News</source>
+				<pubDate>May 02 2020</pubDate>
+				<description><![CDATA[A Michigan store guard is shot in the back of the head after confronting a customer who had no mask.]]></description>
+				<link>https://www.bbc.com/news/world-us-canada-52540266</link>
+			</item>
+			<item>
+				<title>China Thinks Backlash to Its Coronavirus Response Could Lead to All-Out War With the U.S.</title>
+				<source>Vice</source>
+				<pubDate>May 04 2020</pubDate>
+				<description><![CDATA[A State Security report warned that anti-China sentiment, led by the U.S., has not been this high since the 1989 Tiananmen Square crackdown.]]></description>
+				<link>https://www.vice.com/en_us/article/wxeww4/china-thinks-backlash-to-its-coronavirus-response-could-lead-to-all-out-war-with-the-us</link>
+			</item>
+			<item>
+				<title>Which States Are Reopening, Which Remain on Lockdown, and Why</title>
+				<source>Wired</source>
+				<pubDate>May 04 2020</pubDate>
+				<description><![CDATA[There's not a national plan to restart US businesses. That's led to inconsistencies among governors' orders, and some confusion among residents.]]></description>
+				<link>https://www.wired.com/story/which-states-reopening-lockdown/</link>
+			</item>
+			<item>
+				<title>Medical Expert: Federal Jail Intentionally Destroying Medical Records and Hiding Extent of Coronavirus Behind Bars</title>
+				<source>The Intercept</source>
+				<pubDate>May 04 2020</pubDate>
+				<description><![CDATA['Several current practices in MDC actually promote a more rapid spread of COVID-19 inside the facility.']]></description>
+				<link>https://theintercept.com/2020/05/01/mdc-brooklyn-jail-coronavirus-medical-records/</link>
+			</item>
+			<item>
+				<title>Donald Trump's Four-Step Plan to Reopen the US Economy – and Why It Will Be Lethal</title>
+				<source>The Guardian</source>
+				<pubDate>May 03 2020</pubDate>
+				<description><![CDATA[The president and his allies are hiding the facts and pretending 'freedom' conquers all. As a result, more Americans will die]]></description>
+				<link>https://www.theguardian.com/commentisfree/2020/may/03/donald-trump-reopen-us-economy-lethal-robert-reich</link>
+			</item>
+			<item>
+				<title>White House Blocks Fauci From Testifying to Congress on Coronavirus Response</title>
+				<source>Reuters</source>
+				<pubDate>May 02 2020</pubDate>
+				<description><![CDATA[Top U.S. health official Anthony Fauci will not testify next week to a congressional committee examining the Trump administration's response to the coronavirus pandemic, the White House said on Friday, calling it 'counterproductive' to have individuals involved in the response testify.]]></description>
+				<link>https://www.reuters.com/article/health-coronavirus-usa-fauci/white-house-blocks-fauci-from-testifying-to-congress-on-coronavirus-response-idUSKBN22E03O</link>
+			</item>
+			<item>
+				<title>The World Is Still Producing More Oil Than It Needs. Why?</title>
+				<source>Wired</source>
+				<pubDate>May 01 2020</pubDate>
+				<description><![CDATA[Today, petroleum producers around the world will start shutting down wells after the Covid-19 pandemic caused demand to plummet. What took them so long?]]></description>
+				<link>https://www.wired.com/story/the-world-is-still-producing-more-oil-than-it-needs-why/</link>
+			</item>
+			<item>
+				<title>Judge Orders FCC to Hand Over IP Addresses Linked to Fake Net Neutrality Comments</title>
+				<source>Gizmodo</source>
+				<pubDate>May 01 2020</pubDate>
+				<description><![CDATA[A Manhattan federal judge has ruled the Federal Communications Commission must provide two reporters access to server logs that may provide new insight into the allegations of fraud stemming from agency's 2017 net neutrality rollback.]]></description>
+				<link>https://gizmodo.com/judge-orders-fcc-to-hand-over-ip-addresses-linked-to-fa-1843202071</link>
+			</item>
+			<item>
+				<title>Congress Is Investigating Cruise Ship Company Carnival Over COVID-19 Outbreaks</title>
+				<source>The Verge</source>
+				<pubDate>May 01 2020</pubDate>
+				<description><![CDATA[Carnival is accused of failing to take action when it knew the risks of the novel coronavirus.]]></description>
+				<link>https://www.theverge.com/2020/5/1/21244432/carnival-princess-cruises-congress-investigation-covid-19-coronavirus-outbreak</link>
+			</item>
+			<item>
+				<title>China Warns Australia It Could Face Boycotts Over Call for an Independent Inquiry Into Coronavirus</title>
+				<source>Time</source>
+				<pubDate>May 01 2020</pubDate>
+				<description><![CDATA[China has accused Australia of parroting the United States in its call for an inquiry independent of the WHO to determine the origins of COVID-19.]]></description>
+				<link>https://time.com/5830675/china-australia-coronavirus-inquiry/</link>
+			</item>
+			<item>
+				<title>Jobs Collapse Is Deeper Than the Government Says</title>
+				<source>Bloomberg</source>
+				<pubDate>Apr 30 2020</pubDate>
+				<description><![CDATA[Economists' workforce surveys are more current than the government's. And more terrifying.]]></description>
+				<link>https://www.bloomberg.com/opinion/articles/2020-04-30/jobs-collapse-is-deeper-than-the-government-says</link>
+			</item>
+			<item>
+				<title>People With Guns (And No Masks) Swarmed the Michigan State Capitol to Protest the Coronavirus Lockdown</title>
+				<source>Vice</source>
+				<pubDate>Apr 30 2020</pubDate>
+				<description><![CDATA[Some state legislators, anticipating the possibility of violence, had even come to work that day wearing bulletproof vests.]]></description>
+				<link>https://www.vice.com/en_us/article/y3makv/protestors-with-guns-and-no-masks-swarmed-the-michigan-state-capitol-to-protest-the-coronavirus-lockdown</link>
+			</item>
+			<item>
+				<title>'Microplastic Hot Spots' Are Tainting Deep-Sea Ecosystems</title>
+				<source>Wired</source>
+				<pubDate>Apr 30 2020</pubDate>
+				<description><![CDATA[Scientists found 2 million microplastic particles in a square meter of sediment, as currents drag debris into seafloor versions of the Great Pacific Garbage Patch.]]></description>
+				<link>https://www.wired.com/story/microplastic-hotspots/</link>
+			</item>
+			<item>
+				<title>Pence Threatened to Punish the Reporter Who Proved His Office Ignored the Rule That He Needed a Mask to Visit the Mayo Clinic</title>
+				<source>Business Insider</source>
+				<pubDate>Apr 30 2020</pubDate>
+				<description><![CDATA[Steve Herman undermined Pence's wife's claim that the vice president didn't know he was supposed to wear a mask during the much-criticized visit.]]></description>
+				<link>https://www.businessinsider.com/pence-threatened-reporter-proved-knew-mayo-clinic-mask-rule-2020-5</link>
+			</item>
+			<item>
+				<title>It Could Take Decades for the Ocean Floor to Recover From Deep Sea Mining</title>
+				<source>Gizmodo</source>
+				<pubDate>Apr 29 2020</pubDate>
+				<description><![CDATA[A new study has found that the impacts of deep sea mining are still felt a quarter of a century later.]]></description>
+				<link>https://earther.gizmodo.com/it-could-take-decades-for-the-ocean-floor-to-recover-fr-1843162892</link>
+			</item>
+			<item>
+				<title>Stocks Are Recovering While the Economy Collapses. That Makes More Sense Than You'd Think.</title>
+				<source>Time</source>
+				<pubDate>Apr 29 2020</pubDate>
+				<description><![CDATA[While the economy is contracting, the market is soaring. If you look closely at what's up and down, it actually makes sense--for now.]]></description>
+				<link>https://time.com/5828898/stocks-recovering-economy-collapses-makes-sense/</link>
+			</item>
+			<item>
+				<title>Google Play Has Been Spreading Advanced Android Malware for Years</title>
+				<source>Ars Technica</source>
+				<pubDate>Apr 29 2020</pubDate>
+				<description><![CDATA[Advanced hacker group seeded market with at least 8 apps likely since 2016.]]></description>
+				<link>https://arstechnica.com/information-technology/2020/04/sophisticated-android-backdoors-have-been-populating-google-play-for-years/</link>
+			</item>
+			<item>
+				<title>The Pandemic Is Accelerating Coal's Demise</title>
+				<source>Bloomberg</source>
+				<pubDate>Apr 28 2020</pubDate>
+				<description><![CDATA[Electricity in Europe, India, China, and parts of the U.S. is less and less reliant on coal.]]></description>
+				<link>https://www.bloomberg.com/news/articles/2020-04-28/the-coronavirus-pandemic-is-accelerating-coal-s-demise</link>
+			</item>
+			<item>
+				<title>Inside the Race to Build the Best Quantum Computer on Earth</title>
+				<source>MIT Technology Review</source>
+				<pubDate>Feb 26 2020</pubDate>
+				<description><![CDATA[Google's most advanced computer isn't at the company's headquarters in Mountain View, California, nor anywhere in the febrile sprawl of Silicon Valley. It's a few hours' drive south in Santa Barbara, in a flat, soulless office park inhabited mostly by technology firms you've never heard of. An open-…]]></description>
+				<link>https://www.technologyreview.com/2020/02/26/916744/quantum-computer-race-ibm-google/</link>
+			</item>
+    </channel>
+  </rss>
+  

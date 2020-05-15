@@ -3,16 +3,197 @@
   "link": "https://cata-list.github.io/",
   "description": "Lists of some of the best information, media, tools, and wisdom which can help to inform, empower, and act as catalysts for positive change in this perilous yet promising time.",
   "language": "en-US",
-  "copyright": "Copyright © 2020 Matthew McCutcheon. All rights reserved",
-  "date": "5/7/2020, 2:22:30 PM",
-  "id": "2gHZF6kz-miGlJaHdlwJI",
+  "copyright": "Copyright © 2020 Matthew McCutcheon. All rights reserved.",
+  "date": "5/14/2020, 6:26:16 PM",
+  "id": "k9FNV6918Ms_KgIApJbnN",
   "articles": [
+		{
+			"title": "Senate Passes Spying Bill Without Search and Browsing History Protections",
+			"source": "Ars Technica",
+			"date": "May 14 2020",
+			"description": "An amendment protecting search and browsing histories failed in a 59-37 vote.",
+			"link": "https://arstechnica.com/tech-policy/2020/05/limits-on-fbi-access-to-search-histories-fails-by-one-senate-vote/"
+		},
+    {
+      "title": "Struggling Oil Companies Are Taking Advantage of US Coronavirus Aid",
+      "source": "The Guardian",
+      "date": "May 14 2020",
+      "description": "Recent review finds at least $113m in taxpayer-backed loans meant for small businesses have gone to fossil fuel industry",
+      "link": "https://www.theguardian.com/business/2020/may/14/us-oil-gas-companies-coronavirus-relief-loan-ppp"
+    },
+    {
+      "title": "In a First, Renewable Energy Is Poised to Eclipse Coal in U.S.",
+      "source": "The New York Times",
+      "date": "May 13 2020",
+      "description": "The coronavirus has pushed the coal industry to once-unthinkable lows, and the consequences for climate change are big.",
+      "link": "https://www.nytimes.com/2020/05/13/climate/coronavirus-coal-electricity-renewables.html"
+    },
+    {
+      "title": "Police Shot and Killed a 26-Year-Old EMT in Her Apartment While Looking for Someone Else Entirely",
+      "source": "Vice",
+      "date": "May 13 2020",
+      "description": "Breonna Taylor had no criminal record, and police found no drugs in her home.",
+      "link": "https://www.vice.com/en_us/article/qj44wv/what-we-know-about-breonna-taylor-lousiville-kentucky-emt-police-shooting-death"
+    },
+    {
+      "title": "FBI Accuses China of Attempting to Steal US COVID-19 Research",
+      "source": "Engadget",
+      "date": "May 13 2020",
+      "description": "The FBI warns that China-backed hackers are attempting to steal COVID-19 research from organizations in the US.",
+      "link": "https://www.engadget.com/fbi-cisa-accuse-china-covid-19-research-hacking-194610071.html"
+    },
+    {
+      "title": "Here's Who Just Voted to Let the FBI Seize Your Online Search History Without a Warrant",
+      "source": "Gizmodo",
+      "date": "May 13 2020",
+      "description": "A bipartisan amendment that would have prohibited law enforcement agencies, such as the FBI, from obtaining the web browsing and internet search histories of Americans without a warrant failed to pass in the U.S. Senate on Wednesday by a single vote.",
+      "link": "https://gizmodo.com/heres-who-just-voted-to-let-the-f-b-i-seize-your-searc-1843445032"
+    },
+    {
+      "title": "The New Alzheimer's–Air Pollution Link",
+      "source": "Scientific American",
+      "date": "May 01 2020",
+      "description": "Toxic airborne particles can travel from lungs and nose to the brain, and exposure is linked to memory loss",
+      "link": "https://www.scientificamerican.com/article/the-new-alzheimers-air-pollution-link/"
+    },
+    {
+      "title": "U.S. Warns That Chinese Hackers Are Targeting Virus Research",
+      "source": "Bloomberg",
+      "date": "May 13 2020",
+      "description": "Hackers working for the Chinese government are trying to steal valuable research on coronavirus vaccines and treatments from U.S. health care, pharmaceutical and research organizations, the FBI and the Department of Homeland Security warned Wednesday.",
+      "link": "https://www.bloomberg.com/news/articles/2020-05-13/u-s-warns-of-chinese-hackers-targeting-virus-research-groups"
+    },
+    {
+      "title": "Your Boss Is Watching You: Work-From-Home Boom Leads to More Surveillance",
+      "source": "NPR",
+      "date": "May 13 2020",
+      "description": "With more people now working from home, employers are increasingly relying on tracking software to monitor what employees do when they're on the clock.",
+      "link": "https://www.npr.org/2020/05/13/854014403/your-boss-is-watching-you-work-from-home-boom-leads-to-more-surveillance"
+    },
+    {
+      "title": "Big Oil's Climate Plans Don't Come Close to Meeting the Paris Agreement",
+      "source": "Gizmodo",
+      "date": "May 12 2020",
+      "description": "Climate action plans are all the rage for polluting companies. Last month, Shell pledged to reach net-zero carbon emissions by 2050. It's just the latest example: Other oil giants have recently made similar pledges as well. These pronouncements use pseudo-inspirational marketing speak, promising to …",
+      "link": "https://earther.gizmodo.com/big-oils-climate-plans-dont-come-close-to-meeting-the-p-1843418530"
+    },
+    {
+      "title": "COVID-19 Resurges in Reopened Countries; Wuhan Sees First Cluster in a Month",
+      "source": "Ars Technica",
+      "date": "May 12 2020",
+      "description": "China ordered all Wuhan residents get tested for COVID-19—that's ~11 million people.",
+      "link": "https://arstechnica.com/science/2020/05/covid-19-resurges-in-reopened-countries-wuhan-sees-first-cluster-in-a-month/"
+    },
+    {
+      "title": "Federal Whistleblower Says Boss Pushed Him to Buy Drugs That Hadn't Been Tested in Humans",
+      "source": "The Intercept",
+      "date": "May 12 2020",
+      "description": "Rick Bright's complaint points to the influence of industry over the Trump administration's coronavirus response.",
+      "link": "https://theintercept.com/2020/05/12/richard-bright-barda-coronavirus-whistleblower/"
+    },
+    {
+      "title": "That Fresh Sea Breeze You Breathe May Be Laced With Microplastic",
+      "source": "Wired",
+      "date": "May 12 2020",
+      "description": "Researchers have discovered that the ocean is burping tiny plastic particles, which then blow onto land—and potentially into your lungs.",
+      "link": "https://www.wired.com/story/sea-breeze-microplastic/"
+    },
+    {
+      "title": "Online Voting Has Worked So Far. That Doesn't Mean It's Safe",
+      "source": "Wired",
+      "date": "May 12 2020",
+      "description": "Proponents of mobile and internet voting point to its uneventful track record. That's not good enough.",
+      "link": "https://www.wired.com/story/online-voting-worked-so-far-doesnt-mean-safe/"
+    },
+    {
+      "title": "Large Chunks of a Chinese Rocket Missed New York City by About 15 Minutes",
+      "source": "Ars Technica",
+      "date": "May 12 2020",
+      "description": "China's Long March 5B rocket launched without a second stage.",
+      "link": "https://arstechnica.com/science/2020/05/large-chunks-of-a-chinese-rocket-missed-new-york-city-by-about-15-minutes/"
+    },
+    {
+      "title": "How Much Is a Human Life Actually Worth?",
+      "source": "Wired",
+      "date": "May 11 2020",
+      "description": "As the US economy reopens amid a deadly pandemic, a dire question looms. Let's weigh the risks—and do the math.",
+      "link": "https://www.wired.com/story/how-much-is-human-life-worth-in-dollars/"
+    },
+    {
+      "title": "The Bailout Is Working — for the Rich",
+      "source": "ProPublica",
+      "date": "May 10 2020",
+      "description": "The economy is in free fall but Wall Street is thriving, and stocks of big private equity firms are soaring dramatically higher. That tells you who investors think is the real beneficiary of the federal government's massive rescue efforts.",
+      "link": "https://www.propublica.org/article/the-bailout-is-working-for-the-rich"
+    },
+    {
+      "title": "The Pandemic Is Bringing Back Single-Use Plastics in a Huge Way",
+      "source": "Vice",
+      "date": "May 09 2020",
+      "description": "States are rolling back their plastic bag bans and restaurants are turning to single-use utensils to reopen in the face of the coronavirus pandemic.",
+      "link": "https://www.vice.com/en_us/article/n7wja8/the-pandemic-is-bringing-back-single-use-plastics-in-a-huge-way"
+    },
+    {
+      "title": "At Least $72 Million in Coronavirus Bailout Loans Went to Big Oil and Gas Companies",
+      "source": "Vice",
+      "date": "May 08 2020",
+      "description": "At least 16 drillers, fuel transporters, oil technology firms and service providers tapped the Small Business Association's Paycheck Protection Program.",
+      "link": "https://www.vice.com/en_us/article/v7g4w3/millions-in-small-business-coronavirus-bailout-loans-are-going-to-oil-and-gas-companies"
+    },
+    {
+      "title": "With a Distracted Public, the Pentagon Tries to Get Away With Killing Innocent Civilians",
+      "source": "The Intercept",
+      "date": "May 08 2020",
+      "description": "The Pentagon's annual report to Congress covering civilian casualties appears to be yet another case of woefully underreporting innocent deaths.",
+      "link": "https://theintercept.com/2020/05/08/civilian-casualties-us-airstrikes-pentagon/"
+    },
+    {
+      "title": "US Marshals Says Prisoners' Personal Information Taken in Data Breach",
+      "source": "TechCrunch",
+      "date": "May 08 2020",
+      "description": "Current and former prisoners were notified of the breach on May 1.",
+      "link": "https://techcrunch.com/2020/05/08/us-marshals-prisoner-data-breach/"
+    },
+    {
+      "title": "U.S. Unemployment Just Hit Its Highest Level Since the Great Depression",
+      "source": "Vice",
+      "date": "May 08 2020",
+      "description": "The American job market is in full-on meltdown.",
+      "link": "https://www.vice.com/en_us/article/n7wjpd/us-unemployment-just-hit-its-highest-level-since-the-great-depression-15-percent-coronavirus"
+    },
+    {
+      "title": "For Cops Who Kill, Special Supreme Court Protection",
+      "source": "Reuters",
+      "date": "May 08 2020",
+      "description": "The U.S. high court's continual refinement of an obscure doctrine called qualified immunity has made it harder to hold police liable for excessive force.",
+      "link": "https://www.reuters.com/investigates/special-report/usa-police-immunity-scotus/"
+    },
+    {
+      "title": "An Oil Spill and the Coronavirus Are Creating a Crisis in Ecuador's Amazon",
+      "source": "Gizmodo",
+      "date": "May 08 2020",
+      "description": "Imagine being told to shelter at home due to a global pandemic, only to have your home, drinking water, and food stores destroyed. It would be a nightmare, but that is exactly what happened for indigenous people in the Ecuadorian Amazon after a massive oil spill polluted two major rivers.",
+      "link": "https://earther.gizmodo.com/an-oil-spill-and-the-coronavirus-are-creating-a-crisis-1843338899"
+    },
+    {
+      "title": "CDC Guide to Reopening Was Trashed by the Trump Admin. It Just Leaked",
+      "source": "Ars Technica",
+      "date": "May 07 2020",
+      "description": "Trump admin allegedly told CDC its reopening guide would 'never see the light of day.'",
+      "link": "https://arstechnica.com/science/2020/05/cdc-guide-to-reopening-was-trashed-by-the-trump-admin-it-just-leaked/"
+    },
+    {
+      "title": "We Are Tenants on Our Own Devices",
+      "source": "Wired",
+      "date": "May 20 2019",
+      "description": "It's time to assert our sovereignty over our own stuff.",
+      "link": "https://www.wired.com/story/right-to-repair-tenants-on-our-own-devices/"
+    },
     {
       "title": "Whistleblower Details How HHS Officials Refused to Secure N95 Masks as Pandemic Loomed",
       "source": "The Intercept",
       "date": "May 07 2020",
       "description": "The report from Richard Bright reveals a new villain in the tragic saga of the administration's mismanagement of the coronavirus crisis: Robert Kadlec.",
-      "wikiextract": "",
       "link": "https://theintercept.com/2020/05/07/coronavirus-whistleblower-hhs-n95-ppe/"
     },
     {
@@ -20,7 +201,6 @@
       "source": "The Guardian",
       "date": "May 07 2020",
       "description": "The Covid-19 pandemic has revealed the cracks in a corporate-focused system supported by polices that favor profits at any cost",
-      "wikiextract": "",
       "link": "https://www.theguardian.com/commentisfree/2020/may/07/farmers-food-covid-19"
     },
     {
@@ -28,7 +208,6 @@
       "source": "The Intercept",
       "date": "May 07 2020",
       "description": "The prison economy has been a lifeline for rural communities for decades, but that lifeline has transformed into a vector for coronavirus.",
-      "wikiextract": "",
       "link": "https://theintercept.com/2020/05/07/coronavirus-america-rural-prisons/"
     },
     {
@@ -36,7 +215,6 @@
       "source": "The Verge",
       "date": "May 07 2020",
       "description": "During the pandemic, people are now demanding them.",
-      "wikiextract": "",
       "link": "https://www.theverge.com/2020/5/7/21249496/building-ventilation-design-health-humidity-cost"
     },
     {
@@ -44,7 +222,6 @@
       "source": "CNN",
       "date": "May 06 2020",
       "description": "Georgia isn't the only state that is waiving road tests. Wisconsin announced this week that it will start doing the same for 16- and 17-year-olds, starting Monday.",
-      "wikiextract": "",
       "link": "https://www.cnn.com/2020/05/06/us/driver-license-road-test-wisconsin-georgia-trnd/index.html"
     },
     {
@@ -52,7 +229,6 @@
       "source": "Vice",
       "date": "May 06 2020",
       "description": "Scott Disick, of 'Keeping Up With the Kardashians' fame, pushed out a line of T-shirts and hoodies emblazoned with the timely message 'Wash Your Hands.'",
-      "wikiextract": "",
       "link": "https://www.vice.com/en_us/article/akzw7p/here-are-the-companies-getting-rich-from-the-coronavirus-pandemic"
     },
     {
@@ -60,7 +236,6 @@
       "source": "The Intercept",
       "date": "May 06 2020",
       "description": "The virus has exposed just how deadly prisons and jails are for incarcerated people, and for society at large.",
-      "wikiextract": "",
       "link": "https://theintercept.com/2020/05/06/coronavirus-prison-jail-mass-incarceration/"
     },
     {
@@ -68,7 +243,6 @@
       "source": "Washington Post",
       "date": "May 05 2020",
       "description": "As the pandemic squeezes big companies, executives are making decisions about who will bear the brunt of the sacrifices, and in at least some cases, workers have been the first to lose, even as shareholders continue to collect.",
-      "wikiextract": "",
       "link": "https://www.washingtonpost.com/business/2020/05/05/dividends-layoffs-coronavirus/"
     },
     {
@@ -76,7 +250,6 @@
       "source": "The Intercept",
       "date": "May 05 2020",
       "description": "Trade groups have stepped up a campaign for $25 billion and PPP eligibility in the next phase of coronavirus relief.",
-      "wikiextract": "",
       "link": "https://theintercept.com/2020/05/05/lobbyists-trade-groups-bailout/"
     },
     {
@@ -84,7 +257,6 @@
       "source": "Newsweek",
       "date": "May 05 2020",
       "description": "The transition away from coal for electricity generation in the U.S. accelerated in 2020 due to lower gas prices, warmer weather and the economic conditions resulting from COVID-19, analysis found.",
-      "wikiextract": "",
       "link": "https://www.newsweek.com/america-renewable-energy-electricity-generation-tops-coal-plants-april-2020-40-days-1501967"
     },
     {
@@ -92,7 +264,6 @@
       "source": "MIT Technology Review",
       "date": "May 05 2020",
       "description": "Deep reinforcement learning has trained AIs to beat humans at complex games like Go and StarCraft. Could it also do a better job at running the economy?",
-      "wikiextract": "",
       "link": "https://www.technologyreview.com/2020/05/05/1001142/ai-reinforcement-learning-simulate-economy-fairer-tax-policy-income-inequality-recession-pandemic/"
     },
     {
@@ -100,7 +271,6 @@
       "source": "Axios",
       "date": "May 05 2020",
       "description": "It surpassed Italy.",
-      "wikiextract": "",
       "link": "https://www.axios.com/coronavirus-united-kingdom-most-deaths-europe-50220ebe-12df-487b-bb9d-699eb03c4c50.html"
     },
     {
@@ -108,7 +278,6 @@
       "source": "Business Insider",
       "date": "May 05 2020",
       "description": "In theory, the group was supposed to find the most promising leads on protective gear and funnel them to FEMA. Instead, it prioritized Trump allies.",
-      "wikiextract": "",
       "link": "https://www.businessinsider.com/jared-kushner-coronavirus-task-force-prioritized-ppe-trump-associates-nyt-2020-5"
     },
     {
@@ -116,15 +285,13 @@
       "source": "Ars Technica",
       "date": "May 04 2020",
       "description": "Leaked gov't document predicts rise in deaths as Trump aims to 'open up America.'",
-      "wikiextract": "",
       "link": "https://arstechnica.com/science/2020/05/us-projects-200000-new-covid-19-cases-per-day-3000-daily-deaths-by-june/"
     },
     {
-      "title": "Three Russian Doctors 'Fall' From Hospital Windows, Raising Questions Amid Coronavirus Pandemic",
+      "title": "Three Russian Doctors Fall From Hospital Windows, Raising Questions Amid Coronavirus Pandemic",
       "source": "CNN",
       "date": "May 04 2020",
       "description": "Three frontline health care workers have mysteriously fallen out of hospital windows in Russia over the past two weeks, heightening public attention to the working conditions for doctors and medical professionals amid the coronavirus pandemic.",
-      "wikiextract": "",
       "link": "https://www.cnn.com/2020/05/04/europe/russia-medical-workers-windows-intl/index.html"
     },
     {
@@ -132,7 +299,6 @@
       "source": "Washington Post",
       "date": "May 04 2020",
       "description": "International donors are on track to raise $8.2 billion to mass-produce drugs, vaccines and testing kits. The Trump administration says the U.S. remains the world's largest health and humanitarian donor.",
-      "wikiextract": "",
       "link": "https://www.washingtonpost.com/world/europe/the-world-comes-together-for-a-virtual-vaccine-summit-the-us-is-conspicuously-absent/2020/05/04/ac5b6754-8a5c-11ea-80df-d24b35a568ae_story.html"
     },
     {
@@ -140,7 +306,6 @@
       "source": "MIT News",
       "date": "May 03 2020",
       "description": "MIT economist Daron Acemoglu's new research puts a number on the job costs of automation.",
-      "wikiextract": "",
       "link": "http://news.mit.edu/2020/how-many-jobs-robots-replace-0504"
     },
     {
@@ -148,7 +313,6 @@
       "source": "The Guardian",
       "date": "May 03 2020",
       "description": "Experts say Russia, Iran and China likely to be behind cyber-attacks on universities",
-      "wikiextract": "",
       "link": "https://www.theguardian.com/world/2020/may/03/hostile-states-trying-to-steal-coronavirus-research-says-uk-agency"
     },
     {
@@ -156,7 +320,6 @@
       "source": "BBC News",
       "date": "May 02 2020",
       "description": "A Michigan store guard is shot in the back of the head after confronting a customer who had no mask.",
-      "wikiextract": "",
       "link": "https://www.bbc.com/news/world-us-canada-52540266"
     },
     {
@@ -164,7 +327,6 @@
       "source": "Vice",
       "date": "May 04 2020",
       "description": "A State Security report warned that anti-China sentiment, led by the U.S., has not been this high since the 1989 Tiananmen Square crackdown.",
-      "wikiextract": "",
       "link": "https://www.vice.com/en_us/article/wxeww4/china-thinks-backlash-to-its-coronavirus-response-could-lead-to-all-out-war-with-the-us"
     },
     {
@@ -172,7 +334,6 @@
       "source": "Wired",
       "date": "May 04 2020",
       "description": "There's not a national plan to restart US businesses. That's led to inconsistencies among governors' orders, and some confusion among residents.",
-      "wikiextract": "",
       "link": "https://www.wired.com/story/which-states-reopening-lockdown/"
     },
     {
@@ -180,7 +341,6 @@
       "source": "The Intercept",
       "date": "May 04 2020",
       "description": "'Several current practices in MDC actually promote a more rapid spread of COVID-19 inside the facility.'",
-      "wikiextract": "",
       "link": "https://theintercept.com/2020/05/01/mdc-brooklyn-jail-coronavirus-medical-records/"
     },
     {
@@ -188,7 +348,6 @@
       "source": "The Guardian",
       "date": "May 03 2020",
       "description": "The president and his allies are hiding the facts and pretending 'freedom' conquers all. As a result, more Americans will die",
-      "wikiextract": "",
       "link": "https://www.theguardian.com/commentisfree/2020/may/03/donald-trump-reopen-us-economy-lethal-robert-reich"
     },
     {
@@ -196,7 +355,6 @@
       "source": "Reuters",
       "date": "May 02 2020",
       "description": "Top U.S. health official Anthony Fauci will not testify next week to a congressional committee examining the Trump administration's response to the coronavirus pandemic, the White House said on Friday, calling it 'counterproductive' to have individuals involved in the response testify.",
-      "wikiextract": "",
       "link": "https://www.reuters.com/article/health-coronavirus-usa-fauci/white-house-blocks-fauci-from-testifying-to-congress-on-coronavirus-response-idUSKBN22E03O"
     },
     {
@@ -204,7 +362,6 @@
       "source": "Wired",
       "date": "May 01 2020",
       "description": "Today, petroleum producers around the world will start shutting down wells after the Covid-19 pandemic caused demand to plummet. What took them so long?",
-      "wikiextract": "",
       "link": "https://www.wired.com/story/the-world-is-still-producing-more-oil-than-it-needs-why/"
     },
     {
@@ -212,7 +369,6 @@
       "source": "Gizmodo",
       "date": "May 01 2020",
       "description": "A Manhattan federal judge has ruled the Federal Communications Commission must provide two reporters access to server logs that may provide new insight into the allegations of fraud stemming from agency's 2017 net neutrality rollback.",
-      "wikiextract": "",
       "link": "https://gizmodo.com/judge-orders-fcc-to-hand-over-ip-addresses-linked-to-fa-1843202071"
     },
     {
@@ -220,7 +376,6 @@
       "source": "The Verge",
       "date": "May 01 2020",
       "description": "Carnival is accused of failing to take action when it knew the risks of the novel coronavirus.",
-      "wikiextract": "",
       "link": "https://www.theverge.com/2020/5/1/21244432/carnival-princess-cruises-congress-investigation-covid-19-coronavirus-outbreak"
     },
     {
@@ -228,7 +383,6 @@
       "source": "Time",
       "date": "May 01 2020",
       "description": "China has accused Australia of parroting the United States in its call for an inquiry independent of the WHO to determine the origins of COVID-19.",
-      "wikiextract": "",
       "link": "https://time.com/5830675/china-australia-coronavirus-inquiry/"
     },
     {
@@ -236,7 +390,6 @@
       "source": "Bloomberg",
       "date": "Apr 30 2020",
       "description": "Economists' workforce surveys are more current than the government's. And more terrifying.",
-      "wikiextract": "",
       "link": "https://www.bloomberg.com/opinion/articles/2020-04-30/jobs-collapse-is-deeper-than-the-government-says"
     },
     {
@@ -244,7 +397,6 @@
       "source": "Vice",
       "date": "Apr 30 2020",
       "description": "Some state legislators, anticipating the possibility of violence, had even come to work that day wearing bulletproof vests.",
-      "wikiextract": "",
       "link": "https://www.vice.com/en_us/article/y3makv/protestors-with-guns-and-no-masks-swarmed-the-michigan-state-capitol-to-protest-the-coronavirus-lockdown"
     },
     {
@@ -252,7 +404,6 @@
       "source": "Wired",
       "date": "Apr 30 2020",
       "description": "Scientists found 2 million microplastic particles in a square meter of sediment, as currents drag debris into seafloor versions of the Great Pacific Garbage Patch.",
-      "wikiextract": "",
       "link": "https://www.wired.com/story/microplastic-hotspots/"
     },
     {
@@ -260,7 +411,6 @@
       "source": "Business Insider",
       "date": "Apr 30 2020",
       "description": "Steve Herman undermined Pence's wife's claim that the vice president didn't know he was supposed to wear a mask during the much-criticized visit.",
-      "wikiextract": "",
       "link": "https://www.businessinsider.com/pence-threatened-reporter-proved-knew-mayo-clinic-mask-rule-2020-5"
     },
     {
@@ -268,7 +418,6 @@
       "source": "Gizmodo",
       "date": "Apr 29 2020",
       "description": "A new study has found that the impacts of deep sea mining are still felt a quarter of a century later.",
-      "wikiextract": "",
       "link": "https://earther.gizmodo.com/it-could-take-decades-for-the-ocean-floor-to-recover-fr-1843162892"
     },
     {
@@ -276,7 +425,6 @@
       "source": "Time",
       "date": "Apr 29 2020",
       "description": "While the economy is contracting, the market is soaring. If you look closely at what's up and down, it actually makes sense--for now.",
-      "wikiextract": "",
       "link": "https://time.com/5828898/stocks-recovering-economy-collapses-makes-sense/"
     },
     {
@@ -284,7 +432,6 @@
       "source": "Ars Technica",
       "date": "Apr 29 2020",
       "description": "Advanced hacker group seeded market with at least 8 apps likely since 2016.",
-      "wikiextract": "",
       "link": "https://arstechnica.com/information-technology/2020/04/sophisticated-android-backdoors-have-been-populating-google-play-for-years/"
     },
     {
@@ -292,7 +439,6 @@
       "source": "Bloomberg",
       "date": "Apr 28 2020",
       "description": "Electricity in Europe, India, China, and parts of the U.S. is less and less reliant on coal.",
-      "wikiextract": "",
       "link": "https://www.bloomberg.com/news/articles/2020-04-28/the-coronavirus-pandemic-is-accelerating-coal-s-demise"
     },
     {
@@ -300,7 +446,6 @@
       "source": "MIT Technology Review",
       "date": "Feb 26 2020",
       "description": "Google's most advanced computer isn't at the company's headquarters in Mountain View, California, nor anywhere in the febrile sprawl of Silicon Valley. It's a few hours' drive south in Santa Barbara, in a flat, soulless office park inhabited mostly by technology firms you've never heard of. An open-…",
-      "wikiextract": "",
       "link": "https://www.technologyreview.com/2020/02/26/916744/quantum-computer-race-ibm-google/"
     }
   ]
