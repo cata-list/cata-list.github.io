@@ -1,25 +1,158 @@
 {
   "title": "cata-list",
   "link": "https://cata-list.github.io/",
-  "description": "Lists of some of the best information, media, tools, and wisdom which can help to inform, empower, and act as catalysts for positive change in this perilous yet promising time.",
+  "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "copyright": "Copyright © 2020 Matthew McCutcheon. All rights reserved.",
-  "date": "5/14/2020, 6:26:16 PM",
-  "id": "k9FNV6918Ms_KgIApJbnN",
+  "copyright": "Copyright © 2020 Matthew McCutcheon. All rights reserved",
+  "date": "5/19/2020, 10:38:14 AM",
+  "id": "GP5pU_zp2FthtRH2eFP5e",
   "articles": [
-		{
-			"title": "Senate Passes Spying Bill Without Search and Browsing History Protections",
-			"source": "Ars Technica",
-			"date": "May 14 2020",
-			"description": "An amendment protecting search and browsing histories failed in a 59-37 vote.",
-			"link": "https://arstechnica.com/tech-policy/2020/05/limits-on-fbi-access-to-search-histories-fails-by-one-senate-vote/"
-		},
+    {
+      "title": "It's Called Artificial Intelligence — But What Is Intelligence?",
+      "source": "Wired",
+      "date": "May 19 2020",
+      "description": "We've built machines that are capable of incredible feats, yet still they have nothing on a baby.",
+      "link": "https://www.wired.com/story/its-called-artificial-intelligence-but-what-is-intelligence/"
+    },
+    {
+      "title": "Is the Brain a Useful Model for Artificial Intelligence?",
+      "source": "Wired",
+      "date": "May 19 2020",
+      "description": "Thinking machines think just like us—but only up to a point.",
+      "link": "https://www.wired.com/story/brain-model-artificial-intelligence/"
+    },
+    {
+      "title": "Are AI-Powered Killer Robots Inevitable?",
+      "source": "Wired",
+      "date": "May 19 2020",
+      "description": "Military scholars warn of a 'battlefield singularity,' a point at which humans can no longer keep up with the pace of conflict.",
+      "link": "https://www.wired.com/story/artificial-intelligence-military-robots/"
+    },
+    {
+      "title": "'First Ever' Near Real-Time Analysis of Global Carbon Emissions Reveals Coronavirus Impacts",
+      "source": "Gizmodo",
+      "date": "May 19 2020",
+      "description": "Lockdowns around the world are having a measurable effect on global greenhouse gas emissions. A new study out Tuesday found that daily emissions dropped by 17 percent in April 2020 compared to last year's average levels. This is a sizable dip, but the findings offer a sobering reality check: Individ…",
+      "link": "https://earther.gizmodo.com/first-ever-near-real-time-analysis-of-global-carbon-e-1843542294"
+    },
+    {
+      "title": "It's Time to Dismantle Factory Farms and Get Used to Eating Less Meat",
+      "source": "The Guardian",
+      "date": "May 19 2020",
+      "description": "We should envision a more resilient and sustainable food system, one that doesn't commodify sentient life",
+      "link": "https://www.theguardian.com/commentisfree/2020/may/19/its-time-to-get-used-to-eating-less-meat"
+    },
+    {
+      "title": "Carbon Dioxide Emissions Have Dropped 17 Percent During the Pandemic",
+      "source": "Wired",
+      "date": "May 19 2020",
+      "description": "Some regions, like the US and the UK, have seen their outputs fall by a third, due in large part to people driving less.",
+      "link": "https://www.wired.com/story/carbon-dioxide-emissions-pandemic/"
+    },
+    {
+      "title": "As Machines Get Smarter, How Will We Relate to Them?",
+      "source": "Wired",
+      "date": "May 19 2020",
+      "description": "Millennia of evolution have left us ill prepared to crack open the black box of AI and peer inside.",
+      "link": "https://www.wired.com/story/as-machines-get-smarter-how-will-we-relate-to-them/"
+    },
+    {
+      "title": "Alarm and Confusion at Fox News as Trump Says He Takes Hydroxychloroquine",
+      "source": "The Intercept",
+      "date": "May 19 2020",
+      "description": "Fox News viewers were warned not to take medical advice from the president, following Donald Trump's announcement that he takes the drug hydroxychloroquine.",
+      "link": "https://theintercept.com/2020/05/19/alarm-confusion-fox-news-trump-says-takes-hydroxychloroquine/"
+    },
+    {
+      "title": "Watch a Boston Dynamics Robot Herd Sheep in New Zealand",
+      "source": "Engadget",
+      "date": "May 19 2020",
+      "description": "New Zealand-based robotics company Rocos shared a video of Boston Dynamics' Spot herding sheep across grassy pastures.",
+      "link": "https://www.engadget.com/boston-dynamics-spot-robots-herd-sheep-135533533.html"
+    },
+    {
+      "title": "The Arctic Is Unraveling as a Massive Heat Wave Grips the Region",
+      "source": "Gizmodo",
+      "date": "May 18 2020",
+      "description": "It wouldn't be spring in the climate change era without a massive heat wave in the Arctic.",
+      "link": "https://earther.gizmodo.com/the-arctic-is-unraveling-as-a-massive-heat-wave-grips-t-1843519435"
+    },
+    {
+      "title": "US Lockdown Protests May Have Spread Virus Widely, Cellphone Data Suggests",
+      "source": "The Guardian",
+      "date": "May 18 2020",
+      "description": "Devices associated with protesters travelled up to hundreds of miles after rallies where few precautions were taken",
+      "link": "https://www.theguardian.com/us-news/2020/may/18/lockdown-protests-spread-coronavirus-cellphone-data"
+    },
+    {
+      "title": "CDC Sued Over 'Pattern' of Mishandling Freedom of Information Requests During Pandemic",
+      "source": "Gizmodo",
+      "date": "May 18 2020",
+      "description": "The Centers for Disease Control and Prevention (CDC) is facing a lawsuit over its alleged mishandling of records requests under the Freedom of Information Act (FOIA). Plaintiffs accuse the agency of 'systematically obstruct[ing]' attempts by the public to acquire details about the government's handl…",
+      "link": "https://gizmodo.com/cdc-sued-over-pattern-of-mishandling-freedom-of-informa-1843527205"
+    },
+    {
+      "title": "China's Air Pollution Is Now Worse Than Pre-Coronavirus Levels",
+      "source": "Gizmodo",
+      "date": "May 18 2020",
+      "description": "Last month, China finally ended its coronavirus lockdown. While air quality improved dramatically during The Quiet Time, new data shows it was short-lived. What's more, air pollution is coming back at higher levels than during the same period last year.",
+      "link": "https://earther.gizmodo.com/chinas-air-pollution-is-already-worse-than-pre-coronavi-1843520326"
+    },
+    {
+      "title": "Cell-Tower Attacks by Idiots Who Claim 5G Spreads COVID-19 Reportedly Hit US",
+      "source": "Ars Technica",
+      "date": "May 18 2020",
+      "description": "US warns carriers to boost security, citing reports of attacks in several states.",
+      "link": "https://arstechnica.com/tech-policy/2020/05/prepare-for-cell-tower-attacks-by-5g-covid-19-conspiracy-theorists-us-warns/"
+    },
+    {
+      "title": "Federal Government Buys Riot Gear, Increases Security Funding, Citing Coronavirus Pandemic",
+      "source": "The Intercept",
+      "date": "May 17 2020",
+      "description": "The orders are for disposable cuffs, gas masks, ballistic helmets, riot gloves, and equipment for federal police assigned to Veterans Affairs facilities.",
+      "link": "https://theintercept.com/2020/05/17/veterans-affairs-coronavirus-security-police/"
+    },
+    {
+      "title": "'Stealth Bailout' Shovels Millions of Dollars to Oil Companies",
+      "source": "Bloomberg",
+      "date": "May 15 2020",
+      "description": "As it headed toward bankruptcy, Diamond Offshore Drilling Inc. took advantage of a little-noticed provision in the stimulus bill Congress passed in March to get a $9.7 million tax refund. Then, it asked a bankruptcy judge to authorize the same amount as bonuses to nine executives.",
+      "link": "https://www.bloomberg.com/news/articles/2020-05-15/-stealth-bailout-shovels-millions-of-dollars-to-oil-companies"
+    },
+    {
+      "title": "U.S. Government Proposed Manipulating CDC Guidelines to Avoid Mask Shortages: Whistleblower",
+      "source": "Gizmodo",
+      "date": "May 15 2020",
+      "description": "The U.S. government proposed manipulating information about whether N95 masks worked to fight the spread of coronavirus in the general public, according to Dr. Richard Bright, a whistleblower who testified publicly for the first time on Thursday. The deception was an effort to avoid shortages and ke…",
+      "link": "https://gizmodo.com/u-s-government-proposed-manipulating-cdc-guidelines-to-1843474820"
+    },
+    {
+      "title": "Whistleblower: Wall Street Has Engaged in Widespread Manipulation of Mortgage Funds",
+      "source": "ProPublica",
+      "date": "May 15 2020",
+      "description": "Securities that contain loans for properties like hotels and office buildings have inflated profits, the whistleblower claims. As the pandemic hammers the economy, that could increase the chances of another mortgage collapse.",
+      "link": "https://www.propublica.org/article/whistleblower-wall-street-has-engaged-in-widespread-manipulation-of-mortgage-funds"
+    },
+    {
+      "title": "Senate Votes to Reauthorize FBI Surveillance Powers, With a Few Worthwhile Tweaks",
+      "source": "Gizmodo",
+      "date": "May 14 2020",
+      "description": "In an 80-16 vote on Thursday, the U.S. Senate passed a bill to restore controversial surveillance tools used by the FBI in terrorism and espionage investigations. But the bill has at least one more hurdle to jump thanks to a series of changes implemented yesterday.",
+      "link": "https://gizmodo.com/senate-votes-to-reauthorize-fbi-surveillance-powers-wi-1843466933"
+    },
     {
       "title": "Struggling Oil Companies Are Taking Advantage of US Coronavirus Aid",
       "source": "The Guardian",
       "date": "May 14 2020",
       "description": "Recent review finds at least $113m in taxpayer-backed loans meant for small businesses have gone to fossil fuel industry",
       "link": "https://www.theguardian.com/business/2020/may/14/us-oil-gas-companies-coronavirus-relief-loan-ppp"
+    },
+    {
+      "title": "Senate Passes Spying Bill Without Search and Browsing History Protections",
+      "source": "Ars Technica",
+      "date": "May 14 2020",
+      "description": "An amendment protecting search and browsing histories failed in a 59-37 vote.",
+      "link": "https://arstechnica.com/tech-policy/2020/05/limits-on-fbi-access-to-search-histories-fails-by-one-senate-vote/"
     },
     {
       "title": "In a First, Renewable Energy Is Poised to Eclipse Coal in U.S.",
@@ -288,7 +421,7 @@
       "link": "https://arstechnica.com/science/2020/05/us-projects-200000-new-covid-19-cases-per-day-3000-daily-deaths-by-june/"
     },
     {
-      "title": "Three Russian Doctors Fall From Hospital Windows, Raising Questions Amid Coronavirus Pandemic",
+      "title": "Three Russian Doctors 'Fall' From Hospital Windows, Raising Questions Amid Coronavirus Pandemic",
       "source": "CNN",
       "date": "May 04 2020",
       "description": "Three frontline health care workers have mysteriously fallen out of hospital windows in Russia over the past two weeks, heightening public attention to the working conditions for doctors and medical professionals amid the coronavirus pandemic.",

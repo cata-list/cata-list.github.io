@@ -1,7 +1,5 @@
 # cata-list
-Lists of some of the best information, media, tools, and wisdom which can help to inform, empower, and act as catalysts for positive change in this perilous yet promising time.
-
-This website is not intended to convey 'The Answer(s)' or 'The Truth' but rather practical information, tools, and 'maps' which may be useful on one's individual journey toward truth, understanding, and purpose. Think for yourself and question everything.
+Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.
 
 ## RSS/JSON Feed
 RSS: `https://raw.githubusercontent.com/cata-list/cata-list.github.io/master/feed/feed.xml`
