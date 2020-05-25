@@ -3,10 +3,254 @@
   "link": "https://cata-list.github.io/",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "copyright": "Copyright © 2020 Matthew McCutcheon. All rights reserved",
-  "date": "5/19/2020, 10:38:14 AM",
-  "id": "GP5pU_zp2FthtRH2eFP5e",
+  "date": "5/24/2020, 2:11:29 PM",
+  "id": "hmyasELArhczy74OjzR2n",
   "articles": [
+    {
+      "title": "Inside the NSA's Secret Tool for Mapping Your Social Network",
+      "source": "Wired",
+      "date": "May 24 2020",
+      "description": "Edward Snowden revealed the agency's phone-record tracking program. But thanks to 'precomputed contact chaining,' that database was much more powerful than anyone knew.",
+      "link": "https://www.wired.com/story/inside-the-nsas-secret-tool-for-mapping-your-social-network/"
+    },
+    {
+      "title": "Coronavirus in the U.S.: Latest Map and Case Count",
+      "source": "The New York Times",
+      "date": "May 23 2020",
+      "description": "A detailed county map shows the extent of the coronavirus outbreak, with tables of the number of cases by county.",
+      "link": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html"
+    },
+    {
+      "title": "No Masks Allowed: Stores Turn Customers Away in US Culture War",
+      "source": "The Guardian",
+      "date": "May 22 2020",
+      "description": "Shops around the US make headlines for denying entry to those wearing masks as protesters argue against preventative measures in the name of freedom",
+      "link": "https://www.theguardian.com/us-news/2020/may/22/us-stores-against-face-masks"
+    },
+    {
+      "title": "Researchers Squeeze 44.2 Tbps Through Existing Fiber Optic Cables",
+      "source": "Engadget",
+      "date": "May 22 2020",
+      "description": "Researchers in Australia used a device called a microcomb to break the record for the fastest internet connection.",
+      "link": "https://www.engadget.com/44-tbps-internet-connection-154034760.html"
+    },
+    {
+      "title": "Yes, the Patriot Act Amendment to Track Us Online Is Real",
+      "source": "Engadget",
+      "date": "May 22 2020",
+      "description": "Looks like more bad news with the renewal of the Patriot Act/USA Freedom Act — and its terrible provision to allow government collection of Americans' internet browsing and search histories without a warrant.",
+      "link": "https://www.engadget.com/yes-the-patriot-act-amendment-to-track-us-online-is-real-173055117.html"
+    },
+    {
+      "title": "China Drops Word 'Peaceful' in Latest Push for Taiwan 'Reunification'",
+      "source": "Reuters",
+      "date": "May 22 2020",
+      "description": "Chinese Premier Li Keqiang left out the word 'peaceful' on Friday in referring to Beijing's desire to 'reunify' with Chinese-claimed Taiwan, an apparent policy shift that comes as ties with Taipei continue on a downward spiral.",
+      "link": "https://www.reuters.com/article/us-china-parliament-taiwan/china-drops-word-peaceful-in-latest-push-for-taiwan-reunification-idUSKBN22Y06S"
+    },
+    {
+      "title": "It Hit 80 Degrees in the Arctic This Week",
+      "source": "Gizmodo",
+      "date": "May 22 2020",
+      "description": "This story will provide important context for the headline, and I encourage you to read it—but really, the headline tells you what you need to know: It was 80 degrees Fahrenheit above the Arctic Circle this week.",
+      "link": "https://earther.gizmodo.com/it-hit-80-degrees-in-the-arctic-this-week-1843606717"
+    },
+    {
+      "title": "The U.S. Brags About Health Aid to Africa While Bombing Some of Its Most Vulnerable Nations",
+      "source": "The Intercept",
+      "date": "May 22 2020",
+      "description": "Libya and Somalia, where U.S. forces have spent hundreds of millions on airstrikes, have fared especially poorly when it comes to direct U.S. health assistance.",
+      "link": "https://theintercept.com/2020/05/22/us-africa-aid-coronavirus-somalia-libya/"
+    },
+    {
+      "title": "Just Turning Your Phone on Qualifies as Searching It, Court Rules",
+      "source": "Ars Technica",
+      "date": "May 21 2020",
+      "description": "Location data requires a warrant since 2018; lock screen may now, too.",
+      "link": "https://arstechnica.com/tech-policy/2020/05/just-turning-your-phone-on-qualifies-as-searching-it-court-rules/"
+    },
+    {
+      "title": "What Every Pharmaceutical Commercial Is REALLY Saying",
+      "source": "YouTube",
+      "date": "May 21 2020",
+      "description": "Consume. www.trustourbrand.com",
+      "link": "https://www.youtube.com/watch?v=xlWXhBw4TwU"
+    },
+    {
+      "title": "Congress Has No Idea How Much Web Browsing Data the FBI Collects",
+      "source": "Vice",
+      "date": "May 21 2020",
+      "description": "The Patriot Act is about to be reauthorized, but we still don't know basic facts about how our web browsing habits are being collected.",
+      "link": "https://www.vice.com/en_us/article/ep4d97/congress-has-no-idea-how-much-web-browsing-data-the-fbi-collects"
+    },
+    {
+      "title": "Nearly Half of Twitter Accounts Pushing to Reopen America May Be Bots",
+      "source": "MIT Technology Review",
+      "date": "May 21 2020",
+      "description": "Kathleen M. Carley and her team at Carnegie Mellon University's Center for Informed Democracy & Social Cybersecurity have been tracking bots and influence campaigns for a long time. Across US and foreign elections, natural disasters, and other politicized events, the level of bot involvement is norm…",
+      "link": "https://www.technologyreview.com/2020/05/21/1002105/covid-bot-twitter-accounts-push-to-reopen-america/"
+    },
+    {
+      "title": "California: 1,200 Pastors Say They Will Defy State Order and Resume Services",
+      "source": "The Guardian",
+      "date": "May 21 2020",
+      "description": "State allowing some businesses to reopen, but churches still banned. As many as 3,000 churches could hold services on 31 May",
+      "link": "https://www.theguardian.com/us-news/2020/may/21/california-pastors-services-stay-home-order"
+    },
+    {
+      "title": "The CIA's Murderous Practices, Disinformation Campaigns, and Interference in Other Countries Still Shape the World Order and U.S. Politics",
+      "source": "The Intercept",
+      "date": "May 21 2020",
+      "description": "No understanding of international or domestic politics is possible without a factual grasp of the CIA's purpose.",
+      "link": "https://theintercept.com/2020/05/21/the-cias-murderous-practices-disinformation-campaigns-and-interference-in-other-countries-still-shapes-the-world-order-and-u-s-politics/"
+    },
+    {
+      "title": "'We've Been Muzzled': CDC Sources Say White House Putting Politics Ahead of Science",
+      "source": "CNN",
+      "date": "May 20 2020",
+      "description": "In the early weeks of the US coronavirus outbreak, staff members in the U.S. Centers for Disease Control and Prevention had tracked a growing number of transmissions in Europe and elsewhere, and proposed a global advisory that would alert flyers to the dangers of air travel.",
+      "link": "https://www.cnn.com/2020/05/20/politics/coronavirus-travel-alert-cdc-white-house-tensions-invs/index.html"
+    },
+    {
+      "title": "Acting U.S. Spy Chief Questioned Over Warrantless Capture of Americans' Web Browsing History",
+      "source": "Gizmodo",
+      "date": "May 20 2020",
+      "description": "U.S. Senator Ron Wyden, the sponsor of a recent amendment to stop the FBI from capturing Americans' search and web browsing histories without a warrant, is now asking the nation's top spy (acting) to disclose whether his office has accurately reported on such activities, which the law seemingly requ…",
+      "link": "https://gizmodo.com/acting-u-s-spy-chief-questioned-over-warrantless-captu-1843572200"
+    },
+    {
+      "title": "EasyJet Admits Data of Nine Million Hacked",
+      "source": "BBC News",
+      "date": "May 20 2020",
+      "description": "The attack was 'sophisticated' the airline said, adding that some credit card details had been accessed.",
+      "link": "https://www.bbc.com/news/technology-52722626"
+    },
+    {
+      "title": "Maryland Reopens—and Quickly Sees Its Largest COVID-19 Spike",
+      "source": "Ars Technica",
+      "date": "May 20 2020",
+      "description": "Health officials worry reopening amid continued spread could spark second wave.",
+      "link": "https://arstechnica.com/science/2020/05/maryland-reopens-and-quickly-sees-its-largest-covid-19-spike/"
+    },
+    {
+      "title": "Ousted Scientist Says She Was Asked to Manipulate Florida COVID-19 Data",
+      "source": "Ars Technica",
+      "date": "May 20 2020",
+      "description": "Jones said she was ordered 'to manually change data' to support reopening.",
+      "link": "https://arstechnica.com/tech-policy/2020/05/ousted-scientist-says-she-was-asked-to-manipulate-florida-covid-19-data/"
+    },
+    {
+      "title": "'People Are Sick All Around Me': Inside the Coronavirus Catastrophe in California Prisons",
+      "source": "The Guardian",
+      "date": "May 20 2020",
+      "description": "Prisoners and advocates told the Guardian that some infected inmates are in isolation without medical care or adequate food, cut off from family and attorneys",
+      "link": "https://www.theguardian.com/us-news/2020/may/20/california-prisons-covid-19-outbreak-deaths"
+    },
+    {
+      "title": "Trump Announces Executive Order 'Suspending' Regulations Impeding the Economy",
+      "source": "The Independent",
+      "date": "May 20 2020",
+      "description": "President hands his Cabinet secretaries broad say to nix more regulations",
+      "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-press-conference-today-executive-order-economy-regulations-coronavirus-a9523126.html"
+    },
+    {
+      "title": "He Opposed Public Lands and Wildlife Protections. Trump Gave Him a Top Environment Job",
+      "source": "The Guardian",
+      "date": "May 20 2020",
+      "description": "Under the leadership of William Perry Pendley, the Bureau of Land Management is failing to fulfill its most basic duties of safeguarding America's public lands, his critics say",
+      "link": "https://www.theguardian.com/environment/2020/may/20/william-perry-pendley-trump-pick-top-environmental-post-endangered-species"
+    },
+    {
+      "title": "Let's Rebuild the Broken Meat Industry—Without Animals",
+      "source": "Wired",
+      "date": "May 20 2020",
+      "description": "Covid-19 has laid bare many flaws of industrialized animal agriculture. Plant- and cell-based alternatives offer a more resilient solution.",
+      "link": "https://www.wired.com/story/opinion-lets-rebuild-the-broken-meat-industry-without-animals/"
+    },
+    {
+      "title": "Climate Change Is Turning Antarctica's Snow Green",
+      "source": "Gizmodo",
+      "date": "May 20 2020",
+      "description": "As the planet warms, parts of the planet are going green—and not in the environmentally friendly way. Snow in coastal Antarctica is literally turning the color green.",
+      "link": "https://earther.gizmodo.com/climate-change-is-turning-antarcticas-snow-green-1843549489"
+    },
+    {
+      "title": "'Not a Mask in Sight': Thousands Flock to Yellowstone as Park Reopens",
+      "source": "The Guardian",
+      "date": "May 19 2020",
+      "description": "With support of the Trump administration, Yellowstone and Grand Teton national parks have partially reopened after Covid-19 closures",
+      "link": "https://www.theguardian.com/environment/2020/may/19/yellowstone-coronavirus-reopening-grand-teton-covid-19"
+    },
+    {
+      "title": "FBI Power to Warrantlessly Seize Your Web Browsing History May Hinge on a Single Democrat",
+      "source": "Gizmodo",
+      "date": "May 19 2020",
+      "description": "Republicans and Democrats engrossed in a fight over the future of privacy in America say the public support of a specific influential Democrat is likely critical to secure a vote next week on an amendment that would prohibit FBI agents from demanding Americans' web browsing data without a warrant.",
+      "link": "https://gizmodo.com/fbi-power-to-warrantlessly-seize-your-web-browsing-hist-1843552385"
+    },
+    {
+      "title": "Covid-19's Toll on Prison Labor Doesn't Just Hurt Inmates",
+      "source": "Wired",
+      "date": "May 19 2020",
+      "description": "Work stoppages impact the incarcerated workforce as well. The financial losses extend beyond the walls.",
+      "link": "https://www.wired.com/story/covid-19-prison-labor/"
+    },
+    {
+      "title": "America Just Made a Huge Investment in Next-Gen Nuclear Power",
+      "source": "Popular Mechanics",
+      "date": "May 19 2020",
+      "description": "That means tinier, better reactors in the near future.",
+      "link": "https://www.popularmechanics.com/science/a32598099/advanced-nuclear-power-tiny-reactors/"
+    },
+    {
+      "title": "Your Equifax Settlement $125 Isn't Coming, but Banks Get Their $5.5M",
+      "source": "Ars Technica",
+      "date": "May 19 2020",
+      "description": "Sure, you might only get a few cents at this point, but where is it?",
+      "link": "https://arstechnica.com/tech-policy/2020/05/banks-get-their-slice-of-equifax-settlement-individuals-still-waiting/"
+    },
+    {
+      "title": "The Trump Administration Gave a Drug-Making Contract Worth Up to $812 Million to a Small Virginia Firm Founded Less Than 6 Months Ago",
+      "source": "Business Insider",
+      "date": "May 19 2020",
+      "description": "The Trump administration is plowing hundreds of millions into boosting US medicine manufacturing, fearing an overreliance on foreign companies.",
+      "link": "https://www.businessinsider.com/coronavirus-trump-admin-gives-812m-contract-to-small-virginia-firm-2020-5"
+    },
+    {
+      "title": "Ukraine Catches Hacker Who Tried to Sell 773 Million Stolen Email Addresses",
+      "source": "Engadget",
+      "date": "May 19 2020",
+      "description": "Ukrainian officials detained the hacker, known as Sanix, who tried to sell a database with 773 million email addresses and 21 million unique passwords.",
+      "link": "https://www.engadget.com/ukraine-officials-arrest-hacker-sanix-stolen-emails-194657808.html"
+    },
+    {
+      "title": "Honest Political Ads - Gil Fulbright for Senate",
+      "source": "YouTube",
+      "date": "Jul 08 2014",
+      "description": "Join the movement to end political corruption: www.represent.us What would an honest politician actually sound like? America's biggest problems are going uns...",
+      "link": "https://www.youtube.com/watch?v=wz_V4lRdtjo"
+    },
+    {
+      "title": "Hollow Point Bullets Recalled That Don't Explode in Targets",
+      "source": "YouTube",
+      "date": "Mar 16 2009",
+      "description": "Steel Hawk Inc. is offering a full refund to customers who bought the non-flesh-shredding bullets.",
+      "link": "https://www.youtube.com/watch?v=f8XcVc_0ykU"
+    },
+    {
+      "title": "First Female Dictator Hailed as Step Forward for Women",
+      "source": "YouTube",
+      "date": "Feb 16 2009",
+      "description": "Amivi Gama's violent rise to power in East Timor has proved that women are just as capable as men when it comes to brutality and oppression.",
+      "link": "https://www.youtube.com/watch?v=iEtw3XJoJrE"
+    },
+    {
+      "title": "Memorial Honors Victims of Imminent Dam Disaster",
+      "source": "YouTube",
+      "date": "Jan 16 2008",
+      "description": "Officials in California dedicated the Folsom Dam Memorial, which will honor the nearby residents that will die when the faulty dam fails.",
+      "link": "https://www.youtube.com/watch?v=yjfrJzdx7DA"
+    },
     {
       "title": "It's Called Artificial Intelligence — But What Is Intelligence?",
       "source": "Wired",
@@ -421,7 +665,7 @@
       "link": "https://arstechnica.com/science/2020/05/us-projects-200000-new-covid-19-cases-per-day-3000-daily-deaths-by-june/"
     },
     {
-      "title": "Three Russian Doctors 'Fall' From Hospital Windows, Raising Questions Amid Coronavirus Pandemic",
+      "title": "Three Russian Doctors Fall From Hospital Windows, Raising Questions Amid Coronavirus Pandemic",
       "source": "CNN",
       "date": "May 04 2020",
       "description": "Three frontline health care workers have mysteriously fallen out of hospital windows in Russia over the past two weeks, heightening public attention to the working conditions for doctors and medical professionals amid the coronavirus pandemic.",

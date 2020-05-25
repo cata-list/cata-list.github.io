@@ -3,11 +3,255 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io/</link>
-		<id>GP5pU_zp2FthtRH2eFP5e</id>
+		<id>hmyasELArhczy74OjzR2n</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Tue May 19 2020 10:38:14 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Sun May 24 2020 14:11:29 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
-		<copyright>Copyright © 2020 Matthew McCutcheon. All rights reserved</copyright>
+		<item>
+			<title>Inside the NSA's Secret Tool for Mapping Your Social Network</title>
+			<source>Wired</source>
+			<pubDate>May 24 2020</pubDate>
+			<description><![CDATA[Edward Snowden revealed the agency's phone-record tracking program. But thanks to 'precomputed contact chaining,' that database was much more powerful than anyone knew.]]></description>
+			<link>https://www.wired.com/story/inside-the-nsas-secret-tool-for-mapping-your-social-network/</link>
+		</item>
+		<item>
+			<title>Coronavirus in the U.S.: Latest Map and Case Count</title>
+			<source>The New York Times</source>
+			<pubDate>May 23 2020</pubDate>
+			<description><![CDATA[A detailed county map shows the extent of the coronavirus outbreak, with tables of the number of cases by county.]]></description>
+			<link>https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html</link>
+		</item>
+		<item>
+			<title>No Masks Allowed: Stores Turn Customers Away in US Culture War</title>
+			<source>The Guardian</source>
+			<pubDate>May 22 2020</pubDate>
+			<description><![CDATA[Shops around the US make headlines for denying entry to those wearing masks as protesters argue against preventative measures in the name of freedom]]></description>
+			<link>https://www.theguardian.com/us-news/2020/may/22/us-stores-against-face-masks</link>
+		</item>
+		<item>
+			<title>Researchers Squeeze 44.2 Tbps Through Existing Fiber Optic Cables</title>
+			<source>Engadget</source>
+			<pubDate>May 22 2020</pubDate>
+			<description><![CDATA[Researchers in Australia used a device called a microcomb to break the record for the fastest internet connection.]]></description>
+			<link>https://www.engadget.com/44-tbps-internet-connection-154034760.html</link>
+		</item>
+		<item>
+			<title>Yes, the Patriot Act Amendment to Track Us Online Is Real</title>
+			<source>Engadget</source>
+			<pubDate>May 22 2020</pubDate>
+			<description><![CDATA[Looks like more bad news with the renewal of the Patriot Act/USA Freedom Act — and its terrible provision to allow government collection of Americans' internet browsing and search histories without a warrant.]]></description>
+			<link>https://www.engadget.com/yes-the-patriot-act-amendment-to-track-us-online-is-real-173055117.html</link>
+		</item>
+		<item>
+			<title>China Drops Word 'Peaceful' in Latest Push for Taiwan 'Reunification'</title>
+			<source>Reuters</source>
+			<pubDate>May 22 2020</pubDate>
+			<description><![CDATA[Chinese Premier Li Keqiang left out the word 'peaceful' on Friday in referring to Beijing's desire to 'reunify' with Chinese-claimed Taiwan, an apparent policy shift that comes as ties with Taipei continue on a downward spiral.]]></description>
+			<link>https://www.reuters.com/article/us-china-parliament-taiwan/china-drops-word-peaceful-in-latest-push-for-taiwan-reunification-idUSKBN22Y06S</link>
+		</item>
+		<item>
+			<title>It Hit 80 Degrees in the Arctic This Week</title>
+			<source>Gizmodo</source>
+			<pubDate>May 22 2020</pubDate>
+			<description><![CDATA[This story will provide important context for the headline, and I encourage you to read it—but really, the headline tells you what you need to know: It was 80 degrees Fahrenheit above the Arctic Circle this week.]]></description>
+			<link>https://earther.gizmodo.com/it-hit-80-degrees-in-the-arctic-this-week-1843606717</link>
+		</item>
+		<item>
+			<title>The U.S. Brags About Health Aid to Africa While Bombing Some of Its Most Vulnerable Nations</title>
+			<source>The Intercept</source>
+			<pubDate>May 22 2020</pubDate>
+			<description><![CDATA[Libya and Somalia, where U.S. forces have spent hundreds of millions on airstrikes, have fared especially poorly when it comes to direct U.S. health assistance.]]></description>
+			<link>https://theintercept.com/2020/05/22/us-africa-aid-coronavirus-somalia-libya/</link>
+		</item>
+		<item>
+			<title>Just Turning Your Phone on Qualifies as Searching It, Court Rules</title>
+			<source>Ars Technica</source>
+			<pubDate>May 21 2020</pubDate>
+			<description><![CDATA[Location data requires a warrant since 2018; lock screen may now, too.]]></description>
+			<link>https://arstechnica.com/tech-policy/2020/05/just-turning-your-phone-on-qualifies-as-searching-it-court-rules/</link>
+		</item>
+		<item>
+			<title>What Every Pharmaceutical Commercial Is REALLY Saying</title>
+			<source>YouTube</source>
+			<pubDate>May 21 2020</pubDate>
+			<description><![CDATA[Consume. www.trustourbrand.com]]></description>
+			<link>https://www.youtube.com/watch?v=xlWXhBw4TwU</link>
+		</item>
+		<item>
+			<title>Congress Has No Idea How Much Web Browsing Data the FBI Collects</title>
+			<source>Vice</source>
+			<pubDate>May 21 2020</pubDate>
+			<description><![CDATA[The Patriot Act is about to be reauthorized, but we still don't know basic facts about how our web browsing habits are being collected.]]></description>
+			<link>https://www.vice.com/en_us/article/ep4d97/congress-has-no-idea-how-much-web-browsing-data-the-fbi-collects</link>
+		</item>
+		<item>
+			<title>Nearly Half of Twitter Accounts Pushing to Reopen America May Be Bots</title>
+			<source>MIT Technology Review</source>
+			<pubDate>May 21 2020</pubDate>
+			<description><![CDATA[Kathleen M. Carley and her team at Carnegie Mellon University's Center for Informed Democracy & Social Cybersecurity have been tracking bots and influence campaigns for a long time. Across US and foreign elections, natural disasters, and other politicized events, the level of bot involvement is norm…]]></description>
+			<link>https://www.technologyreview.com/2020/05/21/1002105/covid-bot-twitter-accounts-push-to-reopen-america/</link>
+		</item>
+		<item>
+			<title>California: 1,200 Pastors Say They Will Defy State Order and Resume Services</title>
+			<source>The Guardian</source>
+			<pubDate>May 21 2020</pubDate>
+			<description><![CDATA[State allowing some businesses to reopen, but churches still banned. As many as 3,000 churches could hold services on 31 May]]></description>
+			<link>https://www.theguardian.com/us-news/2020/may/21/california-pastors-services-stay-home-order</link>
+		</item>
+		<item>
+			<title>The CIA's Murderous Practices, Disinformation Campaigns, and Interference in Other Countries Still Shape the World Order and U.S. Politics</title>
+			<source>The Intercept</source>
+			<pubDate>May 21 2020</pubDate>
+			<description><![CDATA[No understanding of international or domestic politics is possible without a factual grasp of the CIA's purpose.]]></description>
+			<link>https://theintercept.com/2020/05/21/the-cias-murderous-practices-disinformation-campaigns-and-interference-in-other-countries-still-shapes-the-world-order-and-u-s-politics/</link>
+		</item>
+		<item>
+			<title>'We've Been Muzzled': CDC Sources Say White House Putting Politics Ahead of Science</title>
+			<source>CNN</source>
+			<pubDate>May 20 2020</pubDate>
+			<description><![CDATA[In the early weeks of the US coronavirus outbreak, staff members in the U.S. Centers for Disease Control and Prevention had tracked a growing number of transmissions in Europe and elsewhere, and proposed a global advisory that would alert flyers to the dangers of air travel.]]></description>
+			<link>https://www.cnn.com/2020/05/20/politics/coronavirus-travel-alert-cdc-white-house-tensions-invs/index.html</link>
+		</item>
+		<item>
+			<title>Acting U.S. Spy Chief Questioned Over Warrantless Capture of Americans' Web Browsing History</title>
+			<source>Gizmodo</source>
+			<pubDate>May 20 2020</pubDate>
+			<description><![CDATA[U.S. Senator Ron Wyden, the sponsor of a recent amendment to stop the FBI from capturing Americans' search and web browsing histories without a warrant, is now asking the nation's top spy (acting) to disclose whether his office has accurately reported on such activities, which the law seemingly requ…]]></description>
+			<link>https://gizmodo.com/acting-u-s-spy-chief-questioned-over-warrantless-captu-1843572200</link>
+		</item>
+		<item>
+			<title>EasyJet Admits Data of Nine Million Hacked</title>
+			<source>BBC News</source>
+			<pubDate>May 20 2020</pubDate>
+			<description><![CDATA[The attack was 'sophisticated' the airline said, adding that some credit card details had been accessed.]]></description>
+			<link>https://www.bbc.com/news/technology-52722626</link>
+		</item>
+		<item>
+			<title>Maryland Reopens—and Quickly Sees Its Largest COVID-19 Spike</title>
+			<source>Ars Technica</source>
+			<pubDate>May 20 2020</pubDate>
+			<description><![CDATA[Health officials worry reopening amid continued spread could spark second wave.]]></description>
+			<link>https://arstechnica.com/science/2020/05/maryland-reopens-and-quickly-sees-its-largest-covid-19-spike/</link>
+		</item>
+		<item>
+			<title>Ousted Scientist Says She Was Asked to Manipulate Florida COVID-19 Data</title>
+			<source>Ars Technica</source>
+			<pubDate>May 20 2020</pubDate>
+			<description><![CDATA[Jones said she was ordered 'to manually change data' to support reopening.]]></description>
+			<link>https://arstechnica.com/tech-policy/2020/05/ousted-scientist-says-she-was-asked-to-manipulate-florida-covid-19-data/</link>
+		</item>
+		<item>
+			<title>'People Are Sick All Around Me': Inside the Coronavirus Catastrophe in California Prisons</title>
+			<source>The Guardian</source>
+			<pubDate>May 20 2020</pubDate>
+			<description><![CDATA[Prisoners and advocates told the Guardian that some infected inmates are in isolation without medical care or adequate food, cut off from family and attorneys]]></description>
+			<link>https://www.theguardian.com/us-news/2020/may/20/california-prisons-covid-19-outbreak-deaths</link>
+		</item>
+		<item>
+			<title>Trump Announces Executive Order 'Suspending' Regulations Impeding the Economy</title>
+			<source>The Independent</source>
+			<pubDate>May 20 2020</pubDate>
+			<description><![CDATA[President hands his Cabinet secretaries broad say to nix more regulations]]></description>
+			<link>https://www.independent.co.uk/news/world/americas/us-politics/trump-press-conference-today-executive-order-economy-regulations-coronavirus-a9523126.html</link>
+		</item>
+		<item>
+			<title>He Opposed Public Lands and Wildlife Protections. Trump Gave Him a Top Environment Job</title>
+			<source>The Guardian</source>
+			<pubDate>May 20 2020</pubDate>
+			<description><![CDATA[Under the leadership of William Perry Pendley, the Bureau of Land Management is failing to fulfill its most basic duties of safeguarding America's public lands, his critics say]]></description>
+			<link>https://www.theguardian.com/environment/2020/may/20/william-perry-pendley-trump-pick-top-environmental-post-endangered-species</link>
+		</item>
+		<item>
+			<title>Let's Rebuild the Broken Meat Industry—Without Animals</title>
+			<source>Wired</source>
+			<pubDate>May 20 2020</pubDate>
+			<description><![CDATA[Covid-19 has laid bare many flaws of industrialized animal agriculture. Plant- and cell-based alternatives offer a more resilient solution.]]></description>
+			<link>https://www.wired.com/story/opinion-lets-rebuild-the-broken-meat-industry-without-animals/</link>
+		</item>
+		<item>
+			<title>Climate Change Is Turning Antarctica's Snow Green</title>
+			<source>Gizmodo</source>
+			<pubDate>May 20 2020</pubDate>
+			<description><![CDATA[As the planet warms, parts of the planet are going green—and not in the environmentally friendly way. Snow in coastal Antarctica is literally turning the color green.]]></description>
+			<link>https://earther.gizmodo.com/climate-change-is-turning-antarcticas-snow-green-1843549489</link>
+		</item>
+		<item>
+			<title>'Not a Mask in Sight': Thousands Flock to Yellowstone as Park Reopens</title>
+			<source>The Guardian</source>
+			<pubDate>May 19 2020</pubDate>
+			<description><![CDATA[With support of the Trump administration, Yellowstone and Grand Teton national parks have partially reopened after Covid-19 closures]]></description>
+			<link>https://www.theguardian.com/environment/2020/may/19/yellowstone-coronavirus-reopening-grand-teton-covid-19</link>
+		</item>
+		<item>
+			<title>FBI Power to Warrantlessly Seize Your Web Browsing History May Hinge on a Single Democrat</title>
+			<source>Gizmodo</source>
+			<pubDate>May 19 2020</pubDate>
+			<description><![CDATA[Republicans and Democrats engrossed in a fight over the future of privacy in America say the public support of a specific influential Democrat is likely critical to secure a vote next week on an amendment that would prohibit FBI agents from demanding Americans' web browsing data without a warrant.]]></description>
+			<link>https://gizmodo.com/fbi-power-to-warrantlessly-seize-your-web-browsing-hist-1843552385</link>
+		</item>
+		<item>
+			<title>Covid-19's Toll on Prison Labor Doesn't Just Hurt Inmates</title>
+			<source>Wired</source>
+			<pubDate>May 19 2020</pubDate>
+			<description><![CDATA[Work stoppages impact the incarcerated workforce as well. The financial losses extend beyond the walls.]]></description>
+			<link>https://www.wired.com/story/covid-19-prison-labor/</link>
+		</item>
+		<item>
+			<title>America Just Made a Huge Investment in Next-Gen Nuclear Power</title>
+			<source>Popular Mechanics</source>
+			<pubDate>May 19 2020</pubDate>
+			<description><![CDATA[That means tinier, better reactors in the near future.]]></description>
+			<link>https://www.popularmechanics.com/science/a32598099/advanced-nuclear-power-tiny-reactors/</link>
+		</item>
+		<item>
+			<title>Your Equifax Settlement $125 Isn't Coming, but Banks Get Their $5.5M</title>
+			<source>Ars Technica</source>
+			<pubDate>May 19 2020</pubDate>
+			<description><![CDATA[Sure, you might only get a few cents at this point, but where is it?]]></description>
+			<link>https://arstechnica.com/tech-policy/2020/05/banks-get-their-slice-of-equifax-settlement-individuals-still-waiting/</link>
+		</item>
+		<item>
+			<title>The Trump Administration Gave a Drug-Making Contract Worth Up to $812 Million to a Small Virginia Firm Founded Less Than 6 Months Ago</title>
+			<source>Business Insider</source>
+			<pubDate>May 19 2020</pubDate>
+			<description><![CDATA[The Trump administration is plowing hundreds of millions into boosting US medicine manufacturing, fearing an overreliance on foreign companies.]]></description>
+			<link>https://www.businessinsider.com/coronavirus-trump-admin-gives-812m-contract-to-small-virginia-firm-2020-5</link>
+		</item>
+		<item>
+			<title>Ukraine Catches Hacker Who Tried to Sell 773 Million Stolen Email Addresses</title>
+			<source>Engadget</source>
+			<pubDate>May 19 2020</pubDate>
+			<description><![CDATA[Ukrainian officials detained the hacker, known as Sanix, who tried to sell a database with 773 million email addresses and 21 million unique passwords.]]></description>
+			<link>https://www.engadget.com/ukraine-officials-arrest-hacker-sanix-stolen-emails-194657808.html</link>
+		</item>
+		<item>
+			<title>Honest Political Ads - Gil Fulbright for Senate</title>
+			<source>YouTube</source>
+			<pubDate>Jul 08 2014</pubDate>
+			<description><![CDATA[Join the movement to end political corruption: www.represent.us What would an honest politician actually sound like? America's biggest problems are going uns...]]></description>
+			<link>https://www.youtube.com/watch?v=wz_V4lRdtjo</link>
+		</item>
+		<item>
+			<title>Hollow Point Bullets Recalled That Don't Explode in Targets</title>
+			<source>YouTube</source>
+			<pubDate>Mar 16 2009</pubDate>
+			<description><![CDATA[Steel Hawk Inc. is offering a full refund to customers who bought the non-flesh-shredding bullets.]]></description>
+			<link>https://www.youtube.com/watch?v=f8XcVc_0ykU</link>
+		</item>
+		<item>
+			<title>First Female Dictator Hailed as Step Forward for Women</title>
+			<source>YouTube</source>
+			<pubDate>Feb 16 2009</pubDate>
+			<description><![CDATA[Amivi Gama's violent rise to power in East Timor has proved that women are just as capable as men when it comes to brutality and oppression.]]></description>
+			<link>https://www.youtube.com/watch?v=iEtw3XJoJrE</link>
+		</item>
+		<item>
+			<title>Memorial Honors Victims of Imminent Dam Disaster</title>
+			<source>YouTube</source>
+			<pubDate>Jan 16 2008</pubDate>
+			<description><![CDATA[Officials in California dedicated the Folsom Dam Memorial, which will honor the nearby residents that will die when the faulty dam fails.]]></description>
+			<link>https://www.youtube.com/watch?v=yjfrJzdx7DA</link>
+		</item>
 		<item>
 			<title>It's Called Artificial Intelligence — But What Is Intelligence?</title>
 			<source>Wired</source>
@@ -422,7 +666,7 @@
 			<link>https://arstechnica.com/science/2020/05/us-projects-200000-new-covid-19-cases-per-day-3000-daily-deaths-by-june/</link>
 		</item>
 		<item>
-			<title>Three Russian Doctors 'Fall' From Hospital Windows, Raising Questions Amid Coronavirus Pandemic</title>
+			<title>Three Russian Doctors Fall From Hospital Windows, Raising Questions Amid Coronavirus Pandemic</title>
 			<source>CNN</source>
 			<pubDate>May 04 2020</pubDate>
 			<description><![CDATA[Three frontline health care workers have mysteriously fallen out of hospital windows in Russia over the past two weeks, heightening public attention to the working conditions for doctors and medical professionals amid the coronavirus pandemic.]]></description>
