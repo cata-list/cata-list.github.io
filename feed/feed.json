@@ -3,9 +3,142 @@
   "link": "https://cata-list.github.io/",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "5/24/2020, 2:11:29 PM",
-  "id": "hmyasELArhczy74OjzR2n",
+  "date": "5/28/2020, 4:45:52 PM",
+  "id": "a-ccln0l96uWVWIVYezN9",
   "articles": [
+    {
+      "title": "Mining Company Blows Up 46,000-Year-Old Aboriginal Site, Expresses No Regrets",
+      "source": "Gizmodo",
+      "date": "May 28 2020",
+      "description": "A culturally important archaeological site in Western Australia was destroyed this past weekend during the expansion of an iron ore mine. Upsettingly, the mining company responsible for the incident did so with state permission, exposing Australia's weak and bigoted heritage conservation laws.",
+      "link": "https://earther.gizmodo.com/mining-company-blows-up-46-000-year-old-aboriginal-site-1843729409"
+    },
+    {
+      "title": "ACLU Sues Clearview AI Over Alleged Privacy Violations",
+      "source": "Engadget",
+      "date": "May 28 2020",
+      "description": "The ACLU has sued Clearview AI for allegedly violating Illinois privacy law through its face recognition-based surveillance technology.",
+      "link": "https://www.engadget.com/aclu-sues-clearview-ai-164518487.html"
+    },
+    {
+      "title": "Leaked Draft Details Trump's Likely Attack on Technology Giants",
+      "source": "Ars Technica",
+      "date": "May 28 2020",
+      "description": "Draft executive order claims that technology giants have 'dangerous power.'",
+      "link": "https://arstechnica.com/tech-policy/2020/05/leaked-trump-order-is-a-wide-ranging-attack-on-facebook-and-twitter/"
+    },
+    {
+      "title": "After Twitter Fact-Check, Trump Threatens to Regulate or Close Down Social Media Platforms",
+      "source": "TechCrunch",
+      "date": "May 27 2020",
+      "description": "Once again, Donald Trump has doubled down. Following the addition of a fact-checking warning label added to his tweet about mail-in ballots, Trump took to the platform yet again to denounce it. In what may be his strongest words to date against a service that has largely given him free rein to this…",
+      "link": "https://techcrunch.com/2020/05/27/after-twitter-fact-check-trump-threatens-to-regulate-or-close-down-social-media-platforms/"
+    },
+    {
+      "title": "FBI Investigates Death of Black Man After Footage Shows Officer Kneeling on His Neck",
+      "source": "The Guardian",
+      "date": "May 27 2020",
+      "description": "Four officers fired in wake of death of George Floyd, who told Minneapolis police: 'I cannot breathe'",
+      "link": "https://www.theguardian.com/us-news/2020/may/26/george-floyd-killing-police-video-fbi-investigation"
+    },
+    {
+      "title": "100,000 Americans Dead—and Counting—as COVID-19 Ravages US",
+      "source": "Ars Technica",
+      "date": "May 27 2020",
+      "description": "US leads the world in cases and deaths—and the pandemic is far from over.",
+      "link": "https://arstechnica.com/science/2020/05/100000-dead-us-tops-grim-milestone-in-covid-19-pandemic/"
+    },
+    {
+      "title": "Whistleblowers Say Facebook Has Not Warned Investors About Illegal Activity, in New SEC Complaint",
+      "source": "Washington Post",
+      "date": "May 27 2020",
+      "description": "The whistleblower's complaint claims the social media giant is aware of illegal activity on its platform, such as the sale of opioids, and has failed to properly police it.",
+      "link": "https://www.washingtonpost.com/technology/2020/05/27/facebook-sec-whistleblower/"
+    },
+    {
+      "title": "Revealed: Conservative Group Fighting to Restrict Voting Tied to Powerful Dark Money Network",
+      "source": "The Guardian",
+      "date": "May 27 2020",
+      "description": "Honest Elections Project, part of network that pushed supreme court pick Brett Kavanaugh, is now focusing on voting restrictions",
+      "link": "https://www.theguardian.com/us-news/2020/may/27/honest-elections-project-conservative-voting-restrictions"
+    },
+    {
+      "title": "New Material Releases Hydrogen From Water at Near-Perfect Efficiency",
+      "source": "Ars Technica",
+      "date": "May 27 2020",
+      "description": "Only works at UV wavelengths, but it might point the way toward general approach.",
+      "link": "https://arstechnica.com/science/2020/05/new-material-releases-hydrogen-from-water-at-near-perfect-efficiency/"
+    },
+    {
+      "title": "How the Fed Bailed Out the Investor Class Without Spending a Cent",
+      "source": "The Intercept",
+      "date": "May 27 2020",
+      "description": "Just announcing $4.5 trillion in future spending to support securities markets was enough to keep investors protected from the downsides of the pandemic.",
+      "link": "https://theintercept.com/2020/05/27/federal-reserve-corporate-debt-coronavirus/"
+    },
+    {
+      "title": "YouTube Says That an Error Caused Comments Critical of China's Government to Auto-Delete",
+      "source": "TechCrunch",
+      "date": "May 26 2020",
+      "description": "YouTube responded to reports that it is automatically deleting comments criticizing the Chinese government, explaining that the seeming censorship is actually an error in its automated moderation systems. As the Verge reported, comments on the platform using the Chinese phrases for 'communist…",
+      "link": "https://techcrunch.com/2020/05/26/youtube-china-comments-wumao-dang/"
+    },
+    {
+      "title": "FBI Investigating Ahmaud Arbery Shooting as Possible Hate Crime, Lawyer Says",
+      "source": "The Guardian",
+      "date": "May 26 2020",
+      "description": "Attorney for family of black jogger shot by white men says federal authorities are looking into prosecutors and police in case",
+      "link": "https://www.theguardian.com/us-news/2020/may/25/ahmaud-arbery-shooting-hate-crime-fbi"
+    },
+    {
+      "title": "Local News Stations Run Propaganda Segment Scripted and Produced by Amazon",
+      "source": "Vice",
+      "date": "May 26 2020",
+      "description": "At least 11 TV stations aired an identical segment written and produced by Amazon's PR team.",
+      "link": "https://www.vice.com/en_us/article/4ayvwb/local-news-stations-run-propaganda-segments-scripted-and-produced-by-amazon"
+    },
+    {
+      "title": "Twitter's First Fact-Check on President Trump Calls Out 'False Claims' [Updated]",
+      "source": "Ars Technica",
+      "date": "May 26 2020",
+      "description": "Twitter: 'Get the facts.' Trump: 'Twitter is completely stifling FREE SPEECH.'",
+      "link": "https://arstechnica.com/tech-policy/2020/05/twitters-first-fact-check-on-president-trump-calls-out-false-claims/"
+    },
+    {
+      "title": "NASA and SpaceX Confirm SpaceX's First Ever Astronaut Launch Is a 'Go'",
+      "source": "TechCrunch",
+      "date": "May 25 2020",
+      "description": "NASA and SpaceX are closer than ever to a moment both have been preparing for since the beginning of the Commercial Crew program in 2010. SpaceX's Falcon 9 and Crew Dragon spacecraft are now set to fly with NASA astronauts Doug Hurley and Bob Behnken onboard, making a trip to the Internationa…",
+      "link": "https://techcrunch.com/2020/05/25/nasa-and-spacex-confirm-spacexs-first-ever-astronaut-launch-is-a-go/"
+    },
+    {
+      "title": "Hong Kong's Government Is Now Calling Pro-Democracy Protesters 'Terrorists'",
+      "source": "Vice",
+      "date": "May 25 2020",
+      "description": "Hong Kong's protesters are back, and the Beijing-backed government says their return only underscores the need for new treason and sedition laws.",
+      "link": "https://www.vice.com/en_us/article/889n4x/hong-kongs-government-is-now-calling-pro-democracy-protesters-terrorists"
+    },
+    {
+      "title": "A Third of Americans Now Show Signs of Clinical Anxiety or Depression, Census Bureau Finds Amid Coronavirus Pandemic",
+      "source": "Washington Post",
+      "date": "May 25 2020",
+      "description": "Symptoms of anxiety and depression are widespread during the pandemic, according to the Census Bureau's new Household Pulse Survey.",
+      "link": "https://www.washingtonpost.com/health/2020/05/26/americans-with-depression-anxiety-pandemic/?arc404=true"
+    },
+    {
+      "title": "US Beaches, Parks Full on Memorial Day Weekend Despite Pandemic",
+      "source": "Al Jazeera",
+      "date": "May 24 2020",
+      "description": "Health officials issue warnings after some revellers did not follow precautions while marking the beginning of summer.",
+      "link": "https://www.aljazeera.com/news/2020/05/beaches-parks-full-memorial-day-weekend-pandemic-200524183947394.html"
+    },
+    {
+      "title": "A Massive Database of 8 Billion Thai Internet Records Leaks",
+      "source": "TechCrunch",
+      "date": "May 24 2020",
+      "description": "The unprotected database contained DNS queries on millions of Thail internet users.",
+      "link": "https://techcrunch.com/2020/05/24/thai-billions-internet-records-leak/"
+    },
     {
       "title": "Inside the NSA's Secret Tool for Mapping Your Social Network",
       "source": "Wired",
@@ -19,6 +152,13 @@
       "date": "May 23 2020",
       "description": "A detailed county map shows the extent of the coronavirus outbreak, with tables of the number of cases by county.",
       "link": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html"
+    },
+    {
+      "title": "The Story of Cheaper Batteries, From Smartphones to Teslas",
+      "source": "Ars Technica",
+      "date": "May 22 2020",
+      "description": "The economics of cheaper batteries—and why they're good news for the planet.",
+      "link": "https://arstechnica.com/features/2020/05/the-story-of-cheaper-batteries-from-smartphones-to-teslas/"
     },
     {
       "title": "No Masks Allowed: Stores Turn Customers Away in US Culture War",
@@ -355,6 +495,13 @@
       "date": "May 17 2020",
       "description": "The orders are for disposable cuffs, gas masks, ballistic helmets, riot gloves, and equipment for federal police assigned to Veterans Affairs facilities.",
       "link": "https://theintercept.com/2020/05/17/veterans-affairs-coronavirus-security-police/"
+    },
+    {
+      "title": "Huge, Mysterious List Appears Online of Where People Met, Personal Information and More of Tens of Millions",
+      "source": "The Independent",
+      "date": "May 15 2020",
+      "description": "'There's nothing you nor I can do about it,' notes security expert",
+      "link": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/data-dump-personal-information-breach-crm-a9515931.html"
     },
     {
       "title": "'Stealth Bailout' Shovels Millions of Dollars to Oil Companies",
