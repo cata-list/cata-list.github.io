@@ -3,9 +3,191 @@
   "link": "https://cata-list.github.io/",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "6/6/2020, 7:42:44 PM",
-  "id": "kufgruMfeU09vAnESzP58",
+  "date": "6/12/2020, 2:14:51 PM",
+  "id": "ovEO6mGa4lQ8lZiJKzhR5",
   "articles": [
+    {
+      "title": "The Pandemic Is Propelling a New Wave of Automation",
+      "source": "Wired",
+      "date": "Jun 12, 2020",
+      "description": "Software programs adopted during the Covid-19 crisis make it easier to complete forms and track requests. It saves work, but could cost jobs.",
+      "link": "https://www.wired.com/story/pandemic-propelling-new-wave-automation/"
+    },
+    {
+      "title": "Powerful Petrochemical Lobbying Group Advanced Anti-Protest Legislation Amid Pandemic",
+      "source": "The Intercept",
+      "date": "Jun 12, 2020",
+      "description": "West Virginia is one of several states that have taken advantage of the pandemic to ease the construction of controversial oil and gas projects.",
+      "link": "https://theintercept.com/2020/06/07/pipeline-petrochemical-lobbying-group-anti-protest-law/"
+    },
+    {
+      "title": "Thousands of Tons of Microplastics Are Falling From the Sky",
+      "source": "Scientific American",
+      "date": "Jun 11, 2020",
+      "description": "New research helps unravel how vast amounts of plastic particles travel&mdash;both regionally and globally&mdash;on the wind",
+      "link": "https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/"
+    },
+    {
+      "title": "Plastic Dust Is Blowing Into U.S. National Parks—More Than 1000 Tons Each Year",
+      "source": "Science",
+      "date": "Jun 11, 2020",
+      "description": "New study begins to trace a global 'plastic cycle'",
+      "link": "https://www.sciencemag.org/news/2020/06/plastic-dust-blowing-us-national-parks-more-1000-tons-each-year"
+    },
+    {
+      "title": "Police Attacks on Protesters With 'Less Than Lethal' Weapons Result in Life-Threatening Injuries",
+      "source": "The Intercept",
+      "date": "Jun 11, 2020",
+      "description": "People demonstrating on the streets, or following along online, don't need studies to know that less-lethal weaponry isn't safe — particularly in crowds.",
+      "link": "https://theintercept.com/2020/06/11/police-less-than-lethal-weapons-protests/"
+    },
+    {
+      "title": "U.S. States Accuse 26 Drugmakers of Generic Drug Price Fixing in Sweeping Lawsuit",
+      "source": "Reuters",
+      "date": "Jun 11, 2020",
+      "description": "Twenty-six drug manufacturers were sued on Wednesday by the attorneys general of most U.S. states and several territories, which accused them of conspiring to reduce competition and drive up generic drug prices.",
+      "link": "https://www.reuters.com/article/us-usa-drugs-antitrust-lawsuit/u-s-states-accuse-26-drugmakers-of-generic-drug-price-fixing-in-sweeping-lawsuit-idUSKBN23H2TR"
+    },
+    {
+      "title": "2 Million Cases and Counting: US COVID-19 Outbreak Charges on Amid Reopening",
+      "source": "Ars Technica",
+      "date": "Jun 11, 2020",
+      "description": "Despite testing boosts, experts say increases are real; fear of second wave looms.",
+      "link": "https://arstechnica.com/science/2020/06/us-reaches-2-million-cases-as-states-continue-to-ease-restrictions/"
+    },
+    {
+      "title": "New Facebook Tool Allows Employers to Suppress 'Unionize' in Workplace Chat",
+      "source": "The Intercept",
+      "date": "Jun 11, 2020",
+      "description": "Facebook Workplace is used by employers as large as Walmart. The new tool would allow 'content control' to prevent certain topics from trending internally.",
+      "link": "https://theintercept.com/2020/06/11/facebook-workplace-unionize/"
+    },
+    {
+      "title": "Siberian Officials Say Huge Diesel Spill Has Reached a Sensitive Arctic Lake",
+      "source": "Gizmodo",
+      "date": "Jun 10, 2020",
+      "description": "A major diesel spill from a power plant in Siberia has reached a fragile freshwater lake that leads to the Arctic Ocean, according to regional officials. That could create an ecological catastrophe.",
+      "link": "https://earther.gizmodo.com/siberian-officials-say-huge-diesel-spill-has-reached-a-1843979303"
+    },
+    {
+      "title": "MIT, Guided by Open Access Principles, Ends Elsevier Negotiations",
+      "source": "MIT News",
+      "date": "Jun 10, 2020",
+      "description": "Institute ends negotiations for a new journals contract in the absence of a proposal aligning with the MIT Framework for Publisher Contracts.",
+      "link": "https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611"
+    },
+    {
+      "title": "The Coronavirus Pandemic Isn't Ending — It's Surging",
+      "source": "The Washington Post",
+      "date": "Jun 10, 2020",
+      "description": "Good news from some nations and diverted attention in others doesn't stop the fact the overall picture is very grim.",
+      "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
+    },
+    {
+      "title": "Protesters Across US Attacked by Cars Driven Into Crowds and Men With Guns",
+      "source": "The Guardian",
+      "date": "Jun 10, 2020",
+      "description": "Protesters confronted by armed men – including members of the so-called 'boogaloo movement' – in different parts of America",
+      "link": "https://www.theguardian.com/us-news/2020/jun/09/protests-us-america-cars-weapons"
+    },
+    {
+      "title": "Britain Goes Coal Free as Fossil Fuels Edged Out",
+      "source": "BBC News",
+      "date": "Jun 10, 2020",
+      "description": "On Wednesday, Britain will mark two months without burning any coal to generate power.",
+      "link": "https://www.bbc.com/news/science-environment-52973089"
+    },
+    {
+      "title": "Louisville Police Release the Breonna Taylor Incident Report. It's Nearly Blank",
+      "source": "USA Today",
+      "date": "Jun 10, 2020",
+      "description": "Nearly three months after police fatally shot Breonna Taylor, the department released the incident report. It is almost entirely blank.",
+      "link": "https://www.usatoday.com/story/news/nation/2020/06/10/breonna-taylor-case-louisville-police-nearly-blank-incident-report/5335929002/"
+    },
+    {
+      "title": "Researchers Detail Huge Hack-for-Hire Campaigns Against Environmentalists",
+      "source": "The Verge",
+      "date": "Jun 10, 2020",
+      "description": "'The extensive targeting of American nonprofits exercising their first amendment rights is exceptionally troubling.'",
+      "link": "https://www.theverge.com/2020/6/10/21286486/dark-basin-hackers-for-hire-phishing-emails-environmental-nonprofit-groups-exxon-mobil"
+    },
+    {
+      "title": "The Best Raspberry Pi Alternatives",
+      "source": "Wired",
+      "date": "Jun 09, 2020",
+      "description": "If you're working on a project that a Pi can't tackle, here are five single-board computers that power any DIY demand.",
+      "link": "https://www.wired.com/gallery/best-raspberry-pi-alternatives/"
+    },
+    {
+      "title": "Coronavirus Hospitalizations Rise Sharply in Several States Following Memorial Day",
+      "source": "The Washington Post",
+      "date": "Jun 9, 2020",
+      "description": "Since Memorial Day, covid-19 hospitalizations in at least nine states have been on the rise.",
+      "link": "https://www.washingtonpost.com/health/2020/06/09/coronavirus-hospitalizations-rising/"
+    },
+    {
+      "title": "We Mapped Where Customs and Border Protection Drones Are Flying in the U.S. and Beyond",
+      "source": "Gizmodo",
+      "date": "Jun 9, 2020",
+      "description": "In 2011, Rodney Brossart, a cattle rancher from Lakota, North Dakota was accused of stealing six cows. The cows, he said, simply wandered on to his 3,000-acre farm, and by his estimation, they, therefore, belonged to him. When the cops came, he and his family were prepared. Armed with high power rif…",
+      "link": "https://gizmodo.com/we-mapped-where-customs-and-border-protection-drones-ar-1843928454"
+    },
+    {
+      "title": "Police Officers Slashed Car Tires During Minneapolis Protests, Police Agencies Say",
+      "source": "NPR",
+      "date": "Jun 8, 2020",
+      "description": "Dozens of cars in a Kmart parking lot had all their tires slashed after public anger over George Floyd's death sparked large protests in Minneapolis.",
+      "link": "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/09/873110812/police-officers-slashed-car-tires-during-minneapolis-protests-police-agencies-sa"
+    },
+    {
+      "title": "Hospitals Got Bailouts and Furloughed Thousands While Paying C.E.O.s Millions",
+      "source": "The New York Times",
+      "date": "Jun 8, 2020",
+      "description": "Dozens of top recipients of government aid have laid off, furloughed or cut the pay of tens of thousands of employees.",
+      "link": "https://www.nytimes.com/2020/06/08/business/hospitals-bailouts-ceo-pay.html"
+    },
+    {
+      "title": "To Save the Climate, Look to the Oceans",
+      "source": "Scientific American",
+      "date": "Jun 8, 2020",
+      "description": "They can be a source of clean, renewable energy, sustainable food,&nbsp;and more",
+      "link": "https://blogs.scientificamerican.com/observations/to-save-the-climate-look-to-the-oceans/"
+    },
+    {
+      "title": "You Have a First Amendment Right to Record the Police",
+      "source": "Electronic Frontier Foundation",
+      "date": "Jun 8, 2020",
+      "description": "Like the rest of the world, we are horrified by the videos of George Floyd's murder. Once again, police brutality was documented by brave bystanders exercising their First Amendment rights. Their videos forcefully tell a painful truth that has further fueled a movement to demand an end to racism...",
+      "link": "https://www.eff.org/deeplinks/2020/06/you-have-first-amendment-right-record-police"
+    },
+    {
+      "title": "Yes, American Police Act Like Occupying Armies. They Literally Studied Their Tactics",
+      "source": "The Guardian",
+      "date": "Jun 8, 2020",
+      "description": "The founders of modern policing quelled foreign uprisings. 'Demilitarizing' police will be harder than taking away their tanks",
+      "link": "https://www.theguardian.com/commentisfree/2020/jun/08/yes-american-police-act-like-occupying-armies-they-literally-studied-their-tactics"
+    },
+    {
+      "title": "We Can No Longer Ignore the Potential of Psychedelic Drugs to Treat Depression",
+      "source": "The Guardian",
+      "date": "Jun 8, 2020",
+      "description": "At Imperial College we've been comparing psilocybin to conventional antidepressants – and the results are likely to be game-changing, says Robin Carhart-Harris",
+      "link": "https://www.theguardian.com/commentisfree/2020/jun/08/psychedelic-drugs-treat-depression"
+    },
+    {
+      "title": "A New CDC Survey Finds That Some Americans Are Misusing Disinfectants",
+      "source": "Gizmodo",
+      "date": "Jun 7, 2020",
+      "description": "A new survey by the Centers for Disease Control and Prevention (CDC) has found that some Americans are misusing cleaning and disinfectant products to prevent coronavirus. Some practices include misting their bodies with disinfectant and gargling bleach.",
+      "link": "https://gizmodo.com/cdc-americans-are-misting-their-bodies-with-disinfecta-1843944408"
+    },
+    {
+      "title": "It's Official: U.S. Economy Is in a Recession",
+      "source": "NPR",
+      "date": "Jun 7, 2020",
+      "description": "The committee tasked with marking U.S. business cycles says the economy peaked in February and has since been in a recession triggered by the pandemic. But it says the recession could be short-lived.",
+      "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/08/872336272/its-official-scorekeepers-say-u-s-economy-is-in-a-recession"
+    },
     {
       "title": "Protests About Police Brutality Are Met With Wave of Police Brutality Across US",
       "source": "The Guardian",
@@ -21,11 +203,25 @@
       "link": "https://www.wired.com/story/police-tactics-could-turn-protests-into-covid-19-hot-spots/"
     },
     {
+      "title": "The Unluckiest Generation in U.S. History",
+      "source": "The Washington Post",
+      "date": "Jun 5, 2020",
+      "description": "Millennials have faced the worst economic odds, and many will never recover.",
+      "link": "https://www.washingtonpost.com/business/2020/05/27/millennial-recession-covid/"
+    },
+    {
       "title": "Police Misconduct Records Are Secret. Protests May Finally Change That.",
       "source": "The New York Times",
       "date": "Jun 5, 2020",
       "description": "A decades-old New York State law that has kept police behavior from public scrutiny may finally be overturned.",
       "link": "https://www.nytimes.com/2020/06/05/nyregion/police-misconduct-records-are-secret-protests-may-finally-change-that.html"
+    },
+    {
+      "title": "Trump Signs Order Removing Environmental Review of Major Projects",
+      "source": "The Hill",
+      "date": "Jun 5, 2020",
+      "description": "President Trump signed an executive order Thursday evening that would waive requirements under a suite of environmental laws, a move the administration says will boost the economy amid the coronavirus pandemic.",
+      "link": "https://thehill.com/policy/energy-environment/501258-trump-signs-order-removing-environmental-review-for-major-projects"
     },
     {
       "title": "Amid Pandemic and Protests, Trump Fast-Tracks Dangerous Fossil Fuel Infrastructure",
@@ -280,6 +476,20 @@
       "link": "https://gizmodo.com/your-phone-is-a-goldmine-of-hidden-data-for-cops-heres-1843817740"
     },
     {
+      "title": "Mass Extinctions Are Accelerating, Scientists Report",
+      "source": "The New York Times",
+      "date": "Jun 1, 2020",
+      "description": "Five hundred species are likely to become extinct over the next two decades, according to a new study.",
+      "link": "https://www.nytimes.com/2020/06/01/science/mass-extinctions-are-accelerating-scientists-report.html"
+    },
+    {
+      "title": "British Photographer Arrested at George Floyd Protests in 'Affront to Press Freedom'",
+      "source": "The Independent",
+      "date": "Jun 1, 2020",
+      "description": "'One big cop came at me and pushed me to the ground with his truncheon to my chest,' says Adam Gray – hit with unlawful assembly charge after taking photos of protesters",
+      "link": "https://www.independent.co.uk/news/world/americas/george-floyd-protests-uk-photographer-arrested-charged-new-york-city-a9542631.html"
+    },
+    {
       "title": "Major Breakthrough Allows Robot Hand to 'See and Feel' Objects as Fragile as a Crisp",
       "source": "The Independent",
       "date": "Jun 1, 2020",
@@ -397,6 +607,13 @@
       "date": "May 29, 2020",
       "description": "CNN has reported that its correspondent Omar Jimenez, producer Bill Kirkos and photojournalist Leonel Mendez have been released from police custody after they were arrested in Minneapolis live on air.",
       "link": "https://www.theguardian.com/media/video/2020/may/29/cnn-journalists-omar-jimenez-minneapolis-arrested-live-on-air-while-covering-george-floyd-protests-video"
+    },
+    {
+      "title": "A.C.L.U. Accuses Clearview AI of Privacy 'Nightmare Scenario'",
+      "source": "The New York Times",
+      "date": "May 28, 2020",
+      "description": "The facial recognition start-up violated the privacy of Illinois residents by collecting their images without their consent, the civil liberties group says in a new lawsuit.",
+      "link": "https://www.nytimes.com/2020/05/28/technology/clearview-ai-privacy-lawsuit.html"
     },
     {
       "title": "The CDC Released New Death Rate Estimates for the Coronavirus. Many Scientists Say They're Too Low.",
