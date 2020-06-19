@@ -3,9 +3,142 @@
   "link": "https://cata-list.github.io/",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "6/12/2020, 2:14:51 PM",
-  "id": "ovEO6mGa4lQ8lZiJKzhR5",
+  "date": "6/19/2020, 1:58:04 PM",
+  "id": "WatH6u02selKF-UH1-8rl",
   "articles": [
+    {
+      "title": "China Believed to Be Behind Major Cyber Attack on Australian Governments and Businesses",
+      "source": "ABC News",
+      "date": "Jun 19, 2020",
+      "description": "Federal Government agencies believe China is the nation behind ongoing cyber attacks on Australian institutions, including hospitals, in recent months.",
+      "link": "https://www.abc.net.au/news/2020-06-19/foreign-cyber-hack-targets-australian-government-and-business/12372470"
+    },
+    {
+      "title": "Combining Therapy With the Psychedelic Drug Psilocybin Results in Large Reductions in Anxiety and Depression",
+      "source": "PsyPost",
+      "date": "Jun 18, 2020",
+      "description": "Psilocybin is a hallucinogenic compound found in so-called 'magic mushrooms'. A recent meta-analysis published in Psychiatry Research provides tentative ...",
+      "link": "https://www.psypost.org/2020/06/combining-therapy-with-the-psychedelic-drug-psilocybin-results-in-large-reductions-in-anxiety-and-depression-57092"
+    },
+    {
+      "title": "U.S. Ranked Worst for Workers' Rights Among Major Economies",
+      "source": "Bloomberg",
+      "date": "Jun 17, 2020",
+      "description": "The U.S. has the worst record among major developed countries when it comes to workers' rights, according to a survey of labor unions.",
+      "link": "https://www.bloomberg.com/news/articles/2020-06-18/u-s-ranked-worst-for-workers-rights-among-major-economies"
+    },
+    {
+      "title": "Millions of Abandoned Oil Wells Are Leaking Methane, a Climate Menace",
+      "source": "Reuters",
+      "date": "Jun 17, 2020",
+      "description": "(This June 16 story corrects comparison in paragraph eight of climate damage from methane leaks to that from U.S. oil consumption. The leaks cause climate damage roughly equivalent to typical U.S. oil consumption in one day, not two days.)",
+      "link": "https://www.reuters.com/article/us-usa-drilling-abandoned-specialreport/special-report-millions-of-abandoned-oil-wells-are-leaking-methane-a-climate-menace-idUSKBN23N1NL"
+    },
+    {
+      "title": "PG&E Pleads Guilty to Manslaughter: 'Our Equipment Started the fire.'",
+      "source": "Ars Technica",
+      "date": "Jun 17, 2020",
+      "description": "PG&E's 'gross negligence' led to massive 2018 Camp Fire, district attorney said.",
+      "link": "https://arstechnica.com/tech-policy/2020/06/utility-pleads-guilty-to-84-counts-of-manslaughter-in-california-fire/"
+    },
+    {
+      "title": "Massive Spying on Users of Google's Chrome Shows New Security Weakness",
+      "source": "Reuters",
+      "date": "Jun 17, 2020",
+      "description": "A newly discovered spyware effort attacked users through 32 million downloads of extensions to Google's market-leading Chrome web browser, researchers at Awake Security told Reuters, highlighting the tech industry's failure to protect browsers as they are used more for email, payroll and other sensi…",
+      "link": "https://www.reuters.com/article/us-alphabet-google-chrome-exclusive/exclusive-massive-spying-on-users-of-googles-chrome-shows-new-security-weakness-idUSKBN23P0JO"
+    },
+    {
+      "title": "How to Spot Police Surveillance Tools",
+      "source": "Popular Mechanics",
+      "date": "Jun 17, 2020",
+      "description": "Officers are likely tracking your every move at protests. But if you know what to look for, it's easy to protect yourself.",
+      "link": "https://www.popularmechanics.com/technology/security/a32851975/police-surveillance-tools-protest-guide/"
+    },
+    {
+      "title": "A $1.1m Hospital Bill After Surviving the Coronavirus? That's America for You",
+      "source": "The Guardian",
+      "date": "Jun 16, 2020",
+      "description": "It shouldn't take a once-in-a-century pandemic to make policymakers understand the tragic absurdity of healthcare in the United States of America",
+      "link": "https://www.theguardian.com/commentisfree/2020/jun/16/coronavirus-hospital-bill-healthcare-america"
+    },
+    {
+      "title": "The Auto Industry Is Wrecked—Let's Rebuild It With Electric",
+      "source": "Wired",
+      "date": "Jun 16, 2020",
+      "description": "It's the perfect time for a transportation revolution: the Green-Car New Deal.",
+      "link": "https://www.wired.com/story/the-auto-industry-is-wrecked-lets-rebuild-it-with-electric/"
+    },
+    {
+      "title": "Universities Step Up the Fight for Open-Access Research",
+      "source": "Wired",
+      "date": "Jun 16, 2020",
+      "description": "Today's deal between the University of California and publisher Springer Nature is a big milestone on the path to dismantling paywalls around academic journals.",
+      "link": "https://www.wired.com/story/universities-step-up-the-fight-for-open-access-research/"
+    },
+    {
+      "title": "The Russian Disinfo Operation You Never Heard About",
+      "source": "Wired",
+      "date": "Jun 16, 2020",
+      "description": "The campaign known as Secondary Infektion appears to be a distinct effort from the meddling of the IRA and GRU—and it went undetected for years.",
+      "link": "https://www.wired.com/story/russia-secondary-infektion-disinformation/"
+    },
+    {
+      "title": "You Can Now Buy Spot the Robot Dog—if You've Got $74,500",
+      "source": "Wired",
+      "date": "Jun 16, 2020",
+      "description": "Boston Dynamics is finally making its mechanical canine available for businesses and developers. But know that this puppy ain't for everyone.",
+      "link": "https://www.wired.com/story/you-can-now-buy-spot-the-robot-dog/"
+    },
+    {
+      "title": "Researchers Uncover Six-Year Russian Misinformation Campaign Across Facebook and Reddit",
+      "source": "The Verge",
+      "date": "Jun 16, 2020",
+      "description": "More than 2500 posts across 300 platforms",
+      "link": "https://www.theverge.com/2020/6/16/21292982/russian-troll-campaign-facebook-reddit-twitter-misinformation"
+    },
+    {
+      "title": "Multiple 'CIA Failures' Led to Theft of Agency's Top-Secret Hacking Tools",
+      "source": "Ars Technica",
+      "date": "Jun 16, 2020",
+      "description": "Vault 7, the worst data theft in CIA history, could have been avoided, report finds.",
+      "link": "https://arstechnica.com/information-technology/2020/06/theft-of-top-secret-cia-hacking-tools-was-result-of-woefully-lax-security/"
+    },
+    {
+      "title": "Political Groups Use 'Deeply Spooky' Protester Location Data, Report Finds",
+      "source": "Ars Technica",
+      "date": "Jun 15, 2020",
+      "description": "Activists want demonstrators to stay active—but privacy implications abound.",
+      "link": "https://arstechnica.com/tech-policy/2020/06/political-groups-use-deeply-spooky-protester-location-data-report-finds/"
+    },
+    {
+      "title": "How Fighting Poverty Accidentally Stopped Deforestation",
+      "source": "Bloomberg",
+      "date": "Jun 15, 2020",
+      "description": "Evidence from Indonesia shows that development goals don’t have to come at a cost to the climate.",
+      "link": "https://www.bloomberg.com/news/articles/2020-06-15/how-fighting-poverty-accidentally-stopped-deforestation"
+    },
+    {
+      "title": "Zoom Shut Down US-Based Activists at China's Request",
+      "source": "Wired",
+      "date": "Jun 13, 2020",
+      "description": "Hackers for hire, a particularly ignominious phishing campaign, and more of the week's top security news.",
+      "link": "https://www.wired.com/story/zoom-china-facebook-fbi-security-news/"
+    },
+    {
+      "title": "Three People With Inherited Diseases Successfully Treated With CRISPR",
+      "source": "New Scientist",
+      "date": "Jun 12, 2020",
+      "description": "Two people with beta thalassaemia and one with sickle cell disease no longer need blood transfusions after their blood stem cells were gene edited and put back in their bodies",
+      "link": "https://www.newscientist.com/article/2246020-three-people-with-inherited-diseases-successfully-treated-with-crispr/"
+    },
+    {
+      "title": "CEO Worked Way Up From Son of CEO",
+      "source": "YouTube",
+      "date": "Oct 23, 2013",
+      "description": "No description provided.",
+      "link": "https://www.youtube.com/watch?v=_67JbvXLrmw&feature=youtu.be"
+    },
     {
       "title": "The Pandemic Is Propelling a New Wave of Automation",
       "source": "Wired",
