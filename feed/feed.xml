@@ -3,10 +3,24 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io/</link>
-		<id>M2VOGh7iVhJRnKD2dXq2K</id>
+		<id>F9zS5BaXpFXlhOUMxkX1_</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Sun Jun 21 2020 10:38:17 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Mon Jun 22 2020 14:21:32 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Who's to Blame for Plastic Microfiber Pollution?</title>
+			<source>Wired</source>
+			<pubDate>Jun 22, 2020</pubDate>
+			<description><![CDATA[Tiny bits of plastic are corrupting every corner of the planet. The major culprits: cheap synthetic clothing and washing machines.]]></description>
+			<link>https://www.wired.com/story/whos-to-blame-for-plastic-microfiber-pollution/</link>
+		</item>
+		<item>
+			<title>Anonymous Stole and Leaked a Megatrove of Police Documents</title>
+			<source>Wired</source>
+			<pubDate>Jun 22, 2020</pubDate>
+			<description><![CDATA[The so-called BlueLeaks collection includes internal memos, financial records, and more from over 200 state, local, and federal agencies.]]></description>
+			<link>https://www.wired.com/story/blueleaks-anonymous-law-enforcement-hack/</link>
+		</item>
 		<item>
 			<title>U.S. Watched George Floyd Protests in 15 Cities Using Aerial Surveillance</title>
 			<source>The New York Times</source>
