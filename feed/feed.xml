@@ -3,10 +3,24 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io/</link>
-		<id>F9zS5BaXpFXlhOUMxkX1_</id>
+		<id>gsajTW7SFbQPPXQaPFxA1</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Mon Jun 22 2020 14:21:32 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Tue Jun 23 2020 08:12:36 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Millions of Americans Can't Afford Water as Bills Rise 80% in a Decade</title>
+			<source>The Guardian</source>
+			<pubDate>Jun 23, 2020</pubDate>
+			<description><![CDATA[Analysis of US cities shows emergency on affordability of running water amid Covid-19 pandemic]]></description>
+			<link>https://www.theguardian.com/us-news/2020/jun/23/millions-of-americans-cant-afford-water-bills-rise</link>
+		</item>
+		<item>
+			<title>Police Unions Spend Millions to Influence Policy in Biggest US Cities</title>
+			<source>The Guardian</source>
+			<pubDate>Jun 23, 2020</pubDate>
+			<description><![CDATA[Analysis shows how organizations and officers in New York, Los Angeles and Chicago work against reform]]></description>
+			<link>https://www.theguardian.com/us-news/2020/jun/23/police-unions-spending-policy-reform-chicago-new-york-la</link>
+		</item>
 		<item>
 			<title>Who's to Blame for Plastic Microfiber Pollution?</title>
 			<source>Wired</source>
