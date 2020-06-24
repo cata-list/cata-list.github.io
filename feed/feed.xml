@@ -3,10 +3,108 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io/</link>
-		<id>gsajTW7SFbQPPXQaPFxA1</id>
+		<id>vOBmCbpAaBDOY5Kmbiijc</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Tue Jun 23 2020 08:12:36 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Wed Jun 24 2020 14:08:37 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>FBI Expands Ability to Monitor Social Media, Location Data</title>
+			<source>The Intercept</source>
+			<pubDate>Jun 24, 2020</pubDate>
+			<description><![CDATA[Recent contracts with Dataminr and Venntel show a growing focus on harnessing the latest private sector tools for mass surveillance.]]></description>
+			<link>https://theintercept.com/2020/06/24/fbi-surveillance-social-media-cellphone-dataminr-venntel/</link>
+		</item>
+		<item>
+			<title>Roundup Maker to Pay $10 Billion to Settle Cancer Suits</title>
+			<source>The New York Times</source>
+			<pubDate>Jun 24, 2020</pubDate>
+			<description><![CDATA[Bayer faced tens of thousands of claims linking the weedkiller to cases of non-Hodgkin's lymphoma. Some of the money is set aside for future cases.]]></description>
+			<link>https://www.nytimes.com/2020/06/24/business/roundup-settlement-lawsuits.html</link>
+		</item>
+		<item>
+			<title>An Algorithm That 'Predicts' Criminality Based on a Face Sparks a Furor</title>
+			<source>Wired</source>
+			<pubDate>Jun 24, 2020</pubDate>
+			<description><![CDATA[Its creators said they could use facial analysis to determine if someone would become a criminal. Critics said the work recalled debunked 'race science.']]></description>
+			<link>https://www.wired.com/story/algorithm-predicts-criminality-based-face-sparks-furor/</link>
+		</item>
+		<item>
+			<title>US Moves to Exempt Companies From Reporting Harmful Chemical Releases</title>
+			<source>The Guardian</source>
+			<pubDate>Jun 24, 2020</pubDate>
+			<description><![CDATA[The exemption allows companies to bypass an EPA law meant to address widespread contamination from perflourinated chemicals]]></description>
+			<link>https://www.theguardian.com/environment/2020/jun/24/epa-pfas-chemical-releases-exemption-us</link>
+		</item>
+		<item>
+			<title>It's Unconstitutional for Cops to Force Phone Unlocking, Court Rules</title>
+			<source>Ars Technica</source>
+			<pubDate>Jun 24, 2020</pubDate>
+			<description><![CDATA[US courts disagree on whether suspects can be forced to unlock their phones.]]></description>
+			<link>https://arstechnica.com/tech-policy/2020/06/indiana-supreme-court-its-unconstitutional-to-force-phone-unlocking/</link>
+		</item>
+		<item>
+			<title>Why the Arctic Is Warming So Fast, and Why That's So Alarming</title>
+			<source>Wired</source>
+			<pubDate>Jun 23, 2020</pubDate>
+			<description><![CDATA[When permafrost thaws, sea ice disappears, and wildfires rage in the north, the consequences extend to the rest of the world.]]></description>
+			<link>https://www.wired.com/story/why-the-arctic-is-warming-so-fast/</link>
+		</item>
+		<item>
+			<title>My Family Saw a Police Car Hit a Kid on Halloween. Then I Learned How NYPD Impunity Works.</title>
+			<source>ProPublica</source>
+			<pubDate>Jun 23, 2020</pubDate>
+			<description><![CDATA[ProPublica Deputy Managing Editor Eric Umansky's family saw an unmarked NYPD cruiser hit a Black teenager. He tried to find out how it happened, and instead found all of the ways the NYPD is shielded from accountability.]]></description>
+			<link>https://www.propublica.org/article/my-family-saw-a-police-car-hit-a-kid-on-halloween-then-i-learned-how-nypd-impunity-works</link>
+		</item>
+		<item>
+			<title>Trump Contradicts Aides and Insists He Meant It When He Asked for Coronavirus Testing to Be Slowed Down</title>
+			<source>The Independent</source>
+			<pubDate>Jun 23, 2020</pubDate>
+			<description><![CDATA[Press Secretary told reporters a day earlier president was just 'joking' on Saturday night about slowing testing]]></description>
+			<link>https://www.independent.co.uk/news/world/americas/us-politics/trump-coronavirus-testing-slow-down-press-conference-today-arizona-a9581306.html</link>
+		</item>
+		<item>
+			<title>Hospitals Sued to Keep Prices Secret. They Lost.</title>
+			<source>The New York Times</source>
+			<pubDate>Jun 23, 2020</pubDate>
+			<description><![CDATA[The decision was a victory for the Trump administration, which sees pressure from patients as a way to control health costs.]]></description>
+			<link>https://www.nytimes.com/2020/06/23/upshot/hospitals-lost-price-transparency-lawsuit.html</link>
+		</item>
+		<item>
+			<title>Toxic Methanol That Causes Blindness Found in Hand Sanitizers, FDA Warns</title>
+			<source>Ars Technica</source>
+			<pubDate>Jun 23, 2020</pubDate>
+			<description><![CDATA[Methanol is toxic when ingested, inhaled, and absorbed through the skin.]]></description>
+			<link>https://arstechnica.com/science/2020/06/toxic-methanol-that-causes-blindness-found-in-hand-sanitizers-fda-warns/</link>
+		</item>
+		<item>
+			<title>Covid-19 Has Led to a Pandemic of Plastic Pollution</title>
+			<source>The Economist</source>
+			<pubDate>Jun 22, 2020</pubDate>
+			<description><![CDATA[As the world produces more protective equipment—and gorges on takeaways—pity the oceans]]></description>
+			<link>https://www.economist.com/international/2020/06/22/covid-19-has-led-to-a-pandemic-of-plastic-pollution</link>
+		</item>
+		<item>
+			<title>Climate Emission Killer: Construction Begins on World's Biggest Liquid Air Battery</title>
+			<source>The Guardian</source>
+			<pubDate>Jun 18, 2020</pubDate>
+			<description><![CDATA[Exclusive: project will store renewable energy and reduce climate-heating emissions]]></description>
+			<link>https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk</link>
+		</item>
+		<item>
+			<title>Racist Police Violence Reconsidered</title>
+			<source>Quillette</source>
+			<pubDate>Jun 11, 2020</pubDate>
+			<description><![CDATA[Tony Timpa was 32 years old when he died at the hands of the Dallas police in August 2016. He suffered from mental health difficulties and was unarmed. He wasn't resisting arrest. He had called the cops from a parking lot while intoxicated because he thought he might be a danger to himself. By the t…]]></description>
+			<link>https://quillette.com/2020/06/11/racist-police-violence-reconsidered/</link>
+		</item>
+		<item>
+			<title>America's Black Communities Are Suffering. Violent Protests Will Make the Suffering Worse</title>
+			<source>Quillette</source>
+			<pubDate>May 30, 2020</pubDate>
+			<description><![CDATA[Protests sparked by the death of George Floyd at the hands of Minneapolis police officer Derek Chauvin—an act that prosecutors describe as murder—have devolved into violence. Numerous small businesses have been destroyed, and at least one elderly shopper at a Target store was assaulted. A man has be…]]></description>
+			<link>https://quillette.com/2020/05/30/americas-black-communities-are-suffering-violent-protests-will-make-the-suffering-worse/</link>
+		</item>
 		<item>
 			<title>Millions of Americans Can't Afford Water as Bills Rise 80% in a Decade</title>
 			<source>The Guardian</source>
