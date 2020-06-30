@@ -3,16 +3,79 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io/</link>
-		<id>aKN8w1jSIzRFNwYe4xAJe</id>
+		<id>pFc88oonzePY50O4MxN_k</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Fri Jun 26 2020 11:12:57 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Tue Jun 30 2020 14:10:38 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
 		<item>
-			<title>This Chart Shows Just How Badly the U.S. Coronavirus Response Has Damaged America's Reputation in Europe</title>
-			<source>MarketWatch</source>
+			<title>Nuclear 'Power Balls' May Make Meltdowns a Thing of the Past</title>
+			<source>Wired</source>
+			<pubDate>Jun 30, 2020</pubDate>
+			<description><![CDATA[Triso particles are an alien-looking fuel with built-in safety features that will power a new generation of high-temperature reactors.]]></description>
+			<link>https://www.wired.com/story/nuclear-power-balls-triso-fuel/</link>
+		</item>
+		<item>
+			<title>Detroit Police Chief Cops to 96-Percent Facial Recognition Error Rate</title>
+			<source>Ars Technica</source>
+			<pubDate>Jun 30, 2020</pubDate>
+			<description><![CDATA[Detroit police are under fire for a mistaken arrest using the technology.]]></description>
+			<link>https://arstechnica.com/tech-policy/2020/06/detroit-police-chief-admits-facial-recognition-is-wrong-96-of-the-time/</link>
+		</item>
+		<item>
+			<title>Scientists Say New Strain of Swine Flu Virus Is Spreading to Humans in China</title>
+			<source>The New York Times</source>
+			<pubDate>Jun 30, 2020</pubDate>
+			<description><![CDATA[A new study warns that the strain of H1N1, common on China's pig farms since 2016, should be 'urgently' controlled to avoid another pandemic.]]></description>
+			<link>https://www.nytimes.com/2020/06/30/world/asia/h1n1-swine-flu-virus-china-pig.html</link>
+		</item>
+		<item>
+			<title>US Buys Up World Stock of Key Covid-19 Drug Remdesivir</title>
+			<source>The Guardian</source>
+			<pubDate>Jun 30, 2020</pubDate>
+			<description><![CDATA[No other country will be able to buy remdesivir, which can help recovery from Covid-19, for next three months at least]]></description>
+			<link>https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug</link>
+		</item>
+		<item>
+			<title>Coronavirus Brings American Decline Out in the Open</title>
+			<source>Bloomberg</source>
+			<pubDate>Jun 29, 2020</pubDate>
+			<description><![CDATA[Without fixes for infrastructure, education, health care and government, the U.S. will resemble a developing nation in a few decades.]]></description>
+			<link>https://www.bloomberg.com/opinion/articles/2020-06-29/coronavirus-brings-american-decline-out-in-the-open</link>
+		</item>
+		<item>
+			<title>Leaders Are Worse Than Average</title>
+			<source>Quillette</source>
+			<pubDate>Jun 29, 2020</pubDate>
+			<description><![CDATA['Power corrupts,' as the saying goes, and a corollary is that, other things being equal, the more power, the more corruption. That's the sort of common wisdom or deep cliché that would lead one to speculate that political leaders are likely to be morally worse on average than the populations they go…]]></description>
+			<link>https://quillette.com/2020/06/27/leaders-are-worse-than-average/</link>
+		</item>
+		<item>
+			<title>NATO Officials Say They Were Briefed on Russian Bounties on US Soldiers in Afghanistan — Even Though Trump Claims He Wasn't</title>
+			<source>Business Insider</source>
+			<pubDate>Jun 28, 2020</pubDate>
+			<description><![CDATA[Three NATO officials told Insider they were briefed on the matter by US intelligence. Trump claims US intel 'did not find this info credible.']]></description>
+			<link>https://www.businessinsider.com/russian-bounty-us-soldiers-afghanistan-nato-officials-briefed-trump-denies-2020-6</link>
+		</item>
+		<item>
+			<title>Radioactivity Hike Seen in Northern Europe; Source Unknown</title>
+			<source>The New York Times</source>
+			<pubDate>Jun 27, 2020</pubDate>
+			<description><![CDATA[Nordic authorities say they detected slightly increased levels of radioactivity in northern Europe this month that Dutch officials said may be from a source in western Russia and may 'indicate damage to a fuel element in a nuclear power plant.']]></description>
+			<link>https://www.nytimes.com/aponline/2020/06/27/business/ap-eu-nordics-russia-radiation.html</link>
+		</item>
+		<item>
+			<title>The Secretive Government Agency Planting 'Cyanide Bombs' Across the US</title>
+			<source>The Guardian</source>
 			<pubDate>Jun 26, 2020</pubDate>
-			<description><![CDATA[China's reputation has also taken a hit, according to a survey of 10,000 EU members]]></description>
-			<link>https://www.marketwatch.com/story/this-chart-shows-just-how-badly-the-us-coronavirus-response-has-damaged-americas-reputation-in-europe-2020-06-25</link>
+			<description><![CDATA[Wildlife Services kills thousands of animals at ranchers and farmers' behest. But it operates with little oversight – and critics describe it as out of control]]></description>
+			<link>https://www.theguardian.com/environment/2020/jun/26/cyanide-bombs-wildfire-services-idaho</link>
+		</item>
+		<item>
+			<title>Satellites Reveal Major New Gas Industry Methane Leaks</title>
+			<source>Reuters</source>
+			<pubDate>Jun 26, 2020</pubDate>
+			<description><![CDATA[Last fall, European Space Agency satellites detected huge plumes of the invisible planet-warming gas methane leaking from the Yamal pipeline that carries natural gas from Siberia to Europe.]]></description>
+			<link>https://www.reuters.com/article/us-climatechange-methane-satellites-insi-idUSKBN23W3K4</link>
 		</item>
 		<item>
 			<title>US Coronavirus Cases Hit New One-Day High as States Backtrack on Reopening</title>
@@ -90,6 +153,13 @@
 			<pubDate>Jun 24, 2020</pubDate>
 			<description><![CDATA[The Center for Internet and Society at Stanford Law School is a leader in the study of the law and policy around the Internet and other emerging technologies.]]></description>
 			<link>https://cyberlaw.stanford.edu/blog/2020/06/there%E2%80%99s-now-even-worse-anti-encryption-bill-earn-it-doesn%E2%80%99t-make-earn-it-bill-ok</link>
+		</item>
+		<item>
+			<title>This Chart Shows Just How Badly the U.S. Coronavirus Response Has Damaged America's Reputation in Europe</title>
+			<source>MarketWatch</source>
+			<pubDate>Mar 26, 2020</pubDate>
+			<description><![CDATA[China's reputation has also taken a hit, according to a survey of 10,000 EU members]]></description>
+			<link>https://www.marketwatch.com/story/this-chart-shows-just-how-badly-the-us-coronavirus-response-has-damaged-americas-reputation-in-europe-2020-06-25</link>
 		</item>
 		<item>
 			<title>FBI Expands Ability to Monitor Social Media, Location Data</title>
@@ -636,76 +706,6 @@
 			<pubDate>Jun 4, 2020</pubDate>
 			<description><![CDATA[Executives allegedly 'exploited widespread fears' of pandemic to make millions.]]></description>
 			<link>https://arstechnica.com/science/2020/06/covid-vaccine-execs-hyped-vague-data-to-cash-in-90m-in-stock-watchdog-says/</link>
-		</item>
-		<item>
-			<title>A Massive Oil Spill in the Arctic Has Turned a River Red</title>
-			<source>Vice</source>
-			<pubDate>Jun 4, 2020</pubDate>
-			<description><![CDATA[Russia declared a state of emergency after a power plant spilled 20,000 metric tons of oil and diesel fuel into a river in the Arctic Circle. The possible cause: melting permafrost due to climate change.]]></description>
-			<link>https://www.vice.com/en_us/article/ep4x54/a-massive-oil-spill-in-the-arctic-has-turned-a-river-red</link>
-		</item>
-		<item>
-			<title>All This Chaos Might Be Giving You 'Crisis Fatigue'</title>
-			<source>Wired</source>
-			<pubDate>Jun 4, 2020</pubDate>
-			<description><![CDATA[Your body is well adapted to handle temporary stresses, but it's overwhelmed by the constant, unrelenting pressures of this horrible year.]]></description>
-			<link>https://www.wired.com/story/crisis-fatigue/</link>
-		</item>
-		<item>
-			<title>Harvard Shrank Its Insect-Inspired Microrobot to the Size of a Penny</title>
-			<source>Engadget</source>
-			<pubDate>Jun 4, 2020</pubDate>
-			<description><![CDATA[Harvard researchers have made the tiny Harvard Ambulatory Microrobot (HAMR) even tinier. The next-gen HAMR-JR is one of the smallest and fastest microrobots to date.]]></description>
-			<link>https://www.engadget.com/harvard-hamr-jr-penny-sized-microrobot-160529162.html</link>
-		</item>
-		<item>
-			<title>Earth's Carbon Dioxide Levels Hit Record High, Despite Coronavirus-Related Emissions Drop</title>
-			<source>The Washington Post</source>
-			<pubDate>Jun 4, 2020</pubDate>
-			<description><![CDATA[Carbon dioxide levels are now the highest they've been in human history, and likely the highest in 3 million years.]]></description>
-			<link>https://www.washingtonpost.com/weather/2020/06/04/carbon-dioxide-record-2020/</link>
-		</item>
-		<item>
-			<title>Tear Gas Is Way More Dangerous Than Police Let on — Especially During the Coronavirus Pandemic</title>
-			<source>ProPublica</source>
-			<pubDate>Jun 4, 2020</pubDate>
-			<description><![CDATA[In the middle of a respiratory pandemic, law enforcement agencies have used tear gas in especially dangerous ways. The chemical agent also seeps into homes, contaminates food, furniture, skin and surfaces, and can cause long-term lung damage.]]></description>
-			<link>https://www.propublica.org/article/tear-gas-is-way-more-dangerous-than-police-let-on-especially-during-the-coronavirus-pandemic</link>
-		</item>
-		<item>
-			<title>How US Police Used Military Tactics to Turn Peaceful Protests Violent</title>
-			<source>Wired</source>
-			<pubDate>Jun 4, 2020</pubDate>
-			<description><![CDATA[What would have happened had police taken a calmer approach at the beginning of the protests? Well, look at what happened in Baltimore]]></description>
-			<link>https://www.wired.co.uk/article/police-brutality-minneapolis-floyd-blm-trump</link>
-		</item>
-		<item>
-			<title>We Crunched the Numbers: Police — Not Protesters — Are Overwhelmingly Responsible for Attacking Journalists</title>
-			<source>The Intercept</source>
-			<pubDate>Jun 4, 2020</pubDate>
-			<description><![CDATA[Protests over the killing of George Floyd have seen attacks on the press spike. Our data shows police are responsible for more than 80 percent of them.]]></description>
-			<link>https://theintercept.com/2020/06/04/journalists-attacked-police-george-floyd-protests/</link>
-		</item>
-		<item>
-			<title>New PFAS Chemical Contamination Discovered in New Jersey</title>
-			<source>The Intercept</source>
-			<pubDate>Jun 4, 2020</pubDate>
-			<description><![CDATA[Eight variations of a newly identified group of PFAS compounds were found near a Solvay plant in West Deptford, New Jersey.]]></description>
-			<link>https://theintercept.com/2020/06/04/pfas-chemicals-new-jersey-solvay/</link>
-		</item>
-		<item>
-			<title>Buffalo Police Officers Suspended After Shoving 75-Year-Old Protester</title>
-			<source>The New York Times</source>
-			<pubDate>Jun 4, 2020</pubDate>
-			<description><![CDATA[A video showed the protester motionless on the ground and bleeding. Fifty-seven officers resigned from the department's Emergency Response Team in solidarity with the two who were suspended.]]></description>
-			<link>https://www.nytimes.com/2020/06/05/us/buffalo-police-shove-protester-unrest.html</link>
-		</item>
-		<item>
-			<title>NYPD Officers at George Floyd Protests Are Covering Their Badge Numbers in Violation of Own Policy</title>
-			<source>The Intercept</source>
-			<pubDate>Jun 3, 2020</pubDate>
-			<description><![CDATA[The National Lawyers Guild threatened to sue the city if NYPD officers did not end the widespread practice of covering their badge numbers.]]></description>
-			<link>https://theintercept.com/2020/06/03/nypd-badge-black-band/</link>
 		</item>
 	</channel>
 </rss>
