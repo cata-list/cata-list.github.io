@@ -3,10 +3,59 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io/</link>
-		<id>pFc88oonzePY50O4MxN_k</id>
+		<id>tmegRRQXRW7Xfx9XIhAoq</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Tue Jun 30 2020 14:10:38 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Thu Jul 02 2020 14:44:15 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Siberian Fires Have Released a Record Amount of Carbon This Year</title>
+			<source>Gizmodo</source>
+			<pubDate>Jul 2, 2020</pubDate>
+			<description><![CDATA[The wildfire crisis in Siberia continues unabated. This year's blazes have smashed records, including the northernmost fires on record and the highest total of Siberian carbon emissions. If you want to know what a climate emergency looks like, this is it.]]></description>
+			<link>https://earther.gizmodo.com/siberian-fires-have-released-a-record-amount-of-carbon-1844245153</link>
+		</item>
+		<item>
+			<title>Study: World's Pile of Electronic Waste Grows Ever Higher</title>
+			<source>Associated Press</source>
+			<pubDate>Jul 2, 2020</pubDate>
+			<description><![CDATA[BERLIN (AP) — The world's mountain of discarded flat-screen TVs, cellphones and other electronic goods grew to a record high last year, according to an annual report released Thursday. The...]]></description>
+			<link>https://apnews.com/f2706b256cb163c1e662c2e4f9d7f78e</link>
+		</item>
+		<item>
+			<title>Prison Officials in Kansas Ignored the Pandemic. Then People Started Dying.</title>
+			<source>The Intercept</source>
+			<pubDate>Jul 2, 2020</pubDate>
+			<description><![CDATA[For weeks, officials at Lansing Correctional Facility dismissed the coronavirus threat. Then almost 900 incarcerated men contracted Covid-19.]]></description>
+			<link>https://theintercept.com/2020/07/02/coronavirus-kansas-prison-lansing-correctional/</link>
+		</item>
+		<item>
+			<title>America Exports Cancel Culture to the World</title>
+			<source>Quillette</source>
+			<pubDate>Jul 2, 2020</pubDate>
+			<description><![CDATA[Recently, I was interviewed for a video for the Dutch media outlet NU.nl, a popular news website in the Netherlands. The topic was cancel culture, which refers to the social trend of ending (or attempting to end) an individual's career or prominence to hold them to account for violating moral norms.…]]></description>
+			<link>https://quillette.com/2020/07/02/america-exports-cancel-culture-to-the-world/</link>
+		</item>
+		<item>
+			<title>It Paid Doctors Kickbacks. Now, Novartis Will Pay a $678 Million Settlement.</title>
+			<source>The New York Times</source>
+			<pubDate>Jul 1, 2020</pubDate>
+			<description><![CDATA[The pharmaceutical company spent more than $100 million on lavish meals, fishing junkets, golf outings, sporting events and speaker fees to influence doctors to prescribe its drugs, federal prosecutors said.]]></description>
+			<link>https://www.nytimes.com/2020/07/01/business/Novartis-kickbacks-diabetes-heart-drugs.html</link>
+		</item>
+		<item>
+			<title>Special Report: Thousands of U.S. Judges Who Broke Laws, Oaths Remained on the Bench</title>
+			<source>Reuters</source>
+			<pubDate>Jun 30, 2020</pubDate>
+			<description><![CDATA[Judge Les Hayes once sentenced a single mother to 496 days behind bars for failing to pay traffic tickets. The sentence was so stiff it exceeded the jail time Alabama allows for negligent homicide.]]></description>
+			<link>https://www.reuters.com/article/us-usa-judges-misconduct-specialreport/special-report-thousands-of-us-judges-who-broke-laws-oaths-remained-on-the-bench-idUSKBN2411WG</link>
+		</item>
+		<item>
+			<title>The World Should Think Better About Catastrophic and Existential Risks</title>
+			<source>The Economist</source>
+			<pubDate>Jun 25, 2020</pubDate>
+			<description><![CDATA[Plans and early-warning systems are always a good idea]]></description>
+			<link>https://www.economist.com/briefing/2020/06/25/the-world-should-think-better-about-catastrophic-and-existential-risks</link>
+		</item>
 		<item>
 			<title>Nuclear 'Power Balls' May Make Meltdowns a Thing of the Past</title>
 			<source>Wired</source>
@@ -36,18 +85,18 @@
 			<link>https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug</link>
 		</item>
 		<item>
-			<title>Coronavirus Brings American Decline Out in the Open</title>
-			<source>Bloomberg</source>
-			<pubDate>Jun 29, 2020</pubDate>
-			<description><![CDATA[Without fixes for infrastructure, education, health care and government, the U.S. will resemble a developing nation in a few decades.]]></description>
-			<link>https://www.bloomberg.com/opinion/articles/2020-06-29/coronavirus-brings-american-decline-out-in-the-open</link>
-		</item>
-		<item>
 			<title>Leaders Are Worse Than Average</title>
 			<source>Quillette</source>
 			<pubDate>Jun 29, 2020</pubDate>
 			<description><![CDATA['Power corrupts,' as the saying goes, and a corollary is that, other things being equal, the more power, the more corruption. That's the sort of common wisdom or deep cliché that would lead one to speculate that political leaders are likely to be morally worse on average than the populations they go…]]></description>
 			<link>https://quillette.com/2020/06/27/leaders-are-worse-than-average/</link>
+		</item>
+		<item>
+			<title>Coronavirus Brings American Decline Out in the Open</title>
+			<source>Bloomberg</source>
+			<pubDate>Jun 29, 2020</pubDate>
+			<description><![CDATA[Without fixes for infrastructure, education, health care and government, the U.S. will resemble a developing nation in a few decades.]]></description>
+			<link>https://www.bloomberg.com/opinion/articles/2020-06-29/coronavirus-brings-american-decline-out-in-the-open</link>
 		</item>
 		<item>
 			<title>NATO Officials Say They Were Briefed on Russian Bounties on US Soldiers in Afghanistan — Even Though Trump Claims He Wasn't</title>
@@ -657,55 +706,6 @@
 			<pubDate>Jun 5, 2020</pubDate>
 			<description><![CDATA[Millennials have faced the worst economic odds, and many will never recover.]]></description>
 			<link>https://www.washingtonpost.com/business/2020/05/27/millennial-recession-covid/</link>
-		</item>
-		<item>
-			<title>Police Misconduct Records Are Secret. Protests May Finally Change That.</title>
-			<source>The New York Times</source>
-			<pubDate>Jun 5, 2020</pubDate>
-			<description><![CDATA[A decades-old New York State law that has kept police behavior from public scrutiny may finally be overturned.]]></description>
-			<link>https://www.nytimes.com/2020/06/05/nyregion/police-misconduct-records-are-secret-protests-may-finally-change-that.html</link>
-		</item>
-		<item>
-			<title>Trump Signs Order Removing Environmental Review of Major Projects</title>
-			<source>The Hill</source>
-			<pubDate>Jun 5, 2020</pubDate>
-			<description><![CDATA[President Trump signed an executive order Thursday evening that would waive requirements under a suite of environmental laws, a move the administration says will boost the economy amid the coronavirus pandemic.]]></description>
-			<link>https://thehill.com/policy/energy-environment/501258-trump-signs-order-removing-environmental-review-for-major-projects</link>
-		</item>
-		<item>
-			<title>Amid Pandemic and Protests, Trump Fast-Tracks Dangerous Fossil Fuel Infrastructure</title>
-			<source>Gizmodo</source>
-			<pubDate>Jun 5, 2020</pubDate>
-			<description><![CDATA[Amid nationwide protests against racist police brutality and a pandemic that's disproportionately affecting Black people, on Thursday night, Trump signed an executive order directing federal agencies to fast track the construction of projects that will put communities of color at risk.]]></description>
-			<link>https://earther.gizmodo.com/amid-pandemic-and-protests-trump-fast-tracks-dangerous-1843922269</link>
-		</item>
-		<item>
-			<title>Americans Are Drinking Bleach and Dunking Food in It to Prevent COVID-19</title>
-			<source>Ars Technica</source>
-			<pubDate>Jun 5, 2020</pubDate>
-			<description><![CDATA[Thirty-nine percent of surveyed people admitted to at least one risky practice.]]></description>
-			<link>https://arstechnica.com/science/2020/06/americans-are-drinking-bleach-and-dunking-food-in-it-to-prevent-covid-19/</link>
-		</item>
-		<item>
-			<title>Pentagon War Game Includes Scenario for Military Response to Domestic Gen Z Rebellion</title>
-			<source>The Intercept</source>
-			<pubDate>Jun 5, 2020</pubDate>
-			<description><![CDATA[The 2018 war game envisioned a 'Zbellion' by a tech-savvy generation that no longer believed in the American dream.]]></description>
-			<link>https://theintercept.com/2020/06/05/pentagon-war-game-gen-z/</link>
-		</item>
-		<item>
-			<title>Buffalo Police Said Protester With Head Wound 'Tripped and Fell.' Video Shows They Lied.</title>
-			<source>The Intercept</source>
-			<pubDate>Jun 5, 2020</pubDate>
-			<description><![CDATA[Police officers in Buffalo, New York were caught on camera shoving a 75-year-old protester to the ground, injuring him at a protest against police brutality.]]></description>
-			<link>https://theintercept.com/2020/06/05/buffalo-police-said-protester-head-wound-tripped-fell-video-shows-lied/</link>
-		</item>
-		<item>
-			<title>COVID Vaccine Execs Hyped Vague Data to Cash in $90M in Stock, Watchdog Says</title>
-			<source>Ars Technica</source>
-			<pubDate>Jun 4, 2020</pubDate>
-			<description><![CDATA[Executives allegedly 'exploited widespread fears' of pandemic to make millions.]]></description>
-			<link>https://arstechnica.com/science/2020/06/covid-vaccine-execs-hyped-vague-data-to-cash-in-90m-in-stock-watchdog-says/</link>
 		</item>
 	</channel>
 </rss>
