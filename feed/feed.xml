@@ -3,10 +3,87 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io/</link>
-		<id>zafMCAtKfmAkyqt0vpThK</id>
+		<id>dD5s-NoHPf0TQBzBwP4rQ</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Fri Jul 03 2020 12:39:10 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Wed Jul 08 2020 13:55:25 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Google, Amazon, and Microsoft Hold Thousands of Contracts With the U.S. Military and Federal Law Enforcement, New Research Shows</title>
+			<source>NBC News</source>
+			<pubDate>Jul 8, 2020</pubDate>
+			<description><![CDATA[The report offers a new window into the relationship between tech companies and the U.S. government, as well as an important detail about why such contracts are often difficult to find.]]></description>
+			<link>https://www.nbcnews.com/tech/tech-news/thousands-contracts-highlight-quiet-ties-between-big-tech-u-s-n1233171</link>
+		</item>
+		<item>
+			<title>A Letter on Justice and Open Debate</title>
+			<source>Harper's Magazine</source>
+			<pubDate>Jul 7, 2020</pubDate>
+			<description><![CDATA[The below letter will be appearing in the Letters section of the magazine's October issue. We welcome responses at letters@harpers.org Our cultural institutions are facing a moment of trial. Powerful protests for racial and social justice are leading to overdue demands for police reform…]]></description>
+			<link>https://harpers.org/a-letter-on-justice-and-open-debate/</link>
+		</item>
+		<item>
+			<title>Judge Suspends Dakota Access Pipeline Over Environmental Concerns</title>
+			<source>The Guardian</source>
+			<pubDate>Jul 7, 2020</pubDate>
+			<description><![CDATA[US district judge sides with Standing Rock Sioux tribe and says more extensive environmental review is required]]></description>
+			<link>https://www.theguardian.com/us-news/2020/jul/06/dakota-access-pipeline-environment-oil</link>
+		</item>
+		<item>
+			<title>With New Security Law, China Outlaws Global Activism</title>
+			<source>Axios</source>
+			<pubDate>Jul 7, 2020</pubDate>
+			<description><![CDATA[Hong Kong's draconian new security law applies to everyone in the world.]]></description>
+			<link>https://www.axios.com/china-hong-kong-law-global-activism-ff1ea6d1-0589-4a71-a462-eda5bea3f78f.html</link>
+		</item>
+		<item>
+			<title>These Are Some of the Best Citizen Science Projects You Can Join With Just Your Phone or Laptop</title>
+			<source>Gizmodo</source>
+			<pubDate>Jul 6, 2020</pubDate>
+			<description><![CDATA[Maybe you've never noticed, because they don't get a lot of hype but there are hundreds and hundreds of citizen science projects that you can get involved in. These projects range from tagging space observatory photos to transcribing documents that are centuries old. You don't need any special skill…]]></description>
+			<link>https://gizmodo.com/these-are-some-of-the-best-citizen-science-projects-you-1844243370</link>
+		</item>
+		<item>
+			<title>Toxic Hand Sanitizers Have Blinded and Killed Adults and Children, FDA Warns</title>
+			<source>Ars Technica</source>
+			<pubDate>Jul 6, 2020</pubDate>
+			<description><![CDATA[Blindness, deaths linked to ingestion, but inhalation and absorption also dangerous.]]></description>
+			<link>https://arstechnica.com/science/2020/07/toxic-hand-sanitizers-have-blinded-and-killed-adults-and-children-fda-warns/</link>
+		</item>
+		<item>
+			<title>Arguing in America</title>
+			<source>Quillette</source>
+			<pubDate>Jul 6, 2020</pubDate>
+			<description><![CDATA[Jacob Siegel's recent essay for Tablet entitled 'The New Truth' manages to capture something important about the current state of discourse in America. Essentially, the marketplace of ideas is beholden to a despotic elite, and is being used to proselytize a new moral order. This moral order is perpe…]]></description>
+			<link>https://quillette.com/2020/07/06/arguing-in-america/</link>
+		</item>
+		<item>
+			<title>Racism Is Real. But Science Isn't the Problem</title>
+			<source>Quillette</source>
+			<pubDate>Jul 5, 2020</pubDate>
+			<description><![CDATA[In his June 9th eulogy for George Floyd, Reverend Al Sharpton said, 'What happened to Floyd happens every day in this country, in education, in health services, and in every area of American life.' The metaphor goes to the suffocation of hopes, dreams, and basic rights among many black Americans, in…]]></description>
+			<link>https://quillette.com/2020/07/03/racism-is-real-but-science-isnt-the-problem/</link>
+		</item>
+		<item>
+			<title>'South Park' on Censorship</title>
+			<source>YouTube</source>
+			<pubDate>Jun 28, 2014</pubDate>
+			<description><![CDATA[Turns out the censorship wasn't a joke by the studio...]]></description>
+			<link>https://www.youtube.com/watch?v=C_9tMpCiWRU</link>
+		</item>
+		<item>
+			<title>Bus Driver Left Brain Dead After 'Mask Attack'</title>
+			<source>BBC News</source>
+			<pubDate>Jul 2, 0208</pubDate>
+			<description><![CDATA[The driver in France was set upon by people who had no tickets and refused to wear face masks.]]></description>
+			<link>https://www.bbc.com/news/world-europe-53309424</link>
+		</item>
+		<item>
+			<title>The Remote British Village That Built One of the Fastest Internet Networks in the UK</title>
+			<source>The Conversation</source>
+			<pubDate>Jul 2, 2020</pubDate>
+			<description><![CDATA[Frustrated by the inability to get good internet, a rural village decided to dig a superfast connection in themselves.]]></description>
+			<link>https://theconversation.com/the-remote-british-village-that-built-one-of-the-fastest-internet-networks-in-the-uk-137946</link>
+		</item>
 		<item>
 			<title>The Worst Hacks and Breaches of 2020 So Far</title>
 			<source>Wired</source>
@@ -629,83 +706,6 @@
 			<pubDate>Jun 10, 2020</pubDate>
 			<description><![CDATA[Protesters confronted by armed men – including members of the so-called 'boogaloo movement' – in different parts of America]]></description>
 			<link>https://www.theguardian.com/us-news/2020/jun/09/protests-us-america-cars-weapons</link>
-		</item>
-		<item>
-			<title>Britain Goes Coal Free as Fossil Fuels Edged Out</title>
-			<source>BBC News</source>
-			<pubDate>Jun 10, 2020</pubDate>
-			<description><![CDATA[On Wednesday, Britain will mark two months without burning any coal to generate power.]]></description>
-			<link>https://www.bbc.com/news/science-environment-52973089</link>
-		</item>
-		<item>
-			<title>Louisville Police Release the Breonna Taylor Incident Report. It's Nearly Blank</title>
-			<source>USA Today</source>
-			<pubDate>Jun 10, 2020</pubDate>
-			<description><![CDATA[Nearly three months after police fatally shot Breonna Taylor, the department released the incident report. It is almost entirely blank.]]></description>
-			<link>https://www.usatoday.com/story/news/nation/2020/06/10/breonna-taylor-case-louisville-police-nearly-blank-incident-report/5335929002/</link>
-		</item>
-		<item>
-			<title>Researchers Detail Huge Hack-for-Hire Campaigns Against Environmentalists</title>
-			<source>The Verge</source>
-			<pubDate>Jun 10, 2020</pubDate>
-			<description><![CDATA['The extensive targeting of American nonprofits exercising their first amendment rights is exceptionally troubling.']]></description>
-			<link>https://www.theverge.com/2020/6/10/21286486/dark-basin-hackers-for-hire-phishing-emails-environmental-nonprofit-groups-exxon-mobil</link>
-		</item>
-		<item>
-			<title>The Best Raspberry Pi Alternatives</title>
-			<source>Wired</source>
-			<pubDate>Jun 09, 2020</pubDate>
-			<description><![CDATA[If you're working on a project that a Pi can't tackle, here are five single-board computers that power any DIY demand.]]></description>
-			<link>https://www.wired.com/gallery/best-raspberry-pi-alternatives/</link>
-		</item>
-		<item>
-			<title>Coronavirus Hospitalizations Rise Sharply in Several States Following Memorial Day</title>
-			<source>The Washington Post</source>
-			<pubDate>Jun 9, 2020</pubDate>
-			<description><![CDATA[Since Memorial Day, covid-19 hospitalizations in at least nine states have been on the rise.]]></description>
-			<link>https://www.washingtonpost.com/health/2020/06/09/coronavirus-hospitalizations-rising/</link>
-		</item>
-		<item>
-			<title>We Mapped Where Customs and Border Protection Drones Are Flying in the U.S. and Beyond</title>
-			<source>Gizmodo</source>
-			<pubDate>Jun 9, 2020</pubDate>
-			<description><![CDATA[In 2011, Rodney Brossart, a cattle rancher from Lakota, North Dakota was accused of stealing six cows. The cows, he said, simply wandered on to his 3,000-acre farm, and by his estimation, they, therefore, belonged to him. When the cops came, he and his family were prepared. Armed with high power rif…]]></description>
-			<link>https://gizmodo.com/we-mapped-where-customs-and-border-protection-drones-ar-1843928454</link>
-		</item>
-		<item>
-			<title>Police Officers Slashed Car Tires During Minneapolis Protests, Police Agencies Say</title>
-			<source>NPR</source>
-			<pubDate>Jun 8, 2020</pubDate>
-			<description><![CDATA[Dozens of cars in a Kmart parking lot had all their tires slashed after public anger over George Floyd's death sparked large protests in Minneapolis.]]></description>
-			<link>https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/09/873110812/police-officers-slashed-car-tires-during-minneapolis-protests-police-agencies-sa</link>
-		</item>
-		<item>
-			<title>Hospitals Got Bailouts and Furloughed Thousands While Paying C.E.O.s Millions</title>
-			<source>The New York Times</source>
-			<pubDate>Jun 8, 2020</pubDate>
-			<description><![CDATA[Dozens of top recipients of government aid have laid off, furloughed or cut the pay of tens of thousands of employees.]]></description>
-			<link>https://www.nytimes.com/2020/06/08/business/hospitals-bailouts-ceo-pay.html</link>
-		</item>
-		<item>
-			<title>To Save the Climate, Look to the Oceans</title>
-			<source>Scientific American</source>
-			<pubDate>Jun 8, 2020</pubDate>
-			<description><![CDATA[They can be a source of clean, renewable energy, sustainable food,&nbsp;and more]]></description>
-			<link>https://blogs.scientificamerican.com/observations/to-save-the-climate-look-to-the-oceans/</link>
-		</item>
-		<item>
-			<title>You Have a First Amendment Right to Record the Police</title>
-			<source>Electronic Frontier Foundation</source>
-			<pubDate>Jun 8, 2020</pubDate>
-			<description><![CDATA[Like the rest of the world, we are horrified by the videos of George Floyd's murder. Once again, police brutality was documented by brave bystanders exercising their First Amendment rights. Their videos forcefully tell a painful truth that has further fueled a movement to demand an end to racism...]]></description>
-			<link>https://www.eff.org/deeplinks/2020/06/you-have-first-amendment-right-record-police</link>
-		</item>
-		<item>
-			<title>Yes, American Police Act Like Occupying Armies. They Literally Studied Their Tactics</title>
-			<source>The Guardian</source>
-			<pubDate>Jun 8, 2020</pubDate>
-			<description><![CDATA[The founders of modern policing quelled foreign uprisings. 'Demilitarizing' police will be harder than taking away their tanks]]></description>
-			<link>https://www.theguardian.com/commentisfree/2020/jun/08/yes-american-police-act-like-occupying-armies-they-literally-studied-their-tactics</link>
 		</item>
 	</channel>
 </rss>
