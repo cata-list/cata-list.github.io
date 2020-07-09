@@ -3,9 +3,37 @@
   "link": "https://cata-list.github.io/",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "7/8/2020, 1:55:25 PM",
-  "id": "dD5s-NoHPf0TQBzBwP4rQ",
+  "date": "7/9/2020, 11:07:54 AM",
+  "id": "JoLkz0qx8XYRagyoZMy9k",
   "articles": [
+    {
+      "title": "Is SARS-CoV-2 Airborne? Questions Abound — But Here's What We Know",
+      "source": "Ars Technica",
+      "date": "Jul 9, 2020",
+      "description": "A look at the data on aerosol transmission.",
+      "link": "https://arstechnica.com/science/2020/07/is-sars-cov-2-airborne-questions-abound-but-heres-what-we-know/"
+    },
+    {
+      "title": "Bombshell Report Says Trump Ordered CIA to Share Counterterrorism Intel With Russia 'Despite No Discernible Reward'",
+      "source": "Law and Crime",
+      "date": "Jul 8, 2020",
+      "description": "Not long after the Russia-Taliban bounty scandal first started unfolding in public view, a bombshell new report from Just Security claims that President Donald Trump directed the Central Intelligence Agency (CIA) to provide the Russian government with U.S. intelligence information concerning terrori…",
+      "link": "https://lawandcrime.com/high-profile/bombshell-report-says-trump-ordered-cia-to-share-counterterrorism-intel-with-russia-despite-no-discernible-reward/"
+    },
+    {
+      "title": "Spreading Rock Dust on Fields Could Remove Vast Amounts of CO2 From Air",
+      "source": "The Guardian",
+      "date": "Jul 8, 2020",
+      "description": "It may be best near-term way to remove CO2, say scientists, but cutting fossil fuel use remains critical",
+      "link": "https://www.theguardian.com/environment/2020/jul/08/spreading-rock-dust-on-fields-could-remove-vast-amounts-of-co2-from-air"
+    },
+    {
+      "title": "Police Are Buying Access to Hacked Website Data",
+      "source": "Vice",
+      "date": "Jul 7, 2020",
+      "description": "The sale is 'an end-run around the usual legal processes.'",
+      "link": "https://www.vice.com/en_us/article/3azvey/police-buying-hacked-data-spycloud"
+    },
     {
       "title": "Google, Amazon, and Microsoft Hold Thousands of Contracts With the U.S. Military and Federal Law Enforcement, New Research Shows",
       "source": "NBC News",
@@ -19,6 +47,13 @@
       "date": "Jul 7, 2020",
       "description": "The below letter will be appearing in the Letters section of the magazine's October issue. We welcome responses at letters@harpers.org Our cultural institutions are facing a moment of trial. Powerful protests for racial and social justice are leading to overdue demands for police reform…",
       "link": "https://harpers.org/a-letter-on-justice-and-open-debate/"
+    },
+    {
+      "title": "The Remote British Village That Built One of the Fastest Internet Networks in the UK",
+      "source": "The Conversation",
+      "date": "Jul 7, 2020",
+      "description": "Frustrated by the inability to get good internet, a rural village decided to dig a superfast connection in themselves.",
+      "link": "https://theconversation.com/the-remote-british-village-that-built-one-of-the-fastest-internet-networks-in-the-uk-137946"
     },
     {
       "title": "Judge Suspends Dakota Access Pipeline Over Environmental Concerns",
@@ -72,17 +107,10 @@
     {
       "title": "Bus Driver Left Brain Dead After 'Mask Attack'",
       "source": "BBC News",
-      "date": "Jul 2, 0208",
+      "date": "Jul 6, 2020",
       "description": "The driver in France was set upon by people who had no tickets and refused to wear face masks.",
       "link": "https://www.bbc.com/news/world-europe-53309424"
-		},
-		{
-		  "title": "The Remote British Village That Built One of the Fastest Internet Networks in the UK",
-		  "source": "The Conversation",
-		  "date": "Jul 2, 2020",
-		  "description": "Frustrated by the inability to get good internet, a rural village decided to dig a superfast connection in themselves.",
-		  "link": "https://theconversation.com/the-remote-british-village-that-built-one-of-the-fastest-internet-networks-in-the-uk-137946"
-		},
+    },
     {
       "title": "The Worst Hacks and Breaches of 2020 So Far",
       "source": "Wired",
@@ -677,34 +705,6 @@
       "date": "Jun 11, 2020",
       "description": "Facebook Workplace is used by employers as large as Walmart. The new tool would allow 'content control' to prevent certain topics from trending internally.",
       "link": "https://theintercept.com/2020/06/11/facebook-workplace-unionize/"
-    },
-    {
-      "title": "Siberian Officials Say Huge Diesel Spill Has Reached a Sensitive Arctic Lake",
-      "source": "Gizmodo",
-      "date": "Jun 10, 2020",
-      "description": "A major diesel spill from a power plant in Siberia has reached a fragile freshwater lake that leads to the Arctic Ocean, according to regional officials. That could create an ecological catastrophe.",
-      "link": "https://earther.gizmodo.com/siberian-officials-say-huge-diesel-spill-has-reached-a-1843979303"
-    },
-    {
-      "title": "MIT, Guided by Open Access Principles, Ends Elsevier Negotiations",
-      "source": "MIT News",
-      "date": "Jun 10, 2020",
-      "description": "Institute ends negotiations for a new journals contract in the absence of a proposal aligning with the MIT Framework for Publisher Contracts.",
-      "link": "https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611"
-    },
-    {
-      "title": "The Coronavirus Pandemic Isn't Ending — It's Surging",
-      "source": "The Washington Post",
-      "date": "Jun 10, 2020",
-      "description": "Good news from some nations and diverted attention in others doesn't stop the fact the overall picture is very grim.",
-      "link": "https://www.washingtonpost.com/world/2020/06/11/coronavirus-pandemic-isnt-ending-its-surging/"
-    },
-    {
-      "title": "Protesters Across US Attacked by Cars Driven Into Crowds and Men With Guns",
-      "source": "The Guardian",
-      "date": "Jun 10, 2020",
-      "description": "Protesters confronted by armed men – including members of the so-called 'boogaloo movement' – in different parts of America",
-      "link": "https://www.theguardian.com/us-news/2020/jun/09/protests-us-america-cars-weapons"
     }
   ]
 }
