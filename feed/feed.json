@@ -3,9 +3,86 @@
   "link": "https://cata-list.github.io/",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "7/9/2020, 11:07:54 AM",
-  "id": "JoLkz0qx8XYRagyoZMy9k",
+  "date": "7/11/2020, 4:49:12 PM",
+  "id": "rIaF-oLxkNhuvKc3ytnmJ",
   "articles": [
+		{
+			"title": "'Witch Hunt': Trump Commutes Longtime Adviser Roger Stone's Prison Sentence",
+      "source": "Reuters",
+      "date": "Jul 11, 2020",
+      "description": "President Donald Trump commuted the sentence of his longtime friend and adviser Roger Stone, sparing him from prison after he was convicted of lying under oath to lawmakers investigating Russian interference in the 2016 U.S. election.",
+      "link": "https://www.reuters.com/article/us-usa-trump-stone/trump-commutes-longtime-adviser-roger-stones-prison-sentence-idUSKBN24B351"
+    },
+    {
+			"title": "Why Mexican Cartels Are Shooting Up Drug Rehabs",
+      "source": "Vice",
+      "date": "Jul 10, 2020",
+      "description": "Last week's massacre at a drug rehab was the latest in a string of attacks on drug users in Mexico.",
+      "link": "https://www.vice.com/en_us/article/pky3j9/why-mexican-cartels-are-shooting-up-drug-rehabs"
+    },
+		{
+			"title": "Police Surveilled George Floyd Protests With Help From Twitter-Affiliated Startup Dataminr",
+			"source": "The Intercept",
+			"date": "Jul 09, 2020",
+			"description": "Artificial intelligence firm Dataminr is making questionable use of its Twitter firehose privileges — and not for the first time.",
+			"link": "https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/"
+		},
+    {
+      "title": "A Declaration of Independence by a Princeton Professor",
+      "source": "Quillette",
+      "date": "Jul 9, 2020",
+      "description": "In Congress, on July 4th, 1776, came the 'unanimous Declaration of the thirteen united States of America.' Signed by 56 men, many of whom were considered national heroes just a few minutes ago, it opens with a long and elegant sentence whose first words every American child knows, or used to: 'When …",
+      "link": "https://quillette.com/2020/07/08/a-declaration-of-independence-by-a-princeton-professor/"
+    },
+    {
+      "title": "The New Ideology of Race",
+      "source": "The Economist",
+      "date": "Jul 9, 2020",
+      "description": "And what is wrong with it",
+      "link": "https://www.economist.com/leaders/2020/07/09/the-new-ideology-of-race"
+    },
+    {
+      "title": "Televangelists, Megachurches Tied to Trump Approved for Millions in Pandemic Aid",
+      "source": "Reuters",
+      "date": "Jul 7, 2020",
+      "description": "Megachurches and other religious organizations with ties to vocal supporters of U.S. President Donald Trump were approved for millions of dollars in forgivable loans from a taxpayer-funded pandemic aid bailout, according to long-awaited government data released this week.",
+      "link": "https://www.reuters.com/article/us-health-coronavirus-ppp-religious/televangelists-megachurches-tied-to-trump-approved-for-millions-in-pandemic-aid-idUSKBN2480CB"
+    },
+    {
+      "title": "Year Zero",
+      "source": "Substack",
+      "date": "Jul 4, 2020",
+      "description": "On America's birthday, celebrating the corporate-sponsored revolution",
+      "link": "https://taibbi.substack.com/p/year-zero"
+    },
+    {
+      "title": "Harvard Grad Fired by Deloitte For 'All Lives Matter' Stabbing TikTok Video",
+      "source": "Newsweek",
+      "date": "Jul 2, 2020",
+      "description": "A Harvard graduate who posted a viral video saying she will stab anyone who says 'All Lives Matter' said she has now been fired from her job.",
+      "link": "https://www.newsweek.com/all-lives-matter-claira-janover-tiktok-deloitte-1514930"
+    },
+    {
+      "title": "On 'White Fragility'",
+      "source": "Substack",
+      "date": "Jun 28, 2020",
+      "description": "A few thoughts on America's smash-hit #1 guide to egghead racialism",
+      "link": "https://taibbi.substack.com/p/on-white-fragility"
+    },
+    {
+      "title": "The American Press Is Destroying Itself",
+      "source": "Substack",
+      "date": "Jun 12, 2020",
+      "description": "A flurry of newsroom revolts has transformed the American press",
+      "link": "https://taibbi.substack.com/p/the-news-media-is-destroying-itself"
+    },
+    {
+      "title": "Where Did Policing Go Wrong?",
+      "source": "Substack",
+      "date": "Jun 2, 2020",
+      "description": "Crime has been down for decades, but incarceration is still sky-high and brutality cases keep tearing the country apart. Does policing in America need a fundamental re-think?",
+      "link": "https://taibbi.substack.com/p/where-did-policing-go-wrong"
+    },
     {
       "title": "Is SARS-CoV-2 Airborne? Questions Abound — But Here's What We Know",
       "source": "Ars Technica",
@@ -628,83 +705,6 @@
       "date": "Jun 15, 2020",
       "description": "Evidence from Indonesia shows that development goals don’t have to come at a cost to the climate.",
       "link": "https://www.bloomberg.com/news/articles/2020-06-15/how-fighting-poverty-accidentally-stopped-deforestation"
-    },
-    {
-      "title": "Zoom Shut Down US-Based Activists at China's Request",
-      "source": "Wired",
-      "date": "Jun 13, 2020",
-      "description": "Hackers for hire, a particularly ignominious phishing campaign, and more of the week's top security news.",
-      "link": "https://www.wired.com/story/zoom-china-facebook-fbi-security-news/"
-    },
-    {
-      "title": "Three People With Inherited Diseases Successfully Treated With CRISPR",
-      "source": "New Scientist",
-      "date": "Jun 12, 2020",
-      "description": "Two people with beta thalassaemia and one with sickle cell disease no longer need blood transfusions after their blood stem cells were gene edited and put back in their bodies",
-      "link": "https://www.newscientist.com/article/2246020-three-people-with-inherited-diseases-successfully-treated-with-crispr/"
-    },
-    {
-      "title": "CEO Worked Way Up From Son of CEO",
-      "source": "YouTube",
-      "date": "Oct 23, 2013",
-      "description": "No description provided.",
-      "link": "https://www.youtube.com/watch?v=_67JbvXLrmw&feature=youtu.be"
-    },
-    {
-      "title": "The Pandemic Is Propelling a New Wave of Automation",
-      "source": "Wired",
-      "date": "Jun 12, 2020",
-      "description": "Software programs adopted during the Covid-19 crisis make it easier to complete forms and track requests. It saves work, but could cost jobs.",
-      "link": "https://www.wired.com/story/pandemic-propelling-new-wave-automation/"
-    },
-    {
-      "title": "Powerful Petrochemical Lobbying Group Advanced Anti-Protest Legislation Amid Pandemic",
-      "source": "The Intercept",
-      "date": "Jun 12, 2020",
-      "description": "West Virginia is one of several states that have taken advantage of the pandemic to ease the construction of controversial oil and gas projects.",
-      "link": "https://theintercept.com/2020/06/07/pipeline-petrochemical-lobbying-group-anti-protest-law/"
-    },
-    {
-      "title": "Thousands of Tons of Microplastics Are Falling From the Sky",
-      "source": "Scientific American",
-      "date": "Jun 11, 2020",
-      "description": "New research helps unravel how vast amounts of plastic particles travel&mdash;both regionally and globally&mdash;on the wind",
-      "link": "https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/"
-    },
-    {
-      "title": "Plastic Dust Is Blowing Into U.S. National Parks—More Than 1000 Tons Each Year",
-      "source": "Science",
-      "date": "Jun 11, 2020",
-      "description": "New study begins to trace a global 'plastic cycle'",
-      "link": "https://www.sciencemag.org/news/2020/06/plastic-dust-blowing-us-national-parks-more-1000-tons-each-year"
-    },
-    {
-      "title": "Police Attacks on Protesters With 'Less Than Lethal' Weapons Result in Life-Threatening Injuries",
-      "source": "The Intercept",
-      "date": "Jun 11, 2020",
-      "description": "People demonstrating on the streets, or following along online, don't need studies to know that less-lethal weaponry isn't safe — particularly in crowds.",
-      "link": "https://theintercept.com/2020/06/11/police-less-than-lethal-weapons-protests/"
-    },
-    {
-      "title": "U.S. States Accuse 26 Drugmakers of Generic Drug Price Fixing in Sweeping Lawsuit",
-      "source": "Reuters",
-      "date": "Jun 11, 2020",
-      "description": "Twenty-six drug manufacturers were sued on Wednesday by the attorneys general of most U.S. states and several territories, which accused them of conspiring to reduce competition and drive up generic drug prices.",
-      "link": "https://www.reuters.com/article/us-usa-drugs-antitrust-lawsuit/u-s-states-accuse-26-drugmakers-of-generic-drug-price-fixing-in-sweeping-lawsuit-idUSKBN23H2TR"
-    },
-    {
-      "title": "2 Million Cases and Counting: US COVID-19 Outbreak Charges on Amid Reopening",
-      "source": "Ars Technica",
-      "date": "Jun 11, 2020",
-      "description": "Despite testing boosts, experts say increases are real; fear of second wave looms.",
-      "link": "https://arstechnica.com/science/2020/06/us-reaches-2-million-cases-as-states-continue-to-ease-restrictions/"
-    },
-    {
-      "title": "New Facebook Tool Allows Employers to Suppress 'Unionize' in Workplace Chat",
-      "source": "The Intercept",
-      "date": "Jun 11, 2020",
-      "description": "Facebook Workplace is used by employers as large as Walmart. The new tool would allow 'content control' to prevent certain topics from trending internally.",
-      "link": "https://theintercept.com/2020/06/11/facebook-workplace-unionize/"
     }
   ]
 }

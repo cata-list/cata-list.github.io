@@ -3,10 +3,87 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io/</link>
-		<id>JoLkz0qx8XYRagyoZMy9k</id>
+		<id>rIaF-oLxkNhuvKc3ytnmJ</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Thu Jul 09 2020 11:07:54 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Sat Jul 11 2020 16:49:12 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>'Witch Hunt': Trump Commutes Longtime Adviser Roger Stone's Prison Sentence</title>
+			<source>Reuters</source>
+			<pubDate>Jul 11, 2020</pubDate>
+			<description><![CDATA[President Donald Trump commuted the sentence of his longtime friend and adviser Roger Stone, sparing him from prison after he was convicted of lying under oath to lawmakers investigating Russian interference in the 2016 U.S. election.]]></description>
+			<link>https://www.reuters.com/article/us-usa-trump-stone/trump-commutes-longtime-adviser-roger-stones-prison-sentence-idUSKBN24B351</link>
+		</item>
+		<item>
+			<title>Why Mexican Cartels Are Shooting Up Drug Rehabs</title>
+			<source>Vice</source>
+			<pubDate>Jul 10, 2020</pubDate>
+			<description><![CDATA[Last week's massacre at a drug rehab was the latest in a string of attacks on drug users in Mexico.]]></description>
+			<link>https://www.vice.com/en_us/article/pky3j9/why-mexican-cartels-are-shooting-up-drug-rehabs</link>
+		</item>
+		<item>
+			<title>Police Surveilled George Floyd Protests With Help From Twitter-Affiliated Startup Dataminr</title>
+			<source>The Intercept</source>
+			<pubDate>Jul 09, 2020</pubDate>
+			<description><![CDATA[Artificial intelligence firm Dataminr is making questionable use of its Twitter firehose privileges — and not for the first time.]]></description>
+			<link>https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/</link>
+		</item>
+		<item>
+			<title>A Declaration of Independence by a Princeton Professor</title>
+			<source>Quillette</source>
+			<pubDate>Jul 9, 2020</pubDate>
+			<description><![CDATA[In Congress, on July 4th, 1776, came the 'unanimous Declaration of the thirteen united States of America.' Signed by 56 men, many of whom were considered national heroes just a few minutes ago, it opens with a long and elegant sentence whose first words every American child knows, or used to: 'When …]]></description>
+			<link>https://quillette.com/2020/07/08/a-declaration-of-independence-by-a-princeton-professor/</link>
+		</item>
+		<item>
+			<title>The New Ideology of Race</title>
+			<source>The Economist</source>
+			<pubDate>Jul 9, 2020</pubDate>
+			<description><![CDATA[And what is wrong with it]]></description>
+			<link>https://www.economist.com/leaders/2020/07/09/the-new-ideology-of-race</link>
+		</item>
+		<item>
+			<title>Televangelists, Megachurches Tied to Trump Approved for Millions in Pandemic Aid</title>
+			<source>Reuters</source>
+			<pubDate>Jul 7, 2020</pubDate>
+			<description><![CDATA[Megachurches and other religious organizations with ties to vocal supporters of U.S. President Donald Trump were approved for millions of dollars in forgivable loans from a taxpayer-funded pandemic aid bailout, according to long-awaited government data released this week.]]></description>
+			<link>https://www.reuters.com/article/us-health-coronavirus-ppp-religious/televangelists-megachurches-tied-to-trump-approved-for-millions-in-pandemic-aid-idUSKBN2480CB</link>
+		</item>
+		<item>
+			<title>Year Zero</title>
+			<source>Substack</source>
+			<pubDate>Jul 4, 2020</pubDate>
+			<description><![CDATA[On America's birthday, celebrating the corporate-sponsored revolution]]></description>
+			<link>https://taibbi.substack.com/p/year-zero</link>
+		</item>
+		<item>
+			<title>Harvard Grad Fired by Deloitte For 'All Lives Matter' Stabbing TikTok Video</title>
+			<source>Newsweek</source>
+			<pubDate>Jul 2, 2020</pubDate>
+			<description><![CDATA[A Harvard graduate who posted a viral video saying she will stab anyone who says 'All Lives Matter' said she has now been fired from her job.]]></description>
+			<link>https://www.newsweek.com/all-lives-matter-claira-janover-tiktok-deloitte-1514930</link>
+		</item>
+		<item>
+			<title>On 'White Fragility'</title>
+			<source>Substack</source>
+			<pubDate>Jun 28, 2020</pubDate>
+			<description><![CDATA[A few thoughts on America's smash-hit #1 guide to egghead racialism]]></description>
+			<link>https://taibbi.substack.com/p/on-white-fragility</link>
+		</item>
+		<item>
+			<title>The American Press Is Destroying Itself</title>
+			<source>Substack</source>
+			<pubDate>Jun 12, 2020</pubDate>
+			<description><![CDATA[A flurry of newsroom revolts has transformed the American press]]></description>
+			<link>https://taibbi.substack.com/p/the-news-media-is-destroying-itself</link>
+		</item>
+		<item>
+			<title>Where Did Policing Go Wrong?</title>
+			<source>Substack</source>
+			<pubDate>Jun 2, 2020</pubDate>
+			<description><![CDATA[Crime has been down for decades, but incarceration is still sky-high and brutality cases keep tearing the country apart. Does policing in America need a fundamental re-think?]]></description>
+			<link>https://taibbi.substack.com/p/where-did-policing-go-wrong</link>
+		</item>
 		<item>
 			<title>Is SARS-CoV-2 Airborne? Questions Abound — But Here's What We Know</title>
 			<source>Ars Technica</source>
@@ -547,10 +624,10 @@
 			<link>https://www.reuters.com/article/us-usa-drilling-abandoned-specialreport/special-report-millions-of-abandoned-oil-wells-are-leaking-methane-a-climate-menace-idUSKBN23N1NL</link>
 		</item>
 		<item>
-			<title>PG&E Pleads Guilty to Manslaughter: 'Our Equipment Started the fire.'</title>
+			<title>PG&amp;E Pleads Guilty to Manslaughter: 'Our Equipment Started the fire.'</title>
 			<source>Ars Technica</source>
 			<pubDate>Jun 17, 2020</pubDate>
-			<description><![CDATA[PG&E's 'gross negligence' led to massive 2018 Camp Fire, district attorney said.]]></description>
+			<description><![CDATA[PG&amp;E's 'gross negligence' led to massive 2018 Camp Fire, district attorney said.]]></description>
 			<link>https://arstechnica.com/tech-policy/2020/06/utility-pleads-guilty-to-84-counts-of-manslaughter-in-california-fire/</link>
 		</item>
 		<item>
@@ -629,83 +706,6 @@
 			<pubDate>Jun 15, 2020</pubDate>
 			<description><![CDATA[Evidence from Indonesia shows that development goals don’t have to come at a cost to the climate.]]></description>
 			<link>https://www.bloomberg.com/news/articles/2020-06-15/how-fighting-poverty-accidentally-stopped-deforestation</link>
-		</item>
-		<item>
-			<title>Zoom Shut Down US-Based Activists at China's Request</title>
-			<source>Wired</source>
-			<pubDate>Jun 13, 2020</pubDate>
-			<description><![CDATA[Hackers for hire, a particularly ignominious phishing campaign, and more of the week's top security news.]]></description>
-			<link>https://www.wired.com/story/zoom-china-facebook-fbi-security-news/</link>
-		</item>
-		<item>
-			<title>Three People With Inherited Diseases Successfully Treated With CRISPR</title>
-			<source>New Scientist</source>
-			<pubDate>Jun 12, 2020</pubDate>
-			<description><![CDATA[Two people with beta thalassaemia and one with sickle cell disease no longer need blood transfusions after their blood stem cells were gene edited and put back in their bodies]]></description>
-			<link>https://www.newscientist.com/article/2246020-three-people-with-inherited-diseases-successfully-treated-with-crispr/</link>
-		</item>
-		<item>
-			<title>CEO Worked Way Up From Son of CEO</title>
-			<source>YouTube</source>
-			<pubDate>Oct 23, 2013</pubDate>
-			<description><![CDATA[No description provided.]]></description>
-			<link>https://www.youtube.com/watch?v=_67JbvXLrmw&feature=youtu.be</link>
-		</item>
-		<item>
-			<title>The Pandemic Is Propelling a New Wave of Automation</title>
-			<source>Wired</source>
-			<pubDate>Jun 12, 2020</pubDate>
-			<description><![CDATA[Software programs adopted during the Covid-19 crisis make it easier to complete forms and track requests. It saves work, but could cost jobs.]]></description>
-			<link>https://www.wired.com/story/pandemic-propelling-new-wave-automation/</link>
-		</item>
-		<item>
-			<title>Powerful Petrochemical Lobbying Group Advanced Anti-Protest Legislation Amid Pandemic</title>
-			<source>The Intercept</source>
-			<pubDate>Jun 12, 2020</pubDate>
-			<description><![CDATA[West Virginia is one of several states that have taken advantage of the pandemic to ease the construction of controversial oil and gas projects.]]></description>
-			<link>https://theintercept.com/2020/06/07/pipeline-petrochemical-lobbying-group-anti-protest-law/</link>
-		</item>
-		<item>
-			<title>Thousands of Tons of Microplastics Are Falling From the Sky</title>
-			<source>Scientific American</source>
-			<pubDate>Jun 11, 2020</pubDate>
-			<description><![CDATA[New research helps unravel how vast amounts of plastic particles travel&mdash;both regionally and globally&mdash;on the wind]]></description>
-			<link>https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/</link>
-		</item>
-		<item>
-			<title>Plastic Dust Is Blowing Into U.S. National Parks—More Than 1000 Tons Each Year</title>
-			<source>Science</source>
-			<pubDate>Jun 11, 2020</pubDate>
-			<description><![CDATA[New study begins to trace a global 'plastic cycle']]></description>
-			<link>https://www.sciencemag.org/news/2020/06/plastic-dust-blowing-us-national-parks-more-1000-tons-each-year</link>
-		</item>
-		<item>
-			<title>Police Attacks on Protesters With 'Less Than Lethal' Weapons Result in Life-Threatening Injuries</title>
-			<source>The Intercept</source>
-			<pubDate>Jun 11, 2020</pubDate>
-			<description><![CDATA[People demonstrating on the streets, or following along online, don't need studies to know that less-lethal weaponry isn't safe — particularly in crowds.]]></description>
-			<link>https://theintercept.com/2020/06/11/police-less-than-lethal-weapons-protests/</link>
-		</item>
-		<item>
-			<title>U.S. States Accuse 26 Drugmakers of Generic Drug Price Fixing in Sweeping Lawsuit</title>
-			<source>Reuters</source>
-			<pubDate>Jun 11, 2020</pubDate>
-			<description><![CDATA[Twenty-six drug manufacturers were sued on Wednesday by the attorneys general of most U.S. states and several territories, which accused them of conspiring to reduce competition and drive up generic drug prices.]]></description>
-			<link>https://www.reuters.com/article/us-usa-drugs-antitrust-lawsuit/u-s-states-accuse-26-drugmakers-of-generic-drug-price-fixing-in-sweeping-lawsuit-idUSKBN23H2TR</link>
-		</item>
-		<item>
-			<title>2 Million Cases and Counting: US COVID-19 Outbreak Charges on Amid Reopening</title>
-			<source>Ars Technica</source>
-			<pubDate>Jun 11, 2020</pubDate>
-			<description><![CDATA[Despite testing boosts, experts say increases are real; fear of second wave looms.]]></description>
-			<link>https://arstechnica.com/science/2020/06/us-reaches-2-million-cases-as-states-continue-to-ease-restrictions/</link>
-		</item>
-		<item>
-			<title>New Facebook Tool Allows Employers to Suppress 'Unionize' in Workplace Chat</title>
-			<source>The Intercept</source>
-			<pubDate>Jun 11, 2020</pubDate>
-			<description><![CDATA[Facebook Workplace is used by employers as large as Walmart. The new tool would allow 'content control' to prevent certain topics from trending internally.]]></description>
-			<link>https://theintercept.com/2020/06/11/facebook-workplace-unionize/</link>
 		</item>
 	</channel>
 </rss>
