@@ -2,11 +2,39 @@
 <rss>
 	<channel>
 		<title>cata-list</title>
-		<link>https://cata-list.github.io/</link>
-		<id>rIaF-oLxkNhuvKc3ytnmJ</id>
+		<link>https://cata-list.github.io</link>
+		<id>EVSn2hkxEZpYR8OYIlTAe</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Sat Jul 11 2020 16:49:12 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Sun Jul 12 2020 11:48:30 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>US Citizens Warned They Face Arbitrary Arrest in China</title>
+			<source>Deutsche Welle</source>
+			<pubDate>Jul 12, 2020</pubDate>
+			<description><![CDATA[Amid increased tensions between the two superpowers, the US State Department has issued a formal warning for US citizens in China. It said Americans may face deportation or detention without explanation.]]></description>
+			<link>https://www.dw.com/en/us-citizens-warned-they-face-arbitrary-arrest-in-china/a-54144205</link>
+		</item>
+		<item>
+			<title>How to Trick Your Brain to Remember Almost Anything</title>
+			<source>Wired</source>
+			<pubDate>Jul 12, 2020</pubDate>
+			<description><![CDATA[Four-time USA Memory Champion Nelson Dellis and psychological scientist Julia Shaw explain how to boost your memory skills.]]></description>
+			<link>https://www.wired.com/story/how-to-trick-your-brain-to-remember-almost-anything/</link>
+		</item>
+		<item>
+			<title>Robert Mueller: Roger Stone Remains a Convicted Felon, and Rightly So</title>
+			<source>Washington Post</source>
+			<pubDate>Jul 11, 2020</pubDate>
+			<description><![CDATA[We made every decision in Stone's case, as in all our cases, based solely on the facts and the law and in accordance with the rule of law.]]></description>
+			<link>https://www.washingtonpost.com/opinions/2020/07/11/mueller-stone-oped/</link>
+		</item>
+		<item>
+			<title>New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record</title>
+			<source>The New York Times</source>
+			<pubDate>Jul 10, 2020</pubDate>
+			<description><![CDATA[The number of daily global cases also broke a record, with the United States as the biggest source of new infections. The U.S. death toll is also on the rise.]]></description>
+			<link>https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html</link>
+		</item>
 		<item>
 			<title>'Witch Hunt': Trump Commutes Longtime Adviser Roger Stone's Prison Sentence</title>
 			<source>Reuters</source>
@@ -624,10 +652,10 @@
 			<link>https://www.reuters.com/article/us-usa-drilling-abandoned-specialreport/special-report-millions-of-abandoned-oil-wells-are-leaking-methane-a-climate-menace-idUSKBN23N1NL</link>
 		</item>
 		<item>
-			<title>PG&amp;E Pleads Guilty to Manslaughter: 'Our Equipment Started the fire.'</title>
+			<title>PG&E Pleads Guilty to Manslaughter: 'Our Equipment Started the fire.'</title>
 			<source>Ars Technica</source>
 			<pubDate>Jun 17, 2020</pubDate>
-			<description><![CDATA[PG&amp;E's 'gross negligence' led to massive 2018 Camp Fire, district attorney said.]]></description>
+			<description><![CDATA[PG&E's 'gross negligence' led to massive 2018 Camp Fire, district attorney said.]]></description>
 			<link>https://arstechnica.com/tech-policy/2020/06/utility-pleads-guilty-to-84-counts-of-manslaughter-in-california-fire/</link>
 		</item>
 		<item>
@@ -678,34 +706,6 @@
 			<pubDate>Jun 16, 2020</pubDate>
 			<description><![CDATA[Boston Dynamics is finally making its mechanical canine available for businesses and developers. But know that this puppy ain't for everyone.]]></description>
 			<link>https://www.wired.com/story/you-can-now-buy-spot-the-robot-dog/</link>
-		</item>
-		<item>
-			<title>Researchers Uncover Six-Year Russian Misinformation Campaign Across Facebook and Reddit</title>
-			<source>The Verge</source>
-			<pubDate>Jun 16, 2020</pubDate>
-			<description><![CDATA[More than 2500 posts across 300 platforms]]></description>
-			<link>https://www.theverge.com/2020/6/16/21292982/russian-troll-campaign-facebook-reddit-twitter-misinformation</link>
-		</item>
-		<item>
-			<title>Multiple 'CIA Failures' Led to Theft of Agency's Top-Secret Hacking Tools</title>
-			<source>Ars Technica</source>
-			<pubDate>Jun 16, 2020</pubDate>
-			<description><![CDATA[Vault 7, the worst data theft in CIA history, could have been avoided, report finds.]]></description>
-			<link>https://arstechnica.com/information-technology/2020/06/theft-of-top-secret-cia-hacking-tools-was-result-of-woefully-lax-security/</link>
-		</item>
-		<item>
-			<title>Political Groups Use 'Deeply Spooky' Protester Location Data, Report Finds</title>
-			<source>Ars Technica</source>
-			<pubDate>Jun 15, 2020</pubDate>
-			<description><![CDATA[Activists want demonstrators to stay active—but privacy implications abound.]]></description>
-			<link>https://arstechnica.com/tech-policy/2020/06/political-groups-use-deeply-spooky-protester-location-data-report-finds/</link>
-		</item>
-		<item>
-			<title>How Fighting Poverty Accidentally Stopped Deforestation</title>
-			<source>Bloomberg</source>
-			<pubDate>Jun 15, 2020</pubDate>
-			<description><![CDATA[Evidence from Indonesia shows that development goals don’t have to come at a cost to the climate.]]></description>
-			<link>https://www.bloomberg.com/news/articles/2020-06-15/how-fighting-poverty-accidentally-stopped-deforestation</link>
 		</item>
 	</channel>
 </rss>

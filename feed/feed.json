@@ -1,32 +1,60 @@
 {
   "title": "cata-list",
-  "link": "https://cata-list.github.io/",
+  "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "7/11/2020, 4:49:12 PM",
-  "id": "rIaF-oLxkNhuvKc3ytnmJ",
+  "date": "7/12/2020, 11:48:30 AM",
+  "id": "EVSn2hkxEZpYR8OYIlTAe",
   "articles": [
-		{
-			"title": "'Witch Hunt': Trump Commutes Longtime Adviser Roger Stone's Prison Sentence",
+    {
+      "title": "US Citizens Warned They Face Arbitrary Arrest in China",
+      "source": "Deutsche Welle",
+      "date": "Jul 12, 2020",
+      "description": "Amid increased tensions between the two superpowers, the US State Department has issued a formal warning for US citizens in China. It said Americans may face deportation or detention without explanation.",
+      "link": "https://www.dw.com/en/us-citizens-warned-they-face-arbitrary-arrest-in-china/a-54144205"
+    },
+    {
+      "title": "How to Trick Your Brain to Remember Almost Anything",
+      "source": "Wired",
+      "date": "Jul 12, 2020",
+      "description": "Four-time USA Memory Champion Nelson Dellis and psychological scientist Julia Shaw explain how to boost your memory skills.",
+      "link": "https://www.wired.com/story/how-to-trick-your-brain-to-remember-almost-anything/"
+    },
+    {
+      "title": "Robert Mueller: Roger Stone Remains a Convicted Felon, and Rightly So",
+      "source": "Washington Post",
+      "date": "Jul 11, 2020",
+      "description": "We made every decision in Stone's case, as in all our cases, based solely on the facts and the law and in accordance with the rule of law.",
+      "link": "https://www.washingtonpost.com/opinions/2020/07/11/mueller-stone-oped/"
+    },
+    {
+      "title": "New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record",
+      "source": "The New York Times",
+      "date": "Jul 10, 2020",
+      "description": "The number of daily global cases also broke a record, with the United States as the biggest source of new infections. The U.S. death toll is also on the rise.",
+      "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
+    },
+    {
+      "title": "'Witch Hunt': Trump Commutes Longtime Adviser Roger Stone's Prison Sentence",
       "source": "Reuters",
       "date": "Jul 11, 2020",
       "description": "President Donald Trump commuted the sentence of his longtime friend and adviser Roger Stone, sparing him from prison after he was convicted of lying under oath to lawmakers investigating Russian interference in the 2016 U.S. election.",
       "link": "https://www.reuters.com/article/us-usa-trump-stone/trump-commutes-longtime-adviser-roger-stones-prison-sentence-idUSKBN24B351"
     },
     {
-			"title": "Why Mexican Cartels Are Shooting Up Drug Rehabs",
+      "title": "Why Mexican Cartels Are Shooting Up Drug Rehabs",
       "source": "Vice",
       "date": "Jul 10, 2020",
       "description": "Last week's massacre at a drug rehab was the latest in a string of attacks on drug users in Mexico.",
       "link": "https://www.vice.com/en_us/article/pky3j9/why-mexican-cartels-are-shooting-up-drug-rehabs"
     },
-		{
-			"title": "Police Surveilled George Floyd Protests With Help From Twitter-Affiliated Startup Dataminr",
-			"source": "The Intercept",
-			"date": "Jul 09, 2020",
-			"description": "Artificial intelligence firm Dataminr is making questionable use of its Twitter firehose privileges — and not for the first time.",
-			"link": "https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/"
-		},
+    {
+      "title": "Police Surveilled George Floyd Protests With Help From Twitter-Affiliated Startup Dataminr",
+      "source": "The Intercept",
+      "date": "Jul 09, 2020",
+      "description": "Artificial intelligence firm Dataminr is making questionable use of its Twitter firehose privileges — and not for the first time.",
+      "link": "https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/"
+    },
     {
       "title": "A Declaration of Independence by a Princeton Professor",
       "source": "Quillette",
@@ -677,34 +705,6 @@
       "date": "Jun 16, 2020",
       "description": "Boston Dynamics is finally making its mechanical canine available for businesses and developers. But know that this puppy ain't for everyone.",
       "link": "https://www.wired.com/story/you-can-now-buy-spot-the-robot-dog/"
-    },
-    {
-      "title": "Researchers Uncover Six-Year Russian Misinformation Campaign Across Facebook and Reddit",
-      "source": "The Verge",
-      "date": "Jun 16, 2020",
-      "description": "More than 2500 posts across 300 platforms",
-      "link": "https://www.theverge.com/2020/6/16/21292982/russian-troll-campaign-facebook-reddit-twitter-misinformation"
-    },
-    {
-      "title": "Multiple 'CIA Failures' Led to Theft of Agency's Top-Secret Hacking Tools",
-      "source": "Ars Technica",
-      "date": "Jun 16, 2020",
-      "description": "Vault 7, the worst data theft in CIA history, could have been avoided, report finds.",
-      "link": "https://arstechnica.com/information-technology/2020/06/theft-of-top-secret-cia-hacking-tools-was-result-of-woefully-lax-security/"
-    },
-    {
-      "title": "Political Groups Use 'Deeply Spooky' Protester Location Data, Report Finds",
-      "source": "Ars Technica",
-      "date": "Jun 15, 2020",
-      "description": "Activists want demonstrators to stay active—but privacy implications abound.",
-      "link": "https://arstechnica.com/tech-policy/2020/06/political-groups-use-deeply-spooky-protester-location-data-report-finds/"
-    },
-    {
-      "title": "How Fighting Poverty Accidentally Stopped Deforestation",
-      "source": "Bloomberg",
-      "date": "Jun 15, 2020",
-      "description": "Evidence from Indonesia shows that development goals don’t have to come at a cost to the climate.",
-      "link": "https://www.bloomberg.com/news/articles/2020-06-15/how-fighting-poverty-accidentally-stopped-deforestation"
     }
   ]
 }
