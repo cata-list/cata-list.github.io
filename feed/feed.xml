@@ -3,10 +3,115 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>EVSn2hkxEZpYR8OYIlTAe</id>
+		<id>359NW82yPgdasl-LptLuN</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Sun Jul 12 2020 11:48:30 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Wed Jul 15 2020 17:39:36 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Trump Admin Undercuts CDC, Seizes Control of National COVID-19 Data</title>
+			<source>Ars Technica</source>
+			<pubDate>Jul 15, 2020</pubDate>
+			<description><![CDATA[New directive is White House's latest attempt to cut the CDC out of the loop.]]></description>
+			<link>https://arstechnica.com/tech-policy/2020/07/trump-admin-undercuts-cdc-seizes-control-of-national-covid-19-data/</link>
+		</item>
+		<item>
+			<title>Trump Weakens Rules on Environmental Reviews of Infrastructure Projects</title>
+			<source>The Guardian</source>
+			<pubDate>Jul 15, 2020</pubDate>
+			<description><![CDATA[Plan reduces number of projects, such as pipelines and highways, subject to review and limits scope of investigations]]></description>
+			<link>https://www.theguardian.com/us-news/2020/jul/15/donald-trump-environmental-reviews-pipelines-highways</link>
+		</item>
+		<item>
+			<title>Secret Trump Order Gives CIA More Powers to Launch Cyberattacks</title>
+			<source>Yahoo News</source>
+			<pubDate>Jul 15, 2020</pubDate>
+			<description><![CDATA[The Central Intelligence Agency has conducted a series of covert cyber operations against Iran and other targets since winning a secret victory in 2018 when President Trump signed what amounts to a sweeping authorization for such activities, according to former U.S. officials with direct knowledge o…]]></description>
+			<link>https://news.yahoo.com/secret-trump-order-gives-cia-more-powers-to-launch-cyberattacks-090015219.html</link>
+		</item>
+		<item>
+			<title>Hack of 251 Law Enforcement Websites Exposes Personal Data of 700,000 Cops</title>
+			<source>The Intercept</source>
+			<pubDate>Jul 15, 2020</pubDate>
+			<description><![CDATA[The BlueLeaks archive contains over 16 million rows of data, including emails, descriptions of alleged crimes, and detailed personal information.]]></description>
+			<link>https://theintercept.com/2020/07/15/blueleaks-anonymous-ddos-law-enforcement-hack/</link>
+		</item>
+		<item>
+			<title>The Dehumanizing Condescension of 'White Fragility'</title>
+			<source>The Atlantic</source>
+			<pubDate>Jul 15, 2020</pubDate>
+			<description><![CDATA[The popular book aims to combat racism but talks down to Black people.]]></description>
+			<link>https://www.theatlantic.com/ideas/archive/2020/07/dehumanizing-condescension-white-fragility/614146/</link>
+		</item>
+		<item>
+			<title>Here's a Map of the Surveillance Tech Police Are Using to Track You</title>
+			<source>Gizmodo</source>
+			<pubDate>Jul 15, 2020</pubDate>
+			<description><![CDATA[An abundance of reporting has confirmed that you're not paranoid, Minority Report was nonfiction, and face paint isn't just an art project. We hear about how law enforcement can match our faces with photos scraped from our social media profiles and monitor us through neighbors' doorbells. The near-w…]]></description>
+			<link>https://gizmodo.com/here-s-a-map-of-the-surveillance-tech-police-are-using-1844391857</link>
+		</item>
+		<item>
+			<title>The Defenestration of Bari Weiss</title>
+			<source>Quillette</source>
+			<pubDate>Jul 15, 2020</pubDate>
+			<description><![CDATA[In London's Hyde Park, the famous Speakers' Corner stands as a tribute to the victory of John Stuart Mill, the most prominent thinker in the liberal tradition. In the occasionally stultifying intellectual climate of Victorian England, Mill led a successful campaign for the right to protest in London…]]></description>
+			<link>https://quillette.com/2020/07/14/the-defenestration-of-bari-weiss/</link>
+		</item>
+		<item>
+			<title>Yes, There Is Such a Thing as Cancel Culture</title>
+			<source>Quillette</source>
+			<pubDate>Jul 15, 2020</pubDate>
+			<description><![CDATA[On July 7th, 153 mostly left-leaning intellectuals wrote a letter to Harper's Magazine, expressing their opposition to 'a new set of moral attitudes and political commitments that tend to weaken our norms of open debate.' The Harper's letter prompted a discussion about the scale, and indeed the exis…]]></description>
+			<link>https://quillette.com/2020/07/14/yes-there-is-such-a-thing-as-cancel-culture/</link>
+		</item>
+		<item>
+			<title>Your Car Is Spewing Microplastics That Blow Around the World</title>
+			<source>Wired</source>
+			<pubDate>Jul 14, 2020</pubDate>
+			<description><![CDATA[When you drive, tiny bits of plastic fly off your tires and brakes. Now scientists have shown how all that road muck is blowing into 'pristine' environments like the Arctic.]]></description>
+			<link>https://www.wired.com/story/your-car-is-spewing-microplastics/</link>
+		</item>
+		<item>
+			<title>Sound of the Police: How US Law Enforcement Uses Noise as a Weapon</title>
+			<source>The Guardian</source>
+			<pubDate>Jul 14, 2020</pubDate>
+			<description><![CDATA[Potentially harmful military-grade weapons such as flashbangs are being utilized with accelerating regularity at US protests]]></description>
+			<link>https://www.theguardian.com/us-news/2020/jul/14/us-police-sound-weapon-protests</link>
+		</item>
+		<item>
+			<title>Global Methane Emissions Reach a Record High</title>
+			<source>The New York Times</source>
+			<pubDate>Jul 14, 2020</pubDate>
+			<description><![CDATA[Scientists expect emissions, driven by fossil fuels and agriculture, to continue rising rapidly.]]></description>
+			<link>https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html</link>
+		</item>
+		<item>
+			<title>Google Was Just Slapped With a Lawsuit That Claims It Tracks People on Hundreds of Thousands of Apps Even When They Opt Out</title>
+			<source>Business Insider</source>
+			<pubDate>Jul 13, 2020</pubDate>
+			<description><![CDATA[The lawsuit accuses the search engine giant of violating wiretap law and California privacy law by recording what users are looking at in apps.]]></description>
+			<link>https://www.businessinsider.com/google-lawsuit-app-tracking-without-permission-reuters-2020-7</link>
+		</item>
+		<item>
+			<title>Scientists Warn of Rapid Melting of Antarctica's 'Doomsday Glacier'</title>
+			<source>The Independent</source>
+			<pubDate>Jul 13, 2020</pubDate>
+			<description><![CDATA[Thwaites glacier is losing ice at an accelerating rate, threatening catastrophic sea-level rise]]></description>
+			<link>https://www.independent.co.uk/environment/thwaites-glacier-antarctic-melting-doomsday-climate-a9616966.html</link>
+		</item>
+		<item>
+			<title>How Small Satellites Are Radically Remaking Space Exploration</title>
+			<source>Ars Technica</source>
+			<pubDate>Jul 11, 2020</pubDate>
+			<description><![CDATA['There's so much of the Solar System that we have not explored.']]></description>
+			<link>https://arstechnica.com/science/2020/07/how-small-satellites-are-radically-remaking-space-exploration/</link>
+		</item>
+		<item>
+			<title>When the Left Turns on Its Own</title>
+			<source>The New York Times</source>
+			<pubDate>Jun 1, 2017</pubDate>
+			<description><![CDATA[Bret Weinstein objected to a day without white people at Evergreen State College. Now the professor isn't safe on campus.]]></description>
+			<link>https://www.nytimes.com/2017/06/01/opinion/when-the-left-turns-on-its-own.html</link>
+		</item>
 		<item>
 			<title>US Citizens Warned They Face Arbitrary Arrest in China</title>
 			<source>Deutsche Welle</source>
@@ -601,111 +706,6 @@
 			<pubDate>Jun 18, 2020</pubDate>
 			<description><![CDATA[The Air Force inspector general is examining whether secretive National Guard surveillance aircraft improperly monitored demonstrators in Washington and Minneapolis.]]></description>
 			<link>https://www.nytimes.com/2020/06/18/us/politics/investigation-military-surveillance-planes-george-floyd-protests.html</link>
-		</item>
-		<item>
-			<title>Arctic Records Its Hottest Temperature Ever</title>
-			<source>CBS News</source>
-			<pubDate>Jun 20, 2020</pubDate>
-			<description><![CDATA[Reaching 100 degrees in or near the Arctic is almost unheard of.]]></description>
-			<link>https://www.cbsnews.com/news/arctic-records-its-hottest-temperature-ever-2020-06-20/?utm_source=digg</link>
-		</item>
-		<item>
-			<title>'America Is Not the Greatest Country in the World Anymore' - The Newsroom</title>
-			<source>YouTube</source>
-			<pubDate>Aug 18, 2018</pubDate>
-			<description><![CDATA[From the series 'the newsroom', the beginning scene. America is not the greatest country in the world anymore.]]></description>
-			<link>https://www.youtube.com/watch?v=bIpKfw17-yY</link>
-		</item>
-		<item>
-			<title>Ten Percent of U.S. High School Students Graduating Without Basic Object Permanence Skills</title>
-			<source>YouTube</source>
-			<pubDate>Jan 31, 2013</pubDate>
-			<description><![CDATA[A new study finds that many American students do not realize that objects continue to exist even when they cannot be seen or heard.]]></description>
-			<link>https://www.youtube.com/watch?v=ssjokgx0pUQ</link>
-		</item>
-		<item>
-			<title>China Believed to Be Behind Major Cyber Attack on Australian Governments and Businesses</title>
-			<source>ABC News</source>
-			<pubDate>Jun 19, 2020</pubDate>
-			<description><![CDATA[Federal Government agencies believe China is the nation behind ongoing cyber attacks on Australian institutions, including hospitals, in recent months.]]></description>
-			<link>https://www.abc.net.au/news/2020-06-19/foreign-cyber-hack-targets-australian-government-and-business/12372470</link>
-		</item>
-		<item>
-			<title>Combining Therapy With the Psychedelic Drug Psilocybin Results in Large Reductions in Anxiety and Depression</title>
-			<source>PsyPost</source>
-			<pubDate>Jun 18, 2020</pubDate>
-			<description><![CDATA[Psilocybin is a hallucinogenic compound found in so-called 'magic mushrooms'. A recent meta-analysis published in Psychiatry Research provides tentative ...]]></description>
-			<link>https://www.psypost.org/2020/06/combining-therapy-with-the-psychedelic-drug-psilocybin-results-in-large-reductions-in-anxiety-and-depression-57092</link>
-		</item>
-		<item>
-			<title>U.S. Ranked Worst for Workers' Rights Among Major Economies</title>
-			<source>Bloomberg</source>
-			<pubDate>Jun 17, 2020</pubDate>
-			<description><![CDATA[The U.S. has the worst record among major developed countries when it comes to workers' rights, according to a survey of labor unions.]]></description>
-			<link>https://www.bloomberg.com/news/articles/2020-06-18/u-s-ranked-worst-for-workers-rights-among-major-economies</link>
-		</item>
-		<item>
-			<title>Millions of Abandoned Oil Wells Are Leaking Methane, a Climate Menace</title>
-			<source>Reuters</source>
-			<pubDate>Jun 17, 2020</pubDate>
-			<description><![CDATA[(This June 16 story corrects comparison in paragraph eight of climate damage from methane leaks to that from U.S. oil consumption. The leaks cause climate damage roughly equivalent to typical U.S. oil consumption in one day, not two days.)]]></description>
-			<link>https://www.reuters.com/article/us-usa-drilling-abandoned-specialreport/special-report-millions-of-abandoned-oil-wells-are-leaking-methane-a-climate-menace-idUSKBN23N1NL</link>
-		</item>
-		<item>
-			<title>PG&E Pleads Guilty to Manslaughter: 'Our Equipment Started the fire.'</title>
-			<source>Ars Technica</source>
-			<pubDate>Jun 17, 2020</pubDate>
-			<description><![CDATA[PG&E's 'gross negligence' led to massive 2018 Camp Fire, district attorney said.]]></description>
-			<link>https://arstechnica.com/tech-policy/2020/06/utility-pleads-guilty-to-84-counts-of-manslaughter-in-california-fire/</link>
-		</item>
-		<item>
-			<title>Massive Spying on Users of Google's Chrome Shows New Security Weakness</title>
-			<source>Reuters</source>
-			<pubDate>Jun 17, 2020</pubDate>
-			<description><![CDATA[A newly discovered spyware effort attacked users through 32 million downloads of extensions to Google's market-leading Chrome web browser, researchers at Awake Security told Reuters, highlighting the tech industry's failure to protect browsers as they are used more for email, payroll and other sensi…]]></description>
-			<link>https://www.reuters.com/article/us-alphabet-google-chrome-exclusive/exclusive-massive-spying-on-users-of-googles-chrome-shows-new-security-weakness-idUSKBN23P0JO</link>
-		</item>
-		<item>
-			<title>How to Spot Police Surveillance Tools</title>
-			<source>Popular Mechanics</source>
-			<pubDate>Jun 17, 2020</pubDate>
-			<description><![CDATA[Officers are likely tracking your every move at protests. But if you know what to look for, it's easy to protect yourself.]]></description>
-			<link>https://www.popularmechanics.com/technology/security/a32851975/police-surveillance-tools-protest-guide/</link>
-		</item>
-		<item>
-			<title>A $1.1m Hospital Bill After Surviving the Coronavirus? That's America for You</title>
-			<source>The Guardian</source>
-			<pubDate>Jun 16, 2020</pubDate>
-			<description><![CDATA[It shouldn't take a once-in-a-century pandemic to make policymakers understand the tragic absurdity of healthcare in the United States of America]]></description>
-			<link>https://www.theguardian.com/commentisfree/2020/jun/16/coronavirus-hospital-bill-healthcare-america</link>
-		</item>
-		<item>
-			<title>The Auto Industry Is Wrecked—Let's Rebuild It With Electric</title>
-			<source>Wired</source>
-			<pubDate>Jun 16, 2020</pubDate>
-			<description><![CDATA[It's the perfect time for a transportation revolution: the Green-Car New Deal.]]></description>
-			<link>https://www.wired.com/story/the-auto-industry-is-wrecked-lets-rebuild-it-with-electric/</link>
-		</item>
-		<item>
-			<title>Universities Step Up the Fight for Open-Access Research</title>
-			<source>Wired</source>
-			<pubDate>Jun 16, 2020</pubDate>
-			<description><![CDATA[Today's deal between the University of California and publisher Springer Nature is a big milestone on the path to dismantling paywalls around academic journals.]]></description>
-			<link>https://www.wired.com/story/universities-step-up-the-fight-for-open-access-research/</link>
-		</item>
-		<item>
-			<title>The Russian Disinfo Operation You Never Heard About</title>
-			<source>Wired</source>
-			<pubDate>Jun 16, 2020</pubDate>
-			<description><![CDATA[The campaign known as Secondary Infektion appears to be a distinct effort from the meddling of the IRA and GRU—and it went undetected for years.]]></description>
-			<link>https://www.wired.com/story/russia-secondary-infektion-disinformation/</link>
-		</item>
-		<item>
-			<title>You Can Now Buy Spot the Robot Dog—if You've Got $74,500</title>
-			<source>Wired</source>
-			<pubDate>Jun 16, 2020</pubDate>
-			<description><![CDATA[Boston Dynamics is finally making its mechanical canine available for businesses and developers. But know that this puppy ain't for everyone.]]></description>
-			<link>https://www.wired.com/story/you-can-now-buy-spot-the-robot-dog/</link>
 		</item>
 	</channel>
 </rss>
