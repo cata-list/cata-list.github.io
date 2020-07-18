@@ -3,9 +3,93 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "7/15/2020, 5:39:36 PM",
-  "id": "359NW82yPgdasl-LptLuN",
+  "date": "7/17/2020, 2:46:24 PM",
+  "id": "kGMTZuugnZlCRood4hJZ6",
   "articles": [
+    {
+      "title": "U.S. Breaks Record With Over 77,000 New Coronavirus Cases in Single Day",
+      "source": "Gizmodo",
+      "date": "Jul 17, 2020",
+      "description": "The U.S. recorded 77,255 new cases of coronavirus on Thursday, setting a depressing new world record. The U.S. has the worst outbreak on the planet right now, but it's probably more accurate to say this new record was broken last week. Why? The largest private testing lab in the country is currently…",
+      "link": "https://gizmodo.com/u-s-breaks-record-with-over-77-000-new-coronavirus-cas-1844414567"
+    },
+    {
+      "title": "Georgia Massaged Virus Data to Reopen, Then Voided Mask Orders",
+      "source": "Bloomberg",
+      "date": "Jul 17, 2020",
+      "description": "Georgia Governor Brian Kemp's edict expressly voiding coronavirus mask orders by local governments capped a week of turmoil in a state once touted as proof that reopening in a pandemic could work.",
+      "link": "https://www.bloomberg.com/news/articles/2020-07-17/georgia-massaged-virus-data-to-reopen-then-voided-mask-orders"
+    },
+    {
+      "title": "The U.S. Had a Record Number of Overdose Deaths Last Year",
+      "source": "Gizmodo",
+      "date": "Jul 17, 2020",
+      "description": "The covid-19 pandemic isn't the only public health crisis the U.S. is currently dealing with, as new government data released this week illustrates. In 2019, there were nearly 71,000 deaths attributed to drug overdose, according to the Centers for Disease Control and Prevention, the highest yearly n…",
+      "link": "https://gizmodo.com/the-u-s-had-a-record-number-of-overdose-deaths-last-ye-1844419458"
+    },
+    {
+      "title": "Portland Protesters Say Federal Officers in Unmarked Vans Are Detaining Them",
+      "source": "The Washington Post",
+      "date": "Jul 17, 2020",
+      "description": "Mark Pettibone, 29, said he still does not know who arrested him or whether what happened to him legally qualifies as an arrest.",
+      "link": "https://www.washingtonpost.com/nation/2020/07/17/portland-protests-federal-arrests/"
+    },
+    {
+      "title": "Doordash and Thousands of Other Companies Passively Send Your Data to Facebook",
+      "source": "OneZero",
+      "date": "Jul 16, 2020",
+      "description": "But you can do something about it",
+      "link": "https://onezero.medium.com/doordash-and-thousands-of-other-companies-passively-send-your-data-to-facebook-4ebe851e710"
+    },
+    {
+      "title": "Back to School: Teachers Are Ready to Quit Rather Than Put Their Lives at Risk",
+      "source": "BuzzFeed News",
+      "date": "Jul 16, 2020",
+      "description": "'Most parents have no idea how bad this is going to be.'",
+      "link": "https://www.buzzfeednews.com/article/carolineodonovan/coronavirus-schools-teachers-fear-for-their-lives"
+    },
+    {
+      "title": "U.S., Britain and Canada Say Russian Cyberspies Are Trying to Steal Coronavirus Vaccine Research",
+      "source": "The Washington Post",
+      "date": "Jul 16, 2020",
+      "description": "Hackers launched 'despicable attacks against those doing vital work to combat the coronavirus pandemic,' a top British intelligence official said.",
+      "link": "https://www.washingtonpost.com/world/uk-us-and-canada-report-russian-cyberspies-may-be-trying-to-steal-vaccine-research/2020/07/16/d7c0dbd6-c765-11ea-a825-8722004e4150_story.html"
+    },
+    {
+      "title": "Dr. Anthony Fauci Pleads With Young People: 'You're Propagating the Pandemic'",
+      "source": "CNBC",
+      "date": "Jul 16, 2020",
+      "description": "White House coronavirus advisor Dr. Anthony Fauci urged young Americans to not take the coronavirus lightly, saying doing so could propagate the pandemic.",
+      "link": "https://www.cnbc.com/2020/07/16/dr-anthony-fauci-pleads-with-young-people-youre-propagating-the-pandemic.html"
+    },
+    {
+      "title": "EU Court Again Rules That NSA Spying Makes U.S. Companies Inadequate for Privacy",
+      "source": "Electronic Frontier Foundation",
+      "date": "Jul 16, 2020",
+      "description": "The European Union's highest court today made clear—once again—that the US government's mass surveillance programs are incompatible with the privacy rights of EU citizens. The judgment was made in the latest case involving Austrian privacy advocate and EFF Pioneer Award winner Max Schrems. It...",
+      "link": "https://www.eff.org/deeplinks/2020/07/eu-court-again-rules-nsa-spying-makes-us-companies-inadequate-privacy"
+    },
+    {
+      "title": "The End of the Arab World's Oil Age Is Nigh",
+      "source": "The Economist",
+      "date": "Jul 16, 2020",
+      "description": "Pain will be felt across the region",
+      "link": "https://www.economist.com/middle-east-and-africa/2020/07/18/the-end-of-the-arab-worlds-oil-age-is-nigh"
+    },
+    {
+      "title": "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud",
+      "source": "The Intercept",
+      "date": "Jul 14, 2020",
+      "description": "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this.",
+      "link": "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/"
+    },
+    {
+      "title": "The Ideological Corruption of Science",
+      "source": "The Wall Street Journal",
+      "date": "Jul 12, 2020",
+      "description": "In American laboratories and universities, the spirit of Trofim Lysenko has suddenly been woke.",
+      "link": "https://www.wsj.com/articles/the-ideological-corruption-of-science-11594572501"
+    },
     {
       "title": "Trump Admin Undercuts CDC, Seizes Control of National COVID-19 Data",
       "source": "Ars Technica",
@@ -621,90 +705,6 @@
       "date": "Jun 23, 2020",
       "description": "Press Secretary told reporters a day earlier president was just 'joking' on Saturday night about slowing testing",
       "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-coronavirus-testing-slow-down-press-conference-today-arizona-a9581306.html"
-    },
-    {
-      "title": "Hospitals Sued to Keep Prices Secret. They Lost.",
-      "source": "The New York Times",
-      "date": "Jun 23, 2020",
-      "description": "The decision was a victory for the Trump administration, which sees pressure from patients as a way to control health costs.",
-      "link": "https://www.nytimes.com/2020/06/23/upshot/hospitals-lost-price-transparency-lawsuit.html"
-    },
-    {
-      "title": "Toxic Methanol That Causes Blindness Found in Hand Sanitizers, FDA Warns",
-      "source": "Ars Technica",
-      "date": "Jun 23, 2020",
-      "description": "Methanol is toxic when ingested, inhaled, and absorbed through the skin.",
-      "link": "https://arstechnica.com/science/2020/06/toxic-methanol-that-causes-blindness-found-in-hand-sanitizers-fda-warns/"
-    },
-    {
-      "title": "Covid-19 Has Led to a Pandemic of Plastic Pollution",
-      "source": "The Economist",
-      "date": "Jun 22, 2020",
-      "description": "As the world produces more protective equipment—and gorges on takeaways—pity the oceans",
-      "link": "https://www.economist.com/international/2020/06/22/covid-19-has-led-to-a-pandemic-of-plastic-pollution"
-    },
-    {
-      "title": "Climate Emission Killer: Construction Begins on World's Biggest Liquid Air Battery",
-      "source": "The Guardian",
-      "date": "Jun 18, 2020",
-      "description": "Exclusive: project will store renewable energy and reduce climate-heating emissions",
-      "link": "https://www.theguardian.com/environment/2020/jun/18/worlds-biggest-liquid-air-battery-starts-construction-in-uk"
-    },
-    {
-      "title": "Racist Police Violence Reconsidered",
-      "source": "Quillette",
-      "date": "Jun 11, 2020",
-      "description": "Tony Timpa was 32 years old when he died at the hands of the Dallas police in August 2016. He suffered from mental health difficulties and was unarmed. He wasn't resisting arrest. He had called the cops from a parking lot while intoxicated because he thought he might be a danger to himself. By the t…",
-      "link": "https://quillette.com/2020/06/11/racist-police-violence-reconsidered/"
-    },
-    {
-      "title": "America's Black Communities Are Suffering. Violent Protests Will Make the Suffering Worse",
-      "source": "Quillette",
-      "date": "May 30, 2020",
-      "description": "Protests sparked by the death of George Floyd at the hands of Minneapolis police officer Derek Chauvin—an act that prosecutors describe as murder—have devolved into violence. Numerous small businesses have been destroyed, and at least one elderly shopper at a Target store was assaulted. A man has be…",
-      "link": "https://quillette.com/2020/05/30/americas-black-communities-are-suffering-violent-protests-will-make-the-suffering-worse/"
-    },
-    {
-      "title": "Millions of Americans Can't Afford Water as Bills Rise 80% in a Decade",
-      "source": "The Guardian",
-      "date": "Jun 23, 2020",
-      "description": "Analysis of US cities shows emergency on affordability of running water amid Covid-19 pandemic",
-      "link": "https://www.theguardian.com/us-news/2020/jun/23/millions-of-americans-cant-afford-water-bills-rise"
-    },
-    {
-      "title": "Police Unions Spend Millions to Influence Policy in Biggest US Cities",
-      "source": "The Guardian",
-      "date": "Jun 23, 2020",
-      "description": "Analysis shows how organizations and officers in New York, Los Angeles and Chicago work against reform",
-      "link": "https://www.theguardian.com/us-news/2020/jun/23/police-unions-spending-policy-reform-chicago-new-york-la"
-    },
-    {
-      "title": "Who's to Blame for Plastic Microfiber Pollution?",
-      "source": "Wired",
-      "date": "Jun 22, 2020",
-      "description": "Tiny bits of plastic are corrupting every corner of the planet. The major culprits: cheap synthetic clothing and washing machines.",
-      "link": "https://www.wired.com/story/whos-to-blame-for-plastic-microfiber-pollution/"
-    },
-    {
-      "title": "Anonymous Stole and Leaked a Megatrove of Police Documents",
-      "source": "Wired",
-      "date": "Jun 22, 2020",
-      "description": "The so-called BlueLeaks collection includes internal memos, financial records, and more from over 200 state, local, and federal agencies.",
-      "link": "https://www.wired.com/story/blueleaks-anonymous-law-enforcement-hack/"
-    },
-    {
-      "title": "U.S. Watched George Floyd Protests in 15 Cities Using Aerial Surveillance",
-      "source": "The New York Times",
-      "date": "Jun 19, 2020",
-      "description": "From Minneapolis to Buffalo, Homeland Security officials dispatched drones, helicopters and airplanes to monitor Black Lives Matter protests.",
-      "link": "https://www.nytimes.com/2020/06/19/us/politics/george-floyd-protests-surveillance.html"
-    },
-    {
-      "title": "Air Force Investigates Military Planes That Monitored Protesters",
-      "source": "The New York Times",
-      "date": "Jun 18, 2020",
-      "description": "The Air Force inspector general is examining whether secretive National Guard surveillance aircraft improperly monitored demonstrators in Washington and Minneapolis.",
-      "link": "https://www.nytimes.com/2020/06/18/us/politics/investigation-military-surveillance-planes-george-floyd-protests.html"
     }
   ]
 }
