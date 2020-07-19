@@ -3,10 +3,38 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>kGMTZuugnZlCRood4hJZ6</id>
+		<id>J0nluz-Uy32tguUSrF24H</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Fri Jul 17 2020 14:46:24 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Sun Jul 19 2020 14:46:47 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>On Eve of Bankruptcy, U.S. Firms Shower Execs With Bonuses</title>
+			<source>Reuters</source>
+			<pubDate>Jul 17, 2020</pubDate>
+			<description><![CDATA[Nearly a third of more than 40 large companies seeking U.S. bankruptcy protection during the coronavirus pandemic awarded bonuses to executives within a month of filing their cases, according to a Reuters analysis of securities filings and court records.]]></description>
+			<link>https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses-idUSKCN24I1EE</link>
+		</item>
+		<item>
+			<title>Narcissists, Psychopaths, and Manipulators Are More Likely to Engage in 'Virtuous Victim Signaling,' Says Study</title>
+			<source>Reason</source>
+			<pubDate>Jul 7, 2020</pubDate>
+			<description><![CDATA[Plus: Protesters sue over alleged mistreatment by arresting officers, a new ruling on robocalls, and more...]]></description>
+			<link>https://reason.com/2020/07/07/narcissists-psychopaths-and-manipulators-are-more-likely-to-engage-in-virtuous-victim-signaling-says-study/</link>
+		</item>
+		<item>
+			<title>Uighur Exiles Push for Court Case Accusing China of Genocide</title>
+			<source>The New York Times</source>
+			<pubDate>Jul 6, 2020</pubDate>
+			<description><![CDATA[The complaint at the International Criminal Court is the first of its kind to challenge Beijing on its crackdown on Muslims, but China does not accept the court's jurisdiction.]]></description>
+			<link>https://www.nytimes.com/2020/07/06/world/asia/china-xinjiang-uighur-court.html</link>
+		</item>
+		<item>
+			<title>Bloody Harvest — How Everyone Ignored the Crime of the Century</title>
+			<source>Quillette</source>
+			<pubDate>Jan 3, 2020</pubDate>
+			<description><![CDATA[In June of this year the China Tribunal delivered its Final Judgement and Summary Report.1 An independent committee composed of lawyers, human rights experts, and a transplant surgeon, the Tribunal was established to investigate forced organ harvesting on the Chinese mainland. These rumours have hau…]]></description>
+			<link>https://quillette.com/2020/01/03/bloody-harvest-how-everyone-ignored-the-crime-of-the-century/</link>
+		</item>
 		<item>
 			<title>U.S. Breaks Record With Over 77,000 New Coronavirus Cases in Single Day</title>
 			<source>Gizmodo</source>
@@ -678,34 +706,6 @@
 			<pubDate>Jun 24, 2020</pubDate>
 			<description><![CDATA[The exemption allows companies to bypass an EPA law meant to address widespread contamination from perflourinated chemicals]]></description>
 			<link>https://www.theguardian.com/environment/2020/jun/24/epa-pfas-chemical-releases-exemption-us</link>
-		</item>
-		<item>
-			<title>It's Unconstitutional for Cops to Force Phone Unlocking, Court Rules</title>
-			<source>Ars Technica</source>
-			<pubDate>Jun 24, 2020</pubDate>
-			<description><![CDATA[US courts disagree on whether suspects can be forced to unlock their phones.]]></description>
-			<link>https://arstechnica.com/tech-policy/2020/06/indiana-supreme-court-its-unconstitutional-to-force-phone-unlocking/</link>
-		</item>
-		<item>
-			<title>Why the Arctic Is Warming So Fast, and Why That's So Alarming</title>
-			<source>Wired</source>
-			<pubDate>Jun 23, 2020</pubDate>
-			<description><![CDATA[When permafrost thaws, sea ice disappears, and wildfires rage in the north, the consequences extend to the rest of the world.]]></description>
-			<link>https://www.wired.com/story/why-the-arctic-is-warming-so-fast/</link>
-		</item>
-		<item>
-			<title>My Family Saw a Police Car Hit a Kid on Halloween. Then I Learned How NYPD Impunity Works.</title>
-			<source>ProPublica</source>
-			<pubDate>Jun 23, 2020</pubDate>
-			<description><![CDATA[ProPublica Deputy Managing Editor Eric Umansky's family saw an unmarked NYPD cruiser hit a Black teenager. He tried to find out how it happened, and instead found all of the ways the NYPD is shielded from accountability.]]></description>
-			<link>https://www.propublica.org/article/my-family-saw-a-police-car-hit-a-kid-on-halloween-then-i-learned-how-nypd-impunity-works</link>
-		</item>
-		<item>
-			<title>Trump Contradicts Aides and Insists He Meant It When He Asked for Coronavirus Testing to Be Slowed Down</title>
-			<source>The Independent</source>
-			<pubDate>Jun 23, 2020</pubDate>
-			<description><![CDATA[Press Secretary told reporters a day earlier president was just 'joking' on Saturday night about slowing testing]]></description>
-			<link>https://www.independent.co.uk/news/world/americas/us-politics/trump-coronavirus-testing-slow-down-press-conference-today-arizona-a9581306.html</link>
 		</item>
 	</channel>
 </rss>
