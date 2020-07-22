@@ -3,9 +3,44 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "7/20/2020, 12:23:01 PM",
-  "id": "y9oLcPu4gyay9e-n_RzkA",
+  "date": "7/22/2020, 12:32:23 PM",
+  "id": "MHG9sAzcEF1VXyhTLSRR7",
   "articles": [
+    {
+      "title": "Ancient Ice Loss in Antarctica's Most Stable Region Paints a Bleak Picture of What Could Come",
+      "source": "Gizmodo",
+      "date": "Jul 22, 2020",
+      "description": "A new paper suggests that the East Antarctic ice sheet may not be as stable as we thought. Looking at ancient melting, the study finds evidence that this piece of the Antarctic experienced melting 400,000 years ago when the world was 1.8 to 3.6 degrees Fahrenheit (1 to 2 degrees Celsius) warmer. Eno…",
+      "link": "https://earther.gizmodo.com/ancient-ice-loss-in-east-antarctica-is-not-something-an-1844468011"
+    },
+		{
+			"title": "US Charges Two Chinese Spies in Global Hacking Campaign Targeting COVID-19 Research",
+			"source": "TechCrunch",
+			"date": "Jul 21, 2020",
+			"description": "The hackers are accused of a hacking spree lasting more than a decade.",
+			"link": "https://techcrunch.com/2020/07/21/us-prosecutors-charge-chinese-spies-global-hacking/"
+		},
+    {
+      "title": "Obesity, Infertility, and Low IQ Are Just Some of the Ways Household Chemicals Wreck Our Health",
+      "source": "Gizmodo",
+      "date": "Jul 21, 2020",
+      "description": "A new analysis published in the Lancet Diabetes and Endocrinology on Tuesday found that a growing number of endocrine-disrupting household chemicals have been linked to widespread health problems, including infertility, diabetes, and impaired brain development. The researchers examined hundreds of s…",
+      "link": "https://earther.gizmodo.com/obesity-infertility-and-low-iq-are-just-some-of-the-w-1844460126"
+    },
+    {
+      "title": "It's Becoming Clear Why the US' Response to COVID-19 Is Terrible",
+      "source": "Ars Technica",
+      "date": "Jul 20, 2020",
+      "description": "Multiple reports make it obvious that facts aren't driving pandemic management.",
+      "link": "https://arstechnica.com/science/2020/07/inside-the-us-pandemic-incompetence-it-starts-at-the-top/"
+    },
+    {
+      "title": "By your powers combined: We are Social Justice Warriors",
+      "source": "YouTube",
+      "date": "Jul 8, 2020",
+      "description": "Dewdawg presents, By your powers combined: We are SOCIAL JUSTICE Warriors EPISODE intro 'Get TRIGGERED' * original movie created for 'No safe Spaces' release...",
+      "link": "https://www.youtube.com/watch?v=ROWl3yx_5ew"
+    },
     {
       "title": "The Terrible Consequences of Australia's Uber-Bushfires",
       "source": "Wired",
@@ -670,41 +705,6 @@
       "date": "Jun 25, 2020",
       "description": "In its push to extradite WikiLeaks founder Julian Assange from the U.K., the U.S. Justice Department on Wednesday published a superseding indictment aimed at broadening 'the scope of the conspiracy surrounding alleged computer intrusions with which Assange was previously charged.' The names of certa…",
       "link": "https://gizmodo.com/dojs-new-wikileaks-indictment-has-significant-convenie-1844166678"
-    },
-    {
-      "title": "Why Massive Saharan Dust Plumes Are Blowing Into the US",
-      "source": "Wired",
-      "date": "Jun 25, 2020",
-      "description": "Every summer, an atmospheric event propels desert dust thousands of miles across the Atlantic. This year is particularly bad, and timed terribly with Covid-19.",
-      "link": "https://www.wired.com/story/saharan-dust-plumes-are-blowing-into-the-us/"
-    },
-    {
-      "title": "California Agency Blocks Release of Police Use of Force and Surveillance Training, Claiming Copyright",
-      "source": "Electronic Frontier Foundation",
-      "date": "Jun 25, 2020",
-      "description": "Under a California law that went into effect on January 1, 2020, all law enforcement training materials must be 'conspicuously' published on the California Commission on Peace Officer Standards and Training (POST) website. However, if you visit POST's Open Data hub and try to download the officer...",
-      "link": "https://www.eff.org/deeplinks/2020/06/california-agency-blocks-release-police-use-force-and-surveillance-training"
-    },
-    {
-      "title": "Three Cops Fired After Accidental Dashcam Activation Captures Racist Rants",
-      "source": "Ars Technica",
-      "date": "Jun 25, 2020",
-      "description": "Standard, internal review of dashcam recording found 'extremely racist' footage.",
-      "link": "https://arstechnica.com/tech-policy/2020/06/three-cops-fired-after-accidental-dashcam-activation-captures-racist-rants/"
-    },
-    {
-      "title": "Congress Investigating How Data Broker Sells Smartphone Tracking Info to Law Enforcement",
-      "source": "The Verge",
-      "date": "Jun 25, 2020",
-      "description": "A report last year found Homeland Security used Venntel data at the US-Mexico border.",
-      "link": "https://www.theverge.com/2020/6/25/21303190/congress-data-smartphone-tracking-fbi-security-privacy"
-    },
-    {
-      "title": "White House Ordered NIH to Cancel Coronavirus Research Funding, Fauci Says",
-      "source": "Ars Technica",
-      "date": "Jun 24, 2020",
-      "description": "The research was the target of a conspiracy theory about the origin of the new coronavirus.",
-      "link": "https://arstechnica.com/science/2020/06/white-house-ordered-nih-to-cancel-coronavirus-research-funding-fauci-says/"
     }
   ]
 }
