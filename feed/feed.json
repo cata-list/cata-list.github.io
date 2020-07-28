@@ -3,9 +3,86 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "7/22/2020, 12:32:23 PM",
-  "id": "MHG9sAzcEF1VXyhTLSRR7",
+  "date": "7/28/2020, 10:44:25 AM",
+  "id": "UitGh9EXjOXHh58jiLpHU",
   "articles": [
+    {
+      "title": "It's Not Just Siberia as Record Heat Spreads Across the Arctic",
+      "source": "Gizmodo",
+      "date": "Jul 27, 2020",
+      "description": "Siberia has been hot and on fire. Perhaps you've heard? The relentless heat that's buffeted the region has decided to expand to other parts of the Arctic, from Norway to Canada, with high-temperature records breaking over the weekend.",
+      "link": "https://earther.gizmodo.com/its-not-just-siberia-as-record-heat-spreads-across-the-1844517909"
+    },
+    {
+      "title": "The Myth of Pervasive Misogyny",
+      "source": "Quillette",
+      "date": "Jul 27, 2020",
+      "description": "Women who seek to be equal with men lack ambition. ~Timothy Leary Many feminists and progressives argue that the West is plagued by pervasive misogyny. In fact, this claim is made with such frequency, and is so rarely challenged, that it has become part of the Left's catechism of victimhood, repeate…",
+      "link": "https://quillette.com/2020/07/27/the-myth-of-pervasive-misogyny/"
+    },
+    {
+      "title": "We're Publishing Thousands of Police Discipline Records That New York Kept Secret for Decades",
+      "source": "ProPublica",
+      "date": "Jul 26, 2020",
+      "description": "ProPublica obtained these police records from New York City's Civilian Complaint Review Board. NYPD unions are suing to halt the city from making the data public.",
+      "link": "https://www.propublica.org/article/nypd-civilian-complaint-review-board-editors-note"
+    },
+    {
+      "title": "Russia's GRU Hackers Hit US Government and Energy Targets",
+      "source": "Ars Technica",
+      "date": "Jul 25, 2020",
+      "description": "A previously unreported Fancy Bear campaign persisted for well over a year.",
+      "link": "https://arstechnica.com/information-technology/2020/07/russias-gru-hackers-hit-us-government-and-energy-targets/"
+    },
+    {
+      "title": "Of Heroic Deeds and Hysterical Masses",
+      "source": "Quillette",
+      "date": "Jul 25, 2020",
+      "description": "Perpetual progress is no more possible than perpetual motion, an axiom unwittingly vindicated by the benighted throngs that currently run amok across America, menacing the living and long dead wherever they rage. Whereas in the final decade of the 19th century, 'enlightenment had progressed to the p…",
+      "link": "https://quillette.com/2020/07/24/of-heroic-deeds-and-hysterical-masses/"
+    },
+    {
+      "title": "Routine Beatings of Inmates in Alabama Prisons Go Ignored, U.S. Says",
+      "source": "The New York Times",
+      "date": "Jul 24, 2020",
+      "description": "A report released by the Justice Department found that corrections officers frequently used excessive force and violated prisoners' constitutional rights.",
+      "link": "https://www.nytimes.com/2020/07/24/us/alabama-prisons-excessive-force.html"
+    },
+    {
+      "title": "Russia Accused of Firing Satellite Weapon in Space",
+      "source": "BBC News",
+      "date": "Jul 23, 2020",
+      "description": "The UK says the Russian satellite launched 'a projectile with the characteristics of a weapon'.",
+      "link": "https://www.bbc.com/news/world-europe-53518238"
+    },
+    {
+      "title": "A Security Breach Exposed More Than One Million DNA Profiles on a Major Genealogy Database",
+      "source": "BuzzFeed News",
+      "date": "Jul 22, 2020",
+      "description": "First GEDmatch, the DNA database that helped identify the Golden State Killer, was hacked. Then email addresses from its users were used in a phishing attack on another leading genealogy site.",
+      "link": "https://www.buzzfeednews.com/article/peteraldhous/hackers-gedmatch-dna-privacy"
+    },
+    {
+      "title": "Poll: 62% of Americans Say They Have Political Views They're Afraid to Share",
+      "source": "Cato Institute",
+      "date": "Jul 22, 2020",
+      "description": "50% of strong liberals support firing Trump donors, 36% of strong conservatives support firing Biden donors; 32% are worried about missing out on job opportunities because of their political opinions",
+      "link": "https://www.cato.org/publications/survey-reports/poll-62-americans-say-they-have-political-views-theyre-afraid-share"
+    },
+    {
+      "title": "Ongoing Meow Attack Has Nuked >1,000 Databases Without Telling Anyone Why",
+      "source": "Ars Technica",
+      "date": "Jul 22, 2020",
+      "description": "Ongoing attack hitting unsecured data leaves the word 'meow' as its calling card.",
+      "link": "https://arstechnica.com/information-technology/2020/07/more-than-1000-databases-have-been-nuked-by-mystery-meow-attack/"
+    },
+    {
+      "title": "How to Sell Protest Footage to FOX and CNN",
+      "source": "YouTube",
+      "date": "Jun 14, 2020",
+      "description": "I am a videographer who has figured out the technique to sell my footage to both of these news outlets. You can to if you follow my very important guidelines...",
+      "link": "https://www.youtube.com/watch?v=xiYZ__Ww02c"
+    },
     {
       "title": "Ancient Ice Loss in Antarctica's Most Stable Region Paints a Bleak Picture of What Could Come",
       "source": "Gizmodo",
@@ -13,19 +90,19 @@
       "description": "A new paper suggests that the East Antarctic ice sheet may not be as stable as we thought. Looking at ancient melting, the study finds evidence that this piece of the Antarctic experienced melting 400,000 years ago when the world was 1.8 to 3.6 degrees Fahrenheit (1 to 2 degrees Celsius) warmer. Eno…",
       "link": "https://earther.gizmodo.com/ancient-ice-loss-in-east-antarctica-is-not-something-an-1844468011"
     },
-		{
-			"title": "US Charges Two Chinese Spies in Global Hacking Campaign Targeting COVID-19 Research",
-			"source": "TechCrunch",
-			"date": "Jul 21, 2020",
-			"description": "The hackers are accused of a hacking spree lasting more than a decade.",
-			"link": "https://techcrunch.com/2020/07/21/us-prosecutors-charge-chinese-spies-global-hacking/"
-		},
     {
       "title": "Obesity, Infertility, and Low IQ Are Just Some of the Ways Household Chemicals Wreck Our Health",
       "source": "Gizmodo",
       "date": "Jul 21, 2020",
       "description": "A new analysis published in the Lancet Diabetes and Endocrinology on Tuesday found that a growing number of endocrine-disrupting household chemicals have been linked to widespread health problems, including infertility, diabetes, and impaired brain development. The researchers examined hundreds of s…",
       "link": "https://earther.gizmodo.com/obesity-infertility-and-low-iq-are-just-some-of-the-w-1844460126"
+    },
+    {
+      "title": "US Charges Two Chinese Spies in Global Hacking Campaign Targeting COVID-19 Research",
+      "source": "TechCrunch",
+      "date": "Jul 21, 2020",
+      "description": "The hackers are accused of a hacking spree lasting more than a decade.",
+      "link": "https://techcrunch.com/2020/07/21/us-prosecutors-charge-chinese-spies-global-hacking/"
     },
     {
       "title": "It's Becoming Clear Why the US' Response to COVID-19 Is Terrible",
@@ -131,13 +208,6 @@
       "date": "Jul 17, 2020",
       "description": "The covid-19 pandemic isn't the only public health crisis the U.S. is currently dealing with, as new government data released this week illustrates. In 2019, there were nearly 71,000 deaths attributed to drug overdose, according to the Centers for Disease Control and Prevention, the highest yearly n…",
       "link": "https://gizmodo.com/the-u-s-had-a-record-number-of-overdose-deaths-last-ye-1844419458"
-    },
-    {
-      "title": "Portland Protesters Say Federal Officers in Unmarked Vans Are Detaining Them",
-      "source": "The Washington Post",
-      "date": "Jul 17, 2020",
-      "description": "Mark Pettibone, 29, said he still does not know who arrested him or whether what happened to him legally qualifies as an arrest.",
-      "link": "https://www.washingtonpost.com/nation/2020/07/17/portland-protests-federal-arrests/"
     },
     {
       "title": "Doordash and Thousands of Other Companies Passively Send Your Data to Facebook",
@@ -635,76 +705,6 @@
       "date": "Jun 29, 2020",
       "description": "'Power corrupts,' as the saying goes, and a corollary is that, other things being equal, the more power, the more corruption. That's the sort of common wisdom or deep cliché that would lead one to speculate that political leaders are likely to be morally worse on average than the populations they go…",
       "link": "https://quillette.com/2020/06/27/leaders-are-worse-than-average/"
-    },
-    {
-      "title": "Coronavirus Brings American Decline Out in the Open",
-      "source": "Bloomberg",
-      "date": "Jun 29, 2020",
-      "description": "Without fixes for infrastructure, education, health care and government, the U.S. will resemble a developing nation in a few decades.",
-      "link": "https://www.bloomberg.com/opinion/articles/2020-06-29/coronavirus-brings-american-decline-out-in-the-open"
-    },
-    {
-      "title": "NATO Officials Say They Were Briefed on Russian Bounties on US Soldiers in Afghanistan — Even Though Trump Claims He Wasn't",
-      "source": "Business Insider",
-      "date": "Jun 28, 2020",
-      "description": "Three NATO officials told Insider they were briefed on the matter by US intelligence. Trump claims US intel 'did not find this info credible.'",
-      "link": "https://www.businessinsider.com/russian-bounty-us-soldiers-afghanistan-nato-officials-briefed-trump-denies-2020-6"
-    },
-    {
-      "title": "Radioactivity Hike Seen in Northern Europe; Source Unknown",
-      "source": "The New York Times",
-      "date": "Jun 27, 2020",
-      "description": "Nordic authorities say they detected slightly increased levels of radioactivity in northern Europe this month that Dutch officials said may be from a source in western Russia and may 'indicate damage to a fuel element in a nuclear power plant.'",
-      "link": "https://www.nytimes.com/aponline/2020/06/27/business/ap-eu-nordics-russia-radiation.html"
-    },
-    {
-      "title": "The Secretive Government Agency Planting 'Cyanide Bombs' Across the US",
-      "source": "The Guardian",
-      "date": "Jun 26, 2020",
-      "description": "Wildlife Services kills thousands of animals at ranchers and farmers' behest. But it operates with little oversight – and critics describe it as out of control",
-      "link": "https://www.theguardian.com/environment/2020/jun/26/cyanide-bombs-wildfire-services-idaho"
-    },
-    {
-      "title": "Satellites Reveal Major New Gas Industry Methane Leaks",
-      "source": "Reuters",
-      "date": "Jun 26, 2020",
-      "description": "Last fall, European Space Agency satellites detected huge plumes of the invisible planet-warming gas methane leaking from the Yamal pipeline that carries natural gas from Siberia to Europe.",
-      "link": "https://www.reuters.com/article/us-climatechange-methane-satellites-insi-idUSKBN23W3K4"
-    },
-    {
-      "title": "US Coronavirus Cases Hit New One-Day High as States Backtrack on Reopening",
-      "source": "The Guardian",
-      "date": "Jun 26, 2020",
-      "description": "Experts say there's evidence Covid-19 is making a comeback, including rising deaths and hospitalizations in parts of the US",
-      "link": "https://www.theguardian.com/us-news/2020/jun/26/arizona-joins-texas-halting-reopening-amid-surge-covid-coronavirus-cases"
-    },
-    {
-      "title": "China's Military Provokes Its Neighbors, but the Message Is for the United States",
-      "source": "The New York Times",
-      "date": "Jun 26, 2020",
-      "description": "From the Himalayas to the South China Sea, China is pressing its territorial claims aggressively, raising the possibility of additional deadly clashes.",
-      "link": "https://www.nytimes.com/2020/06/26/international-home/china-military-india-taiwan.html"
-    },
-    {
-      "title": "Florida Governor Under Fire Over Claims State Is 'Cooking the Books' on Covid-19",
-      "source": "The Guardian",
-      "date": "Jun 26, 2020",
-      "description": "Ron DeSantis angrily dismisses allegation from fired scientist that officials are massaging figures to hide true impact of coronavirus",
-      "link": "https://www.theguardian.com/us-news/2020/jun/26/florida-governor-ron-desantis-republican-coronavirus"
-    },
-    {
-      "title": "A Company Run by a White House 'Volunteer' With No Experience in Medical Supplies Got $2.4 Million From the Feds for Medical Supplies",
-      "source": "ProPublica",
-      "date": "Jun 26, 2020",
-      "description": "A $2.4 million deal to supply the Bureau of Prisons with surgical gowns was the second multimillion dollar contract for coronavirus supplies that went to somebody who did work for the White House but had little relevant experience.",
-      "link": "https://www.propublica.org/article/a-company-run-by-a-white-house-volunteer-with-no-experience-in-medical-supplies-got-2.4-million-from-the-feds-for-medical-supplies#970668"
-    },
-    {
-      "title": "DOJ's New WikiLeaks Indictment Has Significant, Convenient Plot Holes",
-      "source": "Gizmodo",
-      "date": "Jun 25, 2020",
-      "description": "In its push to extradite WikiLeaks founder Julian Assange from the U.K., the U.S. Justice Department on Wednesday published a superseding indictment aimed at broadening 'the scope of the conspiracy surrounding alleged computer intrusions with which Assange was previously charged.' The names of certa…",
-      "link": "https://gizmodo.com/dojs-new-wikileaks-indictment-has-significant-convenie-1844166678"
     }
   ]
 }
