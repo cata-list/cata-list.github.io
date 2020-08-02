@@ -3,9 +3,107 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "7/28/2020, 10:44:25 AM",
-  "id": "UitGh9EXjOXHh58jiLpHU",
+  "date": "8/2/2020, 2:14:10 PM",
+  "id": "VasZVoFjwHtkv2J9jSaXi",
   "articles": [
+    {
+      "title": "SpaceX Brings Astronauts Home Safely in a Historic First",
+      "source": "Wired",
+      "date": "Aug 2, 2020",
+      "description": "That's a wrap on SpaceX's crewed demo mission, which clears the way for the company to regularly launch astronauts for NASA.",
+      "link": "https://www.wired.com/story/spacex-brings-astronauts-home-safely-in-a-historic-first/"
+    },
+    {
+      "title": "The Piety of the Impious",
+      "source": "Quillette",
+      "date": "Aug 1, 2020",
+      "description": "Writing with not a little insight, commentators have observed a deeply intriguing dimension to the protests currently convulsing the United States: Percolating beneath the callow progressivism lies a kind of spiritual fervour, which animates a great swathe of the demonstrators. It's not simply the c…",
+      "link": "https://quillette.com/2020/08/01/the-piety-of-the-impious/"
+    },
+    {
+      "title": "Data Isn't Just Being Collected From Your Phone. It's Being Used to Score You.",
+      "source": "The Washington Post",
+      "date": "Jul 31, 2020",
+      "description": "It's called surveillance scoring. And everybody's doing it.",
+      "link": "https://www.washingtonpost.com/opinions/2020/07/31/data-isnt-just-being-collected-your-phone-its-being-used-score-you/"
+    },
+    {
+      "title": "What Are Stingrays and Dirtboxes?",
+      "source": "The Intercept",
+      "date": "Jul 31, 2020",
+      "description": "A guide to stingray surveillance technology, which may have been deployed at recent protests.",
+      "link": "https://theintercept.com/2020/07/31/protests-surveillance-stingrays-dirtboxes-phone-tracking/"
+    },
+    {
+      "title": "Americans Are Self-Censoring at Record Rates",
+      "source": "Persuasion",
+      "date": "Jul 31, 2020",
+      "description": "The percentage of Americans afraid to share their political views has tripled.",
+      "link": "https://www.persuasion.community/p/americans-are-self-censoring-at-record"
+    },
+    {
+      "title": "NASA Just Launched Its New Perseverance Rover to Mars",
+      "source": "Wired",
+      "date": "Jul 30, 2020",
+      "description": "The new rover is its biggest, most autonomous yet and may lead us to the first signs of ancient life on the Red Planet.",
+      "link": "https://www.wired.com/story/how-to-watch-nasa-launch-its-new-perseverance-mars-rover/"
+    },
+    {
+      "title": "The Panopticon Is Already Here",
+      "source": "The Atlantic",
+      "date": "Jul 30, 2020",
+      "description": "Xi Jinping is using artificial intelligence to enhance his government's totalitarian control—and he's exporting this technology to regimes around the globe.",
+      "link": "https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/"
+    },
+    {
+      "title": "The New Fight to Hold Purdue Pharma and the Sacklers Accountable for the Opioid Crisis",
+      "source": "The Intercept",
+      "date": "Jul 29, 2020",
+      "description": "Victim advocates fear that bankruptcy will shield the drugmaker from justice, but they're not giving up.",
+      "link": "https://theintercept.com/2020/07/29/purdue-pharma-bankruptcy-sacklers/"
+    },
+    {
+      "title": "How to Spot — and Avoid — Dark Patterns on the Web",
+      "source": "Wired",
+      "date": "Jul 29, 2020",
+      "description": "You've seen them before: the UX ploys designed to trick you into spending money, or make it nearly impossible to unsubscribe. Here's what to look out for.",
+      "link": "https://www.wired.com/story/how-to-spot-avoid-dark-patterns/"
+    },
+    {
+      "title": "Our Oppressive Moment",
+      "source": "Quillette",
+      "date": "Jul 29, 2020",
+      "description": "As one of the signatories to the much-discussed 'Open Letter' in Harper's magazine, I've been bemused by the objection that we are merely whiners—people with impregnable career success, flustered that social media is forcing us to experience unprecedented criticism, particularly in the wake of the F…",
+      "link": "https://quillette.com/2020/07/29/our-oppressive-moment/"
+    },
+    {
+      "title": "Largest Nuclear Fusion Project Begins Assembly",
+      "source": "BBC News",
+      "date": "Jul 28, 2020",
+      "description": "The world's biggest nuclear fusion project has entered its five-year assembly phase.",
+      "link": "https://www.bbc.com/news/science-environment-53573294"
+    },
+    {
+      "title": "Understanding Totalitarianism",
+      "source": "Quillette",
+      "date": "Jul 28, 2020",
+      "description": "In recent years, amid concern about a possible resurgence of totalitarianism, a number of books and articles have appeared that are intended to warn about the rhetoric and behavior of the populist Right. At the same time, a countercurrent of public intellectuals and journalists have leveled similar …",
+      "link": "https://quillette.com/2020/07/29/understanding-totalitarianism/"
+    },
+    {
+      "title": "Internal Source Code From 50 High-Profile Companies Including Microsoft, Disney, and Nintendo Has Been Leaked and Posted Online for People to Access",
+      "source": "Business Insider",
+      "date": "Jul 26, 2020",
+      "description": "'Losing control of the source code on the internet is like handing the blueprints of a bank to robbers,' a security expert told tech blog Tom's Guide.",
+      "link": "https://www.businessinsider.com/software-source-code-leaked-microsoft-nintendo-2020-7"
+    },
+    {
+      "title": "To Unite the Country, We Need Honesty and Courage",
+      "source": "BostonGlobe",
+      "date": "Jul 15, 2020",
+      "description": "All of us must speak the truth — including painful truths that unsettle not only our foes but also our friends and ourselves.",
+      "link": "https://www.bostonglobe.com/2020/07/15/opinion/unite-country-we-need-honesty-courage/"
+    },
     {
       "title": "It's Not Just Siberia as Record Heat Spreads Across the Arctic",
       "source": "Gizmodo",
@@ -607,104 +705,6 @@
       "date": "Jul 2, 2020",
       "description": "COVID-19 has pushed millions of people to work from home, and a flock of companies offering software for tracking workers has swooped in to pitch their products to employers across the country.The services often sound relatively innocuous. Some vendors bill their tools as 'automatic time tracking'..…",
       "link": "https://www.eff.org/deeplinks/2020/06/inside-invasive-secretive-bossware-tracking-workers"
-    },
-    {
-      "title": "'Cries for Help': Drug Overdoses Are Soaring During the Coronavirus Pandemic",
-      "source": "The Washington Post",
-      "date": "Jul 1, 2020",
-      "description": "Suspected overdoses jumped 42 percent in May, data obtained by Post shows. Fueling the surge are isolation, economic devastation and disruptions to the drug trade.",
-      "link": "https://www.washingtonpost.com/health/2020/07/01/coronavirus-drug-overdose/"
-    },
-    {
-      "title": "The Articles of Unity",
-      "source": "Medium",
-      "date": "Jun 30, 2020",
-      "description": "A Patriotic Plan To Save Our Republic",
-      "link": "https://medium.com/@ArticlesOfUnity/the-articles-of-unity-f544f930d336"
-    },
-    {
-      "title": "Siberian Fires Have Released a Record Amount of Carbon This Year",
-      "source": "Gizmodo",
-      "date": "Jul 2, 2020",
-      "description": "The wildfire crisis in Siberia continues unabated. This year's blazes have smashed records, including the northernmost fires on record and the highest total of Siberian carbon emissions. If you want to know what a climate emergency looks like, this is it.",
-      "link": "https://earther.gizmodo.com/siberian-fires-have-released-a-record-amount-of-carbon-1844245153"
-    },
-    {
-      "title": "Study: World's Pile of Electronic Waste Grows Ever Higher",
-      "source": "Associated Press",
-      "date": "Jul 2, 2020",
-      "description": "BERLIN (AP) — The world's mountain of discarded flat-screen TVs, cellphones and other electronic goods grew to a record high last year, according to an annual report released Thursday. The...",
-      "link": "https://apnews.com/f2706b256cb163c1e662c2e4f9d7f78e"
-    },
-    {
-      "title": "Prison Officials in Kansas Ignored the Pandemic. Then People Started Dying.",
-      "source": "The Intercept",
-      "date": "Jul 2, 2020",
-      "description": "For weeks, officials at Lansing Correctional Facility dismissed the coronavirus threat. Then almost 900 incarcerated men contracted Covid-19.",
-      "link": "https://theintercept.com/2020/07/02/coronavirus-kansas-prison-lansing-correctional/"
-    },
-    {
-      "title": "America Exports Cancel Culture to the World",
-      "source": "Quillette",
-      "date": "Jul 2, 2020",
-      "description": "Recently, I was interviewed for a video for the Dutch media outlet NU.nl, a popular news website in the Netherlands. The topic was cancel culture, which refers to the social trend of ending (or attempting to end) an individual's career or prominence to hold them to account for violating moral norms.…",
-      "link": "https://quillette.com/2020/07/02/america-exports-cancel-culture-to-the-world/"
-    },
-    {
-      "title": "It Paid Doctors Kickbacks. Now, Novartis Will Pay a $678 Million Settlement.",
-      "source": "The New York Times",
-      "date": "Jul 1, 2020",
-      "description": "The pharmaceutical company spent more than $100 million on lavish meals, fishing junkets, golf outings, sporting events and speaker fees to influence doctors to prescribe its drugs, federal prosecutors said.",
-      "link": "https://www.nytimes.com/2020/07/01/business/Novartis-kickbacks-diabetes-heart-drugs.html"
-    },
-    {
-      "title": "Special Report: Thousands of U.S. Judges Who Broke Laws, Oaths Remained on the Bench",
-      "source": "Reuters",
-      "date": "Jun 30, 2020",
-      "description": "Judge Les Hayes once sentenced a single mother to 496 days behind bars for failing to pay traffic tickets. The sentence was so stiff it exceeded the jail time Alabama allows for negligent homicide.",
-      "link": "https://www.reuters.com/article/us-usa-judges-misconduct-specialreport/special-report-thousands-of-us-judges-who-broke-laws-oaths-remained-on-the-bench-idUSKBN2411WG"
-    },
-    {
-      "title": "The World Should Think Better About Catastrophic and Existential Risks",
-      "source": "The Economist",
-      "date": "Jun 25, 2020",
-      "description": "Plans and early-warning systems are always a good idea",
-      "link": "https://www.economist.com/briefing/2020/06/25/the-world-should-think-better-about-catastrophic-and-existential-risks"
-    },
-    {
-      "title": "Nuclear 'Power Balls' May Make Meltdowns a Thing of the Past",
-      "source": "Wired",
-      "date": "Jun 30, 2020",
-      "description": "Triso particles are an alien-looking fuel with built-in safety features that will power a new generation of high-temperature reactors.",
-      "link": "https://www.wired.com/story/nuclear-power-balls-triso-fuel/"
-    },
-    {
-      "title": "Detroit Police Chief Cops to 96-Percent Facial Recognition Error Rate",
-      "source": "Ars Technica",
-      "date": "Jun 30, 2020",
-      "description": "Detroit police are under fire for a mistaken arrest using the technology.",
-      "link": "https://arstechnica.com/tech-policy/2020/06/detroit-police-chief-admits-facial-recognition-is-wrong-96-of-the-time/"
-    },
-    {
-      "title": "Scientists Say New Strain of Swine Flu Virus Is Spreading to Humans in China",
-      "source": "The New York Times",
-      "date": "Jun 30, 2020",
-      "description": "A new study warns that the strain of H1N1, common on China's pig farms since 2016, should be 'urgently' controlled to avoid another pandemic.",
-      "link": "https://www.nytimes.com/2020/06/30/world/asia/h1n1-swine-flu-virus-china-pig.html"
-    },
-    {
-      "title": "US Buys Up World Stock of Key Covid-19 Drug Remdesivir",
-      "source": "The Guardian",
-      "date": "Jun 30, 2020",
-      "description": "No other country will be able to buy remdesivir, which can help recovery from Covid-19, for next three months at least",
-      "link": "https://www.theguardian.com/us-news/2020/jun/30/us-buys-up-world-stock-of-key-covid-19-drug"
-    },
-    {
-      "title": "Leaders Are Worse Than Average",
-      "source": "Quillette",
-      "date": "Jun 29, 2020",
-      "description": "'Power corrupts,' as the saying goes, and a corollary is that, other things being equal, the more power, the more corruption. That's the sort of common wisdom or deep cliché that would lead one to speculate that political leaders are likely to be morally worse on average than the populations they go…",
-      "link": "https://quillette.com/2020/06/27/leaders-are-worse-than-average/"
     }
   ]
 }
