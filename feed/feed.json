@@ -3,9 +3,93 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "8/2/2020, 2:14:10 PM",
-  "id": "VasZVoFjwHtkv2J9jSaXi",
+  "date": "8/11/2020, 12:20:03 PM",
+  "id": "-RXj6kzp5kXKI9BCpzU-b",
   "articles": [
+		{
+			"title": "How to Fight the Enemies of Academic Freedom",
+			"source": "Quillette",
+			"date": "Aug 10, 2020",
+			"description": "According to a 2019 Cato Institute study, 75 percent of immigrants who are American citizens are very proud to be American compared to only 69 percent of native-born Americans. Based on my own experience, I expect the discrepancy to be much greater if you compare the sentiments of all immigrants to …",
+			"link": "https://quillette.com/2020/08/10/how-to-fight-the-enemies-of-academic-freedom/"
+		},
+    {
+      "title": "Herbicide, Lead, and Other Poisons Found in Bodies of Stranded Dolphins and Whales",
+      "source": "Gizmodo",
+      "date": "Aug 10, 2020",
+      "description": "New research shows the startling degree to which stranded dolphins and whales found along the southeastern U.S. coast are contaminated with pollutants.",
+      "link": "https://earther.gizmodo.com/herbicide-lead-and-other-poisons-found-in-bodies-of-s-1844673582"
+    },
+    {
+      "title": "Chicago Erupts With Violence and Looting After Police Shooting",
+      "source": "The Guardian",
+      "date": "Aug 10, 2020",
+      "description": "More than 100 arrested after overnight looting on shopping district as mayor decries 'an assault on our city'",
+      "link": "https://www.theguardian.com/us-news/2020/aug/10/chicago-looting-violence-police-shooting-protests"
+    },
+    {
+      "title": "George Orwell and the Struggle Against Inevitable Bias",
+      "source": "Quillette",
+      "date": "Aug 8, 2020",
+      "description": "In the bleak post-war Britain of October 1945, an essay by George Orwell appeared in the first edition of Polemic. Edited by abstract artist and ex-Communist Hugh Slater, the new journal was marketed as a 'magazine of philosophy, psychology, and aesthetics.' Orwell was not yet famous—Animal Farm had…",
+      "link": "https://quillette.com/2020/08/08/george-orwell-and-the-struggle-against-inevitable-bias/"
+    },
+    {
+      "title": "Cops Tap Smart Streetlights Sparking Controversy and Legislation",
+      "source": "IEEE Spectrum",
+      "date": "Aug 8, 2020",
+      "description": "San Diego’s sensor-laden streetlights were supposed to save money and inspire entrepreneurs. Then the police started using their cameras and the pushback began.",
+      "link": "https://spectrum.ieee.org/view-from-the-valley/sensors/remote-sensing/cops-smart-street-lights"
+    },
+    {
+      "title": "HS Suspends Teen Who Tweeted Photo of Hallway Packed With Maskless Students",
+      "source": "Ars Technica",
+      "date": "Aug 7, 2020",
+      "description": "HS in Georgia issued 5-day suspension but lifted punishment after family objected.",
+      "link": "https://arstechnica.com/tech-policy/2020/08/hs-suspends-teen-who-tweeted-photo-of-hallway-packed-with-maskless-students/"
+    },
+    {
+      "title": "Driving With the Windows Down Is Really Bad for You",
+      "source": "Jalopnik",
+      "date": "Aug 7, 2020",
+      "description": "Well, what did you expect, that something as enjoyable as feeling the wind in your hair as you drive would be good for you? Come on. A new study from the University of Surrey found that driving with the windows down can increase a car's occupants' exposure to pollution by 80 percent, more during pea…",
+      "link": "https://jalopnik.com/driving-with-the-windows-down-is-really-bad-for-you-1844651602"
+    },
+    {
+      "title": " U.S. Government Contractor Embedded Software in Apps to Track Phones",
+      "source": "The Wall Street Journal",
+      "date": "Aug 7, 2020",
+      "description": "A small U.S. company with ties to the U.S. defense and intelligence communities has embedded its software in numerous mobile apps, allowing it to track the movements of hundreds of millions of mobile phones world-wide.",
+      "link": "https://www.wsj.com/articles/u-s-government-contractor-embedded-software-in-apps-to-track-phones-11596808801"
+    },
+    {
+      "title": "More Than 20GB of Intel Source Code and Proprietary Data Dumped Online",
+      "source": "Ars Technica",
+      "date": "Aug 6, 2020",
+      "description": "'Exconfidential Lake' leak includes docs Intel provided under NDA as recently as May.",
+      "link": "https://arstechnica.com/information-technology/2020/08/intel-is-investigating-the-leak-of-20gb-of-its-source-code-and-private-data/"
+    },
+    {
+      "title": "DOD, FBI, DHS Release Info on Malware Used in Chinese Government-Led Hacking Campaigns",
+      "source": "CyberScoop",
+      "date": "Aug 3, 2020",
+      "description": "The Chinese government has been using Taidoor to target government agencies, entities in the private sector, and think tanks since 2008.",
+      "link": "https://www.cyberscoop.com/taidoor-malware-report-china-cisa-dod-fbi/"
+    },
+    {
+      "title": "The Woke Left v. the Alt-Right: A New Study Shows They're More Alike Than Either Side Realizes",
+      "source": "Quillette",
+      "date": "Aug 3, 2020",
+      "description": "A common criticism of the ultra-progressive Left is that its culture warriors now resemble the right-wing ideological enforcers of yore, excommunicating those deemed to have sinned or performed heresies. Indeed, anyone older than 30 or so should have at least a dim memory of the social conservatives…",
+      "link": "https://quillette.com/2020/08/03/the-woke-left-v-the-alt-right-a-new-study-shows-theyre-more-alike-than-either-side-realizes/"
+    },
+    {
+      "title": "Lawmakers Ask California DMV How It Makes $50 Million a Year Selling Drivers' Data",
+      "source": "Vice",
+      "date": "May 8, 2020",
+      "description": "Motherboard previously revealed the California DMV was making tens of millions of dollars a year by selling personal data.",
+      "link": "https://www.vice.com/en_us/article/jgxanx/lawmakers-california-dmv-selling-data"
+    },
     {
       "title": "SpaceX Brings Astronauts Home Safely in a Historic First",
       "source": "Wired",
@@ -621,90 +705,6 @@
       "date": "Jul 7, 2020",
       "description": "Frustrated by the inability to get good internet, a rural village decided to dig a superfast connection in themselves.",
       "link": "https://theconversation.com/the-remote-british-village-that-built-one-of-the-fastest-internet-networks-in-the-uk-137946"
-    },
-    {
-      "title": "Judge Suspends Dakota Access Pipeline Over Environmental Concerns",
-      "source": "The Guardian",
-      "date": "Jul 7, 2020",
-      "description": "US district judge sides with Standing Rock Sioux tribe and says more extensive environmental review is required",
-      "link": "https://www.theguardian.com/us-news/2020/jul/06/dakota-access-pipeline-environment-oil"
-    },
-    {
-      "title": "With New Security Law, China Outlaws Global Activism",
-      "source": "Axios",
-      "date": "Jul 7, 2020",
-      "description": "Hong Kong's draconian new security law applies to everyone in the world.",
-      "link": "https://www.axios.com/china-hong-kong-law-global-activism-ff1ea6d1-0589-4a71-a462-eda5bea3f78f.html"
-    },
-    {
-      "title": "These Are Some of the Best Citizen Science Projects You Can Join With Just Your Phone or Laptop",
-      "source": "Gizmodo",
-      "date": "Jul 6, 2020",
-      "description": "Maybe you've never noticed, because they don't get a lot of hype but there are hundreds and hundreds of citizen science projects that you can get involved in. These projects range from tagging space observatory photos to transcribing documents that are centuries old. You don't need any special skill…",
-      "link": "https://gizmodo.com/these-are-some-of-the-best-citizen-science-projects-you-1844243370"
-    },
-    {
-      "title": "Toxic Hand Sanitizers Have Blinded and Killed Adults and Children, FDA Warns",
-      "source": "Ars Technica",
-      "date": "Jul 6, 2020",
-      "description": "Blindness, deaths linked to ingestion, but inhalation and absorption also dangerous.",
-      "link": "https://arstechnica.com/science/2020/07/toxic-hand-sanitizers-have-blinded-and-killed-adults-and-children-fda-warns/"
-    },
-    {
-      "title": "Arguing in America",
-      "source": "Quillette",
-      "date": "Jul 6, 2020",
-      "description": "Jacob Siegel's recent essay for Tablet entitled 'The New Truth' manages to capture something important about the current state of discourse in America. Essentially, the marketplace of ideas is beholden to a despotic elite, and is being used to proselytize a new moral order. This moral order is perpe…",
-      "link": "https://quillette.com/2020/07/06/arguing-in-america/"
-    },
-    {
-      "title": "Racism Is Real. But Science Isn't the Problem",
-      "source": "Quillette",
-      "date": "Jul 5, 2020",
-      "description": "In his June 9th eulogy for George Floyd, Reverend Al Sharpton said, 'What happened to Floyd happens every day in this country, in education, in health services, and in every area of American life.' The metaphor goes to the suffocation of hopes, dreams, and basic rights among many black Americans, in…",
-      "link": "https://quillette.com/2020/07/03/racism-is-real-but-science-isnt-the-problem/"
-    },
-    {
-      "title": "'South Park' on Censorship",
-      "source": "YouTube",
-      "date": "Jun 28, 2014",
-      "description": "Turns out the censorship wasn't a joke by the studio...",
-      "link": "https://www.youtube.com/watch?v=C_9tMpCiWRU"
-    },
-    {
-      "title": "Bus Driver Left Brain Dead After 'Mask Attack'",
-      "source": "BBC News",
-      "date": "Jul 6, 2020",
-      "description": "The driver in France was set upon by people who had no tickets and refused to wear face masks.",
-      "link": "https://www.bbc.com/news/world-europe-53309424"
-    },
-    {
-      "title": "The Worst Hacks and Breaches of 2020 So Far",
-      "source": "Wired",
-      "date": "Jul 3, 2020",
-      "description": "Iran, China, Russia—the gang was all here in the first half of this year. Oh, and also an unprecedented pandemic that's been a boon for hackers.",
-      "link": "https://www.wired.com/story/worst-hacks-breaches-2020-so-far/"
-    },
-    {
-      "title": "Hundreds of Elephants Have Mysteriously Died in Botswana",
-      "source": "Gizmodo",
-      "date": "Jul 3, 2020",
-      "description": "Over 350 elephants have died in Botswana since March, sparking a government probe to investigate the mysterious deaths.",
-      "link": "https://earther.gizmodo.com/hundreds-of-elephants-have-mysteriously-died-in-botswan-1844259228"
-    },
-    {
-      "title": "Oppose the EARN IT Act",
-      "source": "Mozilla Foundation",
-      "date": "Jul 3, 2020",
-      "description": "Mozilla is a global nonprofit dedicated to keeping the Internet a global public resource that is open and accessible to all.",
-      "link": "https://foundation.mozilla.org/en/campaigns/oppose-earn-it-act/"
-    },
-    {
-      "title": "Inside the Invasive, Secretive 'Bossware' Tracking Workers",
-      "source": "Electronic Frontier Foundation",
-      "date": "Jul 2, 2020",
-      "description": "COVID-19 has pushed millions of people to work from home, and a flock of companies offering software for tracking workers has swooped in to pitch their products to employers across the country.The services often sound relatively innocuous. Some vendors bill their tools as 'automatic time tracking'..…",
-      "link": "https://www.eff.org/deeplinks/2020/06/inside-invasive-secretive-bossware-tracking-workers"
     }
   ]
 }
