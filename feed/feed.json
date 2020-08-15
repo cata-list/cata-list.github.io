@@ -3,16 +3,100 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "8/11/2020, 12:20:03 PM",
-  "id": "-RXj6kzp5kXKI9BCpzU-b",
+  "date": "8/15/2020, 2:19:23 PM",
+  "id": "boHj5k-ImtyxsJNONgYo0",
   "articles": [
-		{
-			"title": "How to Fight the Enemies of Academic Freedom",
-			"source": "Quillette",
-			"date": "Aug 10, 2020",
-			"description": "According to a 2019 Cato Institute study, 75 percent of immigrants who are American citizens are very proud to be American compared to only 69 percent of native-born Americans. Based on my own experience, I expect the discrepancy to be much greater if you compare the sentiments of all immigrants to …",
-			"link": "https://quillette.com/2020/08/10/how-to-fight-the-enemies-of-academic-freedom/"
-		},
+    {
+      "title": "'Canary in the Coal Mine': Greenland Ice Has Shrunk Beyond Return, Study Finds",
+      "source": "Reuters",
+      "date": "Aug 14, 2020",
+      "description": "Greenland's ice sheet may have shrunk past the point of return, with the ice likely to melt away no matter how quickly the world reduces climate-warming emissions, new research suggests.",
+      "link": "https://www.reuters.com/article/us-climate-change-arctic-idUSKCN25A2X3"
+    },
+    {
+      "title": "SpaceX Starlink Speeds Revealed as Beta Users Get Downloads of 11 to 60Mbps",
+      "source": "Ars Technica",
+      "date": "Aug 14, 2020",
+      "description": "Ookla tests aren't showing the gigabit speeds SpaceX teased, but it's early.",
+      "link": "https://arstechnica.com/information-technology/2020/08/spacex-starlink-beta-tests-show-speeds-up-to-60mbps-latency-as-low-as-31ms/"
+    },
+    {
+      "title": "Nestlé Sued Over Tonnes of Dead Fish in River",
+      "source": "BBC News",
+      "date": "Aug 14, 2020",
+      "description": "The fish were found in a river in north-eastern France and some 14 species have been affected.",
+      "link": "https://www.bbc.com/news/world-europe-53775597"
+    },
+    {
+      "title": "FDA Finds New Toxic Hand-Sanitizer Ingredient, Expands Warning to 157 Products",
+      "source": "Ars Technica",
+      "date": "Aug 14, 2020",
+      "description": "Regulators find toxic 1-propanol as well as methanol in some products.",
+      "link": "https://arstechnica.com/science/2020/08/fda-finds-new-toxic-hand-sanitizer-ingredient-expands-warning-to-157-products/"
+    },
+    {
+      "title": "Why the Mauritius Oil Spill Is So Serious",
+      "source": "BBC News",
+      "date": "Aug 13, 2020",
+      "description": "The location of the Mauritian oil spill means the environmental consequences could be long-lasting.",
+      "link": "https://www.bbc.com/news/world-africa-53754751"
+    },
+    {
+      "title": "Under Trump, SEC Enforcement of Insider Trading Dropped to Lowest Point in Decades",
+      "source": "NPR",
+      "date": "Aug 13, 2020",
+      "description": "Kodak and Sen. Richard Burr, R-N.C., are facing high-profile insider trading investigations, but data show the Securities and Exchange Commission pursued far fewer insider trading cases last year.",
+      "link": "https://www.npr.org/2020/08/14/901862355/under-trump-sec-enforcement-of-insider-trading-dropped-to-lowest-point-in-decade"
+    },
+    {
+      "title": "Feds Say Yale Discriminates Against Asian, White Applicants",
+      "source": "Associated Press",
+      "date": "Aug 13, 2020",
+      "description": "WASHINGTON (AP) — A Justice Department investigation has found Yale University is illegally discriminating against Asian American and white applicants, in violation of federal civil rights law,...",
+      "link": "https://apnews.com/e97f08eb935989840bda430bb7a32e15"
+    },
+    {
+      "title": "Look Who's Talking About Educational Equity",
+      "source": "Quillette",
+      "date": "Aug 12, 2020",
+      "description": "In the aftermath of the death of George Floyd, college presidents scrambled to issue condemnations of racism, police brutality, and white supremacy. They often buttressed those condemnations with promises to expand their institution's administrative bureaucracy. For instance, among other things, the…",
+      "link": "https://quillette.com/2020/08/12/look-whos-talking-about-educational-equity/"
+    },
+    {
+      "title": "Air Pollution Is Much Worse Than We Thought",
+      "source": "Vox",
+      "date": "Aug 12, 2020",
+      "description": "Ditching fossil fuels would pay for itself through clean air alone.",
+      "link": "https://www.vox.com/energy-and-environment/2020/8/12/21361498/climate-change-air-pollution-us-india-china-deaths"
+    },
+    {
+      "title": "Trump Says the USPS Is Too Poorly Funded to Handle Mail-in Voting — While Opposing Additional Funding for It",
+      "source": "Business Insider",
+      "date": "Aug 12, 2020",
+      "description": "President Donald Trump has long claimed that mail-in votes are open to problems, a situation he seems content to make worse.",
+      "link": "https://www.businessinsider.com/trump-usps-lacks-funds-mail-votes-opposoes-more-funding-2020-8"
+    },
+    {
+      "title": "When Private Security Cameras Are Police Surveillance Tools",
+      "source": "Wired",
+      "date": "Aug 11, 2020",
+      "description": "Civil rights activists warn of 'mission creep,' as cameras installed to prevent break-ins are increasingly used to monitor protesters and communities of color.",
+      "link": "https://www.wired.com/story/private-security-cameras-police-surveillance-tools/"
+    },
+    {
+      "title": "Amazon Satellites Add to Astronomers' Worries About the Night Sky",
+      "source": "The New York Times",
+      "date": "Aug 10, 2020",
+      "description": "The F.C.C. approved the company's 3,236-satellite constellation, which aims to provide high-speed internet service around the world.",
+      "link": "https://www.nytimes.com/2020/08/10/science/amazon-project-kuiper.html"
+    },
+    {
+      "title": "A Nixon Deepfake, a 'Moon Disaster' Speech and an Information Ecosystem at Risk",
+      "source": "Scientific American",
+      "date": "Jul 20, 2020",
+      "description": "A new video re-creates a history that never happened, showing the power of AI-generated media",
+      "link": "https://www.scientificamerican.com/article/a-nixon-deepfake-a-moon-disaster-speech-and-an-information-ecosystem-at-risk1/"
+    },
     {
       "title": "Herbicide, Lead, and Other Poisons Found in Bodies of Stranded Dolphins and Whales",
       "source": "Gizmodo",
@@ -26,6 +110,13 @@
       "date": "Aug 10, 2020",
       "description": "More than 100 arrested after overnight looting on shopping district as mayor decries 'an assault on our city'",
       "link": "https://www.theguardian.com/us-news/2020/aug/10/chicago-looting-violence-police-shooting-protests"
+    },
+    {
+      "title": "How to Fight the Enemies of Academic Freedom",
+      "source": "Quillette",
+      "date": "Aug 10, 2020",
+      "description": "According to a 2019 Cato Institute study, 75 percent of immigrants who are American citizens are very proud to be American compared to only 69 percent of native-born Americans. Based on my own experience, I expect the discrepancy to be much greater if you compare the sentiments of all immigrants to …",
+      "link": "https://quillette.com/2020/08/10/how-to-fight-the-enemies-of-academic-freedom/"
     },
     {
       "title": "George Orwell and the Struggle Against Inevitable Bias",
@@ -614,97 +705,6 @@
       "date": "Jul 9, 2020",
       "description": "And what is wrong with it",
       "link": "https://www.economist.com/leaders/2020/07/09/the-new-ideology-of-race"
-    },
-    {
-      "title": "Televangelists, Megachurches Tied to Trump Approved for Millions in Pandemic Aid",
-      "source": "Reuters",
-      "date": "Jul 7, 2020",
-      "description": "Megachurches and other religious organizations with ties to vocal supporters of U.S. President Donald Trump were approved for millions of dollars in forgivable loans from a taxpayer-funded pandemic aid bailout, according to long-awaited government data released this week.",
-      "link": "https://www.reuters.com/article/us-health-coronavirus-ppp-religious/televangelists-megachurches-tied-to-trump-approved-for-millions-in-pandemic-aid-idUSKBN2480CB"
-    },
-    {
-      "title": "Year Zero",
-      "source": "Substack",
-      "date": "Jul 4, 2020",
-      "description": "On America's birthday, celebrating the corporate-sponsored revolution",
-      "link": "https://taibbi.substack.com/p/year-zero"
-    },
-    {
-      "title": "Harvard Grad Fired by Deloitte For 'All Lives Matter' Stabbing TikTok Video",
-      "source": "Newsweek",
-      "date": "Jul 2, 2020",
-      "description": "A Harvard graduate who posted a viral video saying she will stab anyone who says 'All Lives Matter' said she has now been fired from her job.",
-      "link": "https://www.newsweek.com/all-lives-matter-claira-janover-tiktok-deloitte-1514930"
-    },
-    {
-      "title": "On 'White Fragility'",
-      "source": "Substack",
-      "date": "Jun 28, 2020",
-      "description": "A few thoughts on America's smash-hit #1 guide to egghead racialism",
-      "link": "https://taibbi.substack.com/p/on-white-fragility"
-    },
-    {
-      "title": "The American Press Is Destroying Itself",
-      "source": "Substack",
-      "date": "Jun 12, 2020",
-      "description": "A flurry of newsroom revolts has transformed the American press",
-      "link": "https://taibbi.substack.com/p/the-news-media-is-destroying-itself"
-    },
-    {
-      "title": "Where Did Policing Go Wrong?",
-      "source": "Substack",
-      "date": "Jun 2, 2020",
-      "description": "Crime has been down for decades, but incarceration is still sky-high and brutality cases keep tearing the country apart. Does policing in America need a fundamental re-think?",
-      "link": "https://taibbi.substack.com/p/where-did-policing-go-wrong"
-    },
-    {
-      "title": "Is SARS-CoV-2 Airborne? Questions Abound — But Here's What We Know",
-      "source": "Ars Technica",
-      "date": "Jul 9, 2020",
-      "description": "A look at the data on aerosol transmission.",
-      "link": "https://arstechnica.com/science/2020/07/is-sars-cov-2-airborne-questions-abound-but-heres-what-we-know/"
-    },
-    {
-      "title": "Bombshell Report Says Trump Ordered CIA to Share Counterterrorism Intel With Russia 'Despite No Discernible Reward'",
-      "source": "Law and Crime",
-      "date": "Jul 8, 2020",
-      "description": "Not long after the Russia-Taliban bounty scandal first started unfolding in public view, a bombshell new report from Just Security claims that President Donald Trump directed the Central Intelligence Agency (CIA) to provide the Russian government with U.S. intelligence information concerning terrori…",
-      "link": "https://lawandcrime.com/high-profile/bombshell-report-says-trump-ordered-cia-to-share-counterterrorism-intel-with-russia-despite-no-discernible-reward/"
-    },
-    {
-      "title": "Spreading Rock Dust on Fields Could Remove Vast Amounts of CO2 From Air",
-      "source": "The Guardian",
-      "date": "Jul 8, 2020",
-      "description": "It may be best near-term way to remove CO2, say scientists, but cutting fossil fuel use remains critical",
-      "link": "https://www.theguardian.com/environment/2020/jul/08/spreading-rock-dust-on-fields-could-remove-vast-amounts-of-co2-from-air"
-    },
-    {
-      "title": "Police Are Buying Access to Hacked Website Data",
-      "source": "Vice",
-      "date": "Jul 7, 2020",
-      "description": "The sale is 'an end-run around the usual legal processes.'",
-      "link": "https://www.vice.com/en_us/article/3azvey/police-buying-hacked-data-spycloud"
-    },
-    {
-      "title": "Google, Amazon, and Microsoft Hold Thousands of Contracts With the U.S. Military and Federal Law Enforcement, New Research Shows",
-      "source": "NBC News",
-      "date": "Jul 8, 2020",
-      "description": "The report offers a new window into the relationship between tech companies and the U.S. government, as well as an important detail about why such contracts are often difficult to find.",
-      "link": "https://www.nbcnews.com/tech/tech-news/thousands-contracts-highlight-quiet-ties-between-big-tech-u-s-n1233171"
-    },
-    {
-      "title": "A Letter on Justice and Open Debate",
-      "source": "Harper's Magazine",
-      "date": "Jul 7, 2020",
-      "description": "The below letter will be appearing in the Letters section of the magazine's October issue. We welcome responses at letters@harpers.org Our cultural institutions are facing a moment of trial. Powerful protests for racial and social justice are leading to overdue demands for police reform…",
-      "link": "https://harpers.org/a-letter-on-justice-and-open-debate/"
-    },
-    {
-      "title": "The Remote British Village That Built One of the Fastest Internet Networks in the UK",
-      "source": "The Conversation",
-      "date": "Jul 7, 2020",
-      "description": "Frustrated by the inability to get good internet, a rural village decided to dig a superfast connection in themselves.",
-      "link": "https://theconversation.com/the-remote-british-village-that-built-one-of-the-fastest-internet-networks-in-the-uk-137946"
     }
   ]
 }
