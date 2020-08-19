@@ -3,10 +3,45 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>boHj5k-ImtyxsJNONgYo0</id>
+		<id>DpB-wBoecUvj7ogMrAp90</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Sat Aug 15 2020 14:19:23 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Tue Aug 18 2020 12:55:49 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Wait, How Much Microplastic Is Swirling in the Atlantic?</title>
+			<source>Wired</source>
+			<pubDate>Aug 18, 2020</pubDate>
+			<description><![CDATA[Scientists calculate that the top 200 meters of ocean alone contains up to 21 million metric tons of plastic. And that wasn't even counting microfibers.]]></description>
+			<link>https://www.wired.com/story/how-much-microplastic-is-swirling-in-the-atlantic/</link>
+		</item>
+		<item>
+			<title>Secret Service Buys Location Data That Would Otherwise Need a Warrant</title>
+			<source>Ars Technica</source>
+			<pubDate>Aug 17, 2020</pubDate>
+			<description><![CDATA[Agencies' ability to purchase any data on the open market is a big loophole.]]></description>
+			<link>https://arstechnica.com/tech-policy/2020/08/secret-service-other-agencies-buy-access-to-mobile-phone-location-data/</link>
+		</item>
+		<item>
+			<title>Chinese Hospitals Aborted Late-Stage Pregnancies and Killed Newborns as Part of a Campaign to Purge the Uighur Culture, Report Says</title>
+			<source>Business Insider</source>
+			<pubDate>Aug 17, 2020</pubDate>
+			<description><![CDATA[Since 2016, China has been cracking down on Uighur Muslims, whom it claims are prone to extremism, and detaining them in camps to brainwash them.]]></description>
+			<link>https://www.businessinsider.com/china-xinjiang-hospitals-abort-uighur-pregnancies-killed-newborns-report-2020-8</link>
+		</item>
+		<item>
+			<title>Instagram Could Face Up to $500 Billion in Fines in Class-Action Lawsuit Alleging It Illegally Harvested Biometric Data</title>
+			<source>Business Insider</source>
+			<pubDate>Aug 11, 2020</pubDate>
+			<description><![CDATA[Last month, Facebook offered $650 million to settle a similar lawsuit claiming it collected biometric data without users' consent.]]></description>
+			<link>https://www.businessinsider.com/instagram-facing-500-billion-in-fines-in-facial-recognition-lawsuit-2020-8</link>
+		</item>
+		<item>
+			<title>Trump Oversees All-Time Low in White Collar Crime Enforcement</title>
+			<source>Bloomberg</source>
+			<pubDate>Aug 10, 2020</pubDate>
+			<description><![CDATA[Donald Trump calls himself the 'law and order' president, but when it comes to white collar crime, he has overseen a significant decline in enforcement.]]></description>
+			<link>https://www.bloomberg.com/news/articles/2020-08-10/trump-oversees-all-time-low-in-white-collar-crime-enforcement</link>
+		</item>
 		<item>
 			<title>'Canary in the Coal Mine': Greenland Ice Has Shrunk Beyond Return, Study Finds</title>
 			<source>Reuters</source>
@@ -671,41 +706,6 @@
 			<pubDate>Jul 10, 2020</pubDate>
 			<description><![CDATA[The number of daily global cases also broke a record, with the United States as the biggest source of new infections. The U.S. death toll is also on the rise.]]></description>
 			<link>https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html</link>
-		</item>
-		<item>
-			<title>'Witch Hunt': Trump Commutes Longtime Adviser Roger Stone's Prison Sentence</title>
-			<source>Reuters</source>
-			<pubDate>Jul 11, 2020</pubDate>
-			<description><![CDATA[President Donald Trump commuted the sentence of his longtime friend and adviser Roger Stone, sparing him from prison after he was convicted of lying under oath to lawmakers investigating Russian interference in the 2016 U.S. election.]]></description>
-			<link>https://www.reuters.com/article/us-usa-trump-stone/trump-commutes-longtime-adviser-roger-stones-prison-sentence-idUSKBN24B351</link>
-		</item>
-		<item>
-			<title>Why Mexican Cartels Are Shooting Up Drug Rehabs</title>
-			<source>Vice</source>
-			<pubDate>Jul 10, 2020</pubDate>
-			<description><![CDATA[Last week's massacre at a drug rehab was the latest in a string of attacks on drug users in Mexico.]]></description>
-			<link>https://www.vice.com/en_us/article/pky3j9/why-mexican-cartels-are-shooting-up-drug-rehabs</link>
-		</item>
-		<item>
-			<title>Police Surveilled George Floyd Protests With Help From Twitter-Affiliated Startup Dataminr</title>
-			<source>The Intercept</source>
-			<pubDate>Jul 09, 2020</pubDate>
-			<description><![CDATA[Artificial intelligence firm Dataminr is making questionable use of its Twitter firehose privileges — and not for the first time.]]></description>
-			<link>https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/</link>
-		</item>
-		<item>
-			<title>A Declaration of Independence by a Princeton Professor</title>
-			<source>Quillette</source>
-			<pubDate>Jul 9, 2020</pubDate>
-			<description><![CDATA[In Congress, on July 4th, 1776, came the 'unanimous Declaration of the thirteen united States of America.' Signed by 56 men, many of whom were considered national heroes just a few minutes ago, it opens with a long and elegant sentence whose first words every American child knows, or used to: 'When …]]></description>
-			<link>https://quillette.com/2020/07/08/a-declaration-of-independence-by-a-princeton-professor/</link>
-		</item>
-		<item>
-			<title>The New Ideology of Race</title>
-			<source>The Economist</source>
-			<pubDate>Jul 9, 2020</pubDate>
-			<description><![CDATA[And what is wrong with it]]></description>
-			<link>https://www.economist.com/leaders/2020/07/09/the-new-ideology-of-race</link>
 		</item>
 	</channel>
 </rss>

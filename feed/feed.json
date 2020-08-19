@@ -3,9 +3,44 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "8/15/2020, 2:19:23 PM",
-  "id": "boHj5k-ImtyxsJNONgYo0",
+  "date": "8/18/2020, 12:55:49 PM",
+  "id": "DpB-wBoecUvj7ogMrAp90",
   "articles": [
+    {
+      "title": "Wait, How Much Microplastic Is Swirling in the Atlantic?",
+      "source": "Wired",
+      "date": "Aug 18, 2020",
+      "description": "Scientists calculate that the top 200 meters of ocean alone contains up to 21 million metric tons of plastic. And that wasn't even counting microfibers.",
+      "link": "https://www.wired.com/story/how-much-microplastic-is-swirling-in-the-atlantic/"
+    },
+    {
+      "title": "Secret Service Buys Location Data That Would Otherwise Need a Warrant",
+      "source": "Ars Technica",
+      "date": "Aug 17, 2020",
+      "description": "Agencies' ability to purchase any data on the open market is a big loophole.",
+      "link": "https://arstechnica.com/tech-policy/2020/08/secret-service-other-agencies-buy-access-to-mobile-phone-location-data/"
+    },
+    {
+      "title": "Chinese Hospitals Aborted Late-Stage Pregnancies and Killed Newborns as Part of a Campaign to Purge the Uighur Culture, Report Says",
+      "source": "Business Insider",
+      "date": "Aug 17, 2020",
+      "description": "Since 2016, China has been cracking down on Uighur Muslims, whom it claims are prone to extremism, and detaining them in camps to brainwash them.",
+      "link": "https://www.businessinsider.com/china-xinjiang-hospitals-abort-uighur-pregnancies-killed-newborns-report-2020-8"
+    },
+    {
+      "title": "Instagram Could Face Up to $500 Billion in Fines in Class-Action Lawsuit Alleging It Illegally Harvested Biometric Data",
+      "source": "Business Insider",
+      "date": "Aug 11, 2020",
+      "description": "Last month, Facebook offered $650 million to settle a similar lawsuit claiming it collected biometric data without users' consent.",
+      "link": "https://www.businessinsider.com/instagram-facing-500-billion-in-fines-in-facial-recognition-lawsuit-2020-8"
+    },
+    {
+      "title": "Trump Oversees All-Time Low in White Collar Crime Enforcement",
+      "source": "Bloomberg",
+      "date": "Aug 10, 2020",
+      "description": "Donald Trump calls himself the 'law and order' president, but when it comes to white collar crime, he has overseen a significant decline in enforcement.",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-10/trump-oversees-all-time-low-in-white-collar-crime-enforcement"
+    },
     {
       "title": "'Canary in the Coal Mine': Greenland Ice Has Shrunk Beyond Return, Study Finds",
       "source": "Reuters",
@@ -670,41 +705,6 @@
       "date": "Jul 10, 2020",
       "description": "The number of daily global cases also broke a record, with the United States as the biggest source of new infections. The U.S. death toll is also on the rise.",
       "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
-    },
-    {
-      "title": "'Witch Hunt': Trump Commutes Longtime Adviser Roger Stone's Prison Sentence",
-      "source": "Reuters",
-      "date": "Jul 11, 2020",
-      "description": "President Donald Trump commuted the sentence of his longtime friend and adviser Roger Stone, sparing him from prison after he was convicted of lying under oath to lawmakers investigating Russian interference in the 2016 U.S. election.",
-      "link": "https://www.reuters.com/article/us-usa-trump-stone/trump-commutes-longtime-adviser-roger-stones-prison-sentence-idUSKBN24B351"
-    },
-    {
-      "title": "Why Mexican Cartels Are Shooting Up Drug Rehabs",
-      "source": "Vice",
-      "date": "Jul 10, 2020",
-      "description": "Last week's massacre at a drug rehab was the latest in a string of attacks on drug users in Mexico.",
-      "link": "https://www.vice.com/en_us/article/pky3j9/why-mexican-cartels-are-shooting-up-drug-rehabs"
-    },
-    {
-      "title": "Police Surveilled George Floyd Protests With Help From Twitter-Affiliated Startup Dataminr",
-      "source": "The Intercept",
-      "date": "Jul 09, 2020",
-      "description": "Artificial intelligence firm Dataminr is making questionable use of its Twitter firehose privileges — and not for the first time.",
-      "link": "https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/"
-    },
-    {
-      "title": "A Declaration of Independence by a Princeton Professor",
-      "source": "Quillette",
-      "date": "Jul 9, 2020",
-      "description": "In Congress, on July 4th, 1776, came the 'unanimous Declaration of the thirteen united States of America.' Signed by 56 men, many of whom were considered national heroes just a few minutes ago, it opens with a long and elegant sentence whose first words every American child knows, or used to: 'When …",
-      "link": "https://quillette.com/2020/07/08/a-declaration-of-independence-by-a-princeton-professor/"
-    },
-    {
-      "title": "The New Ideology of Race",
-      "source": "The Economist",
-      "date": "Jul 9, 2020",
-      "description": "And what is wrong with it",
-      "link": "https://www.economist.com/leaders/2020/07/09/the-new-ideology-of-race"
     }
   ]
 }
