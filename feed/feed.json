@@ -3,9 +3,128 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "8/18/2020, 12:55:49 PM",
-  "id": "DpB-wBoecUvj7ogMrAp90",
+  "date": "9/1/2020, 12:00:25 PM",
+  "id": "v7uwt_wlj9ebxURRTVr4u",
   "articles": [
+    {
+      "title": "Covid Is Accelerating a Global Censorship Crisis",
+      "source": "Wired",
+      "date": "Aug 30, 2020",
+      "description": "Autocracies and democracies alike are suppressing information within their borders, which will have global impacts on public health and security.",
+      "link": "https://www.wired.com/story/opinion-covid-is-accelerating-a-global-censorship-crisis/"
+    },
+    {
+      "title": "One Person Shot Dead in Portland Following Clashes Between Pro-Trump Supporters, Counterprotesters",
+      "source": "The Washington Post",
+      "date": "Aug 30, 2020",
+      "description": "The groups had earlier faced off along a highway on-ramp and on downtown city streets.",
+      "link": "https://www.washingtonpost.com/nation/2020/08/29/blm-activists-counterprotesters-clash-portland-leading-arrests/"
+    },
+    {
+      "title": "The China Syndrome Part I: Outbreak",
+      "source": "Quillette",
+      "date": "Aug 30, 2020",
+      "description": "Note: This is the first part of a four-part series of essays looking in detail at China's role in the COVID-19 pandemic. This part looks at the circumstances surrounding the initial outbreak; Part Two will look at the discovery of human-to-human transmission and the immediate response; Part Three wi…",
+      "link": "https://quillette.com/2020/08/24/the-china-syndrome-part-i-outbreak/"
+    },
+    {
+      "title": "Musk Says That Neuralink Implants Are Close to Ready for Human Testing",
+      "source": "Ars Technica",
+      "date": "Aug 29, 2020",
+      "description": "They're in pigs already, and the company is planning for human testing.",
+      "link": "https://arstechnica.com/science/2020/08/musk-says-that-neuralink-implants-are-close-to-ready-for-human-testing/"
+    },
+    {
+      "title": "The Social Fabric of the U.S. Is Fraying Severely, if Not Unravelling",
+      "source": "The Intercept",
+      "date": "Aug 28, 2020",
+      "description": "Why, in the world's richest country, is every metric of mental health pathology rapidly worsening?",
+      "link": "https://theintercept.com/2020/08/28/the-social-fabric-of-the-u-s-is-fraying-severely-if-not-unravelling/"
+    },
+    {
+      "title": "The China Syndrome Part II: Transmission and Response",
+      "source": "Quillette",
+      "date": "Aug 28, 2020",
+      "description": "Note: This is the second part of a four-part series of essays looking in detail at China's role in the COVID-19 pandemic. Part One looked at the circumstances surrounding the initial outbreak; this part looks at the discovery of human-to-human transmission and the immediate response; Part Three will…",
+      "link": "https://quillette.com/2020/08/29/the-china-syndrome-part-ii-transmission-and-response/"
+    },
+    {
+      "title": "Bill Gates' Nuclear Venture Plans Reactor to Complement Solar, Wind Power Boom",
+      "source": "Reuters",
+      "date": "Aug 27, 2020",
+      "description": "A nuclear energy venture founded by Bill Gates said Thursday it hopes to build small advanced nuclear power stations that can store electricity to supplement grids increasingly supplied by intermittent sources like solar and wind power.",
+      "link": "https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8"
+    },
+    {
+      "title": "Russian Tourist Offered Employee $1 Million to Cripple Tesla With Malware",
+      "source": "Ars Technica",
+      "date": "Aug 27, 2020",
+      "description": "'This was a serious attack,' Elon Musk says.",
+      "link": "https://arstechnica.com/information-technology/2020/08/russian-tourist-offered-employee-1-million-to-cripple-tesla-with-malware/?utm_brand=arstechnica&utm_source=twitter&utm_social-type=owned&utm_medium=social"
+    },
+    {
+      "title": "China Secretly Built a Vast New Infrastructure to Imprison Muslims",
+      "source": "BuzzFeed News",
+      "date": "Aug 27, 2020",
+      "description": "China rounded up so many Muslims in Xinjiang that there wasn't enough space to hold them. Then the government started building.",
+      "link": "https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims"
+    },
+    {
+      "title": "Scientists Build Army of 1 Million Microrobots That Can Fit Inside a Hypodermic Needle",
+      "source": "CNET",
+      "date": "Aug 26, 2020",
+      "description": "Honey, I shrunk the robots.",
+      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
+    },
+    {
+      "title": "How the Sacklers Shifted $10.8 Billion of Their Opioid Fortune",
+      "source": "Bloomberg",
+      "date": "Aug 26, 2020",
+      "description": "This is where money from Purdue Pharma's flagship painkiller, OxyContin, flowed.",
+      "link": "https://www.bloomberg.com/graphics/2020-sackler-family-money/"
+    },
+    {
+      "title": "How Animal Activists Exposed the Brutality of Factory Farming",
+      "source": "Wired",
+      "date": "Aug 24, 2020",
+      "description": "In the second part of a Get WIRED series, we go inside one man's mission to bring to light one of factory farming's most notorious practices.",
+      "link": "https://www.wired.com/story/get-wired-podcast-6-ventilation-shutdown-factory-farms/"
+    },
+    {
+      "title": "International Scholars Must Resist the American Campaign to Inject Racial Tribalism Into Science",
+      "source": "Quillette",
+      "date": "Aug 24, 2020",
+      "description": "'Schœlcher n'est pas notre sauveur,' declared protestors who toppled statues on the French territory of Martinique earlier this year—'Schœlcher is not our savior.' The reference is to Victor Schœlcher, the 19th-century politician who's long been lauded for his role in abolishing slavery in France an…",
+      "link": "https://quillette.com/2020/08/21/international-scholars-must-resist-the-american-campaign-to-inject-racial-tribalism-into-science/"
+    },
+    {
+      "title": "Record Melt: Greenland Lost 586 Billion Tons of Ice in 2019",
+      "source": "Associated Press",
+      "date": "Aug 20, 2020",
+      "description": "Greenland lost a record amount of ice during an extra warm 2019, with the melt massive enough to cover California in more than four feet (1.25 meters) of water, a new study said. After two...",
+      "link": "https://apnews.com/6fcaab97241d34c83f448f019179ca6b"
+    },
+    {
+      "title": "Portland Police Declare Riot After Protesters Try to Burn Building",
+      "source": "The Guardian",
+      "date": "Aug 19, 2020",
+      "description": "Lighter fluid sprayed inside county office used for weddings as suspect named over beating of pickup truck driver",
+      "link": "https://www.theguardian.com/us-news/2020/aug/19/portland-riot-protesters-building-fire"
+    },
+    {
+      "title": "Facebook Closes in on $650 Million Settlement of a Lawsuit Claiming It Illegally Gathered Biometric Data",
+      "source": "Business Insider",
+      "date": "Aug 19, 2020",
+      "description": "A group of Illinois users said Facebook's photo-tagging feature illegally gathered biometric data.",
+      "link": "https://www.businessinsider.com/facebook-wins-preliminary-approval-to-settle-facial-recognition-lawsuit-2020-8"
+    },
+    {
+      "title": "An Arms Race Is Brewing in Orbit",
+      "source": "The Economist",
+      "date": "Aug 13, 2020",
+      "description": "Experts want to clarify how the laws of war on Earth apply beyond it",
+      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
+    },
     {
       "title": "Wait, How Much Microplastic Is Swirling in the Atlantic?",
       "source": "Wired",
@@ -579,132 +698,6 @@
       "date": "Jul 15, 2020",
       "description": "New directive is White House's latest attempt to cut the CDC out of the loop.",
       "link": "https://arstechnica.com/tech-policy/2020/07/trump-admin-undercuts-cdc-seizes-control-of-national-covid-19-data/"
-    },
-    {
-      "title": "Trump Weakens Rules on Environmental Reviews of Infrastructure Projects",
-      "source": "The Guardian",
-      "date": "Jul 15, 2020",
-      "description": "Plan reduces number of projects, such as pipelines and highways, subject to review and limits scope of investigations",
-      "link": "https://www.theguardian.com/us-news/2020/jul/15/donald-trump-environmental-reviews-pipelines-highways"
-    },
-    {
-      "title": "Secret Trump Order Gives CIA More Powers to Launch Cyberattacks",
-      "source": "Yahoo News",
-      "date": "Jul 15, 2020",
-      "description": "The Central Intelligence Agency has conducted a series of covert cyber operations against Iran and other targets since winning a secret victory in 2018 when President Trump signed what amounts to a sweeping authorization for such activities, according to former U.S. officials with direct knowledge o…",
-      "link": "https://news.yahoo.com/secret-trump-order-gives-cia-more-powers-to-launch-cyberattacks-090015219.html"
-    },
-    {
-      "title": "Hack of 251 Law Enforcement Websites Exposes Personal Data of 700,000 Cops",
-      "source": "The Intercept",
-      "date": "Jul 15, 2020",
-      "description": "The BlueLeaks archive contains over 16 million rows of data, including emails, descriptions of alleged crimes, and detailed personal information.",
-      "link": "https://theintercept.com/2020/07/15/blueleaks-anonymous-ddos-law-enforcement-hack/"
-    },
-    {
-      "title": "The Dehumanizing Condescension of 'White Fragility'",
-      "source": "The Atlantic",
-      "date": "Jul 15, 2020",
-      "description": "The popular book aims to combat racism but talks down to Black people.",
-      "link": "https://www.theatlantic.com/ideas/archive/2020/07/dehumanizing-condescension-white-fragility/614146/"
-    },
-    {
-      "title": "Here's a Map of the Surveillance Tech Police Are Using to Track You",
-      "source": "Gizmodo",
-      "date": "Jul 15, 2020",
-      "description": "An abundance of reporting has confirmed that you're not paranoid, Minority Report was nonfiction, and face paint isn't just an art project. We hear about how law enforcement can match our faces with photos scraped from our social media profiles and monitor us through neighbors' doorbells. The near-w…",
-      "link": "https://gizmodo.com/here-s-a-map-of-the-surveillance-tech-police-are-using-1844391857"
-    },
-    {
-      "title": "The Defenestration of Bari Weiss",
-      "source": "Quillette",
-      "date": "Jul 15, 2020",
-      "description": "In London's Hyde Park, the famous Speakers' Corner stands as a tribute to the victory of John Stuart Mill, the most prominent thinker in the liberal tradition. In the occasionally stultifying intellectual climate of Victorian England, Mill led a successful campaign for the right to protest in London…",
-      "link": "https://quillette.com/2020/07/14/the-defenestration-of-bari-weiss/"
-    },
-    {
-      "title": "Yes, There Is Such a Thing as Cancel Culture",
-      "source": "Quillette",
-      "date": "Jul 15, 2020",
-      "description": "On July 7th, 153 mostly left-leaning intellectuals wrote a letter to Harper's Magazine, expressing their opposition to 'a new set of moral attitudes and political commitments that tend to weaken our norms of open debate.' The Harper's letter prompted a discussion about the scale, and indeed the exis…",
-      "link": "https://quillette.com/2020/07/14/yes-there-is-such-a-thing-as-cancel-culture/"
-    },
-    {
-      "title": "Your Car Is Spewing Microplastics That Blow Around the World",
-      "source": "Wired",
-      "date": "Jul 14, 2020",
-      "description": "When you drive, tiny bits of plastic fly off your tires and brakes. Now scientists have shown how all that road muck is blowing into 'pristine' environments like the Arctic.",
-      "link": "https://www.wired.com/story/your-car-is-spewing-microplastics/"
-    },
-    {
-      "title": "Sound of the Police: How US Law Enforcement Uses Noise as a Weapon",
-      "source": "The Guardian",
-      "date": "Jul 14, 2020",
-      "description": "Potentially harmful military-grade weapons such as flashbangs are being utilized with accelerating regularity at US protests",
-      "link": "https://www.theguardian.com/us-news/2020/jul/14/us-police-sound-weapon-protests"
-    },
-    {
-      "title": "Global Methane Emissions Reach a Record High",
-      "source": "The New York Times",
-      "date": "Jul 14, 2020",
-      "description": "Scientists expect emissions, driven by fossil fuels and agriculture, to continue rising rapidly.",
-      "link": "https://www.nytimes.com/2020/07/14/climate/methane-emissions-record.html"
-    },
-    {
-      "title": "Google Was Just Slapped With a Lawsuit That Claims It Tracks People on Hundreds of Thousands of Apps Even When They Opt Out",
-      "source": "Business Insider",
-      "date": "Jul 13, 2020",
-      "description": "The lawsuit accuses the search engine giant of violating wiretap law and California privacy law by recording what users are looking at in apps.",
-      "link": "https://www.businessinsider.com/google-lawsuit-app-tracking-without-permission-reuters-2020-7"
-    },
-    {
-      "title": "Scientists Warn of Rapid Melting of Antarctica's 'Doomsday Glacier'",
-      "source": "The Independent",
-      "date": "Jul 13, 2020",
-      "description": "Thwaites glacier is losing ice at an accelerating rate, threatening catastrophic sea-level rise",
-      "link": "https://www.independent.co.uk/environment/thwaites-glacier-antarctic-melting-doomsday-climate-a9616966.html"
-    },
-    {
-      "title": "How Small Satellites Are Radically Remaking Space Exploration",
-      "source": "Ars Technica",
-      "date": "Jul 11, 2020",
-      "description": "'There's so much of the Solar System that we have not explored.'",
-      "link": "https://arstechnica.com/science/2020/07/how-small-satellites-are-radically-remaking-space-exploration/"
-    },
-    {
-      "title": "When the Left Turns on Its Own",
-      "source": "The New York Times",
-      "date": "Jun 1, 2017",
-      "description": "Bret Weinstein objected to a day without white people at Evergreen State College. Now the professor isn't safe on campus.",
-      "link": "https://www.nytimes.com/2017/06/01/opinion/when-the-left-turns-on-its-own.html"
-    },
-    {
-      "title": "US Citizens Warned They Face Arbitrary Arrest in China",
-      "source": "Deutsche Welle",
-      "date": "Jul 12, 2020",
-      "description": "Amid increased tensions between the two superpowers, the US State Department has issued a formal warning for US citizens in China. It said Americans may face deportation or detention without explanation.",
-      "link": "https://www.dw.com/en/us-citizens-warned-they-face-arbitrary-arrest-in-china/a-54144205"
-    },
-    {
-      "title": "How to Trick Your Brain to Remember Almost Anything",
-      "source": "Wired",
-      "date": "Jul 12, 2020",
-      "description": "Four-time USA Memory Champion Nelson Dellis and psychological scientist Julia Shaw explain how to boost your memory skills.",
-      "link": "https://www.wired.com/story/how-to-trick-your-brain-to-remember-almost-anything/"
-    },
-    {
-      "title": "Robert Mueller: Roger Stone Remains a Convicted Felon, and Rightly So",
-      "source": "Washington Post",
-      "date": "Jul 11, 2020",
-      "description": "We made every decision in Stone's case, as in all our cases, based solely on the facts and the law and in accordance with the rule of law.",
-      "link": "https://www.washingtonpost.com/opinions/2020/07/11/mueller-stone-oped/"
-    },
-    {
-      "title": "New Coronavirus Cases in U.S. Soar Past 68,000, Shattering Record",
-      "source": "The New York Times",
-      "date": "Jul 10, 2020",
-      "description": "The number of daily global cases also broke a record, with the United States as the biggest source of new infections. The U.S. death toll is also on the rise.",
-      "link": "https://www.nytimes.com/2020/07/10/world/coronavirus-updates.html"
     }
   ]
 }
