@@ -3,9 +3,128 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "9/1/2020, 12:00:25 PM",
-  "id": "v7uwt_wlj9ebxURRTVr4u",
+  "date": "9/4/2020, 2:29:31 PM",
+  "id": "64OvzZWGsiJgoN1owlxmg",
   "articles": [
+    {
+      "title": "Portland's Grim Reality: 100 Days of Protests, Many Violent",
+      "source": "Associated Press",
+      "date": "Sep 4, 2020",
+      "description": "PORTLAND, Ore. (AP) — Once hailed as one of the most livable U.S. cities, Portland, Oregon, is grappling with an uncertain future as it reaches a stunning benchmark: 100 consecutive nights of...",
+      "link": "https://apnews.com/b57315d97dd2146c4a89b4636faa7b70"
+    },
+    {
+      "title": "Neuralink Is Impressive Tech, Wrapped in Musk Hype",
+      "source": "Wired",
+      "date": "Sep 4, 2020",
+      "description": "Cool research tool? Definitely. A way to remotely control a computer or a prosthetic? Sure. But reading minds and storing memories? Not so fast.",
+      "link": "https://www.wired.com/story/neuralink-is-impressive-tech-wrapped-in-musk-hype/"
+    },
+    {
+      "title": "Drip Irrigation",
+      "source": "MIT GEAR Lab",
+      "date": "Sep 4, 2020",
+      "description": "Our group is addressing this problem from multiple angles",
+      "link": "https://www.gear.mit.edu/drip-irrigation"
+    },
+    {
+      "title": "Human Embryo Gene Editing Gets a Road Map — Not a Green Light",
+      "source": "Wired",
+      "date": "Sep 3, 2020",
+      "description": "After the 2018 'Crispr baby' scandal, a global commission assessed the technology and set strict criteria for moving it toward clinical trials.",
+      "link": "https://www.wired.com/story/human-embryo-gene-editing-gets-a-road-map-not-a-green-light/"
+    },
+    {
+      "title": "NSA Spying Exposed by Snowden Was Illegal and Not Very Useful, Court Says",
+      "source": "Ars Technica",
+      "date": "Sep 3, 2020",
+      "description": "NSA's illegal mass surveillance did not help thwart terror plot, court says.",
+      "link": "https://arstechnica.com/tech-policy/2020/09/nsa-spying-exposed-by-snowden-was-illegal-and-not-very-useful-court-says/"
+    },
+    {
+      "title": "SpaceX Confirms Starlink Internet Private Beta Underway, Showing Low Latency and Speeds Over 100Mbps",
+      "source": "TechCrunch",
+      "date": "Sep 3, 2020",
+      "description": "SpaceX has confirmed some details of its Starlink internet service beta test, via SpaceX engineer Kate Tice on today's launch webcast for its most recent Starlink satellite mission. Tice said that SpaceX's service has demonstrated latency low enough to allow it to play the 'fastes…",
+      "link": "https://techcrunch.com/2020/09/03/spacex-confirms-starlink-internet-private-beta-underway-showing-low-latency-and-speeds-over-100mbps/"
+    },
+    {
+      "title": "Why Experts Are Overwhelmingly Skeptical of Online Voting",
+      "source": "Ars Technica",
+      "date": "Sep 3, 2020",
+      "description": "An online voting CEO tried—and failed—to convince me it was a good idea.",
+      "link": "https://arstechnica.com/tech-policy/2020/09/why-experts-are-overwhelmingly-skeptical-of-online-voting/"
+    },
+    {
+      "title": "Arctic Wildfires Have Never Released This Much Carbon Dioxide",
+      "source": "Gizmodo",
+      "date": "Sep 3, 2020",
+      "description": "Sure, we're all aghast at the Siberian tundra exploding because it's too damn hot. But there's a much bigger catastrophe that's played out this summer in the overheated region. Arctic fires have unleashed an unprecedented amount of carbon dioxide into the atmosphere.",
+      "link": "https://earther.gizmodo.com/arctic-wildfires-have-never-released-this-much-carbon-d-1844940863"
+    },
+    {
+      "title": "Glacial Meltwater Lakes Have Grown by Half Since the 1990s",
+      "source": "Ars Technica",
+      "date": "Sep 2, 2020",
+      "description": "Satellite images track remarkable growth with local consequences.",
+      "link": "https://arstechnica.com/science/2020/09/glacial-meltwater-lakes-have-grown-by-half-since-the-1990s/"
+    },
+    {
+      "title": "Your Beloved Blue Jeans Are Polluting the Ocean — Big Time",
+      "source": "Wired",
+      "date": "Sep 2, 2020",
+      "description": "When you wash denim, tiny fibers shed and flow into the environment. Scientists just found that Arctic waters are now loaded with little bits of jeans.",
+      "link": "https://www.wired.com/story/your-blue-jeans-are-polluting-the-ocean/"
+    },
+    {
+      "title": "Alexei Navalny: Russia Opposition Leader Poisoned With Novichok - Germany",
+      "source": "BBC News",
+      "date": "Sep 2, 2020",
+      "description": "Germany says Alexei Navalny was attacked with a type of nerve agent used against an ex-spy in the UK.",
+      "link": "https://www.bbc.com/news/world-europe-54002880"
+    },
+    {
+      "title": "Half of Americans Fear a Health-Related Bankruptcy",
+      "source": "Axios",
+      "date": "Sep 2, 2020",
+      "description": "Health care costs were an issue even when the economy was good.",
+      "link": "https://www.axios.com/health-bankruptcy-fears-poll-ce3c4905-53c6-4f43-ba4f-fde22f4ef849.html"
+    },
+    {
+      "title": "U.S. Court: Mass Surveillance Program Exposed by Snowden Was Illegal",
+      "source": "Reuters",
+      "date": "Sep 2, 2020",
+      "description": "Seven years after former National Security Agency contractor Edward Snowden blew the whistle on the mass surveillance of Americans' telephone records, an appeals court has found the program was unlawful - and that the U.S. intelligence leaders who publicly defended it were not telling the truth.",
+      "link": "https://www.reuters.com/article/us-usa-nsa-spying/u-s-court-mass-surveillance-program-exposed-by-snowden-was-illegal-idUSKBN25T3CK"
+    },
+    {
+      "title": "CBP Does Not Make It Clear Americans Can Opt Out of Airport Face Scanning, Watchdog Says",
+      "source": "TechCrunch",
+      "date": "Sep 2, 2020",
+      "description": "Airport notices did not adequately inform Americans of their rights to opt-out of face scanning.",
+      "link": "https://techcrunch.com/2020/09/02/customs-border-protection-airport-border-face-data/"
+    },
+    {
+      "title": "Asphalt Could Be Making Summer Air Pollution Worse",
+      "source": "Gizmodo",
+      "date": "Sep 2, 2020",
+      "description": "There's a lot of asphalt in the U.S.—approximately 18 billion tons, according to the National Asphalt Pavement Association. Unfortunately, it turns out all that asphalt is the source of harmful air pollution, especially in the summer heat.",
+      "link": "https://earther.gizmodo.com/asphalt-could-be-making-summer-air-pollution-worse-1844930148"
+    },
+    {
+      "title": "'Shortsighted' and 'Self-Defeating': US Rejects Global COVID-19 Vaccine Effort",
+      "source": "Ars Technica",
+      "date": "Sep 1, 2020",
+      "description": "Over 170 countries are involved in the plan, which is like a vaccine insurance plan.",
+      "link": "https://arstechnica.com/science/2020/09/trump-admin-shuns-global-covid-19-vaccine-program-citing-beef-with-who/"
+    },
+    {
+      "title": "The China Syndrome Part III: Wet Markets and BioLabs",
+      "source": "Quillette",
+      "date": "Sep 1, 2020",
+      "description": "Note: This is the third part of a four-part series of essays looking in detail at China's role in the COVID-19 pandemic. Part One looked at the circumstances surrounding the initial outbreak; Part Two looked at the discovery of human-to-human transmission and the immediate response; this part invest…",
+      "link": "https://quillette.com/2020/09/02/the-china-syndrome-part-iii-wet-markets-and-biolabs/"
+    },
     {
       "title": "Covid Is Accelerating a Global Censorship Crisis",
       "source": "Wired",
@@ -60,7 +179,7 @@
       "source": "Ars Technica",
       "date": "Aug 27, 2020",
       "description": "'This was a serious attack,' Elon Musk says.",
-      "link": "https://arstechnica.com/information-technology/2020/08/russian-tourist-offered-employee-1-million-to-cripple-tesla-with-malware/?utm_brand=arstechnica&utm_source=twitter&utm_social-type=owned&utm_medium=social"
+      "link": "https://arstechnica.com/information-technology/2020/08/russian-tourist-offered-employee-1-million-to-cripple-tesla-with-malware/"
     },
     {
       "title": "China Secretly Built a Vast New Infrastructure to Imprison Muslims",
@@ -96,6 +215,13 @@
       "date": "Aug 24, 2020",
       "description": "'Schœlcher n'est pas notre sauveur,' declared protestors who toppled statues on the French territory of Martinique earlier this year—'Schœlcher is not our savior.' The reference is to Victor Schœlcher, the 19th-century politician who's long been lauded for his role in abolishing slavery in France an…",
       "link": "https://quillette.com/2020/08/21/international-scholars-must-resist-the-american-campaign-to-inject-racial-tribalism-into-science/"
+    },
+    {
+      "title": "U.S. National Debt Clock in Real Time",
+      "source": "U.S. National Debt Clock",
+      "date": "",
+      "description": "",
+      "link": "https://www.usdebtclock.org/"
     },
     {
       "title": "Record Melt: Greenland Lost 586 Billion Tons of Ice in 2019",
@@ -579,125 +705,6 @@
       "date": "Jul 19, 2020",
       "description": "No description provided.",
       "link": "https://www.youtube.com/watch?v=Ev373c7wSRg"
-    },
-    {
-      "title": "Antifa SJWs Assault Man for Free Speech Sign (UK)",
-      "source": "YouTube",
-      "date": "May 12, 2017",
-      "description": "Antifa fascists assaulted this man for simply having a sign that said: 'the right to openly discuss ideas must be defended.' The leader of Black Lives Matter...",
-      "link": "https://www.youtube.com/watch?v=81k93Guu-Oc"
-    },
-    {
-      "title": "On Eve of Bankruptcy, U.S. Firms Shower Execs With Bonuses",
-      "source": "Reuters",
-      "date": "Jul 17, 2020",
-      "description": "Nearly a third of more than 40 large companies seeking U.S. bankruptcy protection during the coronavirus pandemic awarded bonuses to executives within a month of filing their cases, according to a Reuters analysis of securities filings and court records.",
-      "link": "https://www.reuters.com/article/us-health-coronavirus-bankruptcy-bonuses-idUSKCN24I1EE"
-    },
-    {
-      "title": "Narcissists, Psychopaths, and Manipulators Are More Likely to Engage in 'Virtuous Victim Signaling,' Says Study",
-      "source": "Reason",
-      "date": "Jul 7, 2020",
-      "description": "Plus: Protesters sue over alleged mistreatment by arresting officers, a new ruling on robocalls, and more...",
-      "link": "https://reason.com/2020/07/07/narcissists-psychopaths-and-manipulators-are-more-likely-to-engage-in-virtuous-victim-signaling-says-study/"
-    },
-    {
-      "title": "Uighur Exiles Push for Court Case Accusing China of Genocide",
-      "source": "The New York Times",
-      "date": "Jul 6, 2020",
-      "description": "The complaint at the International Criminal Court is the first of its kind to challenge Beijing on its crackdown on Muslims, but China does not accept the court's jurisdiction.",
-      "link": "https://www.nytimes.com/2020/07/06/world/asia/china-xinjiang-uighur-court.html"
-    },
-    {
-      "title": "Bloody Harvest — How Everyone Ignored the Crime of the Century",
-      "source": "Quillette",
-      "date": "Jan 3, 2020",
-      "description": "In June of this year the China Tribunal delivered its Final Judgement and Summary Report.1 An independent committee composed of lawyers, human rights experts, and a transplant surgeon, the Tribunal was established to investigate forced organ harvesting on the Chinese mainland. These rumours have hau…",
-      "link": "https://quillette.com/2020/01/03/bloody-harvest-how-everyone-ignored-the-crime-of-the-century/"
-    },
-    {
-      "title": "U.S. Breaks Record With Over 77,000 New Coronavirus Cases in Single Day",
-      "source": "Gizmodo",
-      "date": "Jul 17, 2020",
-      "description": "The U.S. recorded 77,255 new cases of coronavirus on Thursday, setting a depressing new world record. The U.S. has the worst outbreak on the planet right now, but it's probably more accurate to say this new record was broken last week. Why? The largest private testing lab in the country is currently…",
-      "link": "https://gizmodo.com/u-s-breaks-record-with-over-77-000-new-coronavirus-cas-1844414567"
-    },
-    {
-      "title": "Georgia Massaged Virus Data to Reopen, Then Voided Mask Orders",
-      "source": "Bloomberg",
-      "date": "Jul 17, 2020",
-      "description": "Georgia Governor Brian Kemp's edict expressly voiding coronavirus mask orders by local governments capped a week of turmoil in a state once touted as proof that reopening in a pandemic could work.",
-      "link": "https://www.bloomberg.com/news/articles/2020-07-17/georgia-massaged-virus-data-to-reopen-then-voided-mask-orders"
-    },
-    {
-      "title": "The U.S. Had a Record Number of Overdose Deaths Last Year",
-      "source": "Gizmodo",
-      "date": "Jul 17, 2020",
-      "description": "The covid-19 pandemic isn't the only public health crisis the U.S. is currently dealing with, as new government data released this week illustrates. In 2019, there were nearly 71,000 deaths attributed to drug overdose, according to the Centers for Disease Control and Prevention, the highest yearly n…",
-      "link": "https://gizmodo.com/the-u-s-had-a-record-number-of-overdose-deaths-last-ye-1844419458"
-    },
-    {
-      "title": "Doordash and Thousands of Other Companies Passively Send Your Data to Facebook",
-      "source": "OneZero",
-      "date": "Jul 16, 2020",
-      "description": "But you can do something about it",
-      "link": "https://onezero.medium.com/doordash-and-thousands-of-other-companies-passively-send-your-data-to-facebook-4ebe851e710"
-    },
-    {
-      "title": "Back to School: Teachers Are Ready to Quit Rather Than Put Their Lives at Risk",
-      "source": "BuzzFeed News",
-      "date": "Jul 16, 2020",
-      "description": "'Most parents have no idea how bad this is going to be.'",
-      "link": "https://www.buzzfeednews.com/article/carolineodonovan/coronavirus-schools-teachers-fear-for-their-lives"
-    },
-    {
-      "title": "U.S., Britain and Canada Say Russian Cyberspies Are Trying to Steal Coronavirus Vaccine Research",
-      "source": "The Washington Post",
-      "date": "Jul 16, 2020",
-      "description": "Hackers launched 'despicable attacks against those doing vital work to combat the coronavirus pandemic,' a top British intelligence official said.",
-      "link": "https://www.washingtonpost.com/world/uk-us-and-canada-report-russian-cyberspies-may-be-trying-to-steal-vaccine-research/2020/07/16/d7c0dbd6-c765-11ea-a825-8722004e4150_story.html"
-    },
-    {
-      "title": "Dr. Anthony Fauci Pleads With Young People: 'You're Propagating the Pandemic'",
-      "source": "CNBC",
-      "date": "Jul 16, 2020",
-      "description": "White House coronavirus advisor Dr. Anthony Fauci urged young Americans to not take the coronavirus lightly, saying doing so could propagate the pandemic.",
-      "link": "https://www.cnbc.com/2020/07/16/dr-anthony-fauci-pleads-with-young-people-youre-propagating-the-pandemic.html"
-    },
-    {
-      "title": "EU Court Again Rules That NSA Spying Makes U.S. Companies Inadequate for Privacy",
-      "source": "Electronic Frontier Foundation",
-      "date": "Jul 16, 2020",
-      "description": "The European Union's highest court today made clear—once again—that the US government's mass surveillance programs are incompatible with the privacy rights of EU citizens. The judgment was made in the latest case involving Austrian privacy advocate and EFF Pioneer Award winner Max Schrems. It...",
-      "link": "https://www.eff.org/deeplinks/2020/07/eu-court-again-rules-nsa-spying-makes-us-companies-inadequate-privacy"
-    },
-    {
-      "title": "The End of the Arab World's Oil Age Is Nigh",
-      "source": "The Economist",
-      "date": "Jul 16, 2020",
-      "description": "Pain will be felt across the region",
-      "link": "https://www.economist.com/middle-east-and-africa/2020/07/18/the-end-of-the-arab-worlds-oil-age-is-nigh"
-    },
-    {
-      "title": "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud",
-      "source": "The Intercept",
-      "date": "Jul 14, 2020",
-      "description": "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this.",
-      "link": "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/"
-    },
-    {
-      "title": "The Ideological Corruption of Science",
-      "source": "The Wall Street Journal",
-      "date": "Jul 12, 2020",
-      "description": "In American laboratories and universities, the spirit of Trofim Lysenko has suddenly been woke.",
-      "link": "https://www.wsj.com/articles/the-ideological-corruption-of-science-11594572501"
-    },
-    {
-      "title": "Trump Admin Undercuts CDC, Seizes Control of National COVID-19 Data",
-      "source": "Ars Technica",
-      "date": "Jul 15, 2020",
-      "description": "New directive is White House's latest attempt to cut the CDC out of the loop.",
-      "link": "https://arstechnica.com/tech-policy/2020/07/trump-admin-undercuts-cdc-seizes-control-of-national-covid-19-data/"
     }
   ]
 }
