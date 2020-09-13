@@ -3,9 +3,121 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "9/4/2020, 2:29:31 PM",
-  "id": "64OvzZWGsiJgoN1owlxmg",
+  "date": "9/12/2020, 2:43:02 PM",
+  "id": "ohdisLsdg-vvYkFh1AGb6",
   "articles": [
+    {
+      "title": "Why Online Voting Is Harder Than Online Banking",
+      "source": "Ars Technica",
+      "date": "Sep 12, 2020",
+      "description": "A common argument for online voting doesn't actually make sense.",
+      "link": "https://arstechnica.com/tech-policy/2020/09/why-online-voting-is-harder-than-online-banking/"
+    },
+    {
+      "title": "A Secret Recording Reveals Oil Executives' Private Views on Climate Change",
+      "source": "The New York Times",
+      "date": "Sep 12, 2020",
+      "description": "At a meeting last year, industry leaders contradicted public claims that emissions of climate-warming methane are under control",
+      "link": "https://www.nytimes.com/2020/09/12/climate/methane-natural-gas-flaring.html"
+    },
+    {
+      "title": "U.S. Budget Deficit Tops $3 Trillion With One Month Left in Fiscal 2020",
+      "source": "Reuters",
+      "date": "Sep 11, 2020",
+      "description": "The coronavirus pandemic has pushed the U.S. federal budget deficit above $3 trillion for the first 11 months of fiscal 2020, more than doubling the previous full-year record, the U.S. Treasury said on Friday.",
+      "link": "https://www.reuters.com/article/us-usa-economy-budget/us-fiscal-year-budget-deficit-tops-3-trillion-idUSKBN2622OR"
+    },
+    {
+      "title": "US Wildfires: At Least 20 Dead as California Governor Signs Bill Addressing Incarcerated Firefighters – as It Happened",
+      "source": "The Guardian",
+      "date": "Sep 11, 2020",
+      "description": "California fires have burned 3.1m acres this year as Oregon blazes displace hundreds of thousands – follow the latest updates live",
+      "link": "https://www.theguardian.com/us-news/live/2020/sep/11/fires-oregon-california-washington-wildfires-live-news-updates-today"
+    },
+    {
+      "title": "How Big Oil Misled the Public Into Believing Plastic Would Be Recycled",
+      "source": "NPR",
+      "date": "Sep 10, 2020",
+      "description": "An NPR and PBS Frontline investigation reveals how the oil and gas industry used the promise of recycling to sell more plastic, even when they knew it would never work on a large scale.",
+      "link": "https://www.npr.org/2020/09/11/897692090/how-big-oil-misled-the-public-into-believing-plastic-would-be-recycled"
+    },
+    {
+      "title": "As Waters Warm, These Species Are Stuck Going the Wrong Way",
+      "source": "Ars Technica",
+      "date": "Sep 10, 2020",
+      "description": "Earlier spring warmth puts young in stronger southward currents.",
+      "link": "https://arstechnica.com/science/2020/09/some-ocean-species-are-moving-the-wrong-direction-as-waters-warm/"
+    },
+    {
+      "title": "Russia, China and Iran Target US Elections With Cyberattacks",
+      "source": "Engadget",
+      "date": "Sep 10, 2020",
+      "description": "Russia is once again trying to interfere with a US presidential election. So are China and Iran.",
+      "link": "https://www.engadget.com/microsoft-warns-russia-china-iran-targeting-2020-election-191501661.html"
+    },
+    {
+      "title": "Wildlife in 'Catastrophic Decline', Report Warns",
+      "source": "BBC News",
+      "date": "Sep 10, 2020",
+      "description": "Conservation group WWF says global wildlife populations have shrunk by two-thirds since 1970.",
+      "link": "https://www.bbc.com/news/science-environment-54091048"
+    },
+    {
+      "title": "Police Violence and the Rush to Judgment",
+      "source": "Quillette",
+      "date": "Sep 9, 2020",
+      "description": "In the days and weeks following George Floyd's death in May, activists flooded the streets with placards and slogans to denounce racism and police violence. But the zeal with which they mobilized support for their cause frequently clouded complex issues and events that demanded greater scrutiny than…",
+      "link": "https://quillette.com/2020/09/08/police-violence-and-the-rush-to-judgment/"
+    },
+    {
+      "title": "Former NSA Chief Keith Alexander Has Joined Amazon's Board of Directors",
+      "source": "The Verge",
+      "date": "Sep 9, 2020",
+      "description": "A surveillance-friendly choice.",
+      "link": "https://www.theverge.com/2020/9/9/21429635/amazon-keith-alexander-board-of-directors-nsa-cyber-command"
+    },
+    {
+      "title": "Hydrogen, Carbon Capture Key to Net-Zero U.S. Electricity: Study",
+      "source": "Reuters",
+      "date": "Sep 9, 2020",
+      "description": "The United States can generate affordable electricity without producing carbon dioxide emissions by 2035 by deploying hydrogen or carbon capture technology, according to a report released on Wednesday by a climate policy think tank.",
+      "link": "https://www.reuters.com/article/us-usa-climate-power/hydrogen-carbon-capture-key-to-net-zero-u-s-electricity-study-idUSKBN2602M0"
+    },
+    {
+      "title": "Illegal Devices That Bypass Vehicle Emissions Controls Spread Across US",
+      "source": "The Guardian",
+      "date": "Sep 9, 2020",
+      "description": "Thousands of tons of pollution spew into the air in the US from devices that proliferate online and in body shops",
+      "link": "https://www.theguardian.com/us-news/2020/sep/09/auto-car-emissions-defeat-devices-delete-kits"
+    },
+    {
+      "title": "Australian Scientists Say Logging, Mining and Climate Advice Is Being Suppressed",
+      "source": "The Guardian",
+      "date": "Sep 8, 2020",
+      "description": "A third of government and industry-employed ecologists and conservation scientists had work unduly modified, study finds",
+      "link": "https://www.theguardian.com/environment/2020/sep/09/australian-scientists-say-logging-mining-and-climate-advice-is-being-suppressed"
+    },
+    {
+      "title": "The China Syndrome Part IV: Did China Fudge Its Data?",
+      "source": "Quillette",
+      "date": "Sep 7, 2020",
+      "description": "Note: This is the concluding part of a four-part series of essays looking in detail at China's role in the COVID-19 pandemic. Part One looked at the circumstances surrounding the initial outbreak; Part Two looked at the discovery of human-to-human transmission and the immediate response; Part Three …",
+      "link": "https://quillette.com/2020/09/06/the-china-syndrome-part-iv-did-china-fudge-its-data/"
+    },
+    {
+      "title": "'You're Not Allowed to Film': The Fight to Control Who Reports From Portland",
+      "source": "Reason",
+      "date": "Sep 5, 2020",
+      "description": "Both sides are getting their information through purposely bottlenecked media reports, and the results are predictably distorted and dangerous.",
+      "link": "https://reason.com/2020/09/04/youre-not-allowed-to-film-the-fight-for-control-over-who-reports-from-portland/"
+    },
+    {
+      "title": "Unlimited Information Is Transforming Society",
+      "source": "Scientific American",
+      "date": "Sep 1, 2020",
+      "description": "Technology is blurring the lines between consumers and producers, amateurs and professionals, and laypeople and experts. We're just starting to understand the implications",
+      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
+    },
     {
       "title": "Portland's Grim Reality: 100 Days of Protests, Many Violent",
       "source": "Associated Press",
@@ -586,125 +698,6 @@
       "date": "Jul 25, 2020",
       "description": "A previously unreported Fancy Bear campaign persisted for well over a year.",
       "link": "https://arstechnica.com/information-technology/2020/07/russias-gru-hackers-hit-us-government-and-energy-targets/"
-    },
-    {
-      "title": "Of Heroic Deeds and Hysterical Masses",
-      "source": "Quillette",
-      "date": "Jul 25, 2020",
-      "description": "Perpetual progress is no more possible than perpetual motion, an axiom unwittingly vindicated by the benighted throngs that currently run amok across America, menacing the living and long dead wherever they rage. Whereas in the final decade of the 19th century, 'enlightenment had progressed to the p…",
-      "link": "https://quillette.com/2020/07/24/of-heroic-deeds-and-hysterical-masses/"
-    },
-    {
-      "title": "Routine Beatings of Inmates in Alabama Prisons Go Ignored, U.S. Says",
-      "source": "The New York Times",
-      "date": "Jul 24, 2020",
-      "description": "A report released by the Justice Department found that corrections officers frequently used excessive force and violated prisoners' constitutional rights.",
-      "link": "https://www.nytimes.com/2020/07/24/us/alabama-prisons-excessive-force.html"
-    },
-    {
-      "title": "Russia Accused of Firing Satellite Weapon in Space",
-      "source": "BBC News",
-      "date": "Jul 23, 2020",
-      "description": "The UK says the Russian satellite launched 'a projectile with the characteristics of a weapon'.",
-      "link": "https://www.bbc.com/news/world-europe-53518238"
-    },
-    {
-      "title": "A Security Breach Exposed More Than One Million DNA Profiles on a Major Genealogy Database",
-      "source": "BuzzFeed News",
-      "date": "Jul 22, 2020",
-      "description": "First GEDmatch, the DNA database that helped identify the Golden State Killer, was hacked. Then email addresses from its users were used in a phishing attack on another leading genealogy site.",
-      "link": "https://www.buzzfeednews.com/article/peteraldhous/hackers-gedmatch-dna-privacy"
-    },
-    {
-      "title": "Poll: 62% of Americans Say They Have Political Views They're Afraid to Share",
-      "source": "Cato Institute",
-      "date": "Jul 22, 2020",
-      "description": "50% of strong liberals support firing Trump donors, 36% of strong conservatives support firing Biden donors; 32% are worried about missing out on job opportunities because of their political opinions",
-      "link": "https://www.cato.org/publications/survey-reports/poll-62-americans-say-they-have-political-views-theyre-afraid-share"
-    },
-    {
-      "title": "Ongoing Meow Attack Has Nuked >1,000 Databases Without Telling Anyone Why",
-      "source": "Ars Technica",
-      "date": "Jul 22, 2020",
-      "description": "Ongoing attack hitting unsecured data leaves the word 'meow' as its calling card.",
-      "link": "https://arstechnica.com/information-technology/2020/07/more-than-1000-databases-have-been-nuked-by-mystery-meow-attack/"
-    },
-    {
-      "title": "How to Sell Protest Footage to FOX and CNN",
-      "source": "YouTube",
-      "date": "Jun 14, 2020",
-      "description": "I am a videographer who has figured out the technique to sell my footage to both of these news outlets. You can to if you follow my very important guidelines...",
-      "link": "https://www.youtube.com/watch?v=xiYZ__Ww02c"
-    },
-    {
-      "title": "Ancient Ice Loss in Antarctica's Most Stable Region Paints a Bleak Picture of What Could Come",
-      "source": "Gizmodo",
-      "date": "Jul 22, 2020",
-      "description": "A new paper suggests that the East Antarctic ice sheet may not be as stable as we thought. Looking at ancient melting, the study finds evidence that this piece of the Antarctic experienced melting 400,000 years ago when the world was 1.8 to 3.6 degrees Fahrenheit (1 to 2 degrees Celsius) warmer. Eno…",
-      "link": "https://earther.gizmodo.com/ancient-ice-loss-in-east-antarctica-is-not-something-an-1844468011"
-    },
-    {
-      "title": "Obesity, Infertility, and Low IQ Are Just Some of the Ways Household Chemicals Wreck Our Health",
-      "source": "Gizmodo",
-      "date": "Jul 21, 2020",
-      "description": "A new analysis published in the Lancet Diabetes and Endocrinology on Tuesday found that a growing number of endocrine-disrupting household chemicals have been linked to widespread health problems, including infertility, diabetes, and impaired brain development. The researchers examined hundreds of s…",
-      "link": "https://earther.gizmodo.com/obesity-infertility-and-low-iq-are-just-some-of-the-w-1844460126"
-    },
-    {
-      "title": "US Charges Two Chinese Spies in Global Hacking Campaign Targeting COVID-19 Research",
-      "source": "TechCrunch",
-      "date": "Jul 21, 2020",
-      "description": "The hackers are accused of a hacking spree lasting more than a decade.",
-      "link": "https://techcrunch.com/2020/07/21/us-prosecutors-charge-chinese-spies-global-hacking/"
-    },
-    {
-      "title": "It's Becoming Clear Why the US' Response to COVID-19 Is Terrible",
-      "source": "Ars Technica",
-      "date": "Jul 20, 2020",
-      "description": "Multiple reports make it obvious that facts aren't driving pandemic management.",
-      "link": "https://arstechnica.com/science/2020/07/inside-the-us-pandemic-incompetence-it-starts-at-the-top/"
-    },
-    {
-      "title": "By your powers combined: We are Social Justice Warriors",
-      "source": "YouTube",
-      "date": "Jul 8, 2020",
-      "description": "Dewdawg presents, By your powers combined: We are SOCIAL JUSTICE Warriors EPISODE intro 'Get TRIGGERED' * original movie created for 'No safe Spaces' release...",
-      "link": "https://www.youtube.com/watch?v=ROWl3yx_5ew"
-    },
-    {
-      "title": "The Terrible Consequences of Australia's Uber-Bushfires",
-      "source": "Wired",
-      "date": "Jul 20, 2020",
-      "description": "Scientists calculate that the unprecedented wildfires burned 37,500 square miles. For already endangered species, the conflagration may have spelled doom.",
-      "link": "https://www.wired.com/story/the-terrible-consequences-of-australias-uber-bushfires/"
-    },
-    {
-      "title": "Son of Federal Judge in Epstein Deutsche Bank Case Shot Dead",
-      "source": "Vice",
-      "date": "Jul 20, 2020",
-      "description": "Judge Esther Salas was appointed to the case last Wednesday. On Sunday, her 20-year-old son, and her husband, were shot at home.",
-      "link": "https://www.vice.com/en_us/article/v7gyd9/son-of-federal-judge-in-epstein-deutsche-bank-case-shot-dead"
-    },
-    {
-      "title": "The Truth According to Social Justice — A Review of 'Cynical Theories'",
-      "source": "Quillette",
-      "date": "Jul 20, 2020",
-      "description": "A review of Cynical Theories: How Activist Scholarship Made Everything about Race, Gender, and Identity―and Why This Harms Everybody, by Helen Pluckrose and James Lindsay, Pitchstone Publishing (August 25th, 2020), 352 pages. In November 1964, the American historian Richard Hofstadter published an e…",
-      "link": "https://quillette.com/2020/07/20/the-truth-according-to-social-justice-a-review-of-cynical-theories/"
-    },
-    {
-      "title": "The Left Is Now the Right",
-      "source": "Substack",
-      "date": "Jul 20, 2020",
-      "description": "We laughed at the Republican busybody who couldn't joke, declared war on dirty paintings, and peered through your bedroom window. Now that person has switched sides, and nobody's laughing",
-      "link": "https://taibbi.substack.com/p/the-left-is-now-the-right"
-    },
-    {
-      "title": "When Wokes and Racists Actually Agree on Everything",
-      "source": "YouTube",
-      "date": "Jul 19, 2020",
-      "description": "No description provided.",
-      "link": "https://www.youtube.com/watch?v=Ev373c7wSRg"
     }
   ]
 }
