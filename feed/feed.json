@@ -3,9 +3,79 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "9/12/2020, 2:43:02 PM",
-  "id": "ohdisLsdg-vvYkFh1AGb6",
+  "date": "9/17/2020, 2:11:05 PM",
+  "id": "_1gCbKc3XbePpJv9HlybG",
   "articles": [
+    {
+      "title": "Black Lives Matter and the Mechanics of Conformity",
+      "source": "Quillette",
+      "date": "Sep 17, 2020",
+      "description": "The death of George Floyd in May, circulated in a bystander's excruciating video clip, reignited furious and sometimes violent protests demanding reforms to address police brutality against ethnic minorities. According to the Center for Police Equity's 2016 report 'The Science of Justice,' black Ame…",
+      "link": "https://quillette.com/2020/09/17/black-lives-matter-and-the-mechanics-of-conformity/"
+    },
+    {
+      "title": "Birds 'Falling Out of the Sky' in Mass Die-Off in South-Western US",
+      "source": "The Guardian",
+      "date": "Sep 16, 2020",
+      "description": "Wildfires and climate crisis cited as possible causes for the deaths of thousands of migrating species heading south for the winter",
+      "link": "https://www.theguardian.com/environment/2020/sep/16/birds-falling-out-of-the-sky-in-mass-die-off-in-south-western-us-aoe"
+    },
+    {
+      "title": "Lessons of the Pinker Affair: The Problem With the Academy Is False Beliefs, Not Intolerance",
+      "source": "Quillette",
+      "date": "Sep 16, 2020",
+      "description": "Earlier this summer, over 600 signatories signed an open letter to the Linguistic Society of America (LSA), denouncing Steven Pinker for 'speaking over genuine grievances and downplaying injustices, frequently by misrepresenting facts, and at the exact moments when Black and Brown people are mobiliz…",
+      "link": "https://quillette.com/2020/09/16/lessons-of-the-pinker-affair-the-problem-with-the-academy-is-false-beliefs-not-intolerance/"
+    },
+    {
+      "title": "'I Have Blood on My Hands': A Whistleblower Says Facebook Ignored Global Political Manipulation",
+      "source": "BuzzFeed News",
+      "date": "Sep 15, 2020",
+      "description": "A 6,600-word internal memo from a fired Facebook data scientist details how the social network knew about specific examples of global political manipulation — and failed to act.",
+      "link": "https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo"
+    },
+    {
+      "title": "Scientists Found Phosphine on Venus—a Possible Hint of Life",
+      "source": "Wired",
+      "date": "Sep 14, 2020",
+      "description": "A simple molecule floating in Venus's atmosphere is now humans' best bet for finding companionship in the galaxy.",
+      "link": "https://www.wired.com/story/dr-phosphine-and-the-possibility-of-life-on-venus/"
+    },
+    {
+      "title": "The Arctic We Know Is Disappearing",
+      "source": "Gizmodo",
+      "date": "Sep 14, 2020",
+      "description": "There have been some pretty freaky things happening in the Arctic this year, with historic levels of ice melt, absurdly high temperatures, and wildfires in an area that's meant to be the definition of cold. New research by scientists at the National Center for Atmospheric Research (NCAR) shows that …",
+      "link": "https://earther.gizmodo.com/the-arctic-we-know-is-disappearing-1845049072"
+    },
+    {
+      "title": "Antarctic Glaciers Are Growing Unstable Above and Below Water",
+      "source": "Wired",
+      "date": "Sep 14, 2020",
+      "description": "New studies show fractures on surface ice and warm seawater melting the ice from underneath. That's a harbinger of a coming collapse—and sea level rise.",
+      "link": "https://www.wired.com/story/antarctic-glaciers-are-growing-unstable-above-and-below-water/"
+    },
+    {
+      "title": "Disposable Masks 'Causing Enormous Plastic Waste'",
+      "source": "BBC News",
+      "date": "Sep 13, 2020",
+      "description": "The government is urged to do more to get people to wear reusable, washable face coverings.",
+      "link": "https://www.bbc.com/news/uk-politics-54057799"
+    },
+    {
+      "title": "Health Officials Worldwide Are Receiving Death Threats Because of Their Work to Educate the Public and Stop the Spread of COVID-19",
+      "source": "Business Insider",
+      "date": "Sep 13, 2020",
+      "description": "At least 24 local and state public health officials in the US have quit or retired since the beginning of the pandemic in January.",
+      "link": "https://www.businessinsider.com/health-officials-worldwide-receive-death-threats-for-covid-19-response-2020-9"
+    },
+    {
+      "title": "Anti-Racist Structuralists and Non-Racist Culturalists",
+      "source": "Quillette",
+      "date": "Sep 13, 2020",
+      "description": "As the long hot summer of 2020 draws to a close, many Americans may feel as though they are living through an unraveling: an uncontrolled pandemic, collapsing faith in public institutions, apocalyptic rhetoric, violence and looting, and—if the rhetoricians of Black Lives Matter are to be believed—a …",
+      "link": "https://quillette.com/2020/09/13/anti-racist-structuralists-and-non-racist-culturalists/"
+    },
     {
       "title": "Why Online Voting Is Harder Than Online Banking",
       "source": "Ars Technica",
@@ -63,6 +133,13 @@
       "link": "https://www.bbc.com/news/science-environment-54091048"
     },
     {
+      "title": "Natural World Being Destroyed at Rate 'Never Seen Before', WWF Warns",
+      "source": "The Independent",
+      "date": "Sep 9, 2020",
+      "description": "We are working with conservation charity Space for Giants to protect wildlife at risk from poachers due to the conservation funding crisis caused by Covid-19. Help is desperately needed to support wildlife rangers, local communities and law enforcement personnel to prevent wildlife crime",
+      "link": "https://www.independent.co.uk/environment/climate-crisis-wwf-report-wildlife-biodiversity-david-attenborough-b420979.html"
+    },
+    {
       "title": "Police Violence and the Rush to Judgment",
       "source": "Quillette",
       "date": "Sep 9, 2020",
@@ -115,7 +192,7 @@
       "title": "Unlimited Information Is Transforming Society",
       "source": "Scientific American",
       "date": "Sep 1, 2020",
-      "description": "Technology is blurring the lines between consumers and producers, amateurs and professionals, and laypeople and experts. We're just starting to understand the implications",
+      "description": "Technology is blurring the lines between consumers and producers, amateurs and professionals, and laypeople and experts. We&rsquo;re just starting to understand the implications",
       "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
     },
     {
@@ -154,7 +231,7 @@
       "link": "https://arstechnica.com/tech-policy/2020/09/nsa-spying-exposed-by-snowden-was-illegal-and-not-very-useful-court-says/"
     },
     {
-      "title": "SpaceX Confirms Starlink Internet Private Beta Underway, Showing Low Latency and Speeds Over 100Mbps",
+      "title": "SpaceX Confirms Starlink Internet Private Beta Underway, Showing Low Latency and Speeds Over 100Mbps – TechCrunch",
       "source": "TechCrunch",
       "date": "Sep 3, 2020",
       "description": "SpaceX has confirmed some details of its Starlink internet service beta test, via SpaceX engineer Kate Tice on today's launch webcast for its most recent Starlink satellite mission. Tice said that SpaceX's service has demonstrated latency low enough to allow it to play the 'fastes…",
@@ -210,7 +287,7 @@
       "link": "https://www.reuters.com/article/us-usa-nsa-spying/u-s-court-mass-surveillance-program-exposed-by-snowden-was-illegal-idUSKBN25T3CK"
     },
     {
-      "title": "CBP Does Not Make It Clear Americans Can Opt Out of Airport Face Scanning, Watchdog Says",
+      "title": "CBP Does Not Make It Clear Americans Can Opt Out of Airport Face Scanning, Watchdog Says – TechCrunch",
       "source": "TechCrunch",
       "date": "Sep 2, 2020",
       "description": "Airport notices did not adequately inform Americans of their rights to opt-out of face scanning.",
@@ -628,76 +705,6 @@
       "date": "Jul 29, 2020",
       "description": "Victim advocates fear that bankruptcy will shield the drugmaker from justice, but they're not giving up.",
       "link": "https://theintercept.com/2020/07/29/purdue-pharma-bankruptcy-sacklers/"
-    },
-    {
-      "title": "How to Spot — and Avoid — Dark Patterns on the Web",
-      "source": "Wired",
-      "date": "Jul 29, 2020",
-      "description": "You've seen them before: the UX ploys designed to trick you into spending money, or make it nearly impossible to unsubscribe. Here's what to look out for.",
-      "link": "https://www.wired.com/story/how-to-spot-avoid-dark-patterns/"
-    },
-    {
-      "title": "Our Oppressive Moment",
-      "source": "Quillette",
-      "date": "Jul 29, 2020",
-      "description": "As one of the signatories to the much-discussed 'Open Letter' in Harper's magazine, I've been bemused by the objection that we are merely whiners—people with impregnable career success, flustered that social media is forcing us to experience unprecedented criticism, particularly in the wake of the F…",
-      "link": "https://quillette.com/2020/07/29/our-oppressive-moment/"
-    },
-    {
-      "title": "Largest Nuclear Fusion Project Begins Assembly",
-      "source": "BBC News",
-      "date": "Jul 28, 2020",
-      "description": "The world's biggest nuclear fusion project has entered its five-year assembly phase.",
-      "link": "https://www.bbc.com/news/science-environment-53573294"
-    },
-    {
-      "title": "Understanding Totalitarianism",
-      "source": "Quillette",
-      "date": "Jul 28, 2020",
-      "description": "In recent years, amid concern about a possible resurgence of totalitarianism, a number of books and articles have appeared that are intended to warn about the rhetoric and behavior of the populist Right. At the same time, a countercurrent of public intellectuals and journalists have leveled similar …",
-      "link": "https://quillette.com/2020/07/29/understanding-totalitarianism/"
-    },
-    {
-      "title": "Internal Source Code From 50 High-Profile Companies Including Microsoft, Disney, and Nintendo Has Been Leaked and Posted Online for People to Access",
-      "source": "Business Insider",
-      "date": "Jul 26, 2020",
-      "description": "'Losing control of the source code on the internet is like handing the blueprints of a bank to robbers,' a security expert told tech blog Tom's Guide.",
-      "link": "https://www.businessinsider.com/software-source-code-leaked-microsoft-nintendo-2020-7"
-    },
-    {
-      "title": "To Unite the Country, We Need Honesty and Courage",
-      "source": "BostonGlobe",
-      "date": "Jul 15, 2020",
-      "description": "All of us must speak the truth — including painful truths that unsettle not only our foes but also our friends and ourselves.",
-      "link": "https://www.bostonglobe.com/2020/07/15/opinion/unite-country-we-need-honesty-courage/"
-    },
-    {
-      "title": "It's Not Just Siberia as Record Heat Spreads Across the Arctic",
-      "source": "Gizmodo",
-      "date": "Jul 27, 2020",
-      "description": "Siberia has been hot and on fire. Perhaps you've heard? The relentless heat that's buffeted the region has decided to expand to other parts of the Arctic, from Norway to Canada, with high-temperature records breaking over the weekend.",
-      "link": "https://earther.gizmodo.com/its-not-just-siberia-as-record-heat-spreads-across-the-1844517909"
-    },
-    {
-      "title": "The Myth of Pervasive Misogyny",
-      "source": "Quillette",
-      "date": "Jul 27, 2020",
-      "description": "Women who seek to be equal with men lack ambition. ~Timothy Leary Many feminists and progressives argue that the West is plagued by pervasive misogyny. In fact, this claim is made with such frequency, and is so rarely challenged, that it has become part of the Left's catechism of victimhood, repeate…",
-      "link": "https://quillette.com/2020/07/27/the-myth-of-pervasive-misogyny/"
-    },
-    {
-      "title": "We're Publishing Thousands of Police Discipline Records That New York Kept Secret for Decades",
-      "source": "ProPublica",
-      "date": "Jul 26, 2020",
-      "description": "ProPublica obtained these police records from New York City's Civilian Complaint Review Board. NYPD unions are suing to halt the city from making the data public.",
-      "link": "https://www.propublica.org/article/nypd-civilian-complaint-review-board-editors-note"
-    },
-    {
-      "title": "Russia's GRU Hackers Hit US Government and Energy Targets",
-      "source": "Ars Technica",
-      "date": "Jul 25, 2020",
-      "description": "A previously unreported Fancy Bear campaign persisted for well over a year.",
-      "link": "https://arstechnica.com/information-technology/2020/07/russias-gru-hackers-hit-us-government-and-energy-targets/"
     }
   ]
 }
