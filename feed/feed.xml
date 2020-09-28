@@ -3,10 +3,80 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>xDKi77ZeTXXH_mhF-XeRV</id>
+		<id>c4dlI41fHBIjZjx2Ra6rt</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Wed Sep 23 2020 11:30:29 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Sun Sep 27 2020 17:19:25 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Scientists May Have Found a Material for Building on Mars</title>
+			<source>Wired</source>
+			<pubDate>Sep 27, 2020</pubDate>
+			<description><![CDATA[Using simple chemistry, the organic polymer chitin can be transformed into a viable substance for creating tools and habitats on the Red Planet.]]></description>
+			<link>https://www.wired.com/story/scientists-may-have-found-a-material-for-building-on-mars/</link>
+		</item>
+		<item>
+			<title>The Bias That Divides Us</title>
+			<source>Quillette</source>
+			<pubDate>Sep 26, 2020</pubDate>
+			<description><![CDATA[As we sit here over six months after the initial lockdown provoked by COVID-19, the United States has moved out of a brief period of national unity into distressingly predictable and bitter partisan division. The return to this state of affairs has been fuelled by a cognitive trait that divides us a…]]></description>
+			<link>https://quillette.com/2020/09/26/the-bias-that-divides-us/</link>
+		</item>
+		<item>
+			<title>Deception and Complicity—the Strange Case of Jessica Krug</title>
+			<source>Quillette</source>
+			<pubDate>Sep 25, 2020</pubDate>
+			<description><![CDATA[On September 9th, Jessica Krug, 38, abruptly resigned from her job as associate professor of African history at George Washington University (GWU). Apparently fearing imminent exposure, she had confessed in a post on Medium that she had passed herself off for more than a decade as being of black-Afr…]]></description>
+			<link>https://quillette.com/2020/09/25/deception-and-complicity-the-strange-case-of-jessica-krug/</link>
+		</item>
+		<item>
+			<title>Australia Says World Needs to Know Origins of COVID-19</title>
+			<source>Reuters</source>
+			<pubDate>Sep 25, 2020</pubDate>
+			<description><![CDATA[The world's nations must do all they can to understand the origins of COVID-19, Australia's Prime Minister Scott Morrison said on Saturday, comments that could worsen tensions with China.]]></description>
+			<link>https://www.reuters.com/article/us-health-coronavirus-australia-china/australia-says-world-needs-to-know-origins-of-covid-19-idUSKCN26H00T</link>
+		</item>
+		<item>
+			<title>Crows Possess Higher Intelligence Long Thought Primarily Human</title>
+			<source>STAT</source>
+			<pubDate>Sep 24, 2020</pubDate>
+			<description><![CDATA[A second study looked in unprecedented detail at the brains of pigeons and barn owls, finding hints to the basis of their intelligence.]]></description>
+			<link>https://www.statnews.com/2020/09/24/crows-possess-higher-intelligence-long-thought-primarily-human/</link>
+		</item>
+		<item>
+			<title>'Extremely Brilliant' X-Ray Beams Are About to Revolutionize How We See Into Matter</title>
+			<source>Gizmodo</source>
+			<pubDate>Sep 24, 2020</pubDate>
+			<description><![CDATA[A new way of producing powerful X-ray beams—the brightest on Earth—is now making it possible to create 3D images of matter at astounding resolutions. This 'Extremely Brilliant Source' officially opened last month at the European Synchrotron Radiation Facility in France, and scientists are already us…]]></description>
+			<link>https://gizmodo.com/extremely-brilliant-x-ray-beams-are-about-to-revoluti-1845055303</link>
+		</item>
+		<item>
+			<title>Why Dangerous 'Forever Chemicals' Are Allowed in US Drinking Water</title>
+			<source>The Guardian</source>
+			<pubDate>Sep 24, 2020</pubDate>
+			<description><![CDATA[The federal government has still not set limits for PFAS compounds, and some allege that could be because it is a polluter of them itself]]></description>
+			<link>https://www.theguardian.com/us-news/2020/sep/24/pfas-dangerous-forever-chemicals-drinking-water</link>
+		</item>
+		<item>
+			<title>DHS Admits Facial Recognition Photos Were Hacked, Released on Dark Web</title>
+			<source>Vice</source>
+			<pubDate>Sep 24, 2020</pubDate>
+			<description><![CDATA[Traveler's faces, license plates, and care information were hacked from a subcontractor called Perceptics and released on the dark web.]]></description>
+			<link>https://www.vice.com/en_us/article/m7jzbb/dhs-admits-facial-recognition-photos-were-hacked-released-on-dark-web</link>
+		</item>
+		<item>
+			<title>Facebook's Former Director of Monetization Says Facebook Intentionally Made Its Product as Addictive as Cigarettes — And Now He Fears It Could Cause 'Civil War'</title>
+			<source>Business Insider</source>
+			<pubDate>Sep 23, 2020</pubDate>
+			<description><![CDATA[Former director Tim Kendall said Facebook 'took a page from Big Tobacco's playbook, working to make our offering addictive at the outset.']]></description>
+			<link>https://www.businessinsider.com/former-facebook-exec-addictive-as-cigarettes-tim-kendall-2020-9</link>
+		</item>
+		<item>
+			<title>The Typical Full-Time Salary in America Would Be $102,000 if Wages Had Kept Up With Growth — but the Economy Has Failed 90% of Workers</title>
+			<source>Business Insider</source>
+			<pubDate>Sep 19, 2020</pubDate>
+			<description><![CDATA[A Rand report finds the median salary could have been $102,000, instead of $50,000, for a full-time worker if wages and GDP grew at the same rate.]]></description>
+			<link>https://www.businessinsider.com/median-us-worker-salaries-could-have-been-102000-without-inequality-2020-9</link>
+		</item>
 		<item>
 			<title>Secret Documents Show How Criminals Use Famous Banks to Finance Terror and Death</title>
 			<source>BuzzFeed News</source>
@@ -284,7 +354,7 @@
 			<title>Unlimited Information Is Transforming Society</title>
 			<source>Scientific American</source>
 			<pubDate>Sep 1, 2020</pubDate>
-			<description><![CDATA[Technology is blurring the lines between consumers and producers, amateurs and professionals, and laypeople and experts. We&rsquo;re just starting to understand the implications]]></description>
+			<description><![CDATA[Technology is blurring the lines between consumers and producers, amateurs and professionals, and laypeople and experts. We're just starting to understand the implications]]></description>
 			<link>https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/</link>
 		</item>
 		<item>
@@ -636,76 +706,6 @@
 			<pubDate>Aug 12, 2020</pubDate>
 			<description><![CDATA[President Donald Trump has long claimed that mail-in votes are open to problems, a situation he seems content to make worse.]]></description>
 			<link>https://www.businessinsider.com/trump-usps-lacks-funds-mail-votes-opposoes-more-funding-2020-8</link>
-		</item>
-		<item>
-			<title>When Private Security Cameras Are Police Surveillance Tools</title>
-			<source>Wired</source>
-			<pubDate>Aug 11, 2020</pubDate>
-			<description><![CDATA[Civil rights activists warn of 'mission creep,' as cameras installed to prevent break-ins are increasingly used to monitor protesters and communities of color.]]></description>
-			<link>https://www.wired.com/story/private-security-cameras-police-surveillance-tools/</link>
-		</item>
-		<item>
-			<title>Amazon Satellites Add to Astronomers' Worries About the Night Sky</title>
-			<source>The New York Times</source>
-			<pubDate>Aug 10, 2020</pubDate>
-			<description><![CDATA[The F.C.C. approved the company's 3,236-satellite constellation, which aims to provide high-speed internet service around the world.]]></description>
-			<link>https://www.nytimes.com/2020/08/10/science/amazon-project-kuiper.html</link>
-		</item>
-		<item>
-			<title>A Nixon Deepfake, a 'Moon Disaster' Speech and an Information Ecosystem at Risk</title>
-			<source>Scientific American</source>
-			<pubDate>Jul 20, 2020</pubDate>
-			<description><![CDATA[A new video re-creates a history that never happened, showing the power of AI-generated media]]></description>
-			<link>https://www.scientificamerican.com/article/a-nixon-deepfake-a-moon-disaster-speech-and-an-information-ecosystem-at-risk1/</link>
-		</item>
-		<item>
-			<title>Herbicide, Lead, and Other Poisons Found in Bodies of Stranded Dolphins and Whales</title>
-			<source>Gizmodo</source>
-			<pubDate>Aug 10, 2020</pubDate>
-			<description><![CDATA[New research shows the startling degree to which stranded dolphins and whales found along the southeastern U.S. coast are contaminated with pollutants.]]></description>
-			<link>https://earther.gizmodo.com/herbicide-lead-and-other-poisons-found-in-bodies-of-s-1844673582</link>
-		</item>
-		<item>
-			<title>Chicago Erupts With Violence and Looting After Police Shooting</title>
-			<source>The Guardian</source>
-			<pubDate>Aug 10, 2020</pubDate>
-			<description><![CDATA[More than 100 arrested after overnight looting on shopping district as mayor decries 'an assault on our city']]></description>
-			<link>https://www.theguardian.com/us-news/2020/aug/10/chicago-looting-violence-police-shooting-protests</link>
-		</item>
-		<item>
-			<title>How to Fight the Enemies of Academic Freedom</title>
-			<source>Quillette</source>
-			<pubDate>Aug 10, 2020</pubDate>
-			<description><![CDATA[According to a 2019 Cato Institute study, 75 percent of immigrants who are American citizens are very proud to be American compared to only 69 percent of native-born Americans. Based on my own experience, I expect the discrepancy to be much greater if you compare the sentiments of all immigrants to …]]></description>
-			<link>https://quillette.com/2020/08/10/how-to-fight-the-enemies-of-academic-freedom/</link>
-		</item>
-		<item>
-			<title>George Orwell and the Struggle Against Inevitable Bias</title>
-			<source>Quillette</source>
-			<pubDate>Aug 8, 2020</pubDate>
-			<description><![CDATA[In the bleak post-war Britain of October 1945, an essay by George Orwell appeared in the first edition of Polemic. Edited by abstract artist and ex-Communist Hugh Slater, the new journal was marketed as a 'magazine of philosophy, psychology, and aesthetics.' Orwell was not yet famous—Animal Farm had…]]></description>
-			<link>https://quillette.com/2020/08/08/george-orwell-and-the-struggle-against-inevitable-bias/</link>
-		</item>
-		<item>
-			<title>Cops Tap Smart Streetlights Sparking Controversy and Legislation</title>
-			<source>IEEE Spectrum</source>
-			<pubDate>Aug 8, 2020</pubDate>
-			<description><![CDATA[San Diego’s sensor-laden streetlights were supposed to save money and inspire entrepreneurs. Then the police started using their cameras and the pushback began.]]></description>
-			<link>https://spectrum.ieee.org/view-from-the-valley/sensors/remote-sensing/cops-smart-street-lights</link>
-		</item>
-		<item>
-			<title>HS Suspends Teen Who Tweeted Photo of Hallway Packed With Maskless Students</title>
-			<source>Ars Technica</source>
-			<pubDate>Aug 7, 2020</pubDate>
-			<description><![CDATA[HS in Georgia issued 5-day suspension but lifted punishment after family objected.]]></description>
-			<link>https://arstechnica.com/tech-policy/2020/08/hs-suspends-teen-who-tweeted-photo-of-hallway-packed-with-maskless-students/</link>
-		</item>
-		<item>
-			<title>Driving With the Windows Down Is Really Bad for You</title>
-			<source>Jalopnik</source>
-			<pubDate>Aug 7, 2020</pubDate>
-			<description><![CDATA[Well, what did you expect, that something as enjoyable as feeling the wind in your hair as you drive would be good for you? Come on. A new study from the University of Surrey found that driving with the windows down can increase a car's occupants' exposure to pollution by 80 percent, more during pea…]]></description>
-			<link>https://jalopnik.com/driving-with-the-windows-down-is-really-bad-for-you-1844651602</link>
 		</item>
 	</channel>
 </rss>
