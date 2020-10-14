@@ -3,10 +3,108 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>joBTeSriD8GXUY_oki9uS</id>
+		<id>PPyrkUXEcUaA59ERSgU9s</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Mon Oct 05 2020 08:42:40 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Wed Oct 14 2020 11:02:10 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>What Would Happen if All the Antarctic Ice Melted?</title>
+			<source>Wired</source>
+			<pubDate>Oct 13, 2020</pubDate>
+			<description><![CDATA[It … let's just say it would not be good. Here, let's do the math.]]></description>
+			<link>https://www.wired.com/story/what-would-happen-antarctic-ice-melted/</link>
+		</item>
+		<item>
+			<title>Great Barrier Reef Has Lost Half of Its Corals Since 1995</title>
+			<source>BBC News</source>
+			<pubDate>Oct 13, 2020</pubDate>
+			<description><![CDATA[Every type of coral has declined since 1995 because of climate change, an Australian study finds.]]></description>
+			<link>https://www.bbc.com/news/world-australia-54533971</link>
+		</item>
+		<item>
+			<title>Engineering a Battery Fast Enough to Make Recharging Like Refueling</title>
+			<source>Ars Technica</source>
+			<pubDate>Oct 11, 2020</pubDate>
+			<description><![CDATA[The structure of black phosphorus naturally makes channels to let lithium in.]]></description>
+			<link>https://arstechnica.com/science/2020/10/engineering-a-battery-fast-enough-to-make-recharging-like-refueling/</link>
+		</item>
+		<item>
+			<title>'Real and Imminent' Extinction Risk to Whales</title>
+			<source>BBC News</source>
+			<pubDate>Oct 10, 2020</pubDate>
+			<description><![CDATA[A letter signed by hundreds of scientists calls for global action to protect whales, dolphins and porpoises.]]></description>
+			<link>https://www.bbc.com/news/science-environment-54485407</link>
+		</item>
+		<item>
+			<title>For Some Adjunct Professors, It's Speak Your Mind Versus Keep Your Job</title>
+			<source>Quillette</source>
+			<pubDate>Oct 9, 2020</pubDate>
+			<description><![CDATA[The issue of academic freedom is particularly tenuous for the growing number of college teachers who hold positions that are neither tenured nor on the tenure track. Various titles are used to desc…]]></description>
+			<link>https://quillette.com/2020/10/08/for-some-adjunct-professors-its-speak-your-mind-versus-keep-your-job/</link>
+		</item>
+		<item>
+			<title>Computers Aboard Airliners Vulnerable to Hacking, Watchdog Says</title>
+			<source>Bloomberg</source>
+			<pubDate>Oct 9, 2020</pubDate>
+			<description><![CDATA[Airliners carry a variety of computer systems that could become vulnerable to hackers and U.S. regulators haven't imposed adequate counter measures, a government watchdog report concluded.]]></description>
+			<link>https://www.bloomberg.com/news/articles/2020-10-09/computers-aboard-airliners-vulnerable-to-hacking-watchdog-says</link>
+		</item>
+		<item>
+			<title>'World's Fastest Electrodes' Triple the Density of Lithium Batteries</title>
+			<source>New Atlas</source>
+			<pubDate>Oct 8, 2020</pubDate>
+			<description><![CDATA[French company Nawa technologies says it's already in production on a new electrode design that can radically boost the performance of existing and future battery chemistries, delivering up to 3x the energy density, 10x the power, vastly faster charging and battery lifespans up to five times as…]]></description>
+			<link>https://newatlas.com/energy/nawa-vertically-aligned-carbon-nanotube-electrode/</link>
+		</item>
+		<item>
+			<title>Recycling Was a Lie — a Big Lie — to Sell More Plastic, Industry Experts Say</title>
+			<source>CBC</source>
+			<pubDate>Oct 8, 2020</pubDate>
+			<description><![CDATA[Less than 10 per cent of the plastics we've used have been recycled. A new documentary reveals why]]></description>
+			<link>https://www.cbc.ca/documentaries/the-passionate-eye/recycling-was-a-lie-a-big-lie-to-sell-more-plastic-industry-experts-say-1.5735618</link>
+		</item>
+		<item>
+			<title>The Unprecedented and Illegal Campaign to Eliminate Julian Assange</title>
+			<source>The Intercept</source>
+			<pubDate>Oct 6, 2020</pubDate>
+			<description><![CDATA[Assange would never receive a fair trial in the U.S., but he's not receiving one in Britain either.]]></description>
+			<link>https://theintercept.com/2020/10/06/julian-assange-trial-extradition/</link>
+		</item>
+		<item>
+			<title>Orders From the Top: The EU's Timetable for Dismantling End-to-End Encryption</title>
+			<source>Electronic Frontier Foundation</source>
+			<pubDate>Oct 6, 2020</pubDate>
+			<description><![CDATA[The last few months have seen a steady stream of proposals, encouraged by the advocacy of the FBI and Department of Justice, to provide 'lawful access' to end-to-end encrypted services in the United States. Now lobbying has moved from the U.S., where Congress has been largely paralyzed by the...]]></description>
+			<link>https://www.eff.org/deeplinks/2020/10/orders-top-eus-timetable-dismantling-end-end-encryption</link>
+		</item>
+		<item>
+			<title>The IRS Is Being Investigated for Using Location Data Without a Warrant</title>
+			<source>Vice</source>
+			<pubDate>Oct 6, 2020</pubDate>
+			<description><![CDATA[The IRS used smartphone location data from a contractor to try to track Americans without a warrant.]]></description>
+			<link>https://www.vice.com/en/article/qj479d/irs-investigation-location-data-no-warrant-venntel</link>
+		</item>
+		<item>
+			<title>Exxon's Plan for Surging Carbon Emissions Revealed in Leaked Documents</title>
+			<source>Bloomberg</source>
+			<pubDate>Oct 5, 2020</pubDate>
+			<description><![CDATA[Internal projections from one of world’s largest oil producers show an increase in its enormous contribution to global warming.]]></description>
+			<link>https://www.bloomberg.com/news/articles/2020-10-05/exxon-carbon-emissions-and-climate-leaked-plans-reveal-rising-co2-output</link>
+		</item>
+		<item>
+			<title>State Sanctioned Secrecy: NSA's Criminality Shield</title>
+			<source>The Hill</source>
+			<pubDate>Sep 11, 2020</pubDate>
+			<description><![CDATA[Americans should not have to rely on whistleblowers to reveal our government is targeting us for unconstitutional surveillance behind a shield of secrecy. Nor should executive branch bureaucrats be able to conceal their misconduct behind false claims that exposing their ineptitude or criminality wou…]]></description>
+			<link>https://thehill.com/blogs/congress-blog/politics/516064-state-sanctioned-secrecy-nsas-criminality-shield</link>
+		</item>
+		<item>
+			<title>Why Humanity Destroyed Itself</title>
+			<source>YouTube</source>
+			<pubDate>Feb 5, 2017</pubDate>
+			<description><![CDATA[The real reason we may destroy ourselves isn't really to do with politics or economics or even warfare. It has to do with our minds.]]></description>
+			<link>https://www.youtube.com/watch?v=Yk3QsGzAjKI</link>
+		</item>
 		<item>
 			<title>California Fires Set Bleak Record as 4m Acres Destroyed</title>
 			<source>The Guardian</source>
@@ -137,7 +235,7 @@
 			<title>JPMorgan Is Set to Pay $1 Billion in Record Spoofing Penalty</title>
 			<source>Bloomberg</source>
 			<pubDate>Sep 23, 2020</pubDate>
-			<description><![CDATA[JPMorgan Chase Co. is poised to pay close to $1 billion to resolve market manipulation investigations by U.S. authorities into its trading of metals futures and Treasury securities, according to three people with knowledge of the matter.]]></description>
+			<description><![CDATA[JPMorgan Chase and Co. is poised to pay close to $1 billion to resolve market manipulation investigations by U.S. authorities into its trading of metals futures and Treasury securities, according to three people with knowledge of the matter.]]></description>
 			<link>https://www.bloomberg.com/news/articles/2020-09-23/jpmorgan-is-set-to-pay-1-billion-in-record-spoofing-penalty</link>
 		</item>
 		<item>
@@ -608,104 +706,6 @@
 			<pubDate>Sep 1, 2020</pubDate>
 			<description><![CDATA[Note: This is the third part of a four-part series of essays looking in detail at China's role in the COVID-19 pandemic. Part One looked at the circumstances surrounding the initial outbreak; Part Two looked at the discovery of human-to-human transmission and the immediate response; this part invest…]]></description>
 			<link>https://quillette.com/2020/09/02/the-china-syndrome-part-iii-wet-markets-and-biolabs/</link>
-		</item>
-		<item>
-			<title>Covid Is Accelerating a Global Censorship Crisis</title>
-			<source>Wired</source>
-			<pubDate>Aug 30, 2020</pubDate>
-			<description><![CDATA[Autocracies and democracies alike are suppressing information within their borders, which will have global impacts on public health and security.]]></description>
-			<link>https://www.wired.com/story/opinion-covid-is-accelerating-a-global-censorship-crisis/</link>
-		</item>
-		<item>
-			<title>One Person Shot Dead in Portland Following Clashes Between Pro-Trump Supporters, Counterprotesters</title>
-			<source>The Washington Post</source>
-			<pubDate>Aug 30, 2020</pubDate>
-			<description><![CDATA[The groups had earlier faced off along a highway on-ramp and on downtown city streets.]]></description>
-			<link>https://www.washingtonpost.com/nation/2020/08/29/blm-activists-counterprotesters-clash-portland-leading-arrests/</link>
-		</item>
-		<item>
-			<title>The China Syndrome Part I: Outbreak</title>
-			<source>Quillette</source>
-			<pubDate>Aug 30, 2020</pubDate>
-			<description><![CDATA[Note: This is the first part of a four-part series of essays looking in detail at China's role in the COVID-19 pandemic. This part looks at the circumstances surrounding the initial outbreak; Part Two will look at the discovery of human-to-human transmission and the immediate response; Part Three wi…]]></description>
-			<link>https://quillette.com/2020/08/24/the-china-syndrome-part-i-outbreak/</link>
-		</item>
-		<item>
-			<title>Musk Says That Neuralink Implants Are Close to Ready for Human Testing</title>
-			<source>Ars Technica</source>
-			<pubDate>Aug 29, 2020</pubDate>
-			<description><![CDATA[They're in pigs already, and the company is planning for human testing.]]></description>
-			<link>https://arstechnica.com/science/2020/08/musk-says-that-neuralink-implants-are-close-to-ready-for-human-testing/</link>
-		</item>
-		<item>
-			<title>The Social Fabric of the U.S. Is Fraying Severely, if Not Unravelling</title>
-			<source>The Intercept</source>
-			<pubDate>Aug 28, 2020</pubDate>
-			<description><![CDATA[Why, in the world's richest country, is every metric of mental health pathology rapidly worsening?]]></description>
-			<link>https://theintercept.com/2020/08/28/the-social-fabric-of-the-u-s-is-fraying-severely-if-not-unravelling/</link>
-		</item>
-		<item>
-			<title>The China Syndrome Part II: Transmission and Response</title>
-			<source>Quillette</source>
-			<pubDate>Aug 28, 2020</pubDate>
-			<description><![CDATA[Note: This is the second part of a four-part series of essays looking in detail at China's role in the COVID-19 pandemic. Part One looked at the circumstances surrounding the initial outbreak; this part looks at the discovery of human-to-human transmission and the immediate response; Part Three will…]]></description>
-			<link>https://quillette.com/2020/08/29/the-china-syndrome-part-ii-transmission-and-response/</link>
-		</item>
-		<item>
-			<title>Bill Gates' Nuclear Venture Plans Reactor to Complement Solar, Wind Power Boom</title>
-			<source>Reuters</source>
-			<pubDate>Aug 27, 2020</pubDate>
-			<description><![CDATA[A nuclear energy venture founded by Bill Gates said Thursday it hopes to build small advanced nuclear power stations that can store electricity to supplement grids increasingly supplied by intermittent sources like solar and wind power.]]></description>
-			<link>https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8</link>
-		</item>
-		<item>
-			<title>Russian Tourist Offered Employee $1 Million to Cripple Tesla With Malware</title>
-			<source>Ars Technica</source>
-			<pubDate>Aug 27, 2020</pubDate>
-			<description><![CDATA['This was a serious attack,' Elon Musk says.]]></description>
-			<link>https://arstechnica.com/information-technology/2020/08/russian-tourist-offered-employee-1-million-to-cripple-tesla-with-malware/</link>
-		</item>
-		<item>
-			<title>China Secretly Built a Vast New Infrastructure to Imprison Muslims</title>
-			<source>BuzzFeed News</source>
-			<pubDate>Aug 27, 2020</pubDate>
-			<description><![CDATA[China rounded up so many Muslims in Xinjiang that there wasn't enough space to hold them. Then the government started building.]]></description>
-			<link>https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims</link>
-		</item>
-		<item>
-			<title>Scientists Build Army of 1 Million Microrobots That Can Fit Inside a Hypodermic Needle</title>
-			<source>CNET</source>
-			<pubDate>Aug 26, 2020</pubDate>
-			<description><![CDATA[Honey, I shrunk the robots.]]></description>
-			<link>https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/</link>
-		</item>
-		<item>
-			<title>How the Sacklers Shifted $10.8 Billion of Their Opioid Fortune</title>
-			<source>Bloomberg</source>
-			<pubDate>Aug 26, 2020</pubDate>
-			<description><![CDATA[This is where money from Purdue Pharma's flagship painkiller, OxyContin, flowed.]]></description>
-			<link>https://www.bloomberg.com/graphics/2020-sackler-family-money/</link>
-		</item>
-		<item>
-			<title>How Animal Activists Exposed the Brutality of Factory Farming</title>
-			<source>Wired</source>
-			<pubDate>Aug 24, 2020</pubDate>
-			<description><![CDATA[In the second part of a Get WIRED series, we go inside one man's mission to bring to light one of factory farming's most notorious practices.]]></description>
-			<link>https://www.wired.com/story/get-wired-podcast-6-ventilation-shutdown-factory-farms/</link>
-		</item>
-		<item>
-			<title>International Scholars Must Resist the American Campaign to Inject Racial Tribalism Into Science</title>
-			<source>Quillette</source>
-			<pubDate>Aug 24, 2020</pubDate>
-			<description><![CDATA['Schœlcher n'est pas notre sauveur,' declared protestors who toppled statues on the French territory of Martinique earlier this year—'Schœlcher is not our savior.' The reference is to Victor Schœlcher, the 19th-century politician who's long been lauded for his role in abolishing slavery in France an…]]></description>
-			<link>https://quillette.com/2020/08/21/international-scholars-must-resist-the-american-campaign-to-inject-racial-tribalism-into-science/</link>
-		</item>
-		<item>
-			<title>U.S. National Debt Clock in Real Time</title>
-			<source>U.S. National Debt Clock</source>
-			<pubDate></pubDate>
-			<description><![CDATA[]]></description>
-			<link>https://www.usdebtclock.org/</link>
 		</item>
 	</channel>
 </rss>

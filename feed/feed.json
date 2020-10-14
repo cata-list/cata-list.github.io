@@ -3,9 +3,107 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "10/5/2020, 8:42:40 AM",
-  "id": "joBTeSriD8GXUY_oki9uS",
+  "date": "10/14/2020, 11:02:10 AM",
+  "id": "PPyrkUXEcUaA59ERSgU9s",
   "articles": [
+    {
+      "title": "What Would Happen if All the Antarctic Ice Melted?",
+      "source": "Wired",
+      "date": "Oct 13, 2020",
+      "description": "It … let's just say it would not be good. Here, let's do the math.",
+      "link": "https://www.wired.com/story/what-would-happen-antarctic-ice-melted/"
+    },
+    {
+      "title": "Great Barrier Reef Has Lost Half of Its Corals Since 1995",
+      "source": "BBC News",
+      "date": "Oct 13, 2020",
+      "description": "Every type of coral has declined since 1995 because of climate change, an Australian study finds.",
+      "link": "https://www.bbc.com/news/world-australia-54533971"
+    },
+    {
+      "title": "Engineering a Battery Fast Enough to Make Recharging Like Refueling",
+      "source": "Ars Technica",
+      "date": "Oct 11, 2020",
+      "description": "The structure of black phosphorus naturally makes channels to let lithium in.",
+      "link": "https://arstechnica.com/science/2020/10/engineering-a-battery-fast-enough-to-make-recharging-like-refueling/"
+    },
+    {
+      "title": "'Real and Imminent' Extinction Risk to Whales",
+      "source": "BBC News",
+      "date": "Oct 10, 2020",
+      "description": "A letter signed by hundreds of scientists calls for global action to protect whales, dolphins and porpoises.",
+      "link": "https://www.bbc.com/news/science-environment-54485407"
+    },
+    {
+      "title": "For Some Adjunct Professors, It's Speak Your Mind Versus Keep Your Job",
+      "source": "Quillette",
+      "date": "Oct 9, 2020",
+      "description": "The issue of academic freedom is particularly tenuous for the growing number of college teachers who hold positions that are neither tenured nor on the tenure track. Various titles are used to desc…",
+      "link": "https://quillette.com/2020/10/08/for-some-adjunct-professors-its-speak-your-mind-versus-keep-your-job/"
+    },
+    {
+      "title": "Computers Aboard Airliners Vulnerable to Hacking, Watchdog Says",
+      "source": "Bloomberg",
+      "date": "Oct 9, 2020",
+      "description": "Airliners carry a variety of computer systems that could become vulnerable to hackers and U.S. regulators haven't imposed adequate counter measures, a government watchdog report concluded.",
+      "link": "https://www.bloomberg.com/news/articles/2020-10-09/computers-aboard-airliners-vulnerable-to-hacking-watchdog-says"
+    },
+    {
+      "title": "'World's Fastest Electrodes' Triple the Density of Lithium Batteries",
+      "source": "New Atlas",
+      "date": "Oct 8, 2020",
+      "description": "French company Nawa technologies says it's already in production on a new electrode design that can radically boost the performance of existing and future battery chemistries, delivering up to 3x the energy density, 10x the power, vastly faster charging and battery lifespans up to five times as…",
+      "link": "https://newatlas.com/energy/nawa-vertically-aligned-carbon-nanotube-electrode/"
+    },
+    {
+      "title": "Recycling Was a Lie — a Big Lie — to Sell More Plastic, Industry Experts Say",
+      "source": "CBC",
+      "date": "Oct 8, 2020",
+      "description": "Less than 10 per cent of the plastics we've used have been recycled. A new documentary reveals why",
+      "link": "https://www.cbc.ca/documentaries/the-passionate-eye/recycling-was-a-lie-a-big-lie-to-sell-more-plastic-industry-experts-say-1.5735618"
+    },
+    {
+      "title": "The Unprecedented and Illegal Campaign to Eliminate Julian Assange",
+      "source": "The Intercept",
+      "date": "Oct 6, 2020",
+      "description": "Assange would never receive a fair trial in the U.S., but he's not receiving one in Britain either.",
+      "link": "https://theintercept.com/2020/10/06/julian-assange-trial-extradition/"
+    },
+    {
+      "title": "Orders From the Top: The EU's Timetable for Dismantling End-to-End Encryption",
+      "source": "Electronic Frontier Foundation",
+      "date": "Oct 6, 2020",
+      "description": "The last few months have seen a steady stream of proposals, encouraged by the advocacy of the FBI and Department of Justice, to provide 'lawful access' to end-to-end encrypted services in the United States. Now lobbying has moved from the U.S., where Congress has been largely paralyzed by the...",
+      "link": "https://www.eff.org/deeplinks/2020/10/orders-top-eus-timetable-dismantling-end-end-encryption"
+    },
+    {
+      "title": "The IRS Is Being Investigated for Using Location Data Without a Warrant",
+      "source": "Vice",
+      "date": "Oct 6, 2020",
+      "description": "The IRS used smartphone location data from a contractor to try to track Americans without a warrant.",
+      "link": "https://www.vice.com/en/article/qj479d/irs-investigation-location-data-no-warrant-venntel"
+    },
+    {
+      "title": "Exxon's Plan for Surging Carbon Emissions Revealed in Leaked Documents",
+      "source": "Bloomberg",
+      "date": "Oct 5, 2020",
+      "description": "Internal projections from one of world’s largest oil producers show an increase in its enormous contribution to global warming.",
+      "link": "https://www.bloomberg.com/news/articles/2020-10-05/exxon-carbon-emissions-and-climate-leaked-plans-reveal-rising-co2-output"
+    },
+    {
+      "title": "State Sanctioned Secrecy: NSA's Criminality Shield",
+      "source": "The Hill",
+      "date": "Sep 11, 2020",
+      "description": "Americans should not have to rely on whistleblowers to reveal our government is targeting us for unconstitutional surveillance behind a shield of secrecy. Nor should executive branch bureaucrats be able to conceal their misconduct behind false claims that exposing their ineptitude or criminality wou…",
+      "link": "https://thehill.com/blogs/congress-blog/politics/516064-state-sanctioned-secrecy-nsas-criminality-shield"
+    },
+    {
+      "title": "Why Humanity Destroyed Itself",
+      "source": "YouTube",
+      "date": "Feb 5, 2017",
+      "description": "The real reason we may destroy ourselves isn't really to do with politics or economics or even warfare. It has to do with our minds.",
+      "link": "https://www.youtube.com/watch?v=Yk3QsGzAjKI"
+    },
     {
       "title": "California Fires Set Bleak Record as 4m Acres Destroyed",
       "source": "The Guardian",
@@ -66,7 +164,7 @@
       "title": "How Psilocybin Can Save the Environment",
       "source": "Nautilus",
       "date": "Sep 30, 2020",
-      "description": "Last week, biologist and writer Merlin Sheldrake introduced Nautilus readers to Paul Stamets, a mycologist who preaches that mushrooms...",
+      "description": "Last week, biologist and writer Merlin Sheldrake introduced Nautilus readers to Paul Stamets, a mycologist who preaches that mushrooms&#8230;",
       "link": "http://nautil.us/issue/90/something-green/how-psilocybin-can-save-the-environment"
     },
     {
@@ -136,7 +234,7 @@
       "title": "JPMorgan Is Set to Pay $1 Billion in Record Spoofing Penalty",
       "source": "Bloomberg",
       "date": "Sep 23, 2020",
-      "description": "JPMorgan Chase Co. is poised to pay close to $1 billion to resolve market manipulation investigations by U.S. authorities into its trading of metals futures and Treasury securities, according to three people with knowledge of the matter.",
+      "description": "JPMorgan Chase & Co. is poised to pay close to $1 billion to resolve market manipulation investigations by U.S. authorities into its trading of metals futures and Treasury securities, according to three people with knowledge of the matter.",
       "link": "https://www.bloomberg.com/news/articles/2020-09-23/jpmorgan-is-set-to-pay-1-billion-in-record-spoofing-penalty"
     },
     {
@@ -486,7 +584,7 @@
       "title": "Unlimited Information Is Transforming Society",
       "source": "Scientific American",
       "date": "Sep 1, 2020",
-      "description": "Technology is blurring the lines between consumers and producers, amateurs and professionals, and laypeople and experts. We're just starting to understand the implications",
+      "description": "Technology is blurring the lines between consumers and producers, amateurs and professionals, and laypeople and experts. We&rsquo;re just starting to understand the implications",
       "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
     },
     {
@@ -607,104 +705,6 @@
       "date": "Sep 1, 2020",
       "description": "Note: This is the third part of a four-part series of essays looking in detail at China's role in the COVID-19 pandemic. Part One looked at the circumstances surrounding the initial outbreak; Part Two looked at the discovery of human-to-human transmission and the immediate response; this part invest…",
       "link": "https://quillette.com/2020/09/02/the-china-syndrome-part-iii-wet-markets-and-biolabs/"
-    },
-    {
-      "title": "Covid Is Accelerating a Global Censorship Crisis",
-      "source": "Wired",
-      "date": "Aug 30, 2020",
-      "description": "Autocracies and democracies alike are suppressing information within their borders, which will have global impacts on public health and security.",
-      "link": "https://www.wired.com/story/opinion-covid-is-accelerating-a-global-censorship-crisis/"
-    },
-    {
-      "title": "One Person Shot Dead in Portland Following Clashes Between Pro-Trump Supporters, Counterprotesters",
-      "source": "The Washington Post",
-      "date": "Aug 30, 2020",
-      "description": "The groups had earlier faced off along a highway on-ramp and on downtown city streets.",
-      "link": "https://www.washingtonpost.com/nation/2020/08/29/blm-activists-counterprotesters-clash-portland-leading-arrests/"
-    },
-    {
-      "title": "The China Syndrome Part I: Outbreak",
-      "source": "Quillette",
-      "date": "Aug 30, 2020",
-      "description": "Note: This is the first part of a four-part series of essays looking in detail at China's role in the COVID-19 pandemic. This part looks at the circumstances surrounding the initial outbreak; Part Two will look at the discovery of human-to-human transmission and the immediate response; Part Three wi…",
-      "link": "https://quillette.com/2020/08/24/the-china-syndrome-part-i-outbreak/"
-    },
-    {
-      "title": "Musk Says That Neuralink Implants Are Close to Ready for Human Testing",
-      "source": "Ars Technica",
-      "date": "Aug 29, 2020",
-      "description": "They're in pigs already, and the company is planning for human testing.",
-      "link": "https://arstechnica.com/science/2020/08/musk-says-that-neuralink-implants-are-close-to-ready-for-human-testing/"
-    },
-    {
-      "title": "The Social Fabric of the U.S. Is Fraying Severely, if Not Unravelling",
-      "source": "The Intercept",
-      "date": "Aug 28, 2020",
-      "description": "Why, in the world's richest country, is every metric of mental health pathology rapidly worsening?",
-      "link": "https://theintercept.com/2020/08/28/the-social-fabric-of-the-u-s-is-fraying-severely-if-not-unravelling/"
-    },
-    {
-      "title": "The China Syndrome Part II: Transmission and Response",
-      "source": "Quillette",
-      "date": "Aug 28, 2020",
-      "description": "Note: This is the second part of a four-part series of essays looking in detail at China's role in the COVID-19 pandemic. Part One looked at the circumstances surrounding the initial outbreak; this part looks at the discovery of human-to-human transmission and the immediate response; Part Three will…",
-      "link": "https://quillette.com/2020/08/29/the-china-syndrome-part-ii-transmission-and-response/"
-    },
-    {
-      "title": "Bill Gates' Nuclear Venture Plans Reactor to Complement Solar, Wind Power Boom",
-      "source": "Reuters",
-      "date": "Aug 27, 2020",
-      "description": "A nuclear energy venture founded by Bill Gates said Thursday it hopes to build small advanced nuclear power stations that can store electricity to supplement grids increasingly supplied by intermittent sources like solar and wind power.",
-      "link": "https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8"
-    },
-    {
-      "title": "Russian Tourist Offered Employee $1 Million to Cripple Tesla With Malware",
-      "source": "Ars Technica",
-      "date": "Aug 27, 2020",
-      "description": "'This was a serious attack,' Elon Musk says.",
-      "link": "https://arstechnica.com/information-technology/2020/08/russian-tourist-offered-employee-1-million-to-cripple-tesla-with-malware/"
-    },
-    {
-      "title": "China Secretly Built a Vast New Infrastructure to Imprison Muslims",
-      "source": "BuzzFeed News",
-      "date": "Aug 27, 2020",
-      "description": "China rounded up so many Muslims in Xinjiang that there wasn't enough space to hold them. Then the government started building.",
-      "link": "https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims"
-    },
-    {
-      "title": "Scientists Build Army of 1 Million Microrobots That Can Fit Inside a Hypodermic Needle",
-      "source": "CNET",
-      "date": "Aug 26, 2020",
-      "description": "Honey, I shrunk the robots.",
-      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
-    },
-    {
-      "title": "How the Sacklers Shifted $10.8 Billion of Their Opioid Fortune",
-      "source": "Bloomberg",
-      "date": "Aug 26, 2020",
-      "description": "This is where money from Purdue Pharma's flagship painkiller, OxyContin, flowed.",
-      "link": "https://www.bloomberg.com/graphics/2020-sackler-family-money/"
-    },
-    {
-      "title": "How Animal Activists Exposed the Brutality of Factory Farming",
-      "source": "Wired",
-      "date": "Aug 24, 2020",
-      "description": "In the second part of a Get WIRED series, we go inside one man's mission to bring to light one of factory farming's most notorious practices.",
-      "link": "https://www.wired.com/story/get-wired-podcast-6-ventilation-shutdown-factory-farms/"
-    },
-    {
-      "title": "International Scholars Must Resist the American Campaign to Inject Racial Tribalism Into Science",
-      "source": "Quillette",
-      "date": "Aug 24, 2020",
-      "description": "'Schœlcher n'est pas notre sauveur,' declared protestors who toppled statues on the French territory of Martinique earlier this year—'Schœlcher is not our savior.' The reference is to Victor Schœlcher, the 19th-century politician who's long been lauded for his role in abolishing slavery in France an…",
-      "link": "https://quillette.com/2020/08/21/international-scholars-must-resist-the-american-campaign-to-inject-racial-tribalism-into-science/"
-    },
-    {
-      "title": "U.S. National Debt Clock in Real Time",
-      "source": "U.S. National Debt Clock",
-      "date": "",
-      "description": "",
-      "link": "https://www.usdebtclock.org/"
     }
   ]
 }
