@@ -3,9 +3,128 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "10/25/2020, 12:15:06 PM",
-  "id": "PEG_5LLV7D5JP9j2CGQae",
+  "date": "10/28/2020, 1:17:28 PM",
+  "id": "Gq8hGs_hFeR5CrqtVwYsL",
   "articles": [
+    {
+      "title": "Spy Agency Ducks Questions About 'Back Doors' in Tech Products",
+      "source": "Reuters",
+      "date": "Oct 28, 2020",
+      "description": "The U.S. National Security Agency is rebuffing efforts by a leading Congressional critic to determine whether it is continuing to place so-called back doors into commercial technology products, in a controversial practice that critics say damages both U.S. industry and national...",
+      "link": "https://www.reuters.com/article/us-usa-security-congress-insight/spy-agency-ducks-questions-about-back-doors-in-tech-products-idUSKBN27D1CS"
+    },
+    {
+      "title": "Black Separatist Militia: 'If You Attack Us, We Will Kill You'",
+      "source": "Vice",
+      "date": "Oct 28, 2020",
+      "description": "The paramilitary group of at least a few thousand armed Black members describes itself as 'America's Black militia.'",
+      "link": "https://www.vice.com/en/article/3anz38/the-not-fucking-around-coalition-wants-to-protect-black-americans"
+    },
+    {
+      "title": "US Grid-Battery Costs Dropped 70% Over 3 Years",
+      "source": "Ars Technica",
+      "date": "Oct 27, 2020",
+      "description": "The EIA expects 6,900 megawatts of battery capacity in the next few years.",
+      "link": "https://arstechnica.com/science/2020/10/us-grid-battery-costs-dropped-70-over-3-years/"
+    },
+    {
+      "title": "10 Ways to Call Something Russian Disinformation Without Evidence",
+      "source": "Substack",
+      "date": "Oct 27, 2020",
+      "description": "The principles of American Newspeak, vol. 1",
+      "link": "https://taibbi.substack.com/p/10-ways-to-call-something-russian"
+    },
+    {
+      "title": "How Availability Cascades Are Shaping Our Politics",
+      "source": "Quillette",
+      "date": "Oct 27, 2020",
+      "description": "'When people are free to do as they please, they usually imitate each other.' – Eric Hoffer, 1955 We are the company we keep. Although our beliefs and actions are personal, they are often heavily a…",
+      "link": "https://quillette.com/2020/10/26/how-availability-cascades-are-shaping-our-politics/"
+    },
+    {
+      "title": "From 'Who Gets What?' to 'Who Are We?'",
+      "source": "Quillette",
+      "date": "Oct 27, 2020",
+      "description": "American politics can be conceptualized through two questions. The first is 'Who gets what?' and the second is 'Who are we?' Before and during the Cold War, the specter of f…",
+      "link": "https://quillette.com/2020/10/27/from-who-gets-what-to-who-are-we/"
+    },
+    {
+      "title": "Philadelphia Sees Second Night of Riots, Looting in Response to Police Shooting",
+      "source": "New York Post",
+      "date": "Oct 27, 2020",
+      "description": "Violent protests and widespread looting continued for a second night in Philadelphia on Tuesday in response to the fatal police shooting of a knife-wielding black man. The raucous night comes even …",
+      "link": "https://nypost.com/2020/10/27/philadelphia-sees-second-night-of-riots-and-looting-after-police-shooting/"
+    },
+    {
+      "title": "There May Be Far More Water on the Moon Than NASA Thought",
+      "source": "Wired",
+      "date": "Oct 26, 2020",
+      "description": "A new pair of studies reveals that the resource isn't limited to large shadowy craters. That's good news for the upcoming crewed missions.",
+      "link": "https://www.wired.com/story/there-may-be-far-more-water-on-the-moon-than-nasa-thought/"
+    },
+    {
+      "title": "New Nuclear Engine Concept Could Help Realize 3-Month Trips to Mars",
+      "source": "New Atlas",
+      "date": "Oct 26, 2020",
+      "description": "Seattle-based Ultra Safe Nuclear Technologies (USNC-Tech) has developed a concept for a new Nuclear Thermal Propulsion (NTP) engine and delivered it to NASA. Claimed to be safer and more reliable than previous NTP designs and with far greater efficiency than a chemical rocket, the concept could…",
+      "link": "https://newatlas.com/space/nuclear-thermal-propulsion-ntp-nasa-unsc-tech-deep-space-travel/"
+    },
+    {
+      "title": "Vaccine Hopes Rise as Oxford Jab Prompts Immune Response Among Old as Well as Young Adults",
+      "source": "Reuters",
+      "date": "Oct 26, 2020",
+      "description": "One of the world's leading COVID-19 experimental vaccines produces an immune response in both young and old adults, raising hopes of a path out of the gloom and economic destruction wrought by the novel coronavirus.",
+      "link": "https://www.reuters.com/article/us-health-coronavirus-astrazeneca-vaccin/oxford-covid-19-vaccine-prompts-immune-response-among-adults-old-and-young-astrazeneca-says-idUSKBN27B0IV"
+    },
+    {
+      "title": "The Russian Hackers Playing 'Chekhov's Gun' With US Infrastructure",
+      "source": "Wired",
+      "date": "Oct 26, 2020",
+      "description": "Berserk Bear has had plenty of opportunity to cause serious trouble. So why hasn't it yet?",
+      "link": "https://www.wired.com/story/berserk-bear-russia-infrastructure-hacking/"
+    },
+    {
+      "title": "Facebook and Twitter's Intervention Highlights Dangerous New Double Standard",
+      "source": "Substack",
+      "date": "Oct 17, 2020",
+      "description": "The decision to ban a New York Post expose about Hunter Biden flies in the face of years of 'hack and leak' stories",
+      "link": "https://taibbi.substack.com/p/facebook-and-twitters-intervention"
+    },
+    {
+      "title": "Revenge of the Money Launderers",
+      "source": "Substack",
+      "date": "Sep 25, 2020",
+      "description": "The 'FinCen files' story reveals: getting caught doesn't stop banks from taking dirty money. It may even encourage them",
+      "link": "https://taibbi.substack.com/p/revenge-of-the-money-launderers-b84"
+    },
+    {
+      "title": "With the Hunter Biden Expose, Suppression Is a Bigger Scandal Than the Actual Story",
+      "source": "Substack",
+      "date": "Sep 24, 2020",
+      "description": "Unprecedented efforts to squelch information about a New York Post story may prove to be more dangerous corruption than whatever Hunter Biden did with a crooked Ukrainian energy company",
+      "link": "https://taibbi.substack.com/p/with-the-hunter-biden-expose-suppression-136"
+    },
+    {
+      "title": "The Post-Objectivity Era",
+      "source": "Substack",
+      "date": "Sep 19, 2020",
+      "description": "Summary of 'Hate Inc: Why Today's Media Makes Us Despise One Another'",
+      "link": "https://taibbi.substack.com/p/the-post-objectivity-era-00f"
+    },
+    {
+      "title": "Don't Steal This Book",
+      "source": "Substack",
+      "date": "Sep 5, 2020",
+      "description": "On 'In Defense of Looting'",
+      "link": "https://taibbi.substack.com/p/dont-steal-this-book"
+    },
+    {
+      "title": "George Floyd Protesters Set Minneapolis Police Station Afire",
+      "source": "Associated Press",
+      "date": "May 28, 2020",
+      "description": "MINNEAPOLIS (AP) — Cheering protesters torched a Minneapolis police station Thursday that the department was forced to abandon as three days of violent protests spread to nearby St. Paul and angry...",
+      "link": "https://apnews.com/article/7013997bc5633f3113d65901ddb7e85e"
+    },
     {
       "title": "Physicists 3D Print a Boat That Could Sail Down a Human Hair",
       "source": "Gizmodo",
@@ -189,6 +308,13 @@
       "link": "https://earther.gizmodo.com/methane-emissions-are-up-even-though-natural-gas-demand-1845381857"
     },
     {
+      "title": "Room-Temperature Superconductivity Achieved for the First Time",
+      "source": "Quanta Magazine",
+      "date": "Oct 14, 2020",
+      "description": "Physicists have reached a long-sought goal. The catch is that their room-temperature superconductor requires crushing pressures to keep from falling apart.",
+      "link": "https://www.quantamagazine.org/physicists-discover-first-room-temperature-superconductor-20201014/"
+    },
+    {
       "title": "Fracking Is Elevating Levels of Radioactivity Downwind",
       "source": "Gizmodo",
       "date": "Oct 14, 2020",
@@ -367,7 +493,7 @@
       "title": "How Psilocybin Can Save the Environment",
       "source": "Nautilus",
       "date": "Sep 30, 2020",
-      "description": "Last week, biologist and writer Merlin Sheldrake introduced Nautilus readers to Paul Stamets, a mycologist who preaches that mushrooms&#8230;",
+      "description": "Last week, biologist and writer Merlin Sheldrake introduced Nautilus readers to Paul Stamets, a mycologist who preaches that mushrooms...",
       "link": "http://nautil.us/issue/90/something-green/how-psilocybin-can-save-the-environment"
     },
     {
@@ -437,7 +563,7 @@
       "title": "JPMorgan Is Set to Pay $1 Billion in Record Spoofing Penalty",
       "source": "Bloomberg",
       "date": "Sep 23, 2020",
-      "description": "JPMorgan Chase & Co. is poised to pay close to $1 billion to resolve market manipulation investigations by U.S. authorities into its trading of metals futures and Treasury securities, according to three people with knowledge of the matter.",
+      "description": "JPMorgan Chase and Co. is poised to pay close to $1 billion to resolve market manipulation investigations by U.S. authorities into its trading of metals futures and Treasury securities, according to three people with knowledge of the matter.",
       "link": "https://www.bloomberg.com/news/articles/2020-09-23/jpmorgan-is-set-to-pay-1-billion-in-record-spoofing-penalty"
     },
     {
@@ -579,125 +705,6 @@
       "date": "Sep 17, 2020",
       "description": "Report includes Jeff Bezos, whose personal fortune has risen by 65% since 18 March",
       "link": "https://www.theguardian.com/business/2020/sep/17/wealth-of-us-billionaires-rises-by-nearly-a-third-during-pandemic"
-    },
-    {
-      "title": "Facebook Accused of Watching Instagram Users Through Cameras",
-      "source": "Bloomberg",
-      "date": "Sep 17, 2020",
-      "description": "Facebook Inc. is again being sued for allegedly spying on Instagram users, this time through the unauthorized use of their mobile phone cameras.The lawsuit springs from media reports in July that the photo-sharing app appeared to be accessing iPhone cameras even when they weren’t actively being used.Facebook denied the reports and blamed a bug, which it said it was correcting, for triggering what it described as false notifications that Instagram was accessing iPhone cameras.",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-18/facebook-accused-of-watching-instagram-users-through-cameras"
-    },
-    {
-      "title": "Gas Companies Are Abandoning Their Wells, Leaving Them to Leak Methane Forever",
-      "source": "Bloomberg",
-      "date": "Sep 17, 2020",
-      "description": "Just one orphaned site in California could have emitted more than 30 tons of methane. There are millions more like it.",
-      "link": "https://www.bloomberg.com/news/features/2020-09-17/abandoned-gas-wells-are-left-to-spew-methane-for-eternity"
-    },
-    {
-      "title": "Humans Wiped Out Two-Thirds of the World's Wildlife in 50 Years",
-      "source": "Smithsonian Magazine",
-      "date": "Sep 16, 2020",
-      "description": "Threats to global biodiversity are also threats to humans, experts warn",
-      "link": "https://www.smithsonianmag.com/smart-news/humans-wiped-out-two-thirds-worlds-wildlife-50-years-180975824/"
-    },
-    {
-      "title": "Black Lives Matter and the Mechanics of Conformity",
-      "source": "Quillette",
-      "date": "Sep 17, 2020",
-      "description": "The death of George Floyd in May, circulated in a bystander's excruciating video clip, reignited furious and sometimes violent protests demanding reforms to address police brutality against ethnic minorities. According to the Center for Police Equity's 2016 report 'The Science of Justice,' black Ame…",
-      "link": "https://quillette.com/2020/09/17/black-lives-matter-and-the-mechanics-of-conformity/"
-    },
-    {
-      "title": "Birds 'Falling Out of the Sky' in Mass Die-Off in South-Western US",
-      "source": "The Guardian",
-      "date": "Sep 16, 2020",
-      "description": "Wildfires and climate crisis cited as possible causes for the deaths of thousands of migrating species heading south for the winter",
-      "link": "https://www.theguardian.com/environment/2020/sep/16/birds-falling-out-of-the-sky-in-mass-die-off-in-south-western-us-aoe"
-    },
-    {
-      "title": "Lessons of the Pinker Affair: The Problem With the Academy Is False Beliefs, Not Intolerance",
-      "source": "Quillette",
-      "date": "Sep 16, 2020",
-      "description": "Earlier this summer, over 600 signatories signed an open letter to the Linguistic Society of America (LSA), denouncing Steven Pinker for 'speaking over genuine grievances and downplaying injustices, frequently by misrepresenting facts, and at the exact moments when Black and Brown people are mobiliz…",
-      "link": "https://quillette.com/2020/09/16/lessons-of-the-pinker-affair-the-problem-with-the-academy-is-false-beliefs-not-intolerance/"
-    },
-    {
-      "title": "'I Have Blood on My Hands': A Whistleblower Says Facebook Ignored Global Political Manipulation",
-      "source": "BuzzFeed News",
-      "date": "Sep 15, 2020",
-      "description": "A 6,600-word internal memo from a fired Facebook data scientist details how the social network knew about specific examples of global political manipulation — and failed to act.",
-      "link": "https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo"
-    },
-    {
-      "title": "Scientists Found Phosphine on Venus—a Possible Hint of Life",
-      "source": "Wired",
-      "date": "Sep 14, 2020",
-      "description": "A simple molecule floating in Venus's atmosphere is now humans' best bet for finding companionship in the galaxy.",
-      "link": "https://www.wired.com/story/dr-phosphine-and-the-possibility-of-life-on-venus/"
-    },
-    {
-      "title": "The Arctic We Know Is Disappearing",
-      "source": "Gizmodo",
-      "date": "Sep 14, 2020",
-      "description": "There have been some pretty freaky things happening in the Arctic this year, with historic levels of ice melt, absurdly high temperatures, and wildfires in an area that's meant to be the definition of cold. New research by scientists at the National Center for Atmospheric Research (NCAR) shows that …",
-      "link": "https://earther.gizmodo.com/the-arctic-we-know-is-disappearing-1845049072"
-    },
-    {
-      "title": "Antarctic Glaciers Are Growing Unstable Above and Below Water",
-      "source": "Wired",
-      "date": "Sep 14, 2020",
-      "description": "New studies show fractures on surface ice and warm seawater melting the ice from underneath. That's a harbinger of a coming collapse—and sea level rise.",
-      "link": "https://www.wired.com/story/antarctic-glaciers-are-growing-unstable-above-and-below-water/"
-    },
-    {
-      "title": "Disposable Masks 'Causing Enormous Plastic Waste'",
-      "source": "BBC News",
-      "date": "Sep 13, 2020",
-      "description": "The government is urged to do more to get people to wear reusable, washable face coverings.",
-      "link": "https://www.bbc.com/news/uk-politics-54057799"
-    },
-    {
-      "title": "Health Officials Worldwide Are Receiving Death Threats Because of Their Work to Educate the Public and Stop the Spread of COVID-19",
-      "source": "Business Insider",
-      "date": "Sep 13, 2020",
-      "description": "At least 24 local and state public health officials in the US have quit or retired since the beginning of the pandemic in January.",
-      "link": "https://www.businessinsider.com/health-officials-worldwide-receive-death-threats-for-covid-19-response-2020-9"
-    },
-    {
-      "title": "Anti-Racist Structuralists and Non-Racist Culturalists",
-      "source": "Quillette",
-      "date": "Sep 13, 2020",
-      "description": "As the long hot summer of 2020 draws to a close, many Americans may feel as though they are living through an unraveling: an uncontrolled pandemic, collapsing faith in public institutions, apocalyptic rhetoric, violence and looting, and—if the rhetoricians of Black Lives Matter are to be believed—a …",
-      "link": "https://quillette.com/2020/09/13/anti-racist-structuralists-and-non-racist-culturalists/"
-    },
-    {
-      "title": "Why Online Voting Is Harder Than Online Banking",
-      "source": "Ars Technica",
-      "date": "Sep 12, 2020",
-      "description": "A common argument for online voting doesn't actually make sense.",
-      "link": "https://arstechnica.com/tech-policy/2020/09/why-online-voting-is-harder-than-online-banking/"
-    },
-    {
-      "title": "A Secret Recording Reveals Oil Executives' Private Views on Climate Change",
-      "source": "The New York Times",
-      "date": "Sep 12, 2020",
-      "description": "At a meeting last year, industry leaders contradicted public claims that emissions of climate-warming methane are under control",
-      "link": "https://www.nytimes.com/2020/09/12/climate/methane-natural-gas-flaring.html"
-    },
-    {
-      "title": "U.S. Budget Deficit Tops $3 Trillion With One Month Left in Fiscal 2020",
-      "source": "Reuters",
-      "date": "Sep 11, 2020",
-      "description": "The coronavirus pandemic has pushed the U.S. federal budget deficit above $3 trillion for the first 11 months of fiscal 2020, more than doubling the previous full-year record, the U.S. Treasury said on Friday.",
-      "link": "https://www.reuters.com/article/us-usa-economy-budget/us-fiscal-year-budget-deficit-tops-3-trillion-idUSKBN2622OR"
-    },
-    {
-      "title": "US Wildfires: At Least 20 Dead as California Governor Signs Bill Addressing Incarcerated Firefighters – as It Happened",
-      "source": "The Guardian",
-      "date": "Sep 11, 2020",
-      "description": "California fires have burned 3.1m acres this year as Oregon blazes displace hundreds of thousands – follow the latest updates live",
-      "link": "https://www.theguardian.com/us-news/live/2020/sep/11/fires-oregon-california-washington-wildfires-live-news-updates-today"
     }
   ]
 }
