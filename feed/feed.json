@@ -3,9 +3,100 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "11/4/2020, 9:29:29 AM",
-  "id": "YADeOLVevJQ70vd5C10WS",
+  "date": "11/8/2020, 8:56:36 AM",
+  "id": "OvbuUs_9oN0vj5R-0eNhP",
   "articles": [
+    {
+      "title": "Gender Activists Are Trying to Cancel My Book. Why Is Silicon Valley Helping Them?",
+      "source": "Quillette",
+      "date": "Nov 7, 2020",
+      "description": "The day after I tweeted about the ongoing attempts to block sales of my book, Irreversible Damage: The Transgender Craze Seducing Our Daughters, I was stuck on the phone with my parents' real estate agent. 'How's your book going?' she wanted to know. 'Is there a lot of controversy?' I know it's fash…",
+      "link": "https://quillette.com/2020/11/07/gender-activists-are-trying-to-cancel-my-book-why-is-silicon-valley-helping-them/"
+    },
+    {
+      "title": "The Batteries of the Future Are Weightless and Invisible",
+      "source": "Wired",
+      "date": "Nov 6, 2020",
+      "description": "There's a renaissance underway in structural battery research, which aims to build energy storage into the very devices and vehicles they power.",
+      "link": "https://www.wired.com/story/the-batteries-of-the-future-are-weightless-and-invisible/"
+    },
+    {
+      "title": "San Diego's Spying Streetlights Stuck Switched 'On,' Despite Directive",
+      "source": "Ars Technica",
+      "date": "Nov 6, 2020",
+      "description": "Sometimes, sharing a power supply is a little too efficient.",
+      "link": "https://arstechnica.com/tech-policy/2020/11/san-diegos-spying-streetlights-stuck-switched-on-despite-directive/"
+    },
+    {
+      "title": "US Government Continues Encryption War",
+      "source": "PrivacyTools",
+      "date": "Nov 6, 2020",
+      "description": "Wars can be fought in the real world but there is also a virtual battlefield - and it is just as harmful. The Lawful Access to Encrypted Data Act is the latest attempt to access people's encrypted data and it serves as another reinforcement. This type of 'warrant-proof' encryption adds",
+      "link": "https://blog.privacytools.io/us-government-continues-encryption-war/"
+    },
+    {
+      "title": "U.S. Breaks Covid-19 Record Again With Over 110,000 New Cases on Thursday",
+      "source": "Gizmodo",
+      "date": "Nov 6, 2020",
+      "description": "The U.S. has broken its own record for daily cases of covid-19, with 116,225 new cases on Thursday, according to the Covid Tracking Project, up from the previous record of 103,087 new cases on Wednesday. The country also identified 1,124 new deaths from coronavirus on Thursday, bringing the total to…",
+      "link": "https://gizmodo.com/u-s-breaks-covid-19-record-again-with-over-110-000-new-1845591670"
+    },
+    {
+      "title": "Voters Rejecting the War on Drugs Is a Win for Public Health",
+      "source": "Wired",
+      "date": "Nov 5, 2020",
+      "description": "On Tuesday, several states passed ballot measures to relax drug laws. That's not just a criminal justice victory.",
+      "link": "https://www.wired.com/story/drug-reform-votes-public-health/"
+    },
+    {
+      "title": "U.S. Breaks Record With Over 100,000 New Covid-19 Cases in Single Day",
+      "source": "Gizmodo",
+      "date": "Nov 5, 2020",
+      "description": "The U.S. recorded over 100,000 new cases of covid-19 on Wednesday, according to the Covid Tracking Project. The shockingly high daily case count is a grim milestone that public health experts warn may be surpassed in the coming days and weeks.",
+      "link": "https://gizmodo.com/u-s-breaks-record-with-over-100-000-new-covid-19-cases-1845579609"
+    },
+    {
+      "title": "Cannabis Legalization Measures Set to Pass in 5 States",
+      "source": "TechCrunch",
+      "date": "Nov 4, 2020",
+      "description": "Cannabis legalization was on five state ballots yesterday and ran the table. Voters in Oregon, where cannabis is already legal, also approved a measure addressing street drugs and another that sought to legalize psychedelic mushrooms' therapeutic use. Of the five states that voted on cannabis…",
+      "link": "https://techcrunch.com/2020/11/04/cannabis-legalization-measures-set-to-pass-in-5-states/"
+    },
+    {
+      "title": "Psilocybin Therapy 4 Times More Effective Than Antidepressants, Study Finds",
+      "source": "New Atlas",
+      "date": "Nov 4, 2020",
+      "description": "A new study is presenting the first published data from preliminary human trials investigating the effect of psilocybin-assisted psychotherapy to treat major depressive disorder (MDD). The incredibly positive results have been described as just a 'taste of things to come' with larger a Phase 2…",
+      "link": "https://newatlas.com/health-wellbeing/psilocybin-therapy-major-depression-trial-results-johns-hopkins/"
+    },
+    {
+      "title": "Tesla Project to Install Another Giant Battery in Australia",
+      "source": "Bloomberg",
+      "date": "Nov 4, 2020",
+      "description": "France's Neoen SA will partner with Tesla Inc. to install one of the world's biggest lithium-ion batteries in Australia after reaching a grid connection deal with the power market operator.",
+      "link": "https://www.bloomberg.com/news/articles/2020-11-05/tesla-project-will-install-another-giant-battery-in-australia"
+    },
+    {
+      "title": "23,600 Hacked Databases Have Leaked From a Defunct 'Data Breach Index' Site",
+      "source": "ZDNet",
+      "date": "Nov 4, 2020",
+      "description": "Site archive of Cit0day.in has now leaked on two hacking forums after the service shut down in September.",
+      "link": "https://www.zdnet.com/article/23600-hacked-databases-have-leaked-from-a-defunct-data-breach-index-site/"
+    },
+    {
+      "title": "Treat Artificial Light Like Other Forms of Pollution, Say Scientists",
+      "source": "The Guardian",
+      "date": "Nov 3, 2020",
+      "description": "Impact of human illumination has grown to point of systemic disruption, researchers find",
+      "link": "https://www.theguardian.com/environment/2020/nov/02/treat-artificial-light-form-pollution-environment"
+    },
+    {
+      "title": "My Resignation From the Intercept",
+      "source": "Substack",
+      "date": "Oct 29, 2020",
+      "description": "The same trends of repression, censorship and ideological homogeneity plaguing the national press generally have engulfed the media outlet I co-founded, culminating in censorship of my own articles.",
+      "link": "https://greenwald.substack.com/p/my-resignation-from-the-intercept"
+    },
     {
       "title": "For Five Months, BLM Protestors Trashed America's Cities. After the Election, Things May Only Get Worse",
       "source": "Quillette",
@@ -17,7 +108,7 @@
       "title": "U.S. Exits Paris Climate Accord After Trump Stalls Global Warming Action for Four Years",
       "source": "Scientific American",
       "date": "Nov 4, 2020",
-      "description": "State-level efforts and a growing renewables market have mitigated federal emissions policy rollbacks&mdash;but Trump&rsquo;s climate impact could be long-lasting",
+      "description": "State-level efforts and a growing renewables market have mitigated federal emissions policy rollbacks - but Trump's climate impact could be long-lasting",
       "link": "https://www.scientificamerican.com/article/u-s-exits-paris-climate-accord-after-trump-stalls-global-warming-action-for-four-years/"
     },
     {
@@ -614,97 +705,6 @@
       "date": "Oct 6, 2020",
       "description": "The IRS used smartphone location data from a contractor to try to track Americans without a warrant.",
       "link": "https://www.vice.com/en/article/qj479d/irs-investigation-location-data-no-warrant-venntel"
-    },
-    {
-      "title": "Exxon's Plan for Surging Carbon Emissions Revealed in Leaked Documents",
-      "source": "Bloomberg",
-      "date": "Oct 5, 2020",
-      "description": "Internal projections from one of world’s largest oil producers show an increase in its enormous contribution to global warming.",
-      "link": "https://www.bloomberg.com/news/articles/2020-10-05/exxon-carbon-emissions-and-climate-leaked-plans-reveal-rising-co2-output"
-    },
-    {
-      "title": "State Sanctioned Secrecy: NSA's Criminality Shield",
-      "source": "The Hill",
-      "date": "Sep 11, 2020",
-      "description": "Americans should not have to rely on whistleblowers to reveal our government is targeting us for unconstitutional surveillance behind a shield of secrecy. Nor should executive branch bureaucrats be able to conceal their misconduct behind false claims that exposing their ineptitude or criminality wou…",
-      "link": "https://thehill.com/blogs/congress-blog/politics/516064-state-sanctioned-secrecy-nsas-criminality-shield"
-    },
-    {
-      "title": "Why Humanity Destroyed Itself",
-      "source": "YouTube",
-      "date": "Feb 5, 2017",
-      "description": "The real reason we may destroy ourselves isn't really to do with politics or economics or even warfare. It has to do with our minds.",
-      "link": "https://www.youtube.com/watch?v=Yk3QsGzAjKI"
-    },
-    {
-      "title": "California Fires Set Bleak Record as 4m Acres Destroyed",
-      "source": "The Guardian",
-      "date": "Oct 5, 2020",
-      "description": "Four million figure double the previous record for most land burned as officials warn that season is 'far from over and fire potential remains high'",
-      "link": "https://www.theguardian.com/us-news/2020/oct/05/california-fires-4m-acres-wildfires-burn"
-    },
-    {
-      "title": "Greenland Melting Fastest Any Time in Last 12,000 Years",
-      "source": "Scientific American",
-      "date": "Oct 3, 2020",
-      "description": "Researchers determined that Greenland is on track to lose more ice this century than during any of the previous 120 centuries. Christopher Intagliata reports.",
-      "link": "https://www.scientificamerican.com/podcast/episode/greenland-melting-fastest-any-time-in-last-12-000-years/"
-    },
-    {
-      "title": "Weaponizing Words: Language and Oppression",
-      "source": "Quillette",
-      "date": "Oct 3, 2020",
-      "description": "An article in Tablet magazine last month by Paul Berman, 'Lynching and Liberalism,' paints the gloomy history of coercion from the Stalinist excesses of many radicals in the 1930s down to the blowback against the recent Harper's 'Letter on Justice and Open Debate.' In discussing the 'New Left' and '…",
-      "link": "https://quillette.com/2020/10/02/weaponizing-words-language-and-oppression/"
-    },
-    {
-      "title": "Russian State Hackers Appear to Have Breached a Federal Agency",
-      "source": "Engadget",
-      "date": "Oct 3, 2020",
-      "description": "Evidence suggests Russia's state-backed Fancy Bear group was behind a hack targeting a US federal agency.",
-      "link": "https://www.engadget.com/russia-fancy-bear-reportedly-hacked-us-agency-213304085.html"
-    },
-    {
-      "title": "The Misguided Campaign Against Journalistic Objectivity",
-      "source": "Quillette",
-      "date": "Oct 2, 2020",
-      "description": "Locked down in a northern Ontario cottage over the summer, I found myself listening to CBC Radio's Sunday Edition, an eclectic three-hour weekly morning show hosted, until his recent retirement, by veteran journalist and broadcaster Michael Enright. On this particular Sunday in July, guest host Anth…",
-      "link": "https://quillette.com/2020/10/01/the-misguided-campaign-against-journalistic-objectivity/"
-    },
-    {
-      "title": "Trump Likely Had the Virus During the Debate, According to Medical Experts",
-      "source": "Business Insider",
-      "date": "Oct 2, 2020",
-      "description": "A massive contact tracing effort is under way to determine when Trump and aides were contagious, raising startling questions about the debate.",
-      "link": "https://www.businessinsider.com/trump-likely-had-the-virus-during-the-debate-medical-experts-2020-10"
-    },
-    {
-      "title": "New 'Forever Chemicals' Contaminating the Environment, Regulators Say",
-      "source": "The Guardian",
-      "date": "Oct 1, 2020",
-      "description": "Efforts in the US to oversee one PFAS compound from chemical company Solvay illustrate the challenges officials face",
-      "link": "https://www.theguardian.com/us-news/2020/oct/01/new-forever-chemicals-contaminating-environment-regulators-say"
-    },
-    {
-      "title": "The West's Infernos Are Melting Our Sense of How Fire Works",
-      "source": "Wired",
-      "date": "Sep 30, 2020",
-      "description": "42,000-foot plumes of ash. 143-mph firenadoes. 1,500-degree heat. These wildfires are a new kind of hell on earth, and scientists are racing to learn its rules.",
-      "link": "https://www.wired.com/story/west-coast-california-wildfire-infernos/"
-    },
-    {
-      "title": "How Psilocybin Can Save the Environment",
-      "source": "Nautilus",
-      "date": "Sep 30, 2020",
-      "description": "Last week, biologist and writer Merlin Sheldrake introduced Nautilus readers to Paul Stamets, a mycologist who preaches that mushrooms...",
-      "link": "http://nautil.us/issue/90/something-green/how-psilocybin-can-save-the-environment"
-    },
-    {
-      "title": "Radicalized Antiracism on Campus—as Seen From the Computer Lab",
-      "source": "Quillette",
-      "date": "Sep 30, 2020",
-      "description": "The campus battle over what I've previously called the equity agenda has recently shifted almost completely from a focus on gender to a focus on race. This has been accompanied by a series of surreal spectacles at the University of Washington in Seattle, where I teach. In the aftermath of the George…",
-      "link": "https://quillette.com/2020/09/29/radicalized-antiracism-on-campus-as-seen-from-the-computer-lab/"
     }
   ]
 }
