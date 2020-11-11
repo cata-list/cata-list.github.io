@@ -3,10 +3,73 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>OvbuUs_9oN0vj5R-0eNhP</id>
+		<id>6gYNaI6cIkfpj_4NjOxW9</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Sun Nov 08 2020 08:56:36 GMT-0800 (Pacific Standard Time)</lastBuildDate>
+		<lastBuildDate>Wed Nov 11 2020 09:33:51 GMT-0800 (Pacific Standard Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>U.S. Reports More Than 100,000 COVID-19 Cases for Seventh Day in a Row</title>
+			<source>Reuters</source>
+			<pubDate>Nov 10, 2020</pubDate>
+			<description><![CDATA[The United States reported a record number of new COVID-19 cases for the seventh day in a row on Tuesday, according to a Reuters tally, while the number of deaths surged to their highest daily count since August.]]></description>
+			<link>https://www.reuters.com/article/us-health-coronavirus-usa-cases/u-s-reports-more-than-100000-covid-19-cases-for-seventh-day-in-a-row-idUSKBN27R09T</link>
+		</item>
+		<item>
+			<title>One in Five COVID-19 Patients Develop Mental Illness Within 90 Days - Study</title>
+			<source>Reuters</source>
+			<pubDate>Nov 10, 2020</pubDate>
+			<description><![CDATA[Many COVID-19 survivors are likely to be at greater risk of developing mental illness, psychiatrists said on Monday, after a large study found 20% of those infected with the coronavirus are diagnosed with a psychiatric disorder within 90 days.]]></description>
+			<link>https://www.reuters.com/article/health-coronavirus-mental-illness-int-idUSKBN27P35N</link>
+		</item>
+		<item>
+			<title>The Latest Covid Vaccine Results, Deciphered</title>
+			<source>Wired</source>
+			<pubDate>Nov 10, 2020</pubDate>
+			<description><![CDATA[Reporting on the big announcement from Pfizer and BioNTech has been a little off the mark. Here's what we really know right now.]]></description>
+			<link>https://www.wired.com/story/the-latest-covid-vaccine-results-deciphered/</link>
+		</item>
+		<item>
+			<title>Secular Modernity Under Theocratic Assault</title>
+			<source>Quillette</source>
+			<pubDate>Nov 10, 2020</pubDate>
+			<description><![CDATA[Professor Leszek Kołakowski, one of the great Polish intellectual dissidents from the Stalinist period, liked to say that when he debated with apologists for the system, he often found himself almost on the losing side. Kołakowski hastened to add that this fact did not owe to the superior arguments …]]></description>
+			<link>https://quillette.com/2020/11/11/secular-modernity-under-theocratic-assault/</link>
+		</item>
+		<item>
+			<title>Everything You Need to Know About Energy</title>
+			<source>Wired</source>
+			<pubDate>Nov 10, 2020</pubDate>
+			<description><![CDATA[We'll talk about the different types—kinetic energy, electrical potential energy, etc.—and different sources, from fossil fuels to solar.]]></description>
+			<link>https://www.wired.com/story/everything-you-need-to-know-about-energy/</link>
+		</item>
+		<item>
+			<title>Renewable Power Represents Almost 90% of Total Global Power Capacity Added in 2020</title>
+			<source>TechCrunch</source>
+			<pubDate>Nov 10, 2020</pubDate>
+			<description><![CDATA[Bucking the slowdown in most of the power sector caused by responses to the COVID-19 pandemic, renewable energy actually grew in 2020, and will represent about 90% of the total power capacity added for the year, according to the International Energy Agency. A surge in new projects from China and th…]]></description>
+			<link>https://techcrunch.com/2020/11/10/renewable-power-represents-almost-90-of-total-global-power-capacity-added-in-2020/</link>
+		</item>
+		<item>
+			<title>America Has Serious Problems. It's Time to Stop Blaming Them on 'Trumpism'</title>
+			<source>Quillette</source>
+			<pubDate>Nov 10, 2020</pubDate>
+			<description><![CDATA[Donald Trump may have been defeated in his quest for re-election. But not so the shadowy ideology he supposedly champions. 'Even in defeat, the embers of Trumpism still burn in the Republican Party,' declares the Washington Post. 'Trumpism wasn't repudiated,' warns a New York Times columnist. 'Trump…]]></description>
+			<link>https://quillette.com/2020/11/09/america-has-serious-problems-its-time-to-stop-blaming-them-on-trumpism/</link>
+		</item>
+		<item>
+			<title>U.S. Crosses 10 Million COVID-19 Cases as Third Wave of Infections Surges</title>
+			<source>Reuters</source>
+			<pubDate>Nov 9, 2020</pubDate>
+			<description><![CDATA[The United States became the first nation worldwide since the pandemic began to surpass 10 million coronavirus infections, according to a Reuters tally on Sunday, as the third wave of the COVID-19 virus surges across the nation.]]></description>
+			<link>https://www.reuters.com/article/BigStory12/idUSKBN27P00U</link>
+		</item>
+		<item>
+			<title>Big Banks Are at the Front & Center of Money Laundering of Over $2 Trillion</title>
+			<source>Medium</source>
+			<pubDate>Sep 21, 2020</pubDate>
+			<description><![CDATA[International Consortium of Investigative Journalists (ICIJ) has exposed a multi-trillion dollar money laundering scandal]]></description>
+			<link>https://medium.com/technicity/big-banks-are-at-the-front-center-of-money-laundering-of-over-2-trillion-299feea4c58e</link>
+		</item>
 		<item>
 			<title>Gender Activists Are Trying to Cancel My Book. Why Is Silicon Valley Helping Them?</title>
 			<source>Quillette</source>
@@ -643,69 +706,6 @@
 			<pubDate>Oct 13, 2020</pubDate>
 			<description><![CDATA[Every type of coral has declined since 1995 because of climate change, an Australian study finds.]]></description>
 			<link>https://www.bbc.com/news/world-australia-54533971</link>
-		</item>
-		<item>
-			<title>Engineering a Battery Fast Enough to Make Recharging Like Refueling</title>
-			<source>Ars Technica</source>
-			<pubDate>Oct 11, 2020</pubDate>
-			<description><![CDATA[The structure of black phosphorus naturally makes channels to let lithium in.]]></description>
-			<link>https://arstechnica.com/science/2020/10/engineering-a-battery-fast-enough-to-make-recharging-like-refueling/</link>
-		</item>
-		<item>
-			<title>'Real and Imminent' Extinction Risk to Whales</title>
-			<source>BBC News</source>
-			<pubDate>Oct 10, 2020</pubDate>
-			<description><![CDATA[A letter signed by hundreds of scientists calls for global action to protect whales, dolphins and porpoises.]]></description>
-			<link>https://www.bbc.com/news/science-environment-54485407</link>
-		</item>
-		<item>
-			<title>For Some Adjunct Professors, It's Speak Your Mind Versus Keep Your Job</title>
-			<source>Quillette</source>
-			<pubDate>Oct 9, 2020</pubDate>
-			<description><![CDATA[The issue of academic freedom is particularly tenuous for the growing number of college teachers who hold positions that are neither tenured nor on the tenure track. Various titles are used to desc…]]></description>
-			<link>https://quillette.com/2020/10/08/for-some-adjunct-professors-its-speak-your-mind-versus-keep-your-job/</link>
-		</item>
-		<item>
-			<title>Computers Aboard Airliners Vulnerable to Hacking, Watchdog Says</title>
-			<source>Bloomberg</source>
-			<pubDate>Oct 9, 2020</pubDate>
-			<description><![CDATA[Airliners carry a variety of computer systems that could become vulnerable to hackers and U.S. regulators haven't imposed adequate counter measures, a government watchdog report concluded.]]></description>
-			<link>https://www.bloomberg.com/news/articles/2020-10-09/computers-aboard-airliners-vulnerable-to-hacking-watchdog-says</link>
-		</item>
-		<item>
-			<title>'World's Fastest Electrodes' Triple the Density of Lithium Batteries</title>
-			<source>New Atlas</source>
-			<pubDate>Oct 8, 2020</pubDate>
-			<description><![CDATA[French company Nawa technologies says it's already in production on a new electrode design that can radically boost the performance of existing and future battery chemistries, delivering up to 3x the energy density, 10x the power, vastly faster charging and battery lifespans up to five times as…]]></description>
-			<link>https://newatlas.com/energy/nawa-vertically-aligned-carbon-nanotube-electrode/</link>
-		</item>
-		<item>
-			<title>Recycling Was a Lie — a Big Lie — to Sell More Plastic, Industry Experts Say</title>
-			<source>CBC</source>
-			<pubDate>Oct 8, 2020</pubDate>
-			<description><![CDATA[Less than 10 per cent of the plastics we've used have been recycled. A new documentary reveals why]]></description>
-			<link>https://www.cbc.ca/documentaries/the-passionate-eye/recycling-was-a-lie-a-big-lie-to-sell-more-plastic-industry-experts-say-1.5735618</link>
-		</item>
-		<item>
-			<title>The Unprecedented and Illegal Campaign to Eliminate Julian Assange</title>
-			<source>The Intercept</source>
-			<pubDate>Oct 6, 2020</pubDate>
-			<description><![CDATA[Assange would never receive a fair trial in the U.S., but he's not receiving one in Britain either.]]></description>
-			<link>https://theintercept.com/2020/10/06/julian-assange-trial-extradition/</link>
-		</item>
-		<item>
-			<title>Orders From the Top: The EU's Timetable for Dismantling End-to-End Encryption</title>
-			<source>Electronic Frontier Foundation</source>
-			<pubDate>Oct 6, 2020</pubDate>
-			<description><![CDATA[The last few months have seen a steady stream of proposals, encouraged by the advocacy of the FBI and Department of Justice, to provide 'lawful access' to end-to-end encrypted services in the United States. Now lobbying has moved from the U.S., where Congress has been largely paralyzed by the...]]></description>
-			<link>https://www.eff.org/deeplinks/2020/10/orders-top-eus-timetable-dismantling-end-end-encryption</link>
-		</item>
-		<item>
-			<title>The IRS Is Being Investigated for Using Location Data Without a Warrant</title>
-			<source>Vice</source>
-			<pubDate>Oct 6, 2020</pubDate>
-			<description><![CDATA[The IRS used smartphone location data from a contractor to try to track Americans without a warrant.]]></description>
-			<link>https://www.vice.com/en/article/qj479d/irs-investigation-location-data-no-warrant-venntel</link>
 		</item>
 	</channel>
 </rss>
