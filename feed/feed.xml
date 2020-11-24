@@ -3,10 +3,80 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>hpPaw8zctwH2LImwycEMs</id>
+		<id>a0_-C45UHgmJ0qyhLfzC5</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Sat Nov 21 2020 21:56:51 GMT-0800 (Pacific Standard Time)</lastBuildDate>
+		<lastBuildDate>Tue Nov 24 2020 08:53:42 GMT-0800 (Pacific Standard Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Why Is Scientific Illiteracy So Acceptable?</title>
+			<source>Quillette</source>
+			<pubDate>Nov 23, 2020</pubDate>
+			<description><![CDATA[In the mid-1980s, when I taught a Physics for Poets class at Yale University, I was dumbstruck when I gave the students a quiz problem to estimate the total amount of water flushed in all the toilets in the US in one 24-hour period and I started to grade the quiz. In order to estimate this, you have…]]></description>
+			<link>https://quillette.com/2020/11/23/why-is-scientific-illiteracy-so-acceptable/</link>
+		</item>
+		<item>
+			<title>Retracting a Controversial Paper Won't Help Female Scientists</title>
+			<source>Quillette</source>
+			<pubDate>Nov 23, 2020</pubDate>
+			<description><![CDATA[Imagine yourself as a newly hired female assistant professor and the delight you feel when you learn that your article, examining over 222 million academic papers, has just been accepted at one of the top science journals. Now imagine your response when you discover that a fellow female academic is …]]></description>
+			<link>https://quillette.com/2020/11/23/retracting-a-controversial-paper-wont-help-female-scientists/</link>
+		</item>
+		<item>
+			<title>This Squishy 3D-Printed Human Heart Feels Like the Real Thing</title>
+			<source>Wired</source>
+			<pubDate>Nov 23, 2020</pubDate>
+			<description><![CDATA[A clever technique allows scientists to scan a heart and reconstruct it in a soup of gelatin. It's like making jello, only way more useful for surgeons.]]></description>
+			<link>https://www.wired.com/story/3d-printed-human-heart-feels-like-the-real-thing/</link>
+		</item>
+		<item>
+			<title>Psilocybin &amp; Migraine: First of Its Kind Trial Reports Promising Results</title>
+			<source>New Atlas</source>
+			<pubDate>Nov 22, 2020</pubDate>
+			<description><![CDATA[A first-of-its-kind exploratory study, led by researchers from Yale School of Medicine, has found a single dose of the psychedelic psilocybin can reduce migraine frequency by 50 percent for a least two weeks. The preliminary trial was small, with follow-up work necessary to validate the results,…]]></description>
+			<link>https://newatlas.com/health-wellbeing/psilocybin-migraine-psychedelic-clinical-trial-promising-results/</link>
+		</item>
+		<item>
+			<title>The Fragility of Modern Education in the Time of COVID-19</title>
+			<source>Quillette</source>
+			<pubDate>Nov 22, 2020</pubDate>
+			<description><![CDATA[Modern education is arguably the most massive feat of social engineering ever attempted by humanity and one of the most important, when effective. Academic competencies at the end of schooling can have life-long influences on employability, wages, and the ability to advance in one's career.1,2,3,4 T…]]></description>
+			<link>https://quillette.com/2020/11/22/the-fragility-of-modern-education-in-the-time-of-covid/</link>
+		</item>
+		<item>
+			<title>Kin, Tribes, and the Dark Side of Identity</title>
+			<source>Quillette</source>
+			<pubDate>Nov 22, 2020</pubDate>
+			<description><![CDATA['We should poison their water holes!' This was the first thing my father said when I called him after planes hit the World Trade Center where I worked. My dad was a 1960s cultural liberal and pacifist, who had opposed every war our country had fought. The moment he felt that my life was in danger, h…]]></description>
+			<link>https://quillette.com/2020/11/22/kin-tribes-and-the-dark-side-of-identity/</link>
+		</item>
+		<item>
+			<title>Does Racism Explain Black Disadvantage?</title>
+			<source>Quillette</source>
+			<pubDate>Nov 22, 2020</pubDate>
+			<description><![CDATA[A foundational tenet of the Black Lives Matter and similar racial justice movements is that gaps between blacks and whites on many socio-economic measures are produced primarily by racism. Racial inequalities in educational attainment, financial success, social status, crime, and health are thereby …]]></description>
+			<link>https://quillette.com/2020/11/15/does-racism-explain-black-disadvantage/</link>
+		</item>
+		<item>
+			<title>Joe Biden's Silence on Ending the Drone Wars</title>
+			<source>The Intercept</source>
+			<pubDate>Nov 22, 2020</pubDate>
+			<description><![CDATA[With scant comments about U.S. assassination programs, there are indications that Biden would keep the drone wars around.]]></description>
+			<link>https://theintercept.com/2020/11/22/biden-drones-endless-wars/</link>
+		</item>
+		<item>
+			<title>What if Instead of Calling People Out, We Called Them In?</title>
+			<source>The New York Times</source>
+			<pubDate>Nov 19, 2020</pubDate>
+			<description><![CDATA[Prof. Loretta J. Ross is combating cancel culture with a popular class at Smith College.]]></description>
+			<link>https://www.nytimes.com/2020/11/19/style/loretta-ross-smith-college-cancel-culture.html</link>
+		</item>
+		<item>
+			<title>Police in Mississippi to Pilot a Program to Live-Stream Amazon Ring Cameras</title>
+			<source>Mozilla Foundation</source>
+			<pubDate>Nov 19, 2020</pubDate>
+			<description><![CDATA[The police surveillance center in Jackson, Mississippi, will be conducting a 45-day pilot program to live stream the security cameras, including Amazon Ring cameras, of participating residents.]]></description>
+			<link>https://foundation.mozilla.org/en/blog/police-mississippi-pilot-program-live-stream-amazon-ring-cameras/</link>
+		</item>
 		<item>
 			<title>Robots Invade the Construction Site</title>
 			<source>Wired</source>
@@ -636,76 +706,6 @@
 			<pubDate>Sep 24, 2020</pubDate>
 			<description><![CDATA[Unprecedented efforts to squelch information about a New York Post story may prove to be more dangerous corruption than whatever Hunter Biden did with a crooked Ukrainian energy company]]></description>
 			<link>https://taibbi.substack.com/p/with-the-hunter-biden-expose-suppression-136</link>
-		</item>
-		<item>
-			<title>The Post-Objectivity Era</title>
-			<source>Substack</source>
-			<pubDate>Sep 19, 2020</pubDate>
-			<description><![CDATA[Summary of 'Hate Inc: Why Today's Media Makes Us Despise One Another']]></description>
-			<link>https://taibbi.substack.com/p/the-post-objectivity-era-00f</link>
-		</item>
-		<item>
-			<title>Don't Steal This Book</title>
-			<source>Substack</source>
-			<pubDate>Sep 5, 2020</pubDate>
-			<description><![CDATA[On 'In Defense of Looting']]></description>
-			<link>https://taibbi.substack.com/p/dont-steal-this-book</link>
-		</item>
-		<item>
-			<title>George Floyd Protesters Set Minneapolis Police Station Afire</title>
-			<source>Associated Press</source>
-			<pubDate>May 28, 2020</pubDate>
-			<description><![CDATA[MINNEAPOLIS (AP) — Cheering protesters torched a Minneapolis police station Thursday that the department was forced to abandon as three days of violent protests spread to nearby St. Paul and angry...]]></description>
-			<link>https://apnews.com/article/7013997bc5633f3113d65901ddb7e85e</link>
-		</item>
-		<item>
-			<title>Physicists 3D Print a Boat That Could Sail Down a Human Hair</title>
-			<source>Gizmodo</source>
-			<pubDate>Oct 25, 2020</pubDate>
-			<description><![CDATA[Researchers at Leiden University have 3D printed the smallest boat in the world: a 30-micrometer copy of Benchy the tug boat, a well-known 3D printer test object. This boat is so small, it could float down the interior of a human hair.]]></description>
-			<link>https://gizmodo.com/physicists-3d-print-a-boat-that-could-sail-down-a-human-1845466040</link>
-		</item>
-		<item>
-			<title>Scientists Discover the First Room-Temperature Superconductor</title>
-			<source>Wired</source>
-			<pubDate>Oct 25, 2020</pubDate>
-			<description><![CDATA[Physicists finally achieved the long-sought goal, but there's a catch: Their compound requires crushing pressures to keep from falling apart.]]></description>
-			<link>https://www.wired.com/story/scientists-discover-the-first-room-temperature-superconductor/</link>
-		</item>
-		<item>
-			<title>Reflections on Solzhenitsyn's Harvard Address</title>
-			<source>Quillette</source>
-			<pubDate>Oct 25, 2020</pubDate>
-			<description><![CDATA[In his 1978 Harvard commencement address, A World Split Apart, Aleksandr Solzhenitsyn, a fierce enemy of the Soviet system, delivered a forceful and insightful critique of the West, a society which…]]></description>
-			<link>https://quillette.com/2020/10/24/reflections-on-solzhenitsyns-harvard-address/</link>
-		</item>
-		<item>
-			<title>My Week With the Baying Antifa Mob</title>
-			<source>The Spectator</source>
-			<pubDate>Oct 24, 2020</pubDate>
-			<description><![CDATA[In the days when you could still watch a nature documentary without feeling as if you were sitting through a politics lecture I saw footage of a pack of smaller predators taking down an elephant. At the time I remember thinking: 'Why don't you keep running? Why don't you knock t…]]></description>
-			<link>https://www.spectator.co.uk/article/my-week-with-the-baying-antifa-mob</link>
-		</item>
-		<item>
-			<title>What Divides Us Is Class, Not Race</title>
-			<source>Quillette</source>
-			<pubDate>Oct 23, 2020</pubDate>
-			<description><![CDATA[Black lives matter. It's become a rallying cry for those seeking social and racial justice. These three words express the idea, symbolized by the death of George Floyd, that race defines the fault …]]></description>
-			<link>https://quillette.com/2020/10/24/what-divides-us-is-class-not-race/</link>
-		</item>
-		<item>
-			<title>Cancel Culture Has Captured Campus</title>
-			<source>UnHerd</source>
-			<pubDate>Oct 23, 2020</pubDate>
-			<description><![CDATA[The philosophical origins of the Woke ideology are analysed in two new books]]></description>
-			<link>https://unherd.com/2020/10/how-cancel-culture-captured-campus/</link>
-		</item>
-		<item>
-			<title>Russians Who Pose Election Threat Have Hacked Nuclear Plants and Power Grid</title>
-			<source>The New York Times</source>
-			<pubDate>Oct 23, 2020</pubDate>
-			<description><![CDATA[The hacking group, Energetic Bear, is among Russia's stealthiest. It appears to be casting a wide net to find useful targets ahead of the election, experts said.]]></description>
-			<link>https://www.nytimes.com/2020/10/23/us/politics/energetic-bear-russian-hackers.html</link>
 		</item>
 	</channel>
 </rss>
