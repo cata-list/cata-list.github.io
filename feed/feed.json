@@ -3,9 +3,128 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "11/24/2020, 8:53:42 AM",
-  "id": "a0_-C45UHgmJ0qyhLfzC5",
+  "date": "11/27/2020, 10:59:56 AM",
+  "id": "VGs7zyj9a8LejpiJZJOng",
   "articles": [
+    {
+      "title": "Jordan Peterson v the Crybullies",
+      "source": "UnHerd",
+      "date": "Nov 27, 2020",
+      "description": "The reaction to the 12 Rules for Life sequel shows an infantile intolerance",
+      "link": "https://unherd.com/2020/11/jordan-peterson-v-the-crybullies/"
+    },
+    {
+      "title": "As Cities Curb Surveillance, Baltimore Police Took to the Air",
+      "source": "Wired",
+      "date": "Nov 27, 2020",
+      "description": "In a program that overcame three court challenges this year, planes with high-tech cameras circled the city up to 40 hours a week.",
+      "link": "https://www.wired.com/story/cities-curb-surveillance-baltimore-police-took-air/"
+    },
+    {
+      "title": "Microsoft's New 'Productivity Score' Gamifies Workplace Surveillance",
+      "source": "Gizmodo",
+      "date": "Nov 26, 2020",
+      "description": "The company's newest feature is facing heavy criticism for allowing bosses to track how their employees use Microsoft's suite of tools, such as how frequently they send emails, collaborate in shared documents, or have their camera on during virtual meetings.",
+      "link": "https://gizmodo.com/microsofts-creepy-new-productivity-score-gamifies-workp-1845763063"
+    },
+    {
+      "title": "The Ethics of Rebooting the Dead",
+      "source": "Wired",
+      "date": "Nov 26, 2020",
+      "description": "The notion of resurrecting people as digital entities is becoming less hypothetical. But just because something can be done, doesn't always mean it should.",
+      "link": "https://www.wired.com/story/ethics-reviving-dead-with-tech/"
+    },
+    {
+      "title": "How the Criminal Justice System Fails People With Mental Illness",
+      "source": "The Intercept",
+      "date": "Nov 26, 2020",
+      "description": "'I found your baby,' Michelle Durden recalls the police officer saying after her son went missing. 'He's alive. And he's in jail.'",
+      "link": "https://theintercept.com/2020/11/26/mental-illness-prison-jail-police/"
+    },
+    {
+      "title": "Contaminants in New Jersey Soil and Water Are Toxic, Documents Reveal",
+      "source": "The Intercept",
+      "date": "Nov 25, 2020",
+      "description": "Solvay had previously withheld information about the PFAS chemicals on the grounds that it was 'confidential business information.'",
+      "link": "https://theintercept.com/2020/11/25/solvay-new-jersey-pfas-documents/"
+    },
+    {
+      "title": "Illegal Tampering by Diesel Pickup Owners Is Worsening Pollution, E.P.A. Says",
+      "source": "The New York Times",
+      "date": "Nov 25, 2020",
+      "description": "An E.P.A. investigation has found that the owners of more than half a million diesel pickup trucks have installed devices to defeat emissions controls and boost pollution.",
+      "link": "https://www.nytimes.com/2020/11/25/climate/diesel-trucks-air-pollution.html"
+    },
+    {
+      "title": "Interview With Edward Snowden on Silicon Valley Censorship, Biden, and Lurking Press Freedom Dangers",
+      "source": "Substack",
+      "date": "Nov 25, 2020",
+      "description": "How did we travel so far from the original vision of the internet as the one place humans could communicate and organize free of state and corporate control?",
+      "link": "https://greenwald.substack.com/p/video-interview-with-edward-snowden"
+    },
+    {
+      "title": "Demanding Silicon Valley Suppress 'Hyper-Partisan Sites' in Favor of 'Mainstream News' (The NYT) Is a Fraud",
+      "source": "Substack",
+      "date": "Nov 25, 2020",
+      "description": "The corporate news organizations masquerading as reliable and non-partisan are, in fact, as hyper-partisan as any sites on the internet, and spread as much misinformation.",
+      "link": "https://greenwald.substack.com/p/demanding-silicon-valley-suppress"
+    },
+    {
+      "title": "Meet the Censored: Andre Damon",
+      "source": "Substack",
+      "date": "Nov 25, 2020",
+      "description": "Increased content moderation has been sold as a tool to control the far right, but the World Socialist Web Site was among the first to sound the alarm",
+      "link": "https://taibbi.substack.com/p/meet-the-censored-andre-damon"
+    },
+    {
+      "title": "Why I Had to Leave the Guardian",
+      "source": "UnHerd",
+      "date": "Nov 25, 2020",
+      "description": "If you were bullied by 338 colleagues, what would you do?",
+      "link": "https://unherd.com/2020/11/why-i-had-to-leave-the-guardian/"
+    },
+    {
+      "title": "How America Came Apart",
+      "source": "UnHerd",
+      "date": "Sep 18, 2020",
+      "description": "A people with no shared history will find it very hard to keep a lid on disorder and violence",
+      "link": "https://unherd.com/2020/09/can-america-hold-apart/"
+    },
+    {
+      "title": "'Cultural Appropriation' Is American Cultural Imperialism",
+      "source": "UnHerd",
+      "date": "Sep 4, 2020",
+      "description": "The US culture wars are intruding in places they don't belong",
+      "link": "https://unherd.com/2020/09/cultural-appropriation-is-american-cultural-imperialism/"
+    },
+    {
+      "title": "Has Trans Activism Gone Too Far?",
+      "source": "UnHerd",
+      "date": "Nov 22, 2019",
+      "description": "It's time we were allowed a properly nuanced discussion on gender issues",
+      "link": "https://unherd.com/2019/11/has-trans-activism-gone-too-far/"
+    },
+    {
+      "title": "Will Maths Succumb to the Woke Wave?",
+      "source": "UnHerd",
+      "date": "Oct 4, 2019",
+      "description": "Students are being imprisoned in the lies of our age",
+      "link": "https://unherd.com/2019/10/will-maths-succumb-to-the-woke-wave/"
+    },
+    {
+      "title": "Antifa's Attack on the Truth",
+      "source": "UnHerd",
+      "date": "Jul 5, 2019",
+      "description": "Hostile actors are conspiring to create false narratives",
+      "link": "https://unherd.com/2019/07/antifas-attack-on-the-truth/"
+    },
+    {
+      "title": "Why Titania Is Perfect for Our Times",
+      "source": "UnHerd",
+      "date": "Mar 8, 2019",
+      "description": "The avenging SJW angel, Titania McGrath, has disrupted a tired genre",
+      "link": "https://unherd.com/2019/03/why-titania-is-perfect-for-our-times/"
+    },
     {
       "title": "Why Is Scientific Illiteracy So Acceptable?",
       "source": "Quillette",
@@ -586,125 +705,6 @@
       "date": "Oct 27, 2020",
       "description": "Exclusive: expedition discovers new source of greenhouse gas off East Siberian coast has been triggered",
       "link": "https://www.theguardian.com/science/2020/oct/27/sleeping-giant-arctic-methane-deposits-starting-to-release-scientists-find"
-    },
-    {
-      "title": "Amazon Enforces 'Trans' Orthodoxy",
-      "source": "The Wall Street Journal",
-      "date": "Jun 22, 2020",
-      "description": "The company won't allow a publisher's ads for my skeptical book.",
-      "link": "https://www.wsj.com/articles/amazon-enforces-trans-orthodoxy-11592865818"
-    },
-    {
-      "title": "These Drones Will Plant 40,000 Trees in a Month. By 2028, They'll Have Planted 1 Billion",
-      "source": "Fast Company",
-      "date": "May 15, 2020",
-      "description": "We need to massively reforest the planet, in a very short period of time. Flash Forest's drones can plant trees a lot faster than humans.",
-      "link": "https://www.fastcompany.com/90504789/these-drones-can-plant-40000-trees-in-a-month-by-2028-theyll-have-planted-1-billion"
-    },
-    {
-      "title": "5 Big Ideas for Making Fusion Power a Reality",
-      "source": "IEEE Spectrum",
-      "date": "Jan 28, 2020",
-      "description": "Startups, universities, and major companies are vying to commercialize a nuclear fusion reactor.",
-      "link": "https://spectrum.ieee.org/energy/nuclear/5-big-ideas-for-making-fusion-power-a-reality"
-    },
-    {
-      "title": "Spy Agency Ducks Questions About 'Back Doors' in Tech Products",
-      "source": "Reuters",
-      "date": "Oct 28, 2020",
-      "description": "The U.S. National Security Agency is rebuffing efforts by a leading Congressional critic to determine whether it is continuing to place so-called back doors into commercial technology products, in a controversial practice that critics say damages both U.S. industry and national...",
-      "link": "https://www.reuters.com/article/us-usa-security-congress-insight/spy-agency-ducks-questions-about-back-doors-in-tech-products-idUSKBN27D1CS"
-    },
-    {
-      "title": "Black Separatist Militia: 'If You Attack Us, We Will Kill You'",
-      "source": "Vice",
-      "date": "Oct 28, 2020",
-      "description": "The paramilitary group of at least a few thousand armed black members describes itself as 'America's black militia.'",
-      "link": "https://www.vice.com/en/article/3anz38/the-not-fucking-around-coalition-wants-to-protect-black-americans"
-    },
-    {
-      "title": "US Grid-Battery Costs Dropped 70% Over 3 Years",
-      "source": "Ars Technica",
-      "date": "Oct 27, 2020",
-      "description": "The EIA expects 6,900 megawatts of battery capacity in the next few years.",
-      "link": "https://arstechnica.com/science/2020/10/us-grid-battery-costs-dropped-70-over-3-years/"
-    },
-    {
-      "title": "10 Ways to Call Something Russian Disinformation Without Evidence",
-      "source": "Substack",
-      "date": "Oct 27, 2020",
-      "description": "The principles of American Newspeak, vol. 1",
-      "link": "https://taibbi.substack.com/p/10-ways-to-call-something-russian"
-    },
-    {
-      "title": "How Availability Cascades Are Shaping Our Politics",
-      "source": "Quillette",
-      "date": "Oct 27, 2020",
-      "description": "'When people are free to do as they please, they usually imitate each other.' – Eric Hoffer, 1955 We are the company we keep. Although our beliefs and actions are personal, they are often heavily a…",
-      "link": "https://quillette.com/2020/10/26/how-availability-cascades-are-shaping-our-politics/"
-    },
-    {
-      "title": "From 'Who Gets What?' to 'Who Are We?'",
-      "source": "Quillette",
-      "date": "Oct 27, 2020",
-      "description": "American politics can be conceptualized through two questions. The first is 'Who gets what?' and the second is 'Who are we?' Before and during the Cold War, the specter of f…",
-      "link": "https://quillette.com/2020/10/27/from-who-gets-what-to-who-are-we/"
-    },
-    {
-      "title": "Philadelphia Sees Second Night of Riots, Looting in Response to Police Shooting",
-      "source": "New York Post",
-      "date": "Oct 27, 2020",
-      "description": "Violent protests and widespread looting continued for a second night in Philadelphia on Tuesday in response to the fatal police shooting of a knife-wielding black man. The raucous night comes even …",
-      "link": "https://nypost.com/2020/10/27/philadelphia-sees-second-night-of-riots-and-looting-after-police-shooting/"
-    },
-    {
-      "title": "There May Be Far More Water on the Moon Than NASA Thought",
-      "source": "Wired",
-      "date": "Oct 26, 2020",
-      "description": "A new pair of studies reveals that the resource isn't limited to large shadowy craters. That's good news for the upcoming crewed missions.",
-      "link": "https://www.wired.com/story/there-may-be-far-more-water-on-the-moon-than-nasa-thought/"
-    },
-    {
-      "title": "New Nuclear Engine Concept Could Help Realize 3-Month Trips to Mars",
-      "source": "New Atlas",
-      "date": "Oct 26, 2020",
-      "description": "Seattle-based Ultra Safe Nuclear Technologies (USNC-Tech) has developed a concept for a new Nuclear Thermal Propulsion (NTP) engine and delivered it to NASA. Claimed to be safer and more reliable than previous NTP designs and with far greater efficiency than a chemical rocket, the concept could…",
-      "link": "https://newatlas.com/space/nuclear-thermal-propulsion-ntp-nasa-unsc-tech-deep-space-travel/"
-    },
-    {
-      "title": "Vaccine Hopes Rise as Oxford Jab Prompts Immune Response Among Old as Well as Young Adults",
-      "source": "Reuters",
-      "date": "Oct 26, 2020",
-      "description": "One of the world's leading COVID-19 experimental vaccines produces an immune response in both young and old adults, raising hopes of a path out of the gloom and economic destruction wrought by the novel coronavirus.",
-      "link": "https://www.reuters.com/article/us-health-coronavirus-astrazeneca-vaccin/oxford-covid-19-vaccine-prompts-immune-response-among-adults-old-and-young-astrazeneca-says-idUSKBN27B0IV"
-    },
-    {
-      "title": "The Russian Hackers Playing 'Chekhov's Gun' With US Infrastructure",
-      "source": "Wired",
-      "date": "Oct 26, 2020",
-      "description": "Berserk Bear has had plenty of opportunity to cause serious trouble. So why hasn't it yet?",
-      "link": "https://www.wired.com/story/berserk-bear-russia-infrastructure-hacking/"
-    },
-    {
-      "title": "Facebook and Twitter's Intervention Highlights Dangerous New Double Standard",
-      "source": "Substack",
-      "date": "Oct 17, 2020",
-      "description": "The decision to ban a New York Post expose about Hunter Biden flies in the face of years of 'hack and leak' stories",
-      "link": "https://taibbi.substack.com/p/facebook-and-twitters-intervention"
-    },
-    {
-      "title": "Revenge of the Money Launderers",
-      "source": "Substack",
-      "date": "Sep 25, 2020",
-      "description": "The 'FinCen files' story reveals: getting caught doesn't stop banks from taking dirty money. It may even encourage them",
-      "link": "https://taibbi.substack.com/p/revenge-of-the-money-launderers-b84"
-    },
-    {
-      "title": "With the Hunter Biden Expose, Suppression Is a Bigger Scandal Than the Actual Story",
-      "source": "Substack",
-      "date": "Sep 24, 2020",
-      "description": "Unprecedented efforts to squelch information about a New York Post story may prove to be more dangerous corruption than whatever Hunter Biden did with a crooked Ukrainian energy company",
-      "link": "https://taibbi.substack.com/p/with-the-hunter-biden-expose-suppression-136"
     }
   ]
 }
