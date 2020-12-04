@@ -3,9 +3,114 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "12/2/2020, 9:46:57 AM",
-  "id": "liII7-ipXkX_JSKoZg-JZ",
+  "date": "12/4/2020, 11:45:46 AM",
+  "id": "4XuPEkVyXIMKLdQB5Fdwg",
   "articles": [
+    {
+      "title": "Who Will Biden Bomb First?",
+      "source": "UnHerd",
+      "date": "Dec 4, 2020",
+      "description": "The President-elect's 'global leadership' is a return to neoconservatism",
+      "link": "https://unherd.com/2020/12/american-exceptionalism-is-back/"
+    },
+    {
+      "title": "Student Loan Horror Stories: Borrowed: $79,000. Paid: $190,000. Now Owes? $236,000",
+      "source": "Substack",
+      "date": "Dec 4, 2020",
+      "description": "At 59, Chris pleaded for a renegotiation. 'My life expectancy is 15 more years. At this rate, you're not going to get very much...′ Their response was, 'So?''",
+      "link": "https://taibbi.substack.com/p/student-loan-horror-stories-borrowed"
+    },
+    {
+      "title": "Congress Stalls on Stimulus Checks for Families While Corporations Continue to Reap Millions From CARES Act",
+      "source": "The Intercept",
+      "date": "Dec 4, 2020",
+      "description": "The IRS is still issuing retroactive tax refunds to companies, many of which are thriving amid the coronavirus pandemic.",
+      "link": "https://theintercept.com/2020/12/04/covid-irs-corporation-tax-refunds/"
+    },
+    {
+      "title": "Light-Based Quantum Computer Exceeds Fastest Classical Supercomputers",
+      "source": "Scientific American",
+      "date": "Dec 3, 2020",
+      "description": "The setup of lasers and mirrors effectively &ldquo;solved&rdquo; a problem far too complicated for even the largest traditional computer system",
+      "link": "https://www.scientificamerican.com/article/light-based-quantum-computer-exceeds-fastest-classical-supercomputers/"
+    },
+    {
+      "title": "'This Is Not Science Fiction,' Say Scientists Pushing for 'Neuro-Rights'",
+      "source": "Reuters",
+      "date": "Dec 3, 2020",
+      "description": "Scientific advances from deep brain stimulation to wearable scanners are making manipulation of the human mind increasingly possible, creating a need for laws and protections to regulate use of the new tools, top neurologists said on Thursday.",
+      "link": "https://www.reuters.com/article/us-global-tech-rights/this-is-not-science-fiction-say-scientists-pushing-for-neuro-rights-idUSKBN28D3HK"
+    },
+    {
+      "title": "Every Mayor, Governor Accused of Breaking COVID Restrictions — and Why",
+      "source": "Newsweek",
+      "date": "Dec 3, 2020",
+      "description": "Austin Mayor Steve Adler joins a long list of leading politicians to have allegedly broken their own rules. Here's the rundown.",
+      "link": "https://www.newsweek.com/every-mayor-governor-caught-breaking-covid-restrictions-1552033"
+    },
+    {
+      "title": "Resisting the Mourner's Veto",
+      "source": "Quillette",
+      "date": "Dec 3, 2020",
+      "description": "Controversy recently erupted at Penguin Random House when it was announced that the company would be publishing Canadian clinical psychologist Jordan Peterson's forthcoming book. Peterson rose to prominence in 2016 when he posted a series of videos on YouTube denouncing a Canadian law that, he claim…",
+      "link": "https://quillette.com/2020/12/03/resisting-the-mourners-veto/"
+    },
+    {
+      "title": "China Is National Security Threat No. 1",
+      "source": "The Wall Street Journal",
+      "date": "Dec 3, 2020",
+      "description": "Resisting Beijing's attempt to reshape and dominate the world is the challenge of our generation.",
+      "link": "https://www.wsj.com/articles/china-is-national-security-threat-no-1-11607019599"
+    },
+    {
+      "title": "Feds Claim the Patriot Act Allowed Them to Log Visitors to Websites",
+      "source": "Gizmodo",
+      "date": "Dec 3, 2020",
+      "description": "Letters produced by the Office of the Director of National Intelligence reportedly show that the U.S. government has interpreted Section 215 of the Patriot Act as giving it the power to monitor who visits certain websites and when, with minimal oversight.",
+      "link": "https://gizmodo.com/feds-claim-the-patriot-act-allowed-them-to-log-visitors-1845803993"
+    },
+    {
+      "title": "Nation-State Backed Hackers Going After COVID Vaccine Supply Chain",
+      "source": "Ars Technica",
+      "date": "Dec 3, 2020",
+      "description": "Sophisticated operation is well-researched and well-placed, aimed at EU.",
+      "link": "https://arstechnica.com/information-technology/2020/12/covid-vaccine-supply-chain-targeted-by-hackers-say-security-experts/"
+    },
+    {
+      "title": "Doctors Release 'Most Worrying Outlook' on Climate Change and Health",
+      "source": "Gizmodo",
+      "date": "Dec 2, 2020",
+      "description": "The doctors are here to give the Earth its annual checkup, and they say it's running a fever which is making people sick. They issued their findings showing all the ways climate change is affecting our health in the annual Lancet Countdown on Wednesday.",
+      "link": "https://earther.gizmodo.com/doctors-release-their-most-worrying-outlook-on-how-cl-1845794219"
+    },
+    {
+      "title": "The Journey of Electronic Bottles and the Ocean Plastic Crisis",
+      "source": "Wired",
+      "date": "Dec 2, 2020",
+      "description": "Researchers loaded containers with trackers and released them in the Ganges and the Bay of Bengal, giving new insight into how plastic pollution travels.",
+      "link": "https://www.wired.com/story/the-incredible-journey-of-the-electronic-plastic-bottle/"
+    },
+    {
+      "title": "Toxic PFAS Chemicals Discovered in Hundreds of Products",
+      "source": "The Intercept",
+      "date": "Dec 2, 2020",
+      "description": "Climbing ropes, guitar strings, and hand sanitizer are among the newly reported uses for the toxic 'forever' chemicals.",
+      "link": "https://theintercept.com/2020/12/02/pfas-chemicals-products/"
+    },
+    {
+      "title": "The Army Tested 'Germ Warfare' on the NYC Subway by Smashing Lightbulbs Full of Bacteria",
+      "source": "Business Insider",
+      "date": "Nov 14, 2015",
+      "description": "It was one of many dangerous government experiments on US citizens in violation of the Nuremberg Code.",
+      "link": "https://www.businessinsider.com/biological-agents-were-tested-on-the-new-york-city-subway-2015-11"
+    },
+    {
+      "title": "'One of the Largest Human Experiments in History' Was Conducted on Unsuspecting Residents of San Francisco",
+      "source": "Business Insider",
+      "date": "Jul 8, 2015",
+      "description": "For 20 years, the military secretly tested biological agents on the American public.",
+      "link": "https://www.businessinsider.com/the-military-tested-bacterial-weapons-in-san-francisco-2015-7"
+    },
     {
       "title": "The Heretical Impulse: Zamyatin and Orwell",
       "source": "Quillette",
@@ -600,111 +705,6 @@
       "date": "Nov 4, 2020",
       "description": "A new study is presenting the first published data from preliminary human trials investigating the effect of psilocybin-assisted psychotherapy to treat major depressive disorder (MDD). The incredibly positive results have been described as just a 'taste of things to come' with larger a Phase 2…",
       "link": "https://newatlas.com/health-wellbeing/psilocybin-therapy-major-depression-trial-results-johns-hopkins/"
-    },
-    {
-      "title": "Tesla Project to Install Another Giant Battery in Australia",
-      "source": "Bloomberg",
-      "date": "Nov 4, 2020",
-      "description": "France's Neoen SA will partner with Tesla Inc. to install one of the world's biggest lithium-ion batteries in Australia after reaching a grid connection deal with the power market operator.",
-      "link": "https://www.bloomberg.com/news/articles/2020-11-05/tesla-project-will-install-another-giant-battery-in-australia"
-    },
-    {
-      "title": "23,600 Hacked Databases Have Leaked From a Defunct 'Data Breach Index' Site",
-      "source": "ZDNet",
-      "date": "Nov 4, 2020",
-      "description": "Site archive of Cit0day.in has now leaked on two hacking forums after the service shut down in September.",
-      "link": "https://www.zdnet.com/article/23600-hacked-databases-have-leaked-from-a-defunct-data-breach-index-site/"
-    },
-    {
-      "title": "Treat Artificial Light Like Other Forms of Pollution, Say Scientists",
-      "source": "The Guardian",
-      "date": "Nov 3, 2020",
-      "description": "Impact of human illumination has grown to point of systemic disruption, researchers find",
-      "link": "https://www.theguardian.com/environment/2020/nov/02/treat-artificial-light-form-pollution-environment"
-    },
-    {
-      "title": "My Resignation From the Intercept",
-      "source": "Substack",
-      "date": "Oct 29, 2020",
-      "description": "The same trends of repression, censorship and ideological homogeneity plaguing the national press generally have engulfed the media outlet I co-founded, culminating in censorship of my own articles.",
-      "link": "https://greenwald.substack.com/p/my-resignation-from-the-intercept"
-    },
-    {
-      "title": "For Five Months, BLM Protestors Trashed America's Cities. After the Election, Things May Only Get Worse",
-      "source": "Quillette",
-      "date": "Nov 4, 2020",
-      "description": "This week marks the first time in living memory that widespread violence was widely viewed as a foreseeable, and even expected, outcome of an American national election. The votes are being counted just days after riots broke out in Philadelphia, causing the governor to deploy the National Guard in …",
-      "link": "https://quillette.com/2020/11/03/for-five-months-blm-protestors-trashed-americas-cities-after-the-election-things-may-only-get-worse/"
-    },
-    {
-      "title": "U.S. Exits Paris Climate Accord After Trump Stalls Global Warming Action for Four Years",
-      "source": "Scientific American",
-      "date": "Nov 4, 2020",
-      "description": "State-level efforts and a growing renewables market have mitigated federal emissions policy rollbacks - but Trump's climate impact could be long-lasting",
-      "link": "https://www.scientificamerican.com/article/u-s-exits-paris-climate-accord-after-trump-stalls-global-warming-action-for-four-years/"
-    },
-    {
-      "title": "Deep Neural Networks Are Helping Decipher How Brains Work",
-      "source": "Wired",
-      "date": "Nov 4, 2020",
-      "description": "Neuroscientists are finding that deep-learning networks, often criticized as 'black boxes,' can be good models for the organization of living brains.",
-      "link": "https://www.wired.com/story/deep-neural-networks-are-helping-decipher-how-brains-work/"
-    },
-    {
-      "title": "Oregon Just Voted to Decriminalize All Drugs",
-      "source": "Vox",
-      "date": "Nov 3, 2020",
-      "description": "Oregon voters have taken a big step toward ending the war on drugs.",
-      "link": "https://www.vox.com/2020/11/3/21514828/oregon-drug-decriminalization-measure-110-results"
-    },
-    {
-      "title": "The Failing Business Model of American Universities",
-      "source": "Quillette",
-      "date": "Nov 3, 2020",
-      "description": "Put yourself in the shoes of the average college graduate today. It took you longer than expected to complete your 'four-year degree' and you are almost $30,000 in debt. You are desperately searching for a job in your field before your student loan payments run you into the ground, assuming your ren…",
-      "link": "https://quillette.com/2020/11/03/the-failing-business-model-of-american-universities/"
-    },
-    {
-      "title": "Raspberry Pi 400: The $70 Desktop PC",
-      "source": "Raspberry Pi",
-      "date": "Nov 2, 2020",
-      "description": "Raspberry Pi 400 is your complete personal computer, built into a compact keyboard. It's our most powerful and easy-to-use computer yet.",
-      "link": "https://www.raspberrypi.org/blog/raspberry-pi-400-the-70-desktop-pc/"
-    },
-    {
-      "title": "Sex Differences in Occupational Attainment Are Here to Stay",
-      "source": "Quillette",
-      "date": "Nov 2, 2020",
-      "description": "In many nations and for many people, the sex difference in occupational attainment is a social pathology that begs for corrective intervention. The ultimate societal goal for many is equal numbers of high-achieving men and women across high-status fields, including those that typically draw more of …",
-      "link": "https://quillette.com/2020/11/02/sex-differences-in-occupational-attainment-are-here-to-stay/"
-    },
-    {
-      "title": "The Worst Choice Ever",
-      "source": "Substack",
-      "date": "Nov 2, 2020",
-      "description": "Donald Trump is a disaster, but Joe Biden's party is democratic in name only. Why this year's election is a vomit milkshake",
-      "link": "https://taibbi.substack.com/p/the-worst-choice-ever"
-    },
-    {
-      "title": "I Signed Up to Study Sexual Health. What I Got Was Gender Ideology, Fetishism, and Porn",
-      "source": "Quillette",
-      "date": "Nov 1, 2020",
-      "description": "I am not a conspiracy theorist. And as recently as a year and a half ago, if someone had told me the things I am reporting here, I would have accused them of culture-war paranoia. That was before I enrolled in a professional training program that I'd hoped would expand my skills as a therapist, but …",
-      "link": "https://quillette.com/2020/10/31/i-signed-up-to-study-sexual-health-what-i-got-was-gender-ideology-fetishism-and-porn/"
-    },
-    {
-      "title": "Jack Turban's Dangerous Campaign to Smear Ethical Psychotherapy as Anti-Trans 'Conversion Therapy'",
-      "source": "Quillette",
-      "date": "Nov 1, 2020",
-      "description": "This essay is adapted from a letter published on October 21 by the listed authors in the Archives of Sexual Behavior. It has been abridged for a non-academic readership. A subset of the scholarly citations included in the original letter appear below in the form of web links. Readers who wish to rea…",
-      "link": "https://quillette.com/2020/11/01/jack-turbans-dangerous-campaign-to-smear-ethical-psychotherapy-as-anti-trans-conversion-therapy/"
-    },
-    {
-      "title": "Is It Better to Plant Trees or Let Forests Regrow Naturally?",
-      "source": "Wired",
-      "date": "Oct 31, 2020",
-      "description": "Nations are pledging to plant billions of trees. But a new study shows that we've underestimated the power of natural forest regrowth to fight climate change.",
-      "link": "https://www.wired.com/story/is-it-better-to-plant-trees-or-let-forests-regrow-naturally/"
     }
   ]
 }
