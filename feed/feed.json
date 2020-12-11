@@ -3,9 +3,247 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "12/4/2020, 11:45:46 AM",
-  "id": "4XuPEkVyXIMKLdQB5Fdwg",
+  "date": "12/11/2020, 11:30:21 AM",
+  "id": "eSDgQJl5K8OPGFekfOXc7",
   "articles": [
+    {
+      "title": "Hackers Accessed Covid Vaccine Data Through the EU Regulator",
+      "source": "Wired",
+      "date": "Dec 11, 2020",
+      "description": "The European Medicines Agency has released limited details about the cyberattack.",
+      "link": "https://www.wired.com/story/hackers-accessed-covid-vaccine-data-through-the-eu-regulator/"
+    },
+    {
+      "title": "CISA and FBI Warn of Rise in Ransomware Attacks Targeting K-12 Schools",
+      "source": "ZDNet",
+      "date": "Dec 11, 2020",
+      "description": "The percentage of ransomware attacks against K-12 schools increased at the beginning of the 2020 school year",
+      "link": "https://www.zdnet.com/article/cisa-and-fbi-warn-of-rise-in-ransomware-attacks-targeting-k-12-schools/"
+    },
+    {
+      "title": "Hollywood Deployed Lobbyists to Win Exemptions to Strict California Lockdown",
+      "source": "The Intercept",
+      "date": "Dec 11, 2020",
+      "description": "The entertainment industry has been given extensive leeway during the pandemic, even as California now faces a stay-at-home order.",
+      "link": "https://theintercept.com/2020/12/11/hollywood-covid-filming-california-lockdown/"
+    },
+    {
+      "title": "Hackers Steal Pfizer/BioNTech COVID-19 Vaccine Data in Europe, Companies Say",
+      "source": "Reuters",
+      "date": "Dec 10, 2020",
+      "description": "U.S. drugmaker Pfizer and its German partner BioNTech said on Wednesday that documents related to development of their COVID-19 vaccine had been 'unlawfully accessed' in a cyberattack on Europe's medicines regulator.",
+      "link": "https://www.reuters.com/article/us-ema-cyber/hackers-steal-pfizer-biontech-covid-19-vaccine-data-in-europe-companies-say-idUSKBN28J2Q7"
+    },
+    {
+      "title": "Hunter Biden Tax Probe Examining Chinese Business Dealings",
+      "source": "Associated Press",
+      "date": "Dec 10, 2020",
+      "description": "WASHINGTON (AP) — The Justice Department is investigating the finances of President-elect Joe Biden's son, including scrutinizing some of his Chinese business dealings and other transactions",
+      "link": "https://apnews.com/article/hunter-biden-federal-tax-investigation-87c200c919aa61396b5d43077bc5b0ff"
+    },
+    {
+      "title": "The Hunter Biden Criminal Probe Bolsters a Chinese Scholar's Claim About Beijing's Influence With the Biden Administration",
+      "source": "Substack",
+      "date": "Dec 10, 2020",
+      "description": "Professor Di Dongsheng says China's close ties to Wall Street and its dealings with Hunter both enable it to exert more power now than it could under Trump.",
+      "link": "https://greenwald.substack.com/p/the-hunter-biden-criminal-probe-bolsters"
+    },
+    {
+      "title": "With News of Hunter Biden's Criminal Probe, Recall the Media Outlets That Peddled the 'Russian Disinformation' Lie",
+      "source": "Substack",
+      "date": "Dec 10, 2020",
+      "description": "The now-validated facts about Hunter are precisely those the U.S. media -- in tandem with Silicon Valley and the intelligence community -- suppressed based on lies.",
+      "link": "https://greenwald.substack.com/p/with-news-of-hunter-bidens-criminal"
+    },
+    {
+      "title": "One Small Step for Free Speech",
+      "source": "UnHerd",
+      "date": "Dec 10, 2020",
+      "description": "This week's Cambridge victory will do little to stop the march through the institutions",
+      "link": "https://unherd.com/2020/12/one-small-step-for-free-speech/"
+    },
+    {
+      "title": "US Diplomats' Brain Injuries May Be From Covert Microwave Attack, Experts Say",
+      "source": "Ars Technica",
+      "date": "Dec 10, 2020",
+      "description": "Data from Russian experiments on pulsed RF energy offers best explanation.",
+      "link": "https://arstechnica.com/science/2020/12/covert-microwave-weapon-most-plausible-cause-of-cuba-health-attacks/"
+    },
+    {
+      "title": "Meet the Censored: Abigail Shrier",
+      "source": "Substack",
+      "date": "Dec 9, 2020",
+      "description": "Where is the line between boycott-based activism and corporate censorship?",
+      "link": "https://taibbi.substack.com/p/meet-the-censored-abigail-shrier"
+    },
+    {
+      "title": "Pandemic Villains: Robinhood",
+      "source": "Substack",
+      "date": "Dec 9, 2020",
+      "description": "Have a pair of gangly Stanford grads built the perfect mousetrap?",
+      "link": "https://taibbi.substack.com/p/pandemic-villains-robinhood"
+    },
+    {
+      "title": "Progress Toward a Safer Psychedelic Drug to Treat Depression and Addiction",
+      "source": "NPR",
+      "date": "Dec 8, 2020",
+      "description": "A synthetic version of the psychedelic drug ibogaine appears to relieve depression and addiction without producing hallucinations or other dangerous side effects — at least in rodents.",
+      "link": "https://www.npr.org/sections/health-shots/2020/12/09/944572325/progress-toward-a-safer-psychedelic-drug-to-treat-depression-and-addiction"
+    },
+    {
+      "title": "The Old Arctic Is Gone",
+      "source": "Gizmodo",
+      "date": "Dec 8, 2020",
+      "description": "Scientists have spent the past 15 years pulling together data about the Arctic into a report card. What's become clear in the 15 iterations of the report is nothing will be the same for centuries to come and the shifts are happening faster than anticipated.",
+      "link": "https://earther.gizmodo.com/the-old-arctic-is-gone-1845834100"
+    },
+    {
+      "title": "Printable, Flexible Battery Offers 10 Times the Density of Lithium-Ion",
+      "source": "New Atlas",
+      "date": "Dec 8, 2020",
+      "description": "Scientists investigating an experimental battery chemistry have wound up with a flexible device they say offers up to 10 times the energy density of current lithium-ion solutions, making it an ideal fit for a number of applications. The technique also allows for easier manufacturing of flexible…",
+      "link": "https://newatlas.com/energy/printable-high-density-batteries-silver-oxide/"
+    },
+    {
+      "title": "Large Study of Americans Shows the Broad Health Problems Covid-19 Can Cause",
+      "source": "Gizmodo",
+      "date": "Dec 8, 2020",
+      "description": "New research out Tuesday looks to pin down the many health problems that can arise from a bout of covid-19. The long list includes more common ailments like pneumonia, kidney failure, and widespread inflammation, as well as rarer complications like serious heart inflammation, collapsed lungs, and se…",
+      "link": "https://gizmodo.com/large-study-of-americans-shows-the-broad-health-problem-1845832915"
+    },
+    {
+      "title": "Biden's Choice for Pentagon Chief Further Erodes a Key U.S. Norm: Civilian Control",
+      "source": "Substack",
+      "date": "Dec 8, 2020",
+      "description": "Gen. Lloyd Austin, on the Raytheon Board, is yet another high-level Biden nominee enmeshed in D.C.'s corporatist 'revolving door' of legalized influence-peddling.",
+      "link": "https://greenwald.substack.com/p/bidens-choice-for-pentagon-chief"
+    },
+    {
+      "title": "Exclusive: U.S. Air Pollution Monitoring Network Falling Into Disrepair - GAO Report",
+      "source": "Reuters",
+      "date": "Dec 7, 2020",
+      "description": "The U.S. air pollution monitoring network has fallen into disrepair after years of budget cuts and neglect, leaving tens of millions of Americans vulnerable to undetected bad air quality from events like wildfires to industrial pollution, according to a report by the investigative...",
+      "link": "https://www.reuters.com/article/usa-pollution-airmonitors-gao-idUSKBN28H1V5"
+    },
+    {
+      "title": "California's Hellish 2018 Wildfires Cost the US Economy $148.5 Billion",
+      "source": "Gizmodo",
+      "date": "Dec 7, 2020",
+      "description": "Two years later, we're still adding unfortunate superlatives to the 2018 California wildfire season. The latest is a new study that reveals the hidden toll of what—until this year—was the state's most destructive fire season.",
+      "link": "https://earther.gizmodo.com/californias-hellish-2018-wildfires-cost-the-u-s-econom-1845824226"
+    },
+    {
+      "title": "Exxon Holds Back on Technology That Could Slow Climate Change",
+      "source": "Bloomberg",
+      "date": "Dec 7, 2020",
+      "description": "Carbon capture can make money for oil giants, and scientists say we need it. Is the industry willing to invest enough?",
+      "link": "https://www.bloomberg.com/news/features/2020-12-07/exxon-s-xom-carbon-capture-project-stalled-by-covid-19"
+    },
+    {
+      "title": "Coca-Cola, Pepsi and Nestlé Named Top Plastic Polluters for Third Year in a Row",
+      "source": "The Guardian",
+      "date": "Dec 7, 2020",
+      "description": "Companies accused of 'zero progress' on reducing plastic waste, with Coca-Cola ranked No 1 for most littered products",
+      "link": "https://www.theguardian.com/environment/2020/dec/07/coca-cola-pepsi-and-nestle-named-top-plastic-polluters-for-third-year-in-a-row"
+    },
+    {
+      "title": "Quantum Device Performs 2.6 Billion Years of Computation in 4 Minutes",
+      "source": "Ars Technica",
+      "date": "Dec 7, 2020",
+      "description": "Photons explore quantum maze faster than possible for any classical computer.",
+      "link": "https://arstechnica.com/science/2020/12/un-computable-quantum-maze-computed-by-quantum-maze-computer/"
+    },
+    {
+      "title": "SpaceX Gets $886 Million From FCC to Subsidize Starlink in 35 States",
+      "source": "Ars Technica",
+      "date": "Dec 7, 2020",
+      "description": "Charter also wins big; FCC fund will bring service to 5.2M homes and businesses.",
+      "link": "https://arstechnica.com/tech-policy/2020/12/spacex-gets-886-million-from-fcc-to-subsidize-starlink-in-35-states/"
+    },
+    {
+      "title": "With Guns Drawn, Police Raid Home and Seize Computers of COVID-19 Data Whistleblower",
+      "source": "The Verge",
+      "date": "Dec 7, 2020",
+      "description": "Florida fired her, and now it's raiding her home",
+      "link": "https://www.theverge.com/2020/12/7/22160181/rebekah-jones-raid-seizure-search-warrant-covid-19-whistleblower-florida"
+    },
+    {
+      "title": "Health Care Is Coming to Grips With Its Pollution Problem",
+      "source": "The Verge",
+      "date": "Dec 7, 2020",
+      "description": "Greenhouse gas emissions are on the rise.",
+      "link": "https://www.theverge.com/2020/12/7/22159555/health-care-pollution-climate-change"
+    },
+    {
+      "title": "The NSA Warns That Russia Is Attacking Remote Work Platforms",
+      "source": "Wired",
+      "date": "Dec 7, 2020",
+      "description": "A vulnerability in VMWare has prompted a warning that companies—and government agencies—need to patch as soon as possible.",
+      "link": "https://www.wired.com/story/nsa-warns-russia-attacking-vmware-remote-work-platforms/"
+    },
+    {
+      "title": "Black and White in the Classroom",
+      "source": "Quillette",
+      "date": "Dec 7, 2020",
+      "description": "My palms were sweating, my heart was racing, and I avoided eye contact with everyone in that room, praying hard that my teacher would not call on me. And then, 'Lola, what are your thoughts?' was said out loud. I had many thoughts and ideas I knew needed to be spoken, stories I could share to change…",
+      "link": "https://quillette.com/2020/12/07/black-and-white-in-the-classroom/"
+    },
+    {
+      "title": "Rehabilitation for Vice Bloggers",
+      "source": "YouTube",
+      "date": "Dec 6, 2020",
+      "description": "This is a new center for bloggers to get back into the normal world (comedy sketch)",
+      "link": "https://www.youtube.com/watch?v=x7CxM1anfPE"
+    },
+    {
+      "title": "Why Should the US Be Afforded the 'Power of Assassination'?",
+      "source": "Al Jazeera",
+      "date": "Dec 6, 2020",
+      "description": "The US government's argument it has the right to assassinate anyone, anywhere heralds its descent into despotism.",
+      "link": "https://www.aljazeera.com/opinions/2020/12/6/why-should-america-be-afforded-the-power-of/"
+    },
+    {
+      "title": "Enlightenment Literature as Foreign Aid",
+      "source": "Quillette",
+      "date": "Dec 5, 2020",
+      "description": "'If God were to humiliate a human being,' wrote Imam Ali bin abi Talib in the sixth century, 'He would deny him knowledge.' If the woeful state of knowledge in lands beset by authoritarian regimes is any indication, a great number of human beings in our world have been lavishly humiliated, albeit by…",
+      "link": "https://quillette.com/2020/12/04/enlightenment-literature-as-foreign-aid/"
+    },
+    {
+      "title": "After the Deep State Sabotaged His Presidential Bid, Bernie Sanders Mocks Those Who Believe It Exists",
+      "source": "Substack",
+      "date": "Dec 5, 2020",
+      "description": "Also ridiculing 'rigged elections' and 'fake news' -- two other weapons used on him -- the Vermont Senator's relationship to the Democratic Party descends from loyal support to abject subservience.",
+      "link": "https://greenwald.substack.com/p/after-the-deep-state-sabotaged-his"
+    },
+    {
+      "title": "'Havana Syndrome' Likely Caused by Directed Microwaves - US Report",
+      "source": "BBC News",
+      "date": "Dec 5, 2020",
+      "description": "The US report is the latest attempt to explain a mystery illness that affected diplomats in Cuba.",
+      "link": "https://www.bbc.com/news/world-us-canada-55203844"
+    },
+    {
+      "title": "U.S. Used Patriot Act to Gather Logs of Website Visitors",
+      "source": "The New York Times",
+      "date": "Dec 3, 2020",
+      "description": "A disclosure sheds new light on a high-profile national security law as lawmakers prepare to revive a debate over it in the Biden administration.",
+      "link": "https://www.nytimes.com/2020/12/03/us/politics/section-215-patriot-act.html"
+    },
+    {
+      "title": "China Is Massively Expanding Its Weather-Modification Program, Saying It Will Be Able to Cover Half the Country In artificial Rain and Snow by 2025",
+      "source": "Business Insider",
+      "date": "Dec 3, 2020",
+      "description": "Beijing said Tuesday that China's 'cloud seeding' project will soon cover 2.1 million of China's 3.7 million square miles.",
+      "link": "https://www.businessinsider.com/china-expanding-weather-modification-program-artificial-rain-snow-2025-2020-12"
+    },
+    {
+      "title": "Overcome Stress by Visualizing It as a Greedy, Hook-Nosed Race of Creatures",
+      "source": "YouTube",
+      "date": "Aug 8, 2010",
+      "description": "On Today Now!, author Christine Eckard teaches Jim and Tracy to imagine economic problems as oily, curly-haired 'Grabblers.'",
+      "link": "https://www.youtube.com/watch?v=Q4PC8Luqiws"
+    },
     {
       "title": "Who Will Biden Bomb First?",
       "source": "UnHerd",
@@ -467,244 +705,6 @@
       "date": "Nov 19, 2020",
       "description": "How one of the world's biggest finance companies misread Covid-19 and cost pensioners billions",
       "link": "https://taibbi.substack.com/p/pandemic-villains-allianz-global"
-    },
-    {
-      "title": "Massive, China-State-Funded Hack Hits Companies Around the World, Report Says",
-      "source": "Ars Technica",
-      "date": "Nov 18, 2020",
-      "description": "Attacks are linked to Cicada, a group believed to be funded by the Chinese state.",
-      "link": "https://arstechnica.com/information-technology/2020/11/massive-china-state-funded-hack-hits-companies-around-the-word-report-says/"
-    },
-    {
-      "title": "US Passes 250,000 Deaths From Coronavirus",
-      "source": "The Guardian",
-      "date": "Nov 18, 2020",
-      "description": "Bleak landmark comes as more than 11m have been infected, while Biden public health adviser warns of further hardship over winter",
-      "link": "https://www.theguardian.com/world/2020/nov/18/us-passes-250000-deaths-from-coronavirus"
-    },
-    {
-      "title": "1% of People Cause Half of Global Aviation Emissions – Study",
-      "source": "The Guardian",
-      "date": "Nov 17, 2020",
-      "description": "Exclusive: Researchers say Covid-19 hiatus is moment to tackle elite 'super emitters'",
-      "link": "https://www.theguardian.com/business/2020/nov/17/people-cause-global-aviation-emissions-study-covid-19"
-    },
-    {
-      "title": "Intellectual Freedom and the Culture Wars — A Review",
-      "source": "Quillette",
-      "date": "Nov 16, 2020",
-      "description": "A review of Intellectual Freedom and the Culture Wars by Piers Benn. Palgrave MacMillan, 168 pages (October 2020)I attended a notably liberal state university in the early 2000s. Most politically-",
-      "link": "https://quillette.com/2020/11/16/intellectual-freedom-and-the-culture-wars-a-review/"
-    },
-    {
-      "title": "How the U.S. Military Buys Location Data From Ordinary Apps",
-      "source": "Vice",
-      "date": "Nov 16, 2020",
-      "description": "A Muslim prayer app with over 98 million downloads is one of the apps connected to a wide-ranging supply chain that sends ordinary people's personal data to brokers, contractors, and the military.",
-      "link": "https://www.vice.com/en/article/jgqm5x/us-military-location-data-xmode-locate-x"
-    },
-    {
-      "title": "South Dakota Nurse Says Many Dying Patients Still Insist COVID-19 'Not Real'",
-      "source": "The Hill",
-      "date": "Nov 16, 2020",
-      "description": "A South Dakota emergency room nurse on Monday expressed frustration that many of her patients don't believe they are dying of COVID-19.",
-      "link": "https://thehill.com/homenews/state-watch/526204-south-dakota-nurse-says-many-dying-patients-still-insist-covid-19-not"
-    },
-    {
-      "title": "Thanks to SpaceX, NASA Regains a Capability It Lost for a Decade",
-      "source": "Ars Technica",
-      "date": "Nov 15, 2020",
-      "description": "SpaceX has now launched as many astronauts into space as the Mercury program.",
-      "link": "https://arstechnica.com/science/2020/11/nasas-big-bet-on-spacex-and-commercial-space-pays-off/"
-    },
-    {
-      "title": "The Three Greatest Dangers of Biden/Harris: Militarism, Corporatism and Censorship, All Fueled by Indifference",
-      "source": "Substack",
-      "date": "Nov 15, 2020",
-      "description": "VIDEO: What we need to be vigilant against.",
-      "link": "https://greenwald.substack.com/p/the-three-greatest-dangers-of-bidenharris"
-    },
-    {
-      "title": "The Ongoing Death of Free Speech: Prominent ACLU Lawyer Cheers Suppression of a New Book",
-      "source": "Substack",
-      "date": "Nov 15, 2020",
-      "description": "Free speech has always been more than a Constitutional guarantee: it's also a crucial societal value. And it's more imperiled than ever.",
-      "link": "https://greenwald.substack.com/p/the-ongoing-death-of-free-speech"
-    },
-    {
-      "title": "Hackers Sponsored by Russia and North Korea Are Targeting COVID-19 Researchers",
-      "source": "Ars Technica",
-      "date": "Nov 13, 2020",
-      "description": "Three nation-state-sponsored groups are targeting organizations throughout the world.",
-      "link": "https://arstechnica.com/information-technology/2020/11/hackers-sponsored-by-russia-and-north-korea-are-targeting-covid-19-researchers/"
-    },
-    {
-      "title": "Biden, the Media and CIA Labeled the Hunter Biden Emails 'Russian Disinformation.' There Is Still No Evidence.",
-      "source": "Substack",
-      "date": "Nov 12, 2020",
-      "description": "The same factions that constantly claim to abhor Fake News and disinformation continue to be the most aggressive and shameless propagators of it -- especially the media.",
-      "link": "https://greenwald.substack.com/p/biden-the-media-and-cia-labeled-the"
-    },
-    {
-      "title": "Measles Surging as COVID-19 Curbs Disrupt Vaccinations",
-      "source": "Reuters",
-      "date": "Nov 12, 2020",
-      "description": "Measles surged to infect almost 870,000 people across the world in 2019, the worst figures in almost a quarter of a century as vaccination levels fell below critical levels, a report said on Thursday.",
-      "link": "https://www.reuters.com/article/us-health-measles-global/measles-surging-as-covid-19-curbs-disrupt-vaccinations-idUSKBN27S2TC"
-    },
-    {
-      "title": "US Healthcare on Brink as COVID-19 Hospitalizations Hit All-Time High",
-      "source": "Ars Technica",
-      "date": "Nov 11, 2020",
-      "description": "There's a 'very dark winter' ahead as hospitals struggle to cope and cases keep rising.",
-      "link": "https://arstechnica.com/science/2020/11/us-healthcare-on-brink-as-covid-19-hospitalizations-hit-all-time-high/"
-    },
-    {
-      "title": "The U.S. Inability to Count Votes Is a National Disgrace. And Dangerous.",
-      "source": "Substack",
-      "date": "Nov 4, 2020",
-      "description": "Nations far poorer and less technologically advanced have no problem holding quick, efficient elections. Distrust in U.S. outcomes is dangerous but rational.",
-      "link": "https://greenwald.substack.com/p/the-us-inability-to-count-votes-is"
-    },
-    {
-      "title": "CNN Is Just the Latest News Outlet to Prove Deliberate Lying Is Not an Impediment to Employment",
-      "source": "Substack",
-      "date": "Nov 2, 2020",
-      "description": "Former Trump DHS official, now CNN analyst, Miles Taylor got caught blatantly lying on CNN's airwaves to host Anderson Cooper, but The Most Trusted Name In News™ doesn't mind at all.",
-      "link": "https://greenwald.substack.com/p/cnn-is-just-the-latest-news-outlet"
-    },
-    {
-      "title": "Article on Joe and Hunter Biden Censored by the Intercept",
-      "source": "Substack",
-      "date": "Oct 29, 2020",
-      "description": "An attempt to assess the importance of the known evidence, and a critique of media lies to protect their favored candidate, could not be published at The Intercept",
-      "link": "https://greenwald.substack.com/p/article-on-joe-and-hunter-biden-censored"
-    },
-    {
-      "title": "U.S. Reports More Than 100,000 COVID-19 Cases for Seventh Day in a Row",
-      "source": "Reuters",
-      "date": "Nov 10, 2020",
-      "description": "The United States reported a record number of new COVID-19 cases for the seventh day in a row on Tuesday, according to a Reuters tally, while the number of deaths surged to their highest daily count since August.",
-      "link": "https://www.reuters.com/article/us-health-coronavirus-usa-cases/u-s-reports-more-than-100000-covid-19-cases-for-seventh-day-in-a-row-idUSKBN27R09T"
-    },
-    {
-      "title": "One in Five COVID-19 Patients Develop Mental Illness Within 90 Days - Study",
-      "source": "Reuters",
-      "date": "Nov 10, 2020",
-      "description": "Many COVID-19 survivors are likely to be at greater risk of developing mental illness, psychiatrists said on Monday, after a large study found 20% of those infected with the coronavirus are diagnosed with a psychiatric disorder within 90 days.",
-      "link": "https://www.reuters.com/article/health-coronavirus-mental-illness-int-idUSKBN27P35N"
-    },
-    {
-      "title": "The Latest Covid Vaccine Results, Deciphered",
-      "source": "Wired",
-      "date": "Nov 10, 2020",
-      "description": "Reporting on the big announcement from Pfizer and BioNTech has been a little off the mark. Here's what we really know right now.",
-      "link": "https://www.wired.com/story/the-latest-covid-vaccine-results-deciphered/"
-    },
-    {
-      "title": "Secular Modernity Under Theocratic Assault",
-      "source": "Quillette",
-      "date": "Nov 10, 2020",
-      "description": "Professor Leszek Kołakowski, one of the great Polish intellectual dissidents from the Stalinist period, liked to say that when he debated with apologists for the system, he often found himself almost on the losing side. Kołakowski hastened to add that this fact did not owe to the superior arguments …",
-      "link": "https://quillette.com/2020/11/11/secular-modernity-under-theocratic-assault/"
-    },
-    {
-      "title": "Everything You Need to Know About Energy",
-      "source": "Wired",
-      "date": "Nov 10, 2020",
-      "description": "We'll talk about the different types—kinetic energy, electrical potential energy, etc.—and different sources, from fossil fuels to solar.",
-      "link": "https://www.wired.com/story/everything-you-need-to-know-about-energy/"
-    },
-    {
-      "title": "Renewable Power Represents Almost 90% of Total Global Power Capacity Added in 2020",
-      "source": "TechCrunch",
-      "date": "Nov 10, 2020",
-      "description": "Bucking the slowdown in most of the power sector caused by responses to the COVID-19 pandemic, renewable energy actually grew in 2020, and will represent about 90% of the total power capacity added for the year, according to the International Energy Agency. A surge in new projects from China and th…",
-      "link": "https://techcrunch.com/2020/11/10/renewable-power-represents-almost-90-of-total-global-power-capacity-added-in-2020/"
-    },
-    {
-      "title": "America Has Serious Problems. It's Time to Stop Blaming Them on 'Trumpism'",
-      "source": "Quillette",
-      "date": "Nov 10, 2020",
-      "description": "Donald Trump may have been defeated in his quest for re-election. But not so the shadowy ideology he supposedly champions. 'Even in defeat, the embers of Trumpism still burn in the Republican Party,' declares the Washington Post. 'Trumpism wasn't repudiated,' warns a New York Times columnist. 'Trump…",
-      "link": "https://quillette.com/2020/11/09/america-has-serious-problems-its-time-to-stop-blaming-them-on-trumpism/"
-    },
-    {
-      "title": "U.S. Crosses 10 Million COVID-19 Cases as Third Wave of Infections Surges",
-      "source": "Reuters",
-      "date": "Nov 9, 2020",
-      "description": "The United States became the first nation worldwide since the pandemic began to surpass 10 million coronavirus infections, according to a Reuters tally on Sunday, as the third wave of the COVID-19 virus surges across the nation.",
-      "link": "https://www.reuters.com/article/BigStory12/idUSKBN27P00U"
-    },
-    {
-      "title": "Big Banks Are at the Front & Center of Money Laundering of Over $2 Trillion",
-      "source": "Medium",
-      "date": "Sep 21, 2020",
-      "description": "International Consortium of Investigative Journalists (ICIJ) has exposed a multi-trillion dollar money laundering scandal",
-      "link": "https://medium.com/technicity/big-banks-are-at-the-front-center-of-money-laundering-of-over-2-trillion-299feea4c58e"
-    },
-    {
-      "title": "Gender Activists Are Trying to Cancel My Book. Why Is Silicon Valley Helping Them?",
-      "source": "Quillette",
-      "date": "Nov 7, 2020",
-      "description": "The day after I tweeted about the ongoing attempts to block sales of my book, Irreversible Damage: The Transgender Craze Seducing Our Daughters, I was stuck on the phone with my parents' real estate agent. 'How's your book going?' she wanted to know. 'Is there a lot of controversy?' I know it's fash…",
-      "link": "https://quillette.com/2020/11/07/gender-activists-are-trying-to-cancel-my-book-why-is-silicon-valley-helping-them/"
-    },
-    {
-      "title": "The Batteries of the Future Are Weightless and Invisible",
-      "source": "Wired",
-      "date": "Nov 6, 2020",
-      "description": "There's a renaissance underway in structural battery research, which aims to build energy storage into the very devices and vehicles they power.",
-      "link": "https://www.wired.com/story/the-batteries-of-the-future-are-weightless-and-invisible/"
-    },
-    {
-      "title": "San Diego's Spying Streetlights Stuck Switched 'On,' Despite Directive",
-      "source": "Ars Technica",
-      "date": "Nov 6, 2020",
-      "description": "Sometimes, sharing a power supply is a little too efficient.",
-      "link": "https://arstechnica.com/tech-policy/2020/11/san-diegos-spying-streetlights-stuck-switched-on-despite-directive/"
-    },
-    {
-      "title": "US Government Continues Encryption War",
-      "source": "PrivacyTools",
-      "date": "Nov 6, 2020",
-      "description": "Wars can be fought in the real world but there is also a virtual battlefield - and it is just as harmful. The Lawful Access to Encrypted Data Act is the latest attempt to access people's encrypted data and it serves as another reinforcement. This type of 'warrant-proof' encryption adds",
-      "link": "https://blog.privacytools.io/us-government-continues-encryption-war/"
-    },
-    {
-      "title": "U.S. Breaks Covid-19 Record Again With Over 110,000 New Cases on Thursday",
-      "source": "Gizmodo",
-      "date": "Nov 6, 2020",
-      "description": "The U.S. has broken its own record for daily cases of covid-19, with 116,225 new cases on Thursday, according to the Covid Tracking Project, up from the previous record of 103,087 new cases on Wednesday. The country also identified 1,124 new deaths from coronavirus on Thursday, bringing the total to…",
-      "link": "https://gizmodo.com/u-s-breaks-covid-19-record-again-with-over-110-000-new-1845591670"
-    },
-    {
-      "title": "Voters Rejecting the War on Drugs Is a Win for Public Health",
-      "source": "Wired",
-      "date": "Nov 5, 2020",
-      "description": "On Tuesday, several states passed ballot measures to relax drug laws. That's not just a criminal justice victory.",
-      "link": "https://www.wired.com/story/drug-reform-votes-public-health/"
-    },
-    {
-      "title": "U.S. Breaks Record With Over 100,000 New Covid-19 Cases in Single Day",
-      "source": "Gizmodo",
-      "date": "Nov 5, 2020",
-      "description": "The U.S. recorded over 100,000 new cases of covid-19 on Wednesday, according to the Covid Tracking Project. The shockingly high daily case count is a grim milestone that public health experts warn may be surpassed in the coming days and weeks.",
-      "link": "https://gizmodo.com/u-s-breaks-record-with-over-100-000-new-covid-19-cases-1845579609"
-    },
-    {
-      "title": "Cannabis Legalization Measures Set to Pass in 5 States",
-      "source": "TechCrunch",
-      "date": "Nov 4, 2020",
-      "description": "Cannabis legalization was on five state ballots yesterday and ran the table. Voters in Oregon, where cannabis is already legal, also approved a measure addressing street drugs and another that sought to legalize psychedelic mushrooms' therapeutic use. Of the five states that voted on cannabis…",
-      "link": "https://techcrunch.com/2020/11/04/cannabis-legalization-measures-set-to-pass-in-5-states/"
-    },
-    {
-      "title": "Psilocybin Therapy 4 Times More Effective Than Antidepressants, Study Finds",
-      "source": "New Atlas",
-      "date": "Nov 4, 2020",
-      "description": "A new study is presenting the first published data from preliminary human trials investigating the effect of psilocybin-assisted psychotherapy to treat major depressive disorder (MDD). The incredibly positive results have been described as just a 'taste of things to come' with larger a Phase 2…",
-      "link": "https://newatlas.com/health-wellbeing/psilocybin-therapy-major-depression-trial-results-johns-hopkins/"
     }
   ]
 }
