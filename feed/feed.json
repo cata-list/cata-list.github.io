@@ -3,9 +3,205 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "12/11/2020, 11:30:21 AM",
-  "id": "eSDgQJl5K8OPGFekfOXc7",
+  "date": "12/22/2020, 2:27:33 PM",
+  "id": "SedjILhLP76096BF-S9MT",
   "articles": [
+    {
+      "title": "'Forever Chemicals' Pollute Water From Alaska to Florida",
+      "source": "The Guardian",
+      "date": "Dec 22, 2020",
+      "description": "Whichever state you are in, there could be harmful PFAS chemicals in water near you",
+      "link": "https://www.theguardian.com/us-news/2020/dec/22/forever-chemicals-pollute-water-dozens-of-sites-in-every-us-state"
+    },
+    {
+      "title": "Microplastics Revealed in the Placentas of Unborn Babies",
+      "source": "The Guardian",
+      "date": "Dec 22, 2020",
+      "description": "Health impact is unknown but scientists say particles may cause long-term damage to foetuses",
+      "link": "https://www.theguardian.com/environment/2020/dec/22/microplastics-revealed-in-placentas-unborn-babies"
+    },
+    {
+      "title": "We Had to Pass a Law to Stop Telecom Monopolies From Charging You 'Rental Fees' for Things You Already Own",
+      "source": "Techdirt",
+      "date": "Dec 22, 2020",
+      "description": "For much of the last few years, broadband customers have been complaining that Frontier Communications, the nation's third-biggest telco, had been charging its customers a rental fee for modems they already owned. Normally, you're supposed...",
+      "link": "https://www.techdirt.com/articles/20201221/07075845926/we-had-to-pass-law-to-stop-telecom-monopolies-charging-you-rental-fees-things-you-already-own.shtml"
+    },
+    {
+      "title": "A Peculiar Kind of Racist Patriarchy",
+      "source": "Quillette",
+      "date": "Dec 21, 2020",
+      "description": "We are frequently told by commentators and theorists on the progressive and liberal Left that we live in a systemically racist and patriarchal society. The belief that Western societies privilege white men and oppress people of color, women, and LGBT citizens is especially popular within academic in…",
+      "link": "https://quillette.com/2020/12/22/a-peculiar-kind-of-racist-patriarchy/"
+    },
+    {
+      "title": "UK Coronavirus Variant May Be More Able to Infect Children: Scientists",
+      "source": "Reuters",
+      "date": "Dec 21, 2020",
+      "description": "A new variant of the coronavirus spreading rapidly in Britain carries mutations that could mean children are as susceptible to becoming infected with it as adults - unlike previous strains, scientists said on Monday.",
+      "link": "https://www.reuters.com/article/us-health-coronavirus-variant-children-idUSKBN28V2F5"
+    },
+    {
+      "title": "Hospital CEOs Have Gotten Rich Cutting Staff and Supplies. Now They're Not Ready for the Next Wave.",
+      "source": "The Intercept",
+      "date": "Dec 20, 2020",
+      "description": "Years of understaffing nurses and health care workers have consequences, experts say.",
+      "link": "https://theintercept.com/2020/12/20/covid-hospital-ceos-nurses/"
+    },
+    {
+      "title": "Second Hacking Team Was Targeting SolarWinds at Time of Big Breach",
+      "source": "Reuters",
+      "date": "Dec 19, 2020",
+      "description": "A second hacking group, different from the suspected Russian team now associated with the major SolarWinds data breach, also targeted the company's products earlier this year, according to a security research blog by Microsoft.",
+      "link": "https://www.reuters.com/article/us-usa-cyber-solarwinds/second-hacking-team-was-targeting-solarwinds-at-time-of-big-breach-idUSKBN28T0U1"
+    },
+    {
+      "title": "Russia's SolarWinds Hack Is a Historic Mess",
+      "source": "Wired",
+      "date": "Dec 19, 2020",
+      "description": "All the most important stories about the biggest hack in years.",
+      "link": "https://www.wired.com/story/russia-solarwinds-hack-roundup/"
+    },
+    {
+      "title": "UK Says New Coronavirus Variant Up to 70% More Transmissible",
+      "source": "Reuters",
+      "date": "Dec 19, 2020",
+      "description": "Following are details of a new coronavirus variant that has been identified in the United Kingdom, given at a news conference on Saturday by Prime Minister Boris Johnson, Patrick Vallance, the UK's chief scientific adviser, and Chris Whitty, the chief medical adviser.",
+      "link": "https://www.reuters.com/article/health-coronavirus-britain-variant-detai-idUSL8N2IZ0H7"
+    },
+    {
+      "title": "Battery Prices Have Fallen 88 Percent Over the Last Decade",
+      "source": "Ars Technica",
+      "date": "Dec 18, 2020",
+      "description": "Cheaper batteries are making it easier to fight climate change.",
+      "link": "https://arstechnica.com/science/2020/12/battery-prices-have-fallen-88-percent-over-the-last-decade/"
+    },
+    {
+      "title": "Wildfire Smoke Is Loaded With Microbes. Is That Dangerous?",
+      "source": "Wired",
+      "date": "Dec 17, 2020",
+      "description": "Researchers are putting out a call to study the potential effects of bacteria- and fungi-filled haze on human health.",
+      "link": "https://www.wired.com/story/wildfire-smoke-is-loaded-with-microbes-is-that-dangerous/"
+    },
+    {
+      "title": "A Successful Experiment Gets Us One Step Closer to a Quantum Internet",
+      "source": "Engadget",
+      "date": "Dec 17, 2020",
+      "description": "This week, a joint team of researchers made up of scientists from Caltech, the Department of Energy's Fermilab, AT&T, Harvard University, NASA's Jet Propulsion Lab and the University of Calgary announced that they successfully teleported qubits of photons across approximately 27 miles of fiber-optic…",
+      "link": "https://www.engadget.com/fermilab-quantum-teleportation-report-221002594.html"
+    },
+    {
+      "title": "Instagram Is Using False 'Fact-Checking' to Protect Joe Biden's Crime Record From Criticisms",
+      "source": "Substack",
+      "date": "Dec 17, 2020",
+      "description": "The Facebook-owned platform's denunciation of a well-established view of Biden shows the dangers of internet censorship and the fraudulent use of 'fact-checking.'",
+      "link": "https://greenwald.substack.com/p/instagram-is-using-false-fact-checking"
+    },
+    {
+      "title": "Hackers Tied to Russia Hit Nuclear Agency; Microsoft Is Exposed",
+      "source": "Bloomberg",
+      "date": "Dec 17, 2020",
+      "description": "The U.S. nuclear weapons agency and at least three states were hacked as part of a suspected Russian cyber-attack that struck a number of federal government agencies, according to people with knowledge of the matter, indicating widening reach of one of the biggest cybersecurity breaches in recent memory.",
+      "link": "https://www.bloomberg.com/news/articles/2020-12-17/u-s-states-were-also-hacked-in-suspected-russian-attack"
+    },
+    {
+      "title": "'We Are Slowly Being poisoned.' How Toxic Fumes Seep Into the Air You Breathe on Planes",
+      "source": "Los Angeles Times",
+      "date": "Dec 17, 2020",
+      "description": "A Times investigation found that vapors from oil and other fluids seep into planes with alarming frequency across all airlines, at times creating chaos and confusion.",
+      "link": "https://www.latimes.com/projects/toxic-chemicals-planes-covid-19-travel-woes/"
+    },
+    {
+      "title": "Ella Adoo-Kissi-Debrah: Air Pollution a Factor in Girl's Death, Inquest Finds",
+      "source": "BBC News",
+      "date": "Dec 16, 2020",
+      "description": "Ella Adoo-Kissi-Debrah was 'living on a knife edge' before her fatal asthma attack, the inquest heard.",
+      "link": "https://www.bbc.com/news/uk-england-london-55330945"
+    },
+    {
+      "title": "On Activist Scholarship: An Interview With Helen Pluckrose",
+      "source": "Quillette",
+      "date": "Dec 16, 2020",
+      "description": "In recent years, free speech and inquiry have come under attack on college campuses, ethical relativism has spread, and demands to decolonize syllabi and rid them of canonical white male texts and thinkers have become increasingly common. Hostility to reason, objectivity, and Enlightenment universal…",
+      "link": "https://quillette.com/2020/12/16/on-activist-scholarship-an-interview-with-helen-pluckrose/"
+    },
+    {
+      "title": "Cops Are Getting a New Tool for Family-Tree Sleuthing",
+      "source": "Wired",
+      "date": "Dec 16, 2020",
+      "description": "Verogen's push into public crime labs with genetic genealogy may help solve more cold cases, but it raises concerns about DNA data collection.",
+      "link": "https://www.wired.com/story/cops-are-getting-a-new-tool-for-family-tree-sleuthing/"
+    },
+    {
+      "title": "Japanese Probe Returned More Asteroid Than Expected—Including Pebbles and Gas",
+      "source": "Gizmodo",
+      "date": "Dec 15, 2020",
+      "description": "It looks like coffee beans in a grinder, but it's actually bits of dust and pebbles scooped up from the surface of asteroid Ryugu. The Japanese space agency confirmed the presence of these precious samples earlier today, following the recent return to Earth of its Hayabusa2 spacecraft.",
+      "link": "https://gizmodo.com/japanese-probe-returned-more-asteroid-than-expected-inc-1845887095"
+    },
+    {
+      "title": "Removing Space Debris Requires Action and Caution",
+      "source": "TechCrunch",
+      "date": "Dec 15, 2020",
+      "description": "We hope regulators and the commercial players can work together to find a lasting solution in the relatively near future, rather than waiting for a catastrophic failure before taking action.",
+      "link": "https://techcrunch.com/2020/12/15/removing-space-debris-requires-action-and-caution/"
+    },
+    {
+      "title": "Journalism's Ivory Towers",
+      "source": "Quillette",
+      "date": "Dec 15, 2020",
+      "description": "In a recent essay entitled 'The Resentment That Never Sleeps,' New York Times columnist Thomas B. Edsall explains how a lowering of social status among non-college-educated white Americans has increased that demographic's anxiety and helped fuel the populism that made possible Donald Trump's rise to…",
+      "link": "https://quillette.com/2020/12/15/journalisms-ivory-towers/"
+    },
+    {
+      "title": "Chemicals in Plastics Are a Global Health Threat, Says New Report",
+      "source": "Gizmodo",
+      "date": "Dec 15, 2020",
+      "description": "A new scientific report out Tuesday concludes that plastics and the chemicals they leave behind in the environment are a major threat to human health. It identifies over 140 chemicals readily found in plastic products that can harm our bodies, particularly through interfering with the endocrine syst…",
+      "link": "https://gizmodo.com/chemicals-in-plastics-are-a-global-health-threat-says-1845886426"
+    },
+    {
+      "title": "Suspected Russian Hackers Spied on U.S. Treasury Emails - Sources",
+      "source": "Reuters",
+      "date": "Dec 14, 2020",
+      "description": "Hackers believed to be working for Russia have been monitoring internal email traffic at the U.S. Treasury and Commerce departments, according to people familiar with the matter, adding they feared the hacks uncovered so far may be the tip of the iceberg.",
+      "link": "https://www.reuters.com/article/us-usa-cyber-amazon-com-exclsuive/u-s-treasury-breached-by-hackers-backed-by-foreign-government-sources-idUSKBN28N0PG"
+    },
+    {
+      "title": "No One Knows How Deep Russia's Hacking Rampage Goes",
+      "source": "Wired",
+      "date": "Dec 14, 2020",
+      "description": "A supply chain attack against IT company SolarWinds has exposed as many as 18,000 companies to Cozy Bear's attacks.",
+      "link": "https://www.wired.com/story/russia-solarwinds-supply-chain-hack-commerce-treasury/"
+    },
+    {
+      "title": "'Amazing' Hypocrisy: Democrats Make Wreck of Covid-19 Relief Negotiations",
+      "source": "Substack",
+      "date": "Dec 14, 2020",
+      "description": "Democrats stonewalled all year on a new pandemic relief package. Now they're proposing a new plan that undercuts even Republican proposals, and screws everyone but - get this - defense contractors",
+      "link": "https://taibbi.substack.com/p/amazing-hypocrisy-democrats-make"
+    },
+    {
+      "title": "The YouTube Ban Is Un-American, Wrong, and Will Backfire",
+      "source": "Substack",
+      "date": "Dec 11, 2020",
+      "description": "Silicon Valley couldn't have designed a better way to further radicalize Trump voters",
+      "link": "https://taibbi.substack.com/p/the-youtube-ban-is-un-american-wrong"
+    },
+    {
+      "title": "U.S. Schools Are Buying Phone-Hacking Tech That the FBI Uses to Investigate Terrorists",
+      "source": "Gizmodo",
+      "date": "Dec 11, 2020",
+      "description": "A Gizmodo investigation has found that schools in the U.S. are purchasing phone surveillance tools from Cellebrite and companies that offer similar tools just four years after the FBI used it to crack a terrorism suspect's iPhone.",
+      "link": "https://gizmodo.com/u-s-schools-are-buying-phone-hacking-tech-that-the-fbi-1845862393"
+    },
+    {
+      "title": "In Pictures: How Much Plastic Are You Eating?",
+      "source": "Al Jazeera",
+      "date": "Dec 11, 2020",
+      "description": "Plastic production surged in the last 50 years, and we could be ingesting equivalent of a credit card of plastic a week.",
+      "link": "https://www.aljazeera.com/gallery/2020/12/11/in-pictures-how-much-plastic-are-you-eating"
+    },
     {
       "title": "Hackers Accessed Covid Vaccine Data Through the EU Regulator",
       "source": "Wired",
@@ -38,7 +234,7 @@
       "title": "Hunter Biden Tax Probe Examining Chinese Business Dealings",
       "source": "Associated Press",
       "date": "Dec 10, 2020",
-      "description": "WASHINGTON (AP) — The Justice Department is investigating the finances of President-elect Joe Biden's son, including scrutinizing some of his Chinese business dealings and other transactions",
+      "description": "",
       "link": "https://apnews.com/article/hunter-biden-federal-tax-investigation-87c200c919aa61396b5d43077bc5b0ff"
     },
     {
@@ -120,7 +316,7 @@
     },
     {
       "title": "Exclusive: U.S. Air Pollution Monitoring Network Falling Into Disrepair - GAO Report",
-      "source": "Reuters",
+      "source": "U.S.",
       "date": "Dec 7, 2020",
       "description": "The U.S. air pollution monitoring network has fallen into disrepair after years of budget cuts and neglect, leaving tens of millions of Americans vulnerable to undetected bad air quality from events like wildfires to industrial pollution, according to a report by the investigative...",
       "link": "https://www.reuters.com/article/usa-pollution-airmonitors-gao-idUSKBN28H1V5"
@@ -509,202 +705,6 @@
       "date": "Nov 25, 2020",
       "description": "How did we travel so far from the original vision of the internet as the one place humans could communicate and organize free of state and corporate control?",
       "link": "https://greenwald.substack.com/p/video-interview-with-edward-snowden"
-    },
-    {
-      "title": "Demanding Silicon Valley Suppress 'Hyper-Partisan Sites' in Favor of 'Mainstream News' (The NYT) Is a Fraud",
-      "source": "Substack",
-      "date": "Nov 25, 2020",
-      "description": "The corporate news organizations masquerading as reliable and non-partisan are, in fact, as hyper-partisan as any sites on the internet, and spread as much misinformation.",
-      "link": "https://greenwald.substack.com/p/demanding-silicon-valley-suppress"
-    },
-    {
-      "title": "Meet the Censored: Andre Damon",
-      "source": "Substack",
-      "date": "Nov 25, 2020",
-      "description": "Increased content moderation has been sold as a tool to control the far right, but the World Socialist Web Site was among the first to sound the alarm",
-      "link": "https://taibbi.substack.com/p/meet-the-censored-andre-damon"
-    },
-    {
-      "title": "Why I Had to Leave the Guardian",
-      "source": "UnHerd",
-      "date": "Nov 25, 2020",
-      "description": "If you were bullied by 338 colleagues, what would you do?",
-      "link": "https://unherd.com/2020/11/why-i-had-to-leave-the-guardian/"
-    },
-    {
-      "title": "How America Came Apart",
-      "source": "UnHerd",
-      "date": "Sep 18, 2020",
-      "description": "A people with no shared history will find it very hard to keep a lid on disorder and violence",
-      "link": "https://unherd.com/2020/09/can-america-hold-apart/"
-    },
-    {
-      "title": "'Cultural Appropriation' Is American Cultural Imperialism",
-      "source": "UnHerd",
-      "date": "Sep 4, 2020",
-      "description": "The US culture wars are intruding in places they don't belong",
-      "link": "https://unherd.com/2020/09/cultural-appropriation-is-american-cultural-imperialism/"
-    },
-    {
-      "title": "Has Trans Activism Gone Too Far?",
-      "source": "UnHerd",
-      "date": "Nov 22, 2019",
-      "description": "It's time we were allowed a properly nuanced discussion on gender issues",
-      "link": "https://unherd.com/2019/11/has-trans-activism-gone-too-far/"
-    },
-    {
-      "title": "Will Maths Succumb to the Woke Wave?",
-      "source": "UnHerd",
-      "date": "Oct 4, 2019",
-      "description": "Students are being imprisoned in the lies of our age",
-      "link": "https://unherd.com/2019/10/will-maths-succumb-to-the-woke-wave/"
-    },
-    {
-      "title": "Antifa's Attack on the Truth",
-      "source": "UnHerd",
-      "date": "Jul 5, 2019",
-      "description": "Hostile actors are conspiring to create false narratives",
-      "link": "https://unherd.com/2019/07/antifas-attack-on-the-truth/"
-    },
-    {
-      "title": "Why Titania Is Perfect for Our Times",
-      "source": "UnHerd",
-      "date": "Mar 8, 2019",
-      "description": "The avenging SJW angel, Titania McGrath, has disrupted a tired genre",
-      "link": "https://unherd.com/2019/03/why-titania-is-perfect-for-our-times/"
-    },
-    {
-      "title": "Why Is Scientific Illiteracy So Acceptable?",
-      "source": "Quillette",
-      "date": "Nov 23, 2020",
-      "description": "In the mid-1980s, when I taught a Physics for Poets class at Yale University, I was dumbstruck when I gave the students a quiz problem to estimate the total amount of water flushed in all the toilets in the US in one 24-hour period and I started to grade the quiz. In order to estimate this, you have…",
-      "link": "https://quillette.com/2020/11/23/why-is-scientific-illiteracy-so-acceptable/"
-    },
-    {
-      "title": "Retracting a Controversial Paper Won't Help Female Scientists",
-      "source": "Quillette",
-      "date": "Nov 23, 2020",
-      "description": "Imagine yourself as a newly hired female assistant professor and the delight you feel when you learn that your article, examining over 222 million academic papers, has just been accepted at one of the top science journals. Now imagine your response when you discover that a fellow female academic is …",
-      "link": "https://quillette.com/2020/11/23/retracting-a-controversial-paper-wont-help-female-scientists/"
-    },
-    {
-      "title": "This Squishy 3D-Printed Human Heart Feels Like the Real Thing",
-      "source": "Wired",
-      "date": "Nov 23, 2020",
-      "description": "A clever technique allows scientists to scan a heart and reconstruct it in a soup of gelatin. It's like making jello, only way more useful for surgeons.",
-      "link": "https://www.wired.com/story/3d-printed-human-heart-feels-like-the-real-thing/"
-    },
-    {
-      "title": "Psilocybin & Migraine: First of Its Kind Trial Reports Promising Results",
-      "source": "New Atlas",
-      "date": "Nov 22, 2020",
-      "description": "A first-of-its-kind exploratory study, led by researchers from Yale School of Medicine, has found a single dose of the psychedelic psilocybin can reduce migraine frequency by 50 percent for a least two weeks. The preliminary trial was small, with follow-up work necessary to validate the results,…",
-      "link": "https://newatlas.com/health-wellbeing/psilocybin-migraine-psychedelic-clinical-trial-promising-results/"
-    },
-    {
-      "title": "The Fragility of Modern Education in the Time of COVID-19",
-      "source": "Quillette",
-      "date": "Nov 22, 2020",
-      "description": "Modern education is arguably the most massive feat of social engineering ever attempted by humanity and one of the most important, when effective. Academic competencies at the end of schooling can have life-long influences on employability, wages, and the ability to advance in one's career.1,2,3,4 T…",
-      "link": "https://quillette.com/2020/11/22/the-fragility-of-modern-education-in-the-time-of-covid/"
-    },
-    {
-      "title": "Kin, Tribes, and the Dark Side of Identity",
-      "source": "Quillette",
-      "date": "Nov 22, 2020",
-      "description": "'We should poison their water holes!' This was the first thing my father said when I called him after planes hit the World Trade Center where I worked. My dad was a 1960s cultural liberal and pacifist, who had opposed every war our country had fought. The moment he felt that my life was in danger, h…",
-      "link": "https://quillette.com/2020/11/22/kin-tribes-and-the-dark-side-of-identity/"
-    },
-    {
-      "title": "Does Racism Explain Black Disadvantage?",
-      "source": "Quillette",
-      "date": "Nov 22, 2020",
-      "description": "A foundational tenet of the Black Lives Matter and similar racial justice movements is that gaps between blacks and whites on many socio-economic measures are produced primarily by racism. Racial inequalities in educational attainment, financial success, social status, crime, and health are thereby …",
-      "link": "https://quillette.com/2020/11/15/does-racism-explain-black-disadvantage/"
-    },
-    {
-      "title": "Joe Biden's Silence on Ending the Drone Wars",
-      "source": "The Intercept",
-      "date": "Nov 22, 2020",
-      "description": "With scant comments about U.S. assassination programs, there are indications that Biden would keep the drone wars around.",
-      "link": "https://theintercept.com/2020/11/22/biden-drones-endless-wars/"
-    },
-    {
-      "title": "What if Instead of Calling People Out, We Called Them In?",
-      "source": "The New York Times",
-      "date": "Nov 19, 2020",
-      "description": "Prof. Loretta J. Ross is combating cancel culture with a popular class at Smith College.",
-      "link": "https://www.nytimes.com/2020/11/19/style/loretta-ross-smith-college-cancel-culture.html"
-    },
-    {
-      "title": "Police in Mississippi to Pilot a Program to Live-Stream Amazon Ring Cameras",
-      "source": "Mozilla Foundation",
-      "date": "Nov 19, 2020",
-      "description": "The police surveillance center in Jackson, Mississippi, will be conducting a 45-day pilot program to live stream the security cameras, including Amazon Ring cameras, of participating residents.",
-      "link": "https://foundation.mozilla.org/en/blog/police-mississippi-pilot-program-live-stream-amazon-ring-cameras/"
-    },
-    {
-      "title": "Robots Invade the Construction Site",
-      "source": "Wired",
-      "date": "Nov 20, 2020",
-      "description": "Boosted by advances in sensors and artificial intelligence, a new generation of machines is automating a tech-averse industry.",
-      "link": "https://www.wired.com/story/robots-invade-construction-site/"
-    },
-    {
-      "title": "This 2-Acre Vertical Farm Out-Produces 720 Acre 'Flat Farms'",
-      "source": "Forbes",
-      "date": "Nov 20, 2020",
-      "description": "95% less water. 99% less land. 400X more yield.",
-      "link": "https://www.forbes.com/sites/johnkoetsier/2020/11/20/this-2-acre-vertical-farm-out-produces-750-acre-flat-farms/"
-    },
-    {
-      "title": "Deep Frozen Arctic Microbes Are Waking Up",
-      "source": "Scientific American",
-      "date": "Nov 20, 2020",
-      "description": "Thawing permafrost is releasing microorganisms, with consequences that are still largely unknown",
-      "link": "https://www.scientificamerican.com/article/deep-frozen-arctic-microbes-are-waking-up/"
-    },
-    {
-      "title": "'Extremely Aggressive' Internet Censorship Spreads in the World's Democracies",
-      "source": "University of Michigan News",
-      "date": "Nov 20, 2020",
-      "description": "The largest collection of public internet censorship data ever compiled shows that even citizens of the world's freest countries are not safe from internet censorship. A University of Michigan team used Censored Planet, an automated censorship tracking...",
-      "link": "https://news.umich.edu/extremely-aggressive-internet-censorship-spreads-in-the-worlds-democracies/"
-    },
-    {
-      "title": "Victimhood or Development?",
-      "source": "Quillette",
-      "date": "Nov 19, 2020",
-      "description": "On October 20th, Brown University professor of economics Glenn Loury and Columbia University professor of linguistics John McWhorter were joined on Loury's Bloggingheads podcast The Glenn Show by Shel",
-      "link": "https://quillette.com/2020/11/19/victimhood-or-development/"
-    },
-    {
-      "title": "Meet the Censored: Ford Fischer",
-      "source": "Substack",
-      "date": "Nov 19, 2020",
-      "description": "The videographer is this week's entrant in a growing club of the digitally deleted",
-      "link": "https://taibbi.substack.com/p/meet-the-censored-ford-fischer"
-    },
-    {
-      "title": "It's Time for America to Reckon With the Staggering Death Toll of the Post-9/11 Wars",
-      "source": "The Intercept",
-      "date": "Nov 19, 2020",
-      "description": "At least half a million people have been killed in the post-9/11 wars in Afghanistan, Iraq, and Pakistan, a new study by Brown University researchers finds.",
-      "link": "https://theintercept.com/2018/11/19/civilian-casualties-us-war-on-terror/"
-    },
-    {
-      "title": "The New Ruling Coalition: Opposition to Afghanistan Withdrawal Shows Its Key Factions",
-      "source": "Substack",
-      "date": "Nov 19, 2020",
-      "description": "An unholy union of the National Security State and the neocon-backed and corporate-funded Democratic Party are about to assume power: with media-supported internet censorship a key weapon.",
-      "link": "https://greenwald.substack.com/p/the-new-ruling-coalition-opposition"
-    },
-    {
-      "title": "Pandemic Villains: Allianz Global Investors",
-      "source": "Substack",
-      "date": "Nov 19, 2020",
-      "description": "How one of the world's biggest finance companies misread Covid-19 and cost pensioners billions",
-      "link": "https://taibbi.substack.com/p/pandemic-villains-allianz-global"
     }
   ]
 }
