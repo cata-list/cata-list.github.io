@@ -3,9 +3,177 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "12/22/2020, 2:27:33 PM",
-  "id": "SedjILhLP76096BF-S9MT",
+  "date": "12/29/2020, 1:35:47 PM",
+  "id": "4ZGybgnFIKySt8lhRjB4p",
   "articles": [
+    {
+      "title": "2020 Had Its Share of Memorable Hacks and Breaches. Here Are the Top 10",
+      "source": "Ars Technica",
+      "date": "Dec 28, 2020",
+      "description": "The past 12 months teaches us that, yes, attacks do only get better.",
+      "link": "https://arstechnica.com/information-technology/2020/12/2020-had-its-share-of-merorable-hacks-and-breaches-here-are-the-top-10/"
+    },
+    {
+      "title": "How Your Digital Trails Wind Up in the Police's Hands",
+      "source": "Wired",
+      "date": "Dec 28, 2020",
+      "description": "Phone calls. Web searches. Location tracks. Smart speaker requests. They've become crucial tools for law enforcement, while users often are unaware.",
+      "link": "https://www.wired.com/story/your-digital-trails-polices-hands/"
+    },
+    {
+      "title": "'I Was Never More Hated Than When I Tried to Be Honest'",
+      "source": "Quillette",
+      "date": "Dec 28, 2020",
+      "description": "Ralph Ellison, author of the timeless American classic Invisible Man, was among the most commanding black literary voices to emerge in the 20th century. It is a designation he would almost certainly have resented. Ellison didn't see his work through the prism of his racial identity but as a means of…",
+      "link": "https://quillette.com/2020/12/28/i-was-never-more-hated-than-when-i-tried-to-be-honest/"
+    },
+    {
+      "title": "Plastic Pipes Are Polluting Drinking Water Systems After Wildfires",
+      "source": "Ars Technica",
+      "date": "Dec 28, 2020",
+      "description": "And it's a risk in urban fires, too.",
+      "link": "https://arstechnica.com/science/2020/12/plastic-pipes-are-polluting-drinking-water-systems-after-wildfires/"
+    },
+    {
+      "title": "Thousands of Birds Starved to Death This Fall in the U.S. South",
+      "source": "Gizmodo",
+      "date": "Dec 28, 2020",
+      "description": "This past autumn, people all across the U.S. southwest were finding an astounding number of dead birds littered along roads, on golf courses, and in their own driveways. Some estimated that hundreds of thousands of the creatures perished. Months later, new findings are shedding a little more light o…",
+      "link": "https://earther.gizmodo.com/thousands-of-birds-starved-to-death-this-fall-in-the-u-1845956292"
+    },
+    {
+      "title": "The Threat of Authoritarianism in the U.S. Is Very Real, and Has Nothing to Do With Trump",
+      "source": "Substack",
+      "date": "Dec 28, 2020",
+      "description": "The COVID-driven centralization of economic power and information control in the hands of a few corporate monopolies poses enduring threats to political freedom.",
+      "link": "https://greenwald.substack.com/p/the-threat-of-authoritarianism-in"
+    },
+    {
+      "title": "Scientists Turn CO2 Into Jet Fuel",
+      "source": "Engadget",
+      "date": "Dec 27, 2020",
+      "description": "Scientists have turned CO2 into jet fuel, hinting at a future where aircraft could have net zero emissions without relying on electric motors.",
+      "link": "https://www.engadget.com/co2-converted-into-jet-fuel-224318943.html"
+    },
+    {
+      "title": "Fusion Energy Device Sets a Record by Running for 20 Seconds",
+      "source": "Engadget",
+      "date": "Dec 27, 2020",
+      "description": "A Korean fusion device has set a record by running for 20 seconds at 180 million degrees.",
+      "link": "https://www.engadget.com/kstar-fusion-device-sets-record-210817623.html"
+    },
+    {
+      "title": "On Sex and Gender, the New England Journal of Medicine Has Abandoned Its Scientific Mission",
+      "source": "Quillette",
+      "date": "Dec 27, 2020",
+      "description": "Two years ago, 'Titania McGrath,' whose satirical Twitter account regularly skewers the ideological excesses of social-justice culture, suggested that 'we should remove biological sex from birth certificates altogether to prevent any more mistakes.' The joke (obvious to those who follow the culture …",
+      "link": "https://quillette.com/2020/12/23/on-sex-and-gender-the-new-england-journal-of-medicine-has-abandoned-its-scientific-mission/"
+    },
+    {
+      "title": "Even Homer Gets Mobbed",
+      "source": "The Wall Street Journal",
+      "date": "Dec 27, 2020",
+      "description": "A Massachusetts school has banned 'The Odyssey.'",
+      "link": "https://www.wsj.com/articles/even-homer-gets-mobbed-11609095872"
+    },
+    {
+      "title": "She Noticed $200 Million Missing, Then She Was Fired",
+      "source": "ProPublica",
+      "date": "Dec 24, 2020",
+      "description": "Alice Stebbins was hired to fix the finances of California's powerful utility regulator. She was fired after finding $200 million for the state's deaf, blind and poor residents was missing.",
+      "link": "https://www.propublica.org/article/she-noticed-200-million-missing-then-she-was-fired"
+    },
+    {
+      "title": "SolarWinds Hack Infected Critical Infrastructure, Including Power Industry",
+      "source": "The Intercept",
+      "date": "Dec 24, 2020",
+      "description": "The companies involved used compromised software, but it's not clear if hackers entered their networks. Finding out could be difficult.",
+      "link": "https://theintercept.com/2020/12/24/solarwinds-hack-power-infrastructure/"
+    },
+    {
+      "title": "U.S. Cyber Agency Says SolarWinds Hackers Are 'Impacting' State, Local Governments",
+      "source": "Reuters",
+      "date": "Dec 24, 2020",
+      "description": "The U.S. cybersecurity agency said on Wednesday that a sprawling cyber espionage campaign made public earlier this month is affecting state and local governments, although it released few additional details.",
+      "link": "https://www.reuters.com/article/us-global-cyber-usa/u-s-cyber-agency-says-solarwinds-hackers-are-impacting-state-local-governments-idUSKBN28Y09L"
+    },
+    {
+      "title": "Meet the Censored: Olivia Katbi-Smith",
+      "source": "Substack",
+      "date": "Dec 23, 2020",
+      "description": "An activist for the Democratic Socialists for America tells of a cycle of bans",
+      "link": "https://taibbi.substack.com/p/meet-the-censored-olivia-katbi-smith"
+    },
+    {
+      "title": "Powerful Mobile Phone Surveillance Tool Operates in Obscurity Across the Country",
+      "source": "The Intercept",
+      "date": "Dec 23, 2020",
+      "description": "CellHawk helps law enforcement visualize large quantities of information collected by cellular towers and providers.",
+      "link": "https://theintercept.com/2020/12/23/police-phone-surveillance-dragnet-cellhawk/"
+    },
+    {
+      "title": "I Sued Blackwater for the Massacre of Iraqi Civilians. Trump Just Pardoned Those Convicted Killers.",
+      "source": "The Intercept",
+      "date": "Dec 23, 2020",
+      "description": "Trump's pardon of the Blackwater mercenaries who murdered 14 Iraqi civilians at Nisour Square shows the world what justice means in the United States.",
+      "link": "https://theintercept.com/2020/12/23/blackwater-massacre-iraq-pardons/"
+    },
+    {
+      "title": "Snowden and Assange Deserve Pardons. So Do the Whistleblowers Trump Imprisoned.",
+      "source": "The Intercept",
+      "date": "Dec 23, 2020",
+      "description": "Press freedom advocates must be careful not to indulge Trump's conspiracy theories while they lobby for whistleblower pardons.",
+      "link": "https://theintercept.com/2020/12/23/assange-snowden-whistleblower-pardons-espionage/"
+    },
+    {
+      "title": "With Biden's New Threats, the Russia Discourse Is More Reckless and Dangerous Than Ever",
+      "source": "Substack",
+      "date": "Dec 23, 2020",
+      "description": "The U.S. media demands inflammatory claims be accepted with no evidence, while hacking behavior routinely engaged in by the U.S. is depicted as aberrational.",
+      "link": "https://greenwald.substack.com/p/with-bidens-new-threats-the-russia"
+    },
+    {
+      "title": "Justice Dept. Accuses Walmart of Fueling Opioid Crisis",
+      "source": "The New York Times",
+      "date": "Dec 22, 2020",
+      "description": "The 160-page civil complaint alleges the retailer knew its system for detecting illegitimate prescriptions was inadequate.",
+      "link": "https://www.nytimes.com/2020/12/22/business/walmart-opioid-lawsuit.html"
+    },
+    {
+      "title": "Leaked Documents Show How China's Army of Paid Internet Trolls Helped Censor the Coronavirus",
+      "source": "ProPublica",
+      "date": "Dec 19, 2020",
+      "description": "As the coronavirus spread in China, the government stage-managed what appeared on the domestic internet to make the virus look less severe and the authorities more capable, according to thousands of leaked directives and other files.",
+      "link": "https://www.propublica.org/article/leaked-documents-show-how-chinas-army-of-paid-internet-trolls-helped-censor-the-coronavirus"
+    },
+    {
+      "title": "A Brief Global History of the War on Cannabis",
+      "source": "The MIT Press Reader",
+      "date": "Jan 23, 2020",
+      "description": "Prohibitionists around the world have long used rhetoric to associate the plant with violence and depravity.",
+      "link": "https://thereader.mitpress.mit.edu/a-brief-global-history-of-the-war-on-cannabis/"
+    },
+    {
+      "title": "Types of Dark Pattern",
+      "source": "Dark Patterns",
+      "date": "",
+      "description": "Dark Patterns have been categorised into 12 main types, including 'bait and switch', 'roach motel' and 'privacy zuckering'. All of them are manipulative techniques that aim to trick the user into doing something they didn't intend.",
+      "link": "https://darkpatterns.org/types-of-dark-pattern.html"
+    },
+    {
+      "title": "The Poison Found in Everyone, Even Unborn Babies – and Who Is Responsible for It",
+      "source": "The Guardian",
+      "date": "Dec 17, 2020",
+      "description": "Chemicals called PFAS and PFOS – known as forever chemicals – are in the blood of virtually every person on the planet. And they will only accumulate",
+      "link": "https://www.theguardian.com/commentisfree/2020/dec/17/dark-waters-pfas-ticking-chemical-time-bomb-in-your-blood"
+    },
+    {
+      "title": "DuPont and the Chemistry of Deception",
+      "source": "The Intercept",
+      "date": "Aug 11, 2015",
+      "description": "Internal documents reveal that DuPont long suspected C8 was harmful, yet continued to put the company's workers and the public at risk.",
+      "link": "https://theintercept.com/2015/08/11/dupont-chemistry-deception/"
+    },
     {
       "title": "'Forever Chemicals' Pollute Water From Alaska to Florida",
       "source": "The Guardian",
@@ -537,174 +705,6 @@
       "date": "Nov 14, 2015",
       "description": "It was one of many dangerous government experiments on US citizens in violation of the Nuremberg Code.",
       "link": "https://www.businessinsider.com/biological-agents-were-tested-on-the-new-york-city-subway-2015-11"
-    },
-    {
-      "title": "'One of the Largest Human Experiments in History' Was Conducted on Unsuspecting Residents of San Francisco",
-      "source": "Business Insider",
-      "date": "Jul 8, 2015",
-      "description": "For 20 years, the military secretly tested biological agents on the American public.",
-      "link": "https://www.businessinsider.com/the-military-tested-bacterial-weapons-in-san-francisco-2015-7"
-    },
-    {
-      "title": "The Heretical Impulse: Zamyatin and Orwell",
-      "source": "Quillette",
-      "date": "Dec 1, 2020",
-      "description": "I In a 1931 letter to Joseph Stalin, Russian novelist Yevgeny Zamyatin adopted a respectful tone by way of introduction: 'My name is probably known to you.' The author of We, the dystopian science fiction novel that influenced Aldous Huxley's Brave New World and George Orwell's Nineteen Eighty-Four…",
-      "link": "https://quillette.com/2020/12/01/the-heretical-impulse-zamyatin-and-orwell/"
-    },
-    {
-      "title": "Race and Social Panic at Haverford: A Case Study in Educational Dysfunction",
-      "source": "Quillette",
-      "date": "Dec 1, 2020",
-      "description": "'You have continued to stand as an individual that seems to turn a blind eye to the stuff that's going on, as a black woman that is in the [college] administration,' said the first-year Haverford College student. 'I came to this institution'—and here she pauses for a moment, apparently fighting back…",
-      "link": "https://quillette.com/2020/12/01/race-and-social-panic-at-haverford-a-case-study-in-educational-dysfunction/"
-    },
-    {
-      "title": "Elon Musk Says SpaceX Will Attempt Uncrewed Mars Flight in Two Years, Human Landing in Four to Six",
-      "source": "TechCrunch",
-      "date": "Dec 1, 2020",
-      "description": "SpaceX founder and CEO Elon Musk was given an award from media giant Axel Springer on Tuesday, and he sat down to provide a wide-ranging interview that covered topics including space, Tesla, AI and even underpopulation. Musk addressed SpaceX's Mars ambitions first, providing current timelines…",
-      "link": "https://techcrunch.com/2020/12/01/elon-musk-says-spacex-will-attempt-uncrewed-mars-flight-in-two-years-human-landing-in-four-to-six/"
-    },
-    {
-      "title": "DeepMind's Superhuman Intelligence",
-      "source": "UnHerd",
-      "date": "Dec 1, 2020",
-      "description": "The solving of a 50-year scientific problem takes computers a step closer to 'true creativity'",
-      "link": "https://unherd.com/2020/12/how-deepmind-is-transforming-the-future/"
-    },
-    {
-      "title": "Aftermarket Truck Mods Pollute as Much as 9 Million Extra Pickups",
-      "source": "Ars Technica",
-      "date": "Dec 1, 2020",
-      "description": "The EPA estimates 550,000 medium pickup trucks have disabled emissions controls.",
-      "link": "https://arstechnica.com/cars/2020/12/truck-emissions-mods-pollute-more-than-dieselgate-epa-says/"
-    },
-    {
-      "title": "'Tis the Season: Congress Looks to Sneak in Unconstitutional Copyright Reform Bill Into 'Must Pass' Spending Bill",
-      "source": "Techdirt",
-      "date": "Dec 1, 2020",
-      "description": "If you have to sneak your transformational copyright bill into a 'must pass' government spending bill, it seems fairly evident that you know the bill is bad. Earlier we talked about how the White House is trying to slip a Section 230 repeal...",
-      "link": "https://www.techdirt.com/articles/20201201/10514145802/tis-season-congress-looks-to-sneak-unconstitutional-copyright-reform-bill-into-must-pass-spending-bill.shtml"
-    },
-    {
-      "title": "Public Defender Tales: Innocent, But Fined",
-      "source": "Substack",
-      "date": "Nov 30, 2020",
-      "description": "The state of Iowa collects millions of dollars in fines from people whose charges were dismissed. There's also a Catch-22: financially, you're better off guilty",
-      "link": "https://taibbi.substack.com/p/public-defender-tales-innocent-but"
-    },
-    {
-      "title": "Biden Appointee Neera Tanden Spread the Conspiracy That Russian Hackers Changed Hillary's 2016 Votes to Trump",
-      "source": "Substack",
-      "date": "Nov 30, 2020",
-      "description": "How can Democrats and allied media outlets credibly oppose unhinged conspiracy theories and attacks on U.S. election legitimacy while empowering its worst purveyors?",
-      "link": "https://greenwald.substack.com/p/biden-appointee-neera-tanden-spread"
-    },
-    {
-      "title": "New Study Sheds Light on Why Women Tend to Have Greater Animosity Towards Political Opponents",
-      "source": "PsyPost",
-      "date": "Nov 30, 2020",
-      "description": "New research suggests there is a gender gap in affective polarization: Women in the United States tend to be more hostile than men towards their political ...",
-      "link": "https://www.psypost.org/2020/11/new-study-sheds-light-on-why-women-tend-to-have-greater-animosity-towards-political-opponents-58680"
-    },
-    {
-      "title": "The Dangerous Logic of Anti-Racism",
-      "source": "UnHerd",
-      "date": "Nov 29, 2020",
-      "description": "If racism is about prejudice and power, where does that leave high-achieving minorities?",
-      "link": "https://unherd.com/2020/11/the-dangerous-logic-of-anti-racism/"
-    },
-    {
-      "title": "The Assassination of a Top Iranian Nuclear Scientist, Briefly Explained",
-      "source": "Vox",
-      "date": "Nov 28, 2020",
-      "description": "Iran has blamed Israel for the attack, and pledged retaliation.",
-      "link": "https://www.vox.com/2020/11/28/21723778/assassination-iran-nuclear-scientist-mohsen-fakhrizadeh"
-    },
-    {
-      "title": "Guns, Drugs and Viral Content: Welcome to Cartel TikTok",
-      "source": "The New York Times",
-      "date": "Nov 28, 2020",
-      "description": "Mexico is set to shatter another murder record, but that grim reality is nowhere to be seen on the TikTok videos that go viral by showcasing drug cartel culture.",
-      "link": "https://www.nytimes.com/2020/11/28/world/americas/mexico-drugs-cartel-tiktok.html"
-    },
-    {
-      "title": "Politics in Academia: A Case Study",
-      "source": "Psychology Today",
-      "date": "Nov 26, 2020",
-      "description": "This is the story of our effort to publish a paper that threatens academia.",
-      "link": "https://www.psychologytoday.com/us/blog/darwins-subterranean-world/202011/politics-in-academia-case-study"
-    },
-    {
-      "title": "Most Americans Object to Government Tracking of Their Activities Through Cellphones",
-      "source": "The Wall Street Journal",
-      "date": "Nov 25, 2020",
-      "description": "A new survey found widespread concern among Americans about government tracking of their whereabouts through their digital devices, with an overwhelming majority saying that a warrant should be required to obtain such data.",
-      "link": "https://www.wsj.com/articles/most-americans-object-to-government-tracking-of-their-activities-through-cellphones-11606305601"
-    },
-    {
-      "title": "A Long-Forgotten CIA Document From WikiLeaks Sheds Critical Light on Today's U.S. Politics and Wars",
-      "source": "Substack",
-      "date": "Nov 23, 2020",
-      "description": "The Agency knew that their best asset for selling their wars was Barack Obama -- the same reason so many in the security state were eager to get rid of Donald Trump.",
-      "link": "https://greenwald.substack.com/p/a-long-forgotten-cia-document-from"
-    },
-    {
-      "title": "Jordan Peterson v the Crybullies",
-      "source": "UnHerd",
-      "date": "Nov 27, 2020",
-      "description": "The reaction to the 12 Rules for Life sequel shows an infantile intolerance",
-      "link": "https://unherd.com/2020/11/jordan-peterson-v-the-crybullies/"
-    },
-    {
-      "title": "As Cities Curb Surveillance, Baltimore Police Took to the Air",
-      "source": "Wired",
-      "date": "Nov 27, 2020",
-      "description": "In a program that overcame three court challenges this year, planes with high-tech cameras circled the city up to 40 hours a week.",
-      "link": "https://www.wired.com/story/cities-curb-surveillance-baltimore-police-took-air/"
-    },
-    {
-      "title": "Microsoft's New 'Productivity Score' Gamifies Workplace Surveillance",
-      "source": "Gizmodo",
-      "date": "Nov 26, 2020",
-      "description": "The company's newest feature is facing heavy criticism for allowing bosses to track how their employees use Microsoft's suite of tools, such as how frequently they send emails, collaborate in shared documents, or have their camera on during virtual meetings.",
-      "link": "https://gizmodo.com/microsofts-creepy-new-productivity-score-gamifies-workp-1845763063"
-    },
-    {
-      "title": "The Ethics of Rebooting the Dead",
-      "source": "Wired",
-      "date": "Nov 26, 2020",
-      "description": "The notion of resurrecting people as digital entities is becoming less hypothetical. But just because something can be done, doesn't always mean it should.",
-      "link": "https://www.wired.com/story/ethics-reviving-dead-with-tech/"
-    },
-    {
-      "title": "How the Criminal Justice System Fails People With Mental Illness",
-      "source": "The Intercept",
-      "date": "Nov 26, 2020",
-      "description": "'I found your baby,' Michelle Durden recalls the police officer saying after her son went missing. 'He's alive. And he's in jail.'",
-      "link": "https://theintercept.com/2020/11/26/mental-illness-prison-jail-police/"
-    },
-    {
-      "title": "Contaminants in New Jersey Soil and Water Are Toxic, Documents Reveal",
-      "source": "The Intercept",
-      "date": "Nov 25, 2020",
-      "description": "Solvay had previously withheld information about the PFAS chemicals on the grounds that it was 'confidential business information.'",
-      "link": "https://theintercept.com/2020/11/25/solvay-new-jersey-pfas-documents/"
-    },
-    {
-      "title": "Illegal Tampering by Diesel Pickup Owners Is Worsening Pollution, E.P.A. Says",
-      "source": "The New York Times",
-      "date": "Nov 25, 2020",
-      "description": "An E.P.A. investigation has found that the owners of more than half a million diesel pickup trucks have installed devices to defeat emissions controls and boost pollution.",
-      "link": "https://www.nytimes.com/2020/11/25/climate/diesel-trucks-air-pollution.html"
-    },
-    {
-      "title": "Interview With Edward Snowden on Silicon Valley Censorship, Biden, and Lurking Press Freedom Dangers",
-      "source": "Substack",
-      "date": "Nov 25, 2020",
-      "description": "How did we travel so far from the original vision of the internet as the one place humans could communicate and organize free of state and corporate control?",
-      "link": "https://greenwald.substack.com/p/video-interview-with-edward-snowden"
     }
   ]
 }
