@@ -3,9 +3,114 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "12/29/2020, 1:35:47 PM",
-  "id": "4ZGybgnFIKySt8lhRjB4p",
+  "date": "1/6/2021, 12:23:05 PM",
+  "id": "GFiKK6LVRF-LBKN0-lta0",
   "articles": [
+    {
+      "title": "US Intelligence Agencies Say Russia Was Likely Behind the SolarWinds Hack",
+      "source": "Engadget",
+      "date": "Jan 06, 2021",
+      "description": "The FBI, NSA and CISA say it'll take a lot of effort to fix the problem.",
+      "link": "https://www.engadget.com/us-intelligence-agencies-fbi-nsa-cisa-solarwinds-hack-russia-111518166.html"
+    },
+    {
+      "title": "Last Year Reusable Rockets Entered the Mainstream, and There's No Going Back",
+      "source": "Ars Technica",
+      "date": "Jan 06, 2021",
+      "description": "'If Rocket Lab ever builds a new vehicle, it will fundamentally be reusable.'",
+      "link": "https://arstechnica.com/science/2021/01/last-year-reusable-rockets-entered-the-mainstream-and-theres-no-going-back/"
+    },
+    {
+      "title": "Gravity Energy Storage Will Show Its Potential in 2021",
+      "source": "IEEE Spectrum",
+      "date": "Jan 05, 2021",
+      "description": "Gravitricity and Energy Vault are pioneering a radical new alternative to batteries for grid storage",
+      "link": "https://spectrum.ieee.org/energy/batteries-storage/gravity-energy-storage-will-show-its-potential-in-2021"
+    },
+    {
+      "title": "Researchers Find a Faster, More Efficient Way to 3D Print",
+      "source": "Gizmodo",
+      "date": "Jan 05, 2021",
+      "description": "Two researchers at Penn State have created a new system for five-axis additive 3D-printing that reduces the amount and density of support materials needed for making printed objects.",
+      "link": "https://gizmodo.com/researchers-find-a-faster-more-efficient-way-to-3d-pri-1845992030"
+    },
+    {
+      "title": "China Blocks Entry to WHO Team Studying Covid's Origins",
+      "source": "The Guardian",
+      "date": "Jan 05, 2021",
+      "description": "Officials say visas not yet approved for World Health Organization delegation due to visit Wuhan",
+      "link": "https://www.theguardian.com/world/2021/jan/05/china-blocks-entry-to-who-team-studying-covids-origins"
+    },
+    {
+      "title": "The Lab-Leak Hypothesis",
+      "source": "New York Magazine",
+      "date": "Jan 04, 2021",
+      "description": "For decades, scientists have been hot-wiring viruses in hopes of preventing a pandemic, not causing one. But what if …?",
+      "link": "https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html"
+    },
+    {
+      "title": "The Wokest News Stories of 2020",
+      "source": "Substack",
+      "date": "Jan 04, 2021",
+      "description": "When editors in 2020 weren't being fired in bunches, they were taking aim at everything from Beethoven to mermaids to skyscrapers",
+      "link": "https://taibbi.substack.com/p/the-wokest-news-stories-of-2020-d14"
+    },
+    {
+      "title": "Meet the Censored: Mark Crispin Miller",
+      "source": "Substack",
+      "date": "Jan 04, 2021",
+      "description": "The NYU Professor becomes the latest academic to fall afoul of idea police",
+      "link": "https://taibbi.substack.com/p/meet-the-censored-mark-crispin-miller"
+    },
+    {
+      "title": "The Kafkaesque Imprisonment of Julian Assange Exposes U.S. Myths About Freedom and Tyranny",
+      "source": "Substack",
+      "date": "Dec 31, 2020",
+      "description": "The real measure of how free is a society is not how its mainstream, well-behaved ruling class servants are treated, but the fate of its actual dissidents.",
+      "link": "https://greenwald.substack.com/p/the-kafkaesque-imprisonment-of-julian"
+    },
+    {
+      "title": "The Woke Have No Vision of the Future",
+      "source": "UnHerd",
+      "date": "Dec 31, 2020",
+      "description": "Today's SJWs believe all that needs to be done to bring about a new world is to destroy the old one",
+      "link": "https://unherd.com/2020/12/the-woke-have-no-vision-of-the-future-2/"
+    },
+    {
+      "title": "US Approves Sale of $290m in Bombs to Saudi Arabia",
+      "source": "The Guardian",
+      "date": "Dec 30, 2020",
+      "description": "Arms deals with Middle East dictatorships are being rushed through by Trump, critics say, despite opposition over human rights records",
+      "link": "https://www.theguardian.com/us-news/2020/dec/30/us-approves-sale-of-290m-in-bombs-to-saudi-arabia"
+    },
+    {
+      "title": "Trump Pardon of Blackwater Iraq Contractors Violates International Law - UN",
+      "source": "Reuters",
+      "date": "Dec 30, 2020",
+      "description": "U.S. President Donald Trump's pardon of four American men convicted of killing Iraqi civilians while working as contractors in 2007 violated U.S. obligations under international law, U.N. human rights experts said on Wednesday.",
+      "link": "https://www.reuters.com/article/us-iraq-blackwater-un/trump-pardon-of-blackwater-iraq-contractors-violates-international-law-un-idUSKBN294108"
+    },
+    {
+      "title": "The New Coronavirus Variant Is in the U.S.—Now What?",
+      "source": "Gizmodo",
+      "date": "Dec 30, 2020",
+      "description": "Over the past 24 hours, health officials in Colorado have reported finding two suspected cases of covid-19 caused by a worrying new variant of the coronavirus.",
+      "link": "https://gizmodo.com/the-new-coronavirus-variant-is-in-the-u-s-now-what-1845967832"
+    },
+    {
+      "title": "Nearly All Inmates in Alaska's Largest Prison Have Contracted Covid-19",
+      "source": "The Guardian",
+      "date": "Dec 30, 2020",
+      "description": "About 1,115 prisoners of the the total 1,236 prisoners at the Goose Creek correctional center had tested positive",
+      "link": "https://www.theguardian.com/us-news/2020/dec/30/alaska-prison-inmates-contract-covid"
+    },
+    {
+      "title": "Liberals Rarely Defend Liberalism",
+      "source": "UnHerd",
+      "date": "Dec 30, 2020",
+      "description": "Don't kid yourself, the woke crocodile is coming for you too",
+      "link": "https://unherd.com/2020/12/why-wont-liberals-defend-liberalism-2/"
+    },
     {
       "title": "2020 Had Its Share of Memorable Hacks and Breaches. Here Are the Top 10",
       "source": "Ars Technica",
@@ -600,111 +705,6 @@
       "date": "Dec 3, 2020",
       "description": "Beijing said Tuesday that China's 'cloud seeding' project will soon cover 2.1 million of China's 3.7 million square miles.",
       "link": "https://www.businessinsider.com/china-expanding-weather-modification-program-artificial-rain-snow-2025-2020-12"
-    },
-    {
-      "title": "Overcome Stress by Visualizing It as a Greedy, Hook-Nosed Race of Creatures",
-      "source": "YouTube",
-      "date": "Aug 8, 2010",
-      "description": "On Today Now!, author Christine Eckard teaches Jim and Tracy to imagine economic problems as oily, curly-haired 'Grabblers.'",
-      "link": "https://www.youtube.com/watch?v=Q4PC8Luqiws"
-    },
-    {
-      "title": "Who Will Biden Bomb First?",
-      "source": "UnHerd",
-      "date": "Dec 4, 2020",
-      "description": "The President-elect's 'global leadership' is a return to neoconservatism",
-      "link": "https://unherd.com/2020/12/american-exceptionalism-is-back/"
-    },
-    {
-      "title": "Student Loan Horror Stories: Borrowed: $79,000. Paid: $190,000. Now Owes? $236,000",
-      "source": "Substack",
-      "date": "Dec 4, 2020",
-      "description": "At 59, Chris pleaded for a renegotiation. 'My life expectancy is 15 more years. At this rate, you're not going to get very much...′ Their response was, 'So?''",
-      "link": "https://taibbi.substack.com/p/student-loan-horror-stories-borrowed"
-    },
-    {
-      "title": "Congress Stalls on Stimulus Checks for Families While Corporations Continue to Reap Millions From CARES Act",
-      "source": "The Intercept",
-      "date": "Dec 4, 2020",
-      "description": "The IRS is still issuing retroactive tax refunds to companies, many of which are thriving amid the coronavirus pandemic.",
-      "link": "https://theintercept.com/2020/12/04/covid-irs-corporation-tax-refunds/"
-    },
-    {
-      "title": "Light-Based Quantum Computer Exceeds Fastest Classical Supercomputers",
-      "source": "Scientific American",
-      "date": "Dec 3, 2020",
-      "description": "The setup of lasers and mirrors effectively &ldquo;solved&rdquo; a problem far too complicated for even the largest traditional computer system",
-      "link": "https://www.scientificamerican.com/article/light-based-quantum-computer-exceeds-fastest-classical-supercomputers/"
-    },
-    {
-      "title": "'This Is Not Science Fiction,' Say Scientists Pushing for 'Neuro-Rights'",
-      "source": "Reuters",
-      "date": "Dec 3, 2020",
-      "description": "Scientific advances from deep brain stimulation to wearable scanners are making manipulation of the human mind increasingly possible, creating a need for laws and protections to regulate use of the new tools, top neurologists said on Thursday.",
-      "link": "https://www.reuters.com/article/us-global-tech-rights/this-is-not-science-fiction-say-scientists-pushing-for-neuro-rights-idUSKBN28D3HK"
-    },
-    {
-      "title": "Every Mayor, Governor Accused of Breaking COVID Restrictions — and Why",
-      "source": "Newsweek",
-      "date": "Dec 3, 2020",
-      "description": "Austin Mayor Steve Adler joins a long list of leading politicians to have allegedly broken their own rules. Here's the rundown.",
-      "link": "https://www.newsweek.com/every-mayor-governor-caught-breaking-covid-restrictions-1552033"
-    },
-    {
-      "title": "Resisting the Mourner's Veto",
-      "source": "Quillette",
-      "date": "Dec 3, 2020",
-      "description": "Controversy recently erupted at Penguin Random House when it was announced that the company would be publishing Canadian clinical psychologist Jordan Peterson's forthcoming book. Peterson rose to prominence in 2016 when he posted a series of videos on YouTube denouncing a Canadian law that, he claim…",
-      "link": "https://quillette.com/2020/12/03/resisting-the-mourners-veto/"
-    },
-    {
-      "title": "China Is National Security Threat No. 1",
-      "source": "The Wall Street Journal",
-      "date": "Dec 3, 2020",
-      "description": "Resisting Beijing's attempt to reshape and dominate the world is the challenge of our generation.",
-      "link": "https://www.wsj.com/articles/china-is-national-security-threat-no-1-11607019599"
-    },
-    {
-      "title": "Feds Claim the Patriot Act Allowed Them to Log Visitors to Websites",
-      "source": "Gizmodo",
-      "date": "Dec 3, 2020",
-      "description": "Letters produced by the Office of the Director of National Intelligence reportedly show that the U.S. government has interpreted Section 215 of the Patriot Act as giving it the power to monitor who visits certain websites and when, with minimal oversight.",
-      "link": "https://gizmodo.com/feds-claim-the-patriot-act-allowed-them-to-log-visitors-1845803993"
-    },
-    {
-      "title": "Nation-State Backed Hackers Going After COVID Vaccine Supply Chain",
-      "source": "Ars Technica",
-      "date": "Dec 3, 2020",
-      "description": "Sophisticated operation is well-researched and well-placed, aimed at EU.",
-      "link": "https://arstechnica.com/information-technology/2020/12/covid-vaccine-supply-chain-targeted-by-hackers-say-security-experts/"
-    },
-    {
-      "title": "Doctors Release 'Most Worrying Outlook' on Climate Change and Health",
-      "source": "Gizmodo",
-      "date": "Dec 2, 2020",
-      "description": "The doctors are here to give the Earth its annual checkup, and they say it's running a fever which is making people sick. They issued their findings showing all the ways climate change is affecting our health in the annual Lancet Countdown on Wednesday.",
-      "link": "https://earther.gizmodo.com/doctors-release-their-most-worrying-outlook-on-how-cl-1845794219"
-    },
-    {
-      "title": "The Journey of Electronic Bottles and the Ocean Plastic Crisis",
-      "source": "Wired",
-      "date": "Dec 2, 2020",
-      "description": "Researchers loaded containers with trackers and released them in the Ganges and the Bay of Bengal, giving new insight into how plastic pollution travels.",
-      "link": "https://www.wired.com/story/the-incredible-journey-of-the-electronic-plastic-bottle/"
-    },
-    {
-      "title": "Toxic PFAS Chemicals Discovered in Hundreds of Products",
-      "source": "The Intercept",
-      "date": "Dec 2, 2020",
-      "description": "Climbing ropes, guitar strings, and hand sanitizer are among the newly reported uses for the toxic 'forever' chemicals.",
-      "link": "https://theintercept.com/2020/12/02/pfas-chemicals-products/"
-    },
-    {
-      "title": "The Army Tested 'Germ Warfare' on the NYC Subway by Smashing Lightbulbs Full of Bacteria",
-      "source": "Business Insider",
-      "date": "Nov 14, 2015",
-      "description": "It was one of many dangerous government experiments on US citizens in violation of the Nuremberg Code.",
-      "link": "https://www.businessinsider.com/biological-agents-were-tested-on-the-new-york-city-subway-2015-11"
     }
   ]
 }
