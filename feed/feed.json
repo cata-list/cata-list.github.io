@@ -3,9 +3,303 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "1/6/2021, 12:23:05 PM",
-  "id": "GFiKK6LVRF-LBKN0-lta0",
+  "date": "1/24/2021, 2:29:15 PM",
+  "id": "Mj8z3_z7Z31QMM7BjiGlk",
   "articles": [
+    {
+      "title": "SpaceX Sets New Record for Most Satellites on a Single Launch With Latest Falcon 9 Mission",
+      "source": "TechCrunch",
+      "date": "Jan 24, 2021",
+      "description": "SpaceX has set a new all-time record for the most satellites launched and deployed on a single mission, with its Transporter-1 flight on Sunday. The launch was the first of SpaceX's dedicated rideshare missions, in which it splits up the payload capacity of its rocket among multiple customers…",
+      "link": "https://techcrunch.com/2021/01/24/spacex-sets-new-record-for-most-satellites-on-a-single-launch-with-latest-falcon-9-mission"
+    },
+    {
+      "title": "Glenn Greenwald: 'Journalists Are Authoritarians'",
+      "source": "Reason",
+      "date": "Jan 23, 2021",
+      "description": "What went wrong at the outlet he co-founded, what's wrong with the ACLU, and what might go wrong in the Biden administration",
+      "link": "https://reason.com/2021/01/23/journalists-are-authoritarians/"
+    },
+    {
+      "title": "Electric Vehicles Close to 'Tipping Point' of Mass Adoption",
+      "source": "The Guardian",
+      "date": "Jan 22, 2021",
+      "description": "Sales increase 43% globally in 2020 as plunging battery costs mean the cars will soon be the cheapest vehicles to buy",
+      "link": "https://www.theguardian.com/environment/2021/jan/22/electric-vehicles-close-to-tipping-point-of-mass-adoption"
+    },
+    {
+      "title": "Intelligence Analysts Use U.S. Smartphone Location Data Without Warrants, Memo Says",
+      "source": "The New York Times",
+      "date": "Jan 22, 2021",
+      "description": "The disclosure comes amid growing legislative scrutiny of how the government uses commercially available location records.",
+      "link": "https://www.nytimes.com/2021/01/22/us/politics/dia-surveillance-data.html"
+    },
+    {
+      "title": "The Moronic Firing of Will Wilkinson Illustrates Why Fear and Bad Faith Mob Demands Reign Supreme",
+      "source": "Substack",
+      "date": "Jan 22, 2021",
+      "description": "In the prevailing climate, the rational choice is to avoid social scorn and ostracization no matter how baseless the grievances one must appease.",
+      "link": "https://greenwald.substack.com/p/the-moronic-firing-of-will-wilkinson"
+    },
+    {
+      "title": "The Echo Chamber Era",
+      "source": "Substack",
+      "date": "Jan 22, 2021",
+      "description": "Trust in media is down, but if journalists don't listen to critics anyway, why should they care?",
+      "link": "https://taibbi.substack.com/p/the-echo-chamber-era"
+    },
+    {
+      "title": "Forever Chemicals Are Widespread in U.S. Drinking Water",
+      "source": "Scientific American",
+      "date": "Jan 22, 2021",
+      "description": "Experts hope that with the incoming Biden administration, the federal government will finally regulate a class of chemicals known as PFASs",
+      "link": "https://www.scientificamerican.com/article/forever-chemicals-are-widespread-in-u-s-drinking-water/"
+    },
+    {
+      "title": "Vertical Farms Grow Veggies on Site at Restaurants and Grocery Stores",
+      "source": "New Atlas",
+      "date": "Jan 21, 2021",
+      "description": "Last month we reported that a huge vertical farming operation near Copenhagen in Denmark recently completed its first harvest. That setup uses hydroponics, but the veggies grown in Vertical Field urban farming pods take root in real soil.",
+      "link": "https://newatlas.com/good-thinking/vertical-field-urban-farm-geoponics/"
+    },
+    {
+      "title": "Palantir's God's-Eye View of Afghanistan",
+      "source": "Wired",
+      "date": "Jan 20, 2021",
+      "description": "The company's software can sift through enormous amounts of data, and those metrics can be used to make life-or-death decisions.",
+      "link": "https://www.wired.com/story/palantirs-gods-eye-view-of-afghanistan/"
+    },
+    {
+      "title": "Social Media Bans Are Really, Actually, Shockingly Common",
+      "source": "Wired",
+      "date": "Jan 20, 2021",
+      "description": "Booting Trump didn't set a precedent. From Yelp to Uber to Airbnb, platforms regularly ban users and content, but too often behind the scenes.",
+      "link": "https://www.wired.com/story/opinion-social-media-bans-are-really-actually-shockingly-common/"
+    },
+    {
+      "title": "Could Lab-Grown Plant Tissue Ease the Environmental Toll of Logging and Agriculture?",
+      "source": "MIT News",
+      "date": "Jan 19, 2021",
+      "description": "MIT researchers have proposed a method for growing plant-based materials, like wood and fiber, in a lab. The technology is still in early development but might one day help reduce the environmental footprint of some types of agriculture.",
+      "link": "https://news.mit.edu/2021/lab-grown-plant-tissue-0120"
+    },
+    {
+      "title": "The Ongoing Collapse of the World's Aquifers",
+      "source": "Wired",
+      "date": "Jan 19, 2021",
+      "description": "When humans over-exploit underground water supplies, the ground collapses like a huge empty water bottle. It's called subsidence, and it could affect 1.6 billion people by 2040.",
+      "link": "https://www.wired.com/story/the-ongoing-collapse-of-the-worlds-aquifers/"
+    },
+    {
+      "title": "The SolarWinds Hackers Used Tactics Other Groups Will Copy",
+      "source": "Wired",
+      "date": "Jan 19, 2021",
+      "description": "The supply chain threat was just the beginning.",
+      "link": "https://www.wired.com/story/solarwinds-hacker-methods-copycats/"
+    },
+    {
+      "title": "A New SolarWinds Malware Strain Is Discovered",
+      "source": "Gizmodo",
+      "date": "Jan 19, 2021",
+      "description": "SolarWinds: it's the hack that keeps on growing. On Monday, researchers announced the discovery of yet another malware strain used by foreign hackers to infiltrate a wide milieu of American government agencies and companies.",
+      "link": "https://gizmodo.com/a-new-solarwinds-malware-strain-is-discovered-1846087775"
+    },
+    {
+      "title": "The New Domestic War on Terror Is Coming",
+      "source": "Substack",
+      "date": "Jan 19, 2021",
+      "description": "No speculation is needed. Those who wield power are demanding it. The only question is how much opposition they will encounter.",
+      "link": "https://greenwald.substack.com/p/the-new-domestic-war-on-terror-is"
+    },
+    {
+      "title": "Behind a Secret Deal Between Google and Facebook",
+      "source": "The New York Times",
+      "date": "Jan 17, 2021",
+      "description": "Facebook was going to compete with Google for some advertising sales but backed away from the plan after the companies cut a preferential deal, according to court documents.",
+      "link": "https://www.nytimes.com/2021/01/17/technology/google-facebook-ad-deal-antitrust.html"
+    },
+    {
+      "title": "2020 Was the One of the Hottest Years on Record",
+      "source": "Wired",
+      "date": "Jan 15, 2021",
+      "description": "Officials from NASA and NOAA say the warming of both the planet's air and water are driving weather disasters.",
+      "link": "https://www.wired.com/story/2020-was-the-one-of-the-hottest-years-on-record/"
+    },
+    {
+      "title": "Left Stranded: US Military Sonar Linked to Whale Beachings in Pacific, Say Scientists",
+      "source": "The Guardian",
+      "date": "Jan 15, 2021",
+      "description": "Islands surrounded by US military study area, including Guam and Saipan, call for activity that harms the whales to stop",
+      "link": "https://www.theguardian.com/world/2021/jan/16/left-stranded-us-military-sonar-linked-to-whale-beachings-in-pacific-say-scientists"
+    },
+    {
+      "title": "Beyond Platforms: Private Censorship, Parler, and the Stack",
+      "source": "EFF",
+      "date": "Jan 15, 2021",
+      "description": "Last week, following riots that saw supporters of President Trump breach and sack parts of the Capitol building, Facebook and Twitter made the decision to give the president the boot. That was notable enough, given that both companies had previously treated the president, like other political...",
+      "link": "https://www.eff.org/deeplinks/2021/01/beyond-platforms-private-censorship-parler-and-stack"
+    },
+    {
+      "title": "Billionaires Add $1tn to Net Worth During Pandemic as Their Workers Struggle",
+      "source": "The Guardian",
+      "date": "Jan 15, 2021",
+      "description": "Companies' attempts at hazard pay have been paltry and fleeting as employees are threatened for protesting working conditions",
+      "link": "https://www.theguardian.com/world/2021/jan/15/billionaires-net-worth-coronavirus-pandemic-jeff-bezos-elon-musk"
+    },
+    {
+      "title": "Everything We Know Now About Schools, Kids, and Covid-19",
+      "source": "Wired",
+      "date": "Jan 15, 2021",
+      "description": "Researchers are finally getting good data on how severely SARS-CoV-2 affects children and how they transmit it. What does it mean for reopening classrooms?",
+      "link": "https://www.wired.com/story/everything-we-know-now-about-schools-kids-and-covid-19/"
+    },
+    {
+      "title": "The Antifa Thugs Shame America",
+      "source": "UnHerd",
+      "date": "Jan 15, 2021",
+      "description": "Andy Ngo's family came to the US to escape Communist tyranny — now he's fleeing a political mob",
+      "link": "https://unherd.com/2021/01/the-antifa-thugs-shame-america/"
+    },
+    {
+      "title": "Cult Nation",
+      "source": "Substack",
+      "date": "Jan 14, 2021",
+      "description": "National politics has robbed us of our selves.",
+      "link": "https://taibbi.substack.com/p/cult-nation-935"
+    },
+    {
+      "title": "How Law Enforcement Gets Around Your Smartphone's Encryption",
+      "source": "Wired",
+      "date": "Jan 13, 2021",
+      "description": "New research has dug into the openings that iOS and Android security provide for anyone with the right tools.",
+      "link": "https://www.wired.com/story/smartphone-encryption-law-enforcement-tools/"
+    },
+    {
+      "title": "Tech Companies Are Profiling Us From Before Birth",
+      "source": "The MIT Press Reader",
+      "date": "Jan 13, 2021",
+      "description": "Children today are the very first generation of citizens to be datafied from before birth. The social and political consequences of this historical transformation have yet to be seen.",
+      "link": "https://thereader.mitpress.mit.edu/tech-companies-are-profiling-us-from-before-birth/"
+    },
+    {
+      "title": "Trump's Twitter Ban Obscures the Real Problem: State-Backed Manipulation Is Rampant on Social Media",
+      "source": "The Conversation",
+      "date": "Jan 13, 2021",
+      "description": "Social media censorship in the US fails to tackle the rising trend of 'disinformation-for-hire' cyber troops.",
+      "link": "https://theconversation.com/trumps-twitter-ban-obscures-the-real-problem-state-backed-manipulation-is-rampant-on-social-media-153136"
+    },
+    {
+      "title": "Nasa's Curiosity Rover: 3,000 Days on Mars",
+      "source": "BBC News",
+      "date": "Jan 12, 2021",
+      "description": "Three thousand days and counting: Nasa's Curiosity rover continues its extraordinary exploration of Mars.",
+      "link": "https://www.bbc.com/news/science-environment-55562150"
+    },
+    {
+      "title": "The Arctic Ocean Is Teeming With Microfibers From Clothes",
+      "source": "Wired",
+      "date": "Jan 12, 2021",
+      "description": "Scientists find an average of 40 microplastic particles per cubic meter of the northern water. The likely source? The synthetic clothing in our washing machines.",
+      "link": "https://www.wired.com/story/the-arctic-ocean-is-teeming-with-microfibers-from-clothes/"
+    },
+    {
+      "title": "How Silicon Valley, in a Show of Monopolistic Force, Destroyed Parler",
+      "source": "Substack",
+      "date": "Jan 12, 2021",
+      "description": "In the last three months, tech giants have censored political speech and journalism to manipulate U.S. politics, while liberals, with virtual unanimity, have cheered.",
+      "link": "https://greenwald.substack.com/p/how-silicon-valley-in-a-show-of-monopolistic"
+    },
+    {
+      "title": "The Mafia Is Thriving in Lockdown",
+      "source": "UnHerd",
+      "date": "Jan 12, 2021",
+      "description": "Chaos has always been an opportunity for organised crime — as Britain could soon find out",
+      "link": "https://unherd.com/2021/01/the-mafia-is-thriving-in-lockdown/"
+    },
+    {
+      "title": "The Plan to Build a Global Network of Floating Power Stations",
+      "source": "Wired",
+      "date": "Jan 11, 2021",
+      "description": "A lot of thermal energy is trapped in the ocean. An ex-NASA researcher has figured out how it might generate unlimited clean power for aquatic robots.",
+      "link": "https://www.wired.com/story/the-plan-to-build-a-global-network-of-floating-power-stations/"
+    },
+    {
+      "title": "SolarWinds Hackers Shared Tricks With Known Russian Cyberspies",
+      "source": "Wired",
+      "date": "Jan 11, 2021",
+      "description": "Security researchers have found links between the attackers and Turla, a sophisticated team suspected of operating out of Moscow's FSB intelligence agency.",
+      "link": "https://www.wired.com/story/solarwinds-russia-hackers-turla-malware/"
+    },
+    {
+      "title": "We Need a New Media System",
+      "source": "Substack",
+      "date": "Jan 11, 2021",
+      "description": "If you sell culture war all day, don't be surprised by the real-world consequences",
+      "link": "https://taibbi.substack.com/p/we-need-a-new-media-system"
+    },
+    {
+      "title": "Social-Media Oligopolists Are the New Railroad Barons. It's Time for Washington to Treat Them Accordingly",
+      "source": "Quillette",
+      "date": "Jan 11, 2021",
+      "description": "In 1964, an Ohio Ku Klux Klan leader named Clarence Brandenburg told a Cincinnati-based reporter that his hate group would soon be holding a rally in a rural area of Hamilton County. In the filmed por",
+      "link": "https://quillette.com/2021/01/11/social-media-oligopolists-are-the-new-railroad-barons-its-time-for-washington-to-treat-them-accordingly/"
+    },
+    {
+      "title": "What Would It Take to Run a City on 100 Percent Clean Energy?",
+      "source": "Wired",
+      "date": "Jan 09, 2021",
+      "description": "Most claims of running on 'clean' electricity come with caveats, and many technologies required for round-the-clock renewable energy aren't quite ready yet.",
+      "link": "https://www.wired.com/story/what-would-it-take-to-run-a-city-on-100-percent-clean-energy/"
+    },
+    {
+      "title": "Violence in the Capitol, Dangers in the Aftermath",
+      "source": "Substack",
+      "date": "Jan 9, 2021",
+      "description": "From the Cold War to the War on Terror: the harms from authoritarian 'solutions' are often greater than the threats they are ostensibly designed to combat.",
+      "link": "https://greenwald.substack.com/p/violence-in-the-capitol-dangers-in-bbe"
+    },
+    {
+      "title": "Wednesday's Other Story",
+      "source": "Substack",
+      "date": "Jan 8, 2021",
+      "description": "On the case of Julian Assange, and fearing empire more than Trump",
+      "link": "https://taibbi.substack.com/p/wednesdays-other-story"
+    },
+    {
+      "title": "EFF's Response to Social Media Companies' Decisions to Block President Trump's Accounts",
+      "source": "Electronic Frontier Foundation",
+      "date": "Jan 8, 2021",
+      "description": "Like most people in the United States and around the world, EFF is shocked and disgusted by Wednesday's violent attack on the U.S. Capitol. We support all those who are working to defend the Constitution and the rule of law, and we are grateful for the service of policymakers, staffers, and other...",
+      "link": "https://www.eff.org/deeplinks/2021/01/eff-response-social-media-companies-decision-block-president-trumps-accounts"
+    },
+    {
+      "title": "Climate Change Is Turning Cities Into Ovens",
+      "source": "Wired",
+      "date": "Jan 07, 2021",
+      "description": "A new model estimates that by 2100, cities across the world could warm as much as 4.4 degrees Celsius. It's a deadly consequence of the heat-island effect.",
+      "link": "https://www.wired.com/story/climate-change-is-turning-cities-into-ovens/"
+    },
+    {
+      "title": "Sealed U.S. Court Records Exposed in SolarWinds Breach",
+      "source": "Krebs on Security",
+      "date": "Jan 7, 2021",
+      "description": "The ongoing breach affecting thousands of organizations that relied on backdoored products by network software firm SolarWinds may have jeopardized the privacy of countless sealed court documents on file with the U.S. federal court system, according to a memo released Wednesday by the Administrative…",
+      "link": "https://krebsonsecurity.com/2021/01/sealed-u-s-court-records-exposed-in-solarwinds-breach/"
+    },
+    {
+      "title": "How Security Failures Enabled Trump Mob to Storm U.S. Capitol",
+      "source": "Reuters",
+      "date": "Jan 7, 2021",
+      "description": "By Joseph Tanfani, John Shiffman, Brad Heath, Andrea Januta and Mark Hosenball",
+      "link": "https://www.reuters.com/article/us-usa-election-capitol-security-insight/how-security-failures-enabled-trump-mob-to-storm-u-s-capitol-idUSKBN29C0R5"
+    },
+    {
+      "title": "SolarWinds Hackers Accessed More Than 3,000 DOJ Email Accounts",
+      "source": "Gizmodo",
+      "date": "Jan 6, 2021",
+      "description": "In yet another dastardly twist in the ongoing SolarWinds debacle, the U.S. Department of Justice announced Wednesday that hackers had accessed the inboxes of over 3,000 DOJ employee Microsoft email accounts.",
+      "link": "https://gizmodo.com/solarwinds-hackers-accessed-more-than-3-000-doj-email-a-1846001981"
+    },
     {
       "title": "US Intelligence Agencies Say Russia Was Likely Behind the SolarWinds Hack",
       "source": "Engadget",
@@ -40,6 +334,13 @@
       "date": "Jan 05, 2021",
       "description": "Officials say visas not yet approved for World Health Organization delegation due to visit Wuhan",
       "link": "https://www.theguardian.com/world/2021/jan/05/china-blocks-entry-to-who-team-studying-covids-origins"
+    },
+    {
+      "title": "This Year, Autonomous Trucks Will Take to the Road With No One on Board",
+      "source": "IEEE Spectrum",
+      "date": "Jan 04, 2021",
+      "description": "The startup TuSimple is deploying tractor-trailers that drive themselves from pickup to delivery",
+      "link": "https://spectrum.ieee.org/transportation/self-driving/this-year-autonomous-trucks-will-take-to-the-road-with-no-one-on-board"
     },
     {
       "title": "The Lab-Leak Hypothesis",
@@ -404,307 +705,6 @@
       "date": "Dec 16, 2020",
       "description": "Verogen's push into public crime labs with genetic genealogy may help solve more cold cases, but it raises concerns about DNA data collection.",
       "link": "https://www.wired.com/story/cops-are-getting-a-new-tool-for-family-tree-sleuthing/"
-    },
-    {
-      "title": "Japanese Probe Returned More Asteroid Than Expected—Including Pebbles and Gas",
-      "source": "Gizmodo",
-      "date": "Dec 15, 2020",
-      "description": "It looks like coffee beans in a grinder, but it's actually bits of dust and pebbles scooped up from the surface of asteroid Ryugu. The Japanese space agency confirmed the presence of these precious samples earlier today, following the recent return to Earth of its Hayabusa2 spacecraft.",
-      "link": "https://gizmodo.com/japanese-probe-returned-more-asteroid-than-expected-inc-1845887095"
-    },
-    {
-      "title": "Removing Space Debris Requires Action and Caution",
-      "source": "TechCrunch",
-      "date": "Dec 15, 2020",
-      "description": "We hope regulators and the commercial players can work together to find a lasting solution in the relatively near future, rather than waiting for a catastrophic failure before taking action.",
-      "link": "https://techcrunch.com/2020/12/15/removing-space-debris-requires-action-and-caution/"
-    },
-    {
-      "title": "Journalism's Ivory Towers",
-      "source": "Quillette",
-      "date": "Dec 15, 2020",
-      "description": "In a recent essay entitled 'The Resentment That Never Sleeps,' New York Times columnist Thomas B. Edsall explains how a lowering of social status among non-college-educated white Americans has increased that demographic's anxiety and helped fuel the populism that made possible Donald Trump's rise to…",
-      "link": "https://quillette.com/2020/12/15/journalisms-ivory-towers/"
-    },
-    {
-      "title": "Chemicals in Plastics Are a Global Health Threat, Says New Report",
-      "source": "Gizmodo",
-      "date": "Dec 15, 2020",
-      "description": "A new scientific report out Tuesday concludes that plastics and the chemicals they leave behind in the environment are a major threat to human health. It identifies over 140 chemicals readily found in plastic products that can harm our bodies, particularly through interfering with the endocrine syst…",
-      "link": "https://gizmodo.com/chemicals-in-plastics-are-a-global-health-threat-says-1845886426"
-    },
-    {
-      "title": "Suspected Russian Hackers Spied on U.S. Treasury Emails - Sources",
-      "source": "Reuters",
-      "date": "Dec 14, 2020",
-      "description": "Hackers believed to be working for Russia have been monitoring internal email traffic at the U.S. Treasury and Commerce departments, according to people familiar with the matter, adding they feared the hacks uncovered so far may be the tip of the iceberg.",
-      "link": "https://www.reuters.com/article/us-usa-cyber-amazon-com-exclsuive/u-s-treasury-breached-by-hackers-backed-by-foreign-government-sources-idUSKBN28N0PG"
-    },
-    {
-      "title": "No One Knows How Deep Russia's Hacking Rampage Goes",
-      "source": "Wired",
-      "date": "Dec 14, 2020",
-      "description": "A supply chain attack against IT company SolarWinds has exposed as many as 18,000 companies to Cozy Bear's attacks.",
-      "link": "https://www.wired.com/story/russia-solarwinds-supply-chain-hack-commerce-treasury/"
-    },
-    {
-      "title": "'Amazing' Hypocrisy: Democrats Make Wreck of Covid-19 Relief Negotiations",
-      "source": "Substack",
-      "date": "Dec 14, 2020",
-      "description": "Democrats stonewalled all year on a new pandemic relief package. Now they're proposing a new plan that undercuts even Republican proposals, and screws everyone but - get this - defense contractors",
-      "link": "https://taibbi.substack.com/p/amazing-hypocrisy-democrats-make"
-    },
-    {
-      "title": "The YouTube Ban Is Un-American, Wrong, and Will Backfire",
-      "source": "Substack",
-      "date": "Dec 11, 2020",
-      "description": "Silicon Valley couldn't have designed a better way to further radicalize Trump voters",
-      "link": "https://taibbi.substack.com/p/the-youtube-ban-is-un-american-wrong"
-    },
-    {
-      "title": "U.S. Schools Are Buying Phone-Hacking Tech That the FBI Uses to Investigate Terrorists",
-      "source": "Gizmodo",
-      "date": "Dec 11, 2020",
-      "description": "A Gizmodo investigation has found that schools in the U.S. are purchasing phone surveillance tools from Cellebrite and companies that offer similar tools just four years after the FBI used it to crack a terrorism suspect's iPhone.",
-      "link": "https://gizmodo.com/u-s-schools-are-buying-phone-hacking-tech-that-the-fbi-1845862393"
-    },
-    {
-      "title": "In Pictures: How Much Plastic Are You Eating?",
-      "source": "Al Jazeera",
-      "date": "Dec 11, 2020",
-      "description": "Plastic production surged in the last 50 years, and we could be ingesting equivalent of a credit card of plastic a week.",
-      "link": "https://www.aljazeera.com/gallery/2020/12/11/in-pictures-how-much-plastic-are-you-eating"
-    },
-    {
-      "title": "Hackers Accessed Covid Vaccine Data Through the EU Regulator",
-      "source": "Wired",
-      "date": "Dec 11, 2020",
-      "description": "The European Medicines Agency has released limited details about the cyberattack.",
-      "link": "https://www.wired.com/story/hackers-accessed-covid-vaccine-data-through-the-eu-regulator/"
-    },
-    {
-      "title": "CISA and FBI Warn of Rise in Ransomware Attacks Targeting K-12 Schools",
-      "source": "ZDNet",
-      "date": "Dec 11, 2020",
-      "description": "The percentage of ransomware attacks against K-12 schools increased at the beginning of the 2020 school year",
-      "link": "https://www.zdnet.com/article/cisa-and-fbi-warn-of-rise-in-ransomware-attacks-targeting-k-12-schools/"
-    },
-    {
-      "title": "Hollywood Deployed Lobbyists to Win Exemptions to Strict California Lockdown",
-      "source": "The Intercept",
-      "date": "Dec 11, 2020",
-      "description": "The entertainment industry has been given extensive leeway during the pandemic, even as California now faces a stay-at-home order.",
-      "link": "https://theintercept.com/2020/12/11/hollywood-covid-filming-california-lockdown/"
-    },
-    {
-      "title": "Hackers Steal Pfizer/BioNTech COVID-19 Vaccine Data in Europe, Companies Say",
-      "source": "Reuters",
-      "date": "Dec 10, 2020",
-      "description": "U.S. drugmaker Pfizer and its German partner BioNTech said on Wednesday that documents related to development of their COVID-19 vaccine had been 'unlawfully accessed' in a cyberattack on Europe's medicines regulator.",
-      "link": "https://www.reuters.com/article/us-ema-cyber/hackers-steal-pfizer-biontech-covid-19-vaccine-data-in-europe-companies-say-idUSKBN28J2Q7"
-    },
-    {
-      "title": "Hunter Biden Tax Probe Examining Chinese Business Dealings",
-      "source": "Associated Press",
-      "date": "Dec 10, 2020",
-      "description": "",
-      "link": "https://apnews.com/article/hunter-biden-federal-tax-investigation-87c200c919aa61396b5d43077bc5b0ff"
-    },
-    {
-      "title": "The Hunter Biden Criminal Probe Bolsters a Chinese Scholar's Claim About Beijing's Influence With the Biden Administration",
-      "source": "Substack",
-      "date": "Dec 10, 2020",
-      "description": "Professor Di Dongsheng says China's close ties to Wall Street and its dealings with Hunter both enable it to exert more power now than it could under Trump.",
-      "link": "https://greenwald.substack.com/p/the-hunter-biden-criminal-probe-bolsters"
-    },
-    {
-      "title": "With News of Hunter Biden's Criminal Probe, Recall the Media Outlets That Peddled the 'Russian Disinformation' Lie",
-      "source": "Substack",
-      "date": "Dec 10, 2020",
-      "description": "The now-validated facts about Hunter are precisely those the U.S. media -- in tandem with Silicon Valley and the intelligence community -- suppressed based on lies.",
-      "link": "https://greenwald.substack.com/p/with-news-of-hunter-bidens-criminal"
-    },
-    {
-      "title": "One Small Step for Free Speech",
-      "source": "UnHerd",
-      "date": "Dec 10, 2020",
-      "description": "This week's Cambridge victory will do little to stop the march through the institutions",
-      "link": "https://unherd.com/2020/12/one-small-step-for-free-speech/"
-    },
-    {
-      "title": "US Diplomats' Brain Injuries May Be From Covert Microwave Attack, Experts Say",
-      "source": "Ars Technica",
-      "date": "Dec 10, 2020",
-      "description": "Data from Russian experiments on pulsed RF energy offers best explanation.",
-      "link": "https://arstechnica.com/science/2020/12/covert-microwave-weapon-most-plausible-cause-of-cuba-health-attacks/"
-    },
-    {
-      "title": "Meet the Censored: Abigail Shrier",
-      "source": "Substack",
-      "date": "Dec 9, 2020",
-      "description": "Where is the line between boycott-based activism and corporate censorship?",
-      "link": "https://taibbi.substack.com/p/meet-the-censored-abigail-shrier"
-    },
-    {
-      "title": "Pandemic Villains: Robinhood",
-      "source": "Substack",
-      "date": "Dec 9, 2020",
-      "description": "Have a pair of gangly Stanford grads built the perfect mousetrap?",
-      "link": "https://taibbi.substack.com/p/pandemic-villains-robinhood"
-    },
-    {
-      "title": "Progress Toward a Safer Psychedelic Drug to Treat Depression and Addiction",
-      "source": "NPR",
-      "date": "Dec 8, 2020",
-      "description": "A synthetic version of the psychedelic drug ibogaine appears to relieve depression and addiction without producing hallucinations or other dangerous side effects — at least in rodents.",
-      "link": "https://www.npr.org/sections/health-shots/2020/12/09/944572325/progress-toward-a-safer-psychedelic-drug-to-treat-depression-and-addiction"
-    },
-    {
-      "title": "The Old Arctic Is Gone",
-      "source": "Gizmodo",
-      "date": "Dec 8, 2020",
-      "description": "Scientists have spent the past 15 years pulling together data about the Arctic into a report card. What's become clear in the 15 iterations of the report is nothing will be the same for centuries to come and the shifts are happening faster than anticipated.",
-      "link": "https://earther.gizmodo.com/the-old-arctic-is-gone-1845834100"
-    },
-    {
-      "title": "Printable, Flexible Battery Offers 10 Times the Density of Lithium-Ion",
-      "source": "New Atlas",
-      "date": "Dec 8, 2020",
-      "description": "Scientists investigating an experimental battery chemistry have wound up with a flexible device they say offers up to 10 times the energy density of current lithium-ion solutions, making it an ideal fit for a number of applications. The technique also allows for easier manufacturing of flexible…",
-      "link": "https://newatlas.com/energy/printable-high-density-batteries-silver-oxide/"
-    },
-    {
-      "title": "Large Study of Americans Shows the Broad Health Problems Covid-19 Can Cause",
-      "source": "Gizmodo",
-      "date": "Dec 8, 2020",
-      "description": "New research out Tuesday looks to pin down the many health problems that can arise from a bout of covid-19. The long list includes more common ailments like pneumonia, kidney failure, and widespread inflammation, as well as rarer complications like serious heart inflammation, collapsed lungs, and se…",
-      "link": "https://gizmodo.com/large-study-of-americans-shows-the-broad-health-problem-1845832915"
-    },
-    {
-      "title": "Biden's Choice for Pentagon Chief Further Erodes a Key U.S. Norm: Civilian Control",
-      "source": "Substack",
-      "date": "Dec 8, 2020",
-      "description": "Gen. Lloyd Austin, on the Raytheon Board, is yet another high-level Biden nominee enmeshed in D.C.'s corporatist 'revolving door' of legalized influence-peddling.",
-      "link": "https://greenwald.substack.com/p/bidens-choice-for-pentagon-chief"
-    },
-    {
-      "title": "Exclusive: U.S. Air Pollution Monitoring Network Falling Into Disrepair - GAO Report",
-      "source": "U.S.",
-      "date": "Dec 7, 2020",
-      "description": "The U.S. air pollution monitoring network has fallen into disrepair after years of budget cuts and neglect, leaving tens of millions of Americans vulnerable to undetected bad air quality from events like wildfires to industrial pollution, according to a report by the investigative...",
-      "link": "https://www.reuters.com/article/usa-pollution-airmonitors-gao-idUSKBN28H1V5"
-    },
-    {
-      "title": "California's Hellish 2018 Wildfires Cost the US Economy $148.5 Billion",
-      "source": "Gizmodo",
-      "date": "Dec 7, 2020",
-      "description": "Two years later, we're still adding unfortunate superlatives to the 2018 California wildfire season. The latest is a new study that reveals the hidden toll of what—until this year—was the state's most destructive fire season.",
-      "link": "https://earther.gizmodo.com/californias-hellish-2018-wildfires-cost-the-u-s-econom-1845824226"
-    },
-    {
-      "title": "Exxon Holds Back on Technology That Could Slow Climate Change",
-      "source": "Bloomberg",
-      "date": "Dec 7, 2020",
-      "description": "Carbon capture can make money for oil giants, and scientists say we need it. Is the industry willing to invest enough?",
-      "link": "https://www.bloomberg.com/news/features/2020-12-07/exxon-s-xom-carbon-capture-project-stalled-by-covid-19"
-    },
-    {
-      "title": "Coca-Cola, Pepsi and Nestlé Named Top Plastic Polluters for Third Year in a Row",
-      "source": "The Guardian",
-      "date": "Dec 7, 2020",
-      "description": "Companies accused of 'zero progress' on reducing plastic waste, with Coca-Cola ranked No 1 for most littered products",
-      "link": "https://www.theguardian.com/environment/2020/dec/07/coca-cola-pepsi-and-nestle-named-top-plastic-polluters-for-third-year-in-a-row"
-    },
-    {
-      "title": "Quantum Device Performs 2.6 Billion Years of Computation in 4 Minutes",
-      "source": "Ars Technica",
-      "date": "Dec 7, 2020",
-      "description": "Photons explore quantum maze faster than possible for any classical computer.",
-      "link": "https://arstechnica.com/science/2020/12/un-computable-quantum-maze-computed-by-quantum-maze-computer/"
-    },
-    {
-      "title": "SpaceX Gets $886 Million From FCC to Subsidize Starlink in 35 States",
-      "source": "Ars Technica",
-      "date": "Dec 7, 2020",
-      "description": "Charter also wins big; FCC fund will bring service to 5.2M homes and businesses.",
-      "link": "https://arstechnica.com/tech-policy/2020/12/spacex-gets-886-million-from-fcc-to-subsidize-starlink-in-35-states/"
-    },
-    {
-      "title": "With Guns Drawn, Police Raid Home and Seize Computers of COVID-19 Data Whistleblower",
-      "source": "The Verge",
-      "date": "Dec 7, 2020",
-      "description": "Florida fired her, and now it's raiding her home",
-      "link": "https://www.theverge.com/2020/12/7/22160181/rebekah-jones-raid-seizure-search-warrant-covid-19-whistleblower-florida"
-    },
-    {
-      "title": "Health Care Is Coming to Grips With Its Pollution Problem",
-      "source": "The Verge",
-      "date": "Dec 7, 2020",
-      "description": "Greenhouse gas emissions are on the rise.",
-      "link": "https://www.theverge.com/2020/12/7/22159555/health-care-pollution-climate-change"
-    },
-    {
-      "title": "The NSA Warns That Russia Is Attacking Remote Work Platforms",
-      "source": "Wired",
-      "date": "Dec 7, 2020",
-      "description": "A vulnerability in VMWare has prompted a warning that companies—and government agencies—need to patch as soon as possible.",
-      "link": "https://www.wired.com/story/nsa-warns-russia-attacking-vmware-remote-work-platforms/"
-    },
-    {
-      "title": "Black and White in the Classroom",
-      "source": "Quillette",
-      "date": "Dec 7, 2020",
-      "description": "My palms were sweating, my heart was racing, and I avoided eye contact with everyone in that room, praying hard that my teacher would not call on me. And then, 'Lola, what are your thoughts?' was said out loud. I had many thoughts and ideas I knew needed to be spoken, stories I could share to change…",
-      "link": "https://quillette.com/2020/12/07/black-and-white-in-the-classroom/"
-    },
-    {
-      "title": "Rehabilitation for Vice Bloggers",
-      "source": "YouTube",
-      "date": "Dec 6, 2020",
-      "description": "This is a new center for bloggers to get back into the normal world (comedy sketch)",
-      "link": "https://www.youtube.com/watch?v=x7CxM1anfPE"
-    },
-    {
-      "title": "Why Should the US Be Afforded the 'Power of Assassination'?",
-      "source": "Al Jazeera",
-      "date": "Dec 6, 2020",
-      "description": "The US government's argument it has the right to assassinate anyone, anywhere heralds its descent into despotism.",
-      "link": "https://www.aljazeera.com/opinions/2020/12/6/why-should-america-be-afforded-the-power-of/"
-    },
-    {
-      "title": "Enlightenment Literature as Foreign Aid",
-      "source": "Quillette",
-      "date": "Dec 5, 2020",
-      "description": "'If God were to humiliate a human being,' wrote Imam Ali bin abi Talib in the sixth century, 'He would deny him knowledge.' If the woeful state of knowledge in lands beset by authoritarian regimes is any indication, a great number of human beings in our world have been lavishly humiliated, albeit by…",
-      "link": "https://quillette.com/2020/12/04/enlightenment-literature-as-foreign-aid/"
-    },
-    {
-      "title": "After the Deep State Sabotaged His Presidential Bid, Bernie Sanders Mocks Those Who Believe It Exists",
-      "source": "Substack",
-      "date": "Dec 5, 2020",
-      "description": "Also ridiculing 'rigged elections' and 'fake news' -- two other weapons used on him -- the Vermont Senator's relationship to the Democratic Party descends from loyal support to abject subservience.",
-      "link": "https://greenwald.substack.com/p/after-the-deep-state-sabotaged-his"
-    },
-    {
-      "title": "'Havana Syndrome' Likely Caused by Directed Microwaves - US Report",
-      "source": "BBC News",
-      "date": "Dec 5, 2020",
-      "description": "The US report is the latest attempt to explain a mystery illness that affected diplomats in Cuba.",
-      "link": "https://www.bbc.com/news/world-us-canada-55203844"
-    },
-    {
-      "title": "U.S. Used Patriot Act to Gather Logs of Website Visitors",
-      "source": "The New York Times",
-      "date": "Dec 3, 2020",
-      "description": "A disclosure sheds new light on a high-profile national security law as lawmakers prepare to revive a debate over it in the Biden administration.",
-      "link": "https://www.nytimes.com/2020/12/03/us/politics/section-215-patriot-act.html"
-    },
-    {
-      "title": "China Is Massively Expanding Its Weather-Modification Program, Saying It Will Be Able to Cover Half the Country In artificial Rain and Snow by 2025",
-      "source": "Business Insider",
-      "date": "Dec 3, 2020",
-      "description": "Beijing said Tuesday that China's 'cloud seeding' project will soon cover 2.1 million of China's 3.7 million square miles.",
-      "link": "https://www.businessinsider.com/china-expanding-weather-modification-program-artificial-rain-snow-2025-2020-12"
     }
   ]
 }
