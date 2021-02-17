@@ -5,6 +5,3 @@ Useful lists of some of the best info, media, tools, and quotes for those who se
 RSS: `https://cata-list.github.io/feed/feed.xml`
 
 JSON: `https://cata-list.github.io/feed/feed.json`
-
-## Social Media
-Twitter: @cata_lyze: `https://twitter.com/cata_lyze`
