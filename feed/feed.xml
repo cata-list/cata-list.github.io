@@ -3,10 +3,409 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>B5idEEbwCE_sCnuwSIPik</id>
+		<id>2Axoh_6fu1NXfcZdMxSZX</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Wed Feb 17 2021 11:25:30 GMT-0800 (Pacific Standard Time)</lastBuildDate>
+		<lastBuildDate>Mon Mar 08 2021 11:49:24 GMT-0800 (Pacific Standard Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>The Accellion Breach Keeps Getting Worse — and More Expensive</title>
+			<source>Wired</source>
+			<pubDate>Mar 8, 2021</pubDate>
+			<description><![CDATA[What started as a few vulnerabilities in firewall equipment has snowballed into a global extortion spree.]]></description>
+			<link>https://www.wired.com/story/accellion-breach-victims-extortion/</link>
+		</item>
+		<item>
+			<title>For Our Own Good, We All Need a Glimpse of the Evil Queen</title>
+			<source>Quillette</source>
+			<pubDate>Mar 7, 2021</pubDate>
+			<description><![CDATA[I had a client many years ago who was a real-life version of Sleeping Beauty. She was tall, blonde-haired, razor thin (as the saying goes), and profoundly unhappy. She was enrolled in a local junio…]]></description>
+			<link>https://quillette.com/2021/03/07/for-our-own-good-we-all-need-a-glimpse-of-the-evil-queen/</link>
+		</item>
+		<item>
+			<title>Chinese, Russian Hackers Reportedly Stole European Vaccine Data</title>
+			<source>Gizmodo</source>
+			<pubDate>Mar 7, 2021</pubDate>
+			<description><![CDATA[Both China and Russia were reportedly behind two cyberattacks last year at the European Medicines Agency that compromised documents related to covid-19 vaccines and treatments.]]></description>
+			<link>https://gizmodo.com/chinese-and-russian-hackers-reportedly-stole-vaccine-da-1846426656</link>
+		</item>
+		<item>
+			<title>How to Tell Which Emails Quietly Track You</title>
+			<source>Wired</source>
+			<pubDate>Mar 7, 2021</pubDate>
+			<description><![CDATA[Your emails know more about you than you might think, like when you open them or when you forward them to others. But you can reclaim your privacy.]]></description>
+			<link>https://www.wired.com/story/how-to-tell-which-emails-track-you/</link>
+		</item>
+		<item>
+			<title>This Rapid 3D-Printing Method Could Be the Secret to Developing 3D-Printed Organs</title>
+			<source>Gizmodo</source>
+			<pubDate>Mar 6, 2021</pubDate>
+			<description><![CDATA[We may not have flying cars yet, but 3D-printed organs? That sci-fi fantasy just got one step closer to reality thanks to a rapid 3D-printing method developed by University of Buffalo engineers.]]></description>
+			<link>https://gizmodo.com/this-rapid-3d-printing-method-could-be-the-secret-to-de-1846424035</link>
+		</item>
+		<item>
+			<title>A North Carolina Pipeline Caused the Biggest Gas Spill in Decades</title>
+			<source>Gizmodo</source>
+			<pubDate>Mar 6, 2021</pubDate>
+			<description><![CDATA[A slowly-unfolding, little-reported-on saga in North Carolina involves a company controlled by the Koch brothers and Shell, and a pipeline that has been transporting dirty energy for decades. And it has implications for pipelines everywhere across the U.S.]]></description>
+			<link>https://earther.gizmodo.com/one-of-the-nation-s-largest-pipelines-caused-the-bigges-1846406684</link>
+		</item>
+		<item>
+			<title>China's and Russia's Spying Sprees Will Take Years to Unpack</title>
+			<source>Ars Technica</source>
+			<pubDate>Mar 6, 2021</pubDate>
+			<description><![CDATA[Full extent of SolarWinds hack, Hafnium's attack on Exchange Server may never be known.]]></description>
+			<link>https://arstechnica.com/information-technology/2021/03/chinas-and-russias-spying-spree-will-take-years-to-unpack/</link>
+		</item>
+		<item>
+			<title>World Wastes 1 Billion Tons of Food a Year, and It's Frying the Planet</title>
+			<source>Gizmodo</source>
+			<pubDate>Mar 5, 2021</pubDate>
+			<description><![CDATA[If you've ever overstuffed your fridge and let some leftovers go bad in the back of it, you're not alone. People toss more than 1 billion tons of food in the trash every year, according to a new United Nations report. But it doesn't have to be this way.]]></description>
+			<link>https://earther.gizmodo.com/our-wasted-food-is-fueling-climate-change-1846414880</link>
+		</item>
+		<item>
+			<title>Under Intense Pressure, WHO Skips Summary Report on Coronavirus Origin</title>
+			<source>Ars Technica</source>
+			<pubDate>Mar 5, 2021</pubDate>
+			<description><![CDATA[The full report, however, is expected the week of March 15.]]></description>
+			<link>https://arstechnica.com/science/2021/03/under-intense-pressure-who-skips-summary-report-on-coronavirus-origin/</link>
+		</item>
+		<item>
+			<title>Chinese Hacking Spree Hit an 'Astronomical' Number of Victims</title>
+			<source>Wired</source>
+			<pubDate>Mar 5, 2021</pubDate>
+			<description><![CDATA[A single group appears to have infiltrated tens of thousands of Microsoft Exchange servers in an ongoing onslaught.]]></description>
+			<link>https://www.wired.com/story/china-microsoft-exchange-server-hack-victims/</link>
+		</item>
+		<item>
+			<title>Hackers Just Looted Passenger Data From Some of the Biggest Airlines</title>
+			<source>Gizmodo</source>
+			<pubDate>Mar 5, 2021</pubDate>
+			<description><![CDATA[The breach may have not exposed incredibly personal details, but it reveals the data third parties collect.]]></description>
+			<link>https://gizmodo.com/hackers-just-looted-passenger-data-from-some-of-the-wor-1846417692</link>
+		</item>
+		<item>
+			<title>At Least 30,000 U.S. Organizations Newly Hacked via Holes in Microsoft's Email Software</title>
+			<source>Krebs on Security</source>
+			<pubDate>Mar 5, 2021</pubDate>
+			<description><![CDATA[At least 30,000 organizations across the United States -- including a significant number of small businesses, towns, cities and local governments -- have over the past few days been hacked by an unusually aggressive Chinese cyber espionage unit that's focused on stealing email from victim organizati…]]></description>
+			<link>https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/</link>
+		</item>
+		<item>
+			<title>How to Poison the Data That Big Tech Uses to Surveil You</title>
+			<source>MIT Technology Review</source>
+			<pubDate>Mar 5, 2021</pubDate>
+			<description><![CDATA[Algorithms are meaningless without good data. The public can exploit that to demand change.]]></description>
+			<link>https://www.technologyreview.com/2021/03/05/1020376/resist-big-tech-surveillance-data/</link>
+		</item>
+		<item>
+			<title>As the Insurrection Narrative Crumbles, Democrats Cling to It More Desperately Than Ever</title>
+			<source>Substack</source>
+			<pubDate>Mar 5, 2021</pubDate>
+			<description><![CDATA[If the threat of 'armed insurrectionists' and 'domestic terrorists' is as great as some claim, why do they have to keep lying and peddling crude media fictions about it?]]></description>
+			<link>https://greenwald.substack.com/p/as-the-insurrection-narrative-crumbles</link>
+		</item>
+		<item>
+			<title>Dr. Seuss Books Deemed Offensive Will Be Delisted From eBay</title>
+			<source>The Wall Street Journal</source>
+			<pubDate>Mar 4, 2021</pubDate>
+			<description><![CDATA[EBay is working to prevent the resale of six Dr. Seuss books pulled this week by the company in charge of the late author's works because they contain offensive imagery.]]></description>
+			<link>https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201</link>
+		</item>
+		<item>
+			<title>A Cephalopod Has Passed a Cognitive Test Designed for Human Children</title>
+			<source>ScienceAlert</source>
+			<pubDate>Mar 3, 2021</pubDate>
+			<description><![CDATA[A new test of cephalopod smarts has reinforced how important it is for us humans to not underestimate animal intelligence.]]></description>
+			<link>https://www.sciencealert.com/cuttlefish-can-pass-a-cognitive-test-designed-for-children</link>
+		</item>
+		<item>
+			<title>Ancient Memorization Trick Boosts Long-Term Memory, Changes the Brain</title>
+			<source>Gizmodo</source>
+			<pubDate>Mar 3, 2021</pubDate>
+			<description><![CDATA[A mnemonic, called the 'method of loci,' has been around for centuries, and it's surprisingly effective for memorizing things. New research published in Science Advances on Wednesday suggests it is good for both short-term memory and also long-term recall.]]></description>
+			<link>https://gizmodo.com/ancient-memorization-trick-boosts-long-term-memory-and-1846398066</link>
+		</item>
+		<item>
+			<title>Mars: NASA's Perseverance Rover Sends Stunning Images</title>
+			<source>BBC News</source>
+			<pubDate>Mar 2, 2021</pubDate>
+			<description><![CDATA[Amazing images as Nasa's Perseverance rover lands on Mars and seeks signs of past microbial life.]]></description>
+			<link>https://www.bbc.com/news/in-pictures-56238018</link>
+		</item>
+		<item>
+			<title>China's 'Sharp Eyes' Program Aims to Surveil 100% of Public Space</title>
+			<source>Medium</source>
+			<pubDate>Mar 2, 2021</pubDate>
+			<description><![CDATA[The program turns neighbors into agents of the surveillance state]]></description>
+			<link>https://onezero.medium.com/chinas-sharp-eyes-program-aims-to-surveil-100-of-public-space-ddc22d63e015</link>
+		</item>
+		<item>
+			<title>U.S. Gets 'C-,' Faces $2.59 Trillion in Infrastructure Needs Over 10 Years: Report</title>
+			<source>Reuters</source>
+			<pubDate>Mar 2, 2021</pubDate>
+			<description><![CDATA[The United States faces a $2.59 trillion shortfall in infrastructure needs that requires a massive jump in government spending to address crumbling roads, bridges and other programs, according to an assessment by an engineers group issued on Wednesday.]]></description>
+			<link>https://www.reuters.com/article/us-usa-infrastructure-idUSKBN2AV0DD</link>
+		</item>
+		<item>
+			<title>Kids Are Being Exposed to a Lot of Concerning Chemicals Through Plastic Toys</title>
+			<source>Gizmodo</source>
+			<pubDate>Mar 1, 2021</pubDate>
+			<description><![CDATA[Children's toys contain many potentially toxic chemicals, recent research suggests. The study highlights over 120 concerning chemicals commonly found in plastic toys that could possibly raise a person's risk of health problems, including cancer.]]></description>
+			<link>https://gizmodo.com/kids-are-being-exposed-to-a-lot-of-concerning-chemicals-1846383124</link>
+		</item>
+		<item>
+			<title>Food Prices Are Soaring Faster Than Inflation and Incomes</title>
+			<source>Bloomberg</source>
+			<pubDate>Feb 28, 2021</pubDate>
+			<description><![CDATA[As the Covid-19 pandemic wreaks havoc on economic growth, concerns about hunger and malnutrition are rising around the world.]]></description>
+			<link>https://www.bloomberg.com/news/articles/2021-03-01/inflation-2021-malnutrition-and-hunger-fears-rise-as-food-prices-soar-globally</link>
+		</item>
+		<item>
+			<title>Atlantic Currents Seem to Have Started Fading Last Century</title>
+			<source>Ars Technica</source>
+			<pubDate>Feb 27, 2021</pubDate>
+			<description><![CDATA[Another predicted impact of climate change may be here.]]></description>
+			<link>https://arstechnica.com/science/2021/02/atlantic-currents-seem-to-have-started-fading-last-century/</link>
+		</item>
+		<item>
+			<title>The Evolutionary Advantages of Playing Victim</title>
+			<source>Quillette</source>
+			<pubDate>Feb 27, 2021</pubDate>
+			<description><![CDATA[Victimhood is defined in negative terms: 'the condition of having been hurt, damaged, or made to suffer.' Yet humans have evolved to empathize with the suffering of others, and to provide assistanc…]]></description>
+			<link>https://quillette.com/2021/02/27/the-evolutionary-advantages-of-playing-victim/</link>
+		</item>
+		<item>
+			<title>Hackers Tied to Russia's GRU Targeted the US Grid for Years</title>
+			<source>Ars Technica</source>
+			<pubDate>Feb 27, 2021</pubDate>
+			<description><![CDATA[Sandworm-aligned group has breached US critical infrastructure a handful of times.]]></description>
+			<link>https://arstechnica.com/information-technology/2021/02/hackers-tied-to-russias-gru-targeted-the-us-grid-for-years/</link>
+		</item>
+		<item>
+			<title>Saudi De Facto Ruler Approved Operation That Led to Khashoggi's Death: U.S.</title>
+			<source>Reuters</source>
+			<pubDate>Feb 27, 2021</pubDate>
+			<description><![CDATA[FILE PHOTO: The Committee to Protect Journalists and other press freedom activists hold a candlelight vigil in front of the Saudi Embassy to mark the anniversary of the killing of journalist Jamal Kha]]></description>
+			<link>https://www.reuters.com/news/picture/saudi-crown-prince-approved-khashoggi-mu-idUSKBN2AQ2OC</link>
+		</item>
+		<item>
+			<title>Erik Prince and the Failed Plot to Arm a CIA Asset-Turned-Warlord in Libya</title>
+			<source>The Intercept</source>
+			<pubDate>Feb 26, 2021</pubDate>
+			<description><![CDATA[Sources and exclusive documents reveal new details about Prince's long campaign to back Libyan strongman Khalifa Hifter.]]></description>
+			<link>https://theintercept.com/2021/02/26/erik-prince-jordan-libya-weapons-opus/</link>
+		</item>
+		<item>
+			<title>Sen. John Thune, Opposing $15 Min Wage, Says He Earned $6 as a Kid — That's $24 With Inflation</title>
+			<source>Newsweek</source>
+			<pubDate>Feb 26, 2021</pubDate>
+			<description><![CDATA['I started working by bussing tables at the Star Family Restaurant for $1/hour & slowly moved up to cook—the big leagues for a kid like me—to earn $6/hour,' Thune wrote.]]></description>
+			<link>https://www.newsweek.com/sen-john-thune-opposing-15-min-wage-says-he-earned-6-kidthats-24-inflation-1571915</link>
+		</item>
+		<item>
+			<title>Amazon Rainforest Plots Sold via Facebook Marketplace Ads</title>
+			<source>BBC News</source>
+			<pubDate>Feb 25, 2021</pubDate>
+			<description><![CDATA[Protected land reserved for Brazil's indigenous communities is being traded on the social network.]]></description>
+			<link>https://www.bbc.com/news/technology-56168844</link>
+		</item>
+		<item>
+			<title>Why Is the Woke Mob So Scared?</title>
+			<source>UnHerd</source>
+			<pubDate>Feb 25, 2021</pubDate>
+			<description><![CDATA[The no-platforming of yet another academic raises uncomfortable questions about free speech]]></description>
+			<link>https://unherd.com/2021/02/why-is-the-woke-mob-so-scared/</link>
+		</item>
+		<item>
+			<title>The Problem With 'Indigenizing the University'</title>
+			<source>Quillette</source>
+			<pubDate>Feb 24, 2021</pubDate>
+			<description><![CDATA[The idea that academics need to 'Indigenize' the Canadian education system has become popular in recent years. The Congress of the Humanities and Social Sciences, the Canadian Association of Univer…]]></description>
+			<link>https://quillette.com/2021/02/24/the-problem-with-indigenizing-the-university/</link>
+		</item>
+		<item>
+			<title>A Quantum Computer Just Solved a Decades-Old Problem Three Million Times Faster Than a Classical Computer</title>
+			<source>ZDNet</source>
+			<pubDate>Feb 23, 2021</pubDate>
+			<description><![CDATA[Using a method called quantum annealing, D-Wave's researchers demonstrated that a quantum computational advantage could be achieved over classical means.]]></description>
+			<link>https://www.zdnet.com/article/a-quantum-computer-just-solved-a-decades-old-problem-three-million-times-faster-than-a-classical-computer/</link>
+		</item>
+		<item>
+			<title>Musk: Starlink Will Hit 300Mbps and Expand to 'Most of Earth' This Year</title>
+			<source>Ars Technica</source>
+			<pubDate>Feb 23, 2021</pubDate>
+			<description><![CDATA[SpaceX CEO teases higher speeds, lower latency, and near-global coverage.]]></description>
+			<link>https://arstechnica.com/information-technology/2021/02/musk-starlink-will-hit-300mbps-and-expand-to-most-of-earth-this-year/</link>
+		</item>
+		<item>
+			<title>A Major Ocean Current May Be Hurtling Towards Collapse</title>
+			<source>Gizmodo</source>
+			<pubDate>Feb 23, 2021</pubDate>
+			<description><![CDATA[The ocean may have less time than we thought before massive, irreversible shifts take place. A new study finds that a crucial ocean system may reach its 'tipping point' sooner than predicted if the rate of climate change continues at a breakneck pace.]]></description>
+			<link>https://earther.gizmodo.com/a-major-ocean-current-may-be-hurtling-towards-collapse-1846337333</link>
+		</item>
+		<item>
+			<title>Fossil Fuel Executives Gloat About Profits, PR From Texas Winter Storm Crisis</title>
+			<source>The Intercept</source>
+			<pubDate>Feb 23, 2021</pubDate>
+			<description><![CDATA[Comstock Resources, a shale drilling company, apologized for describing gas prices from the Texas storm as a 'jackpot.']]></description>
+			<link>https://theintercept.com/2021/02/23/texas-winter-storm-gas-prices-executives/</link>
+		</item>
+		<item>
+			<title>House Democrats, Targeting Right-Wing Cable Outlets, Are Assaulting Core Press Freedoms</title>
+			<source>Substack</source>
+			<pubDate>Feb 23, 2021</pubDate>
+			<description><![CDATA[Democrats' justification for silencing their adversaries online and in media -- 'they are spreading fake news and inciting extremism' -- is what despots everywhere say.]]></description>
+			<link>https://greenwald.substack.com/p/house-democrats-targeting-right-wing</link>
+		</item>
+		<item>
+			<title>Even by Democratic Party Standards, Censoring Fox News Is an Insanely Stupid Idea</title>
+			<source>Substack</source>
+			<pubDate>Feb 23, 2021</pubDate>
+			<description><![CDATA[How will the latest campaign against 'misinformation' backfire for the country? Let's count the ways]]></description>
+			<link>https://taibbi.substack.com/p/i-cant-stand-fox-news-but-censoring-94b</link>
+		</item>
+		<item>
+			<title>Garden-Variety Germs May Explode in COVID's Wake, Study Suggests</title>
+			<source>Ars Technica</source>
+			<pubDate>Feb 23, 2021</pubDate>
+			<description><![CDATA[In coronavirus's wake, garden-variety germs may come roaring back.]]></description>
+			<link>https://arstechnica.com/science/2021/02/covid-precautions-no-match-for-the-common-cold-and-its-ready-for-a-comeback/</link>
+		</item>
+		<item>
+			<title>SolarWinds Hackers Also Went After NASA and the FAA</title>
+			<source>Gizmodo</source>
+			<pubDate>Feb 23, 2021</pubDate>
+			<description><![CDATA[Apparently not content with having penetrated the networks of such piddling federal agencies as the U.S. State Department, the Department of Homeland Security, and that agency that maintains our nuclear stockpile, the hackers of the 'SolarWinds' affair also went after NASA and the Federal Aviatio…]]></description>
+			<link>https://gizmodo.com/solarwinds-hackers-also-went-after-nasa-and-the-faa-1846340394</link>
+		</item>
+		<item>
+			<title>Student Surveillance Vendor Proctorio Files SLAPP Lawsuit to Silence a Critic</title>
+			<source>Electronic Frontier Foundation</source>
+			<pubDate>Feb 23, 2021</pubDate>
+			<description><![CDATA[During the pandemic, a dangerous business has prospered: invading students' privacy with proctoring software and apps. In the last year, we've seen universities compel students to download apps that collect their face images, driver's license data, and network information. Students who want to move.…]]></description>
+			<link>https://www.eff.org/deeplinks/2021/02/student-surveillance-vendor-proctorio-files-slapp-lawsuit-silence-critic</link>
+		</item>
+		<item>
+			<title>Humans Had Never Seen a Spacecraft Land on Another Planet—Until Now</title>
+			<source>Ars Technica</source>
+			<pubDate>Feb 22, 2021</pubDate>
+			<description><![CDATA['I can, and have, watched those videos for hours.']]></description>
+			<link>https://arstechnica.com/science/2021/02/humans-had-never-seen-a-spacecraft-land-on-another-planet-until-now/</link>
+		</item>
+		<item>
+			<title>Unreal Video of Perseverance Landing on Mars Will Take Your Breath Away</title>
+			<source>Gizmodo</source>
+			<pubDate>Feb 22, 2021</pubDate>
+			<description><![CDATA[NASA has released stunning footage of the Perseverance rover landing on Mars, in what is a seminal achievement for the space agency.]]></description>
+			<link>https://gizmodo.com/unreal-video-of-perseverance-landing-on-mars-will-take-1846328878</link>
+		</item>
+		<item>
+			<title>Amazon Rainforest Fires Got Even Worse Last Year</title>
+			<source>The Verge</source>
+			<pubDate>Feb 22, 2021</pubDate>
+			<description><![CDATA[NASA spotted more severe fires from space.]]></description>
+			<link>https://www.theverge.com/2021/2/22/22295437/amazon-rainforest-fires-worse-2020</link>
+		</item>
+		<item>
+			<title>500,000 Lives Lost</title>
+			<source>Reuters</source>
+			<pubDate>Feb 22, 2021</pubDate>
+			<description><![CDATA[The scale of the COVID-19 death toll in the United States]]></description>
+			<link>https://graphics.reuters.com/HEALTH-CORONAVIRUS/USA-CASUALTIES-CHRONOLOGY/xklpyomnrpg/index.html</link>
+		</item>
+		<item>
+			<title>China Hijacked an NSA Hacking Tool — and Used It for Years</title>
+			<source>Wired</source>
+			<pubDate>Feb 22, 2021</pubDate>
+			<description><![CDATA[The hackers used the agency's EpMe exploit to attack Windows devices years before the Shadow Brokers leaked the agency's zero-day arsenal online.]]></description>
+			<link>https://www.wired.com/story/china-nsa-hacking-tool-epme-hijack/</link>
+		</item>
+		<item>
+			<title>Thinking Critically About Critical Thinking</title>
+			<source>Quillette</source>
+			<pubDate>Feb 21, 2021</pubDate>
+			<description><![CDATA[Michael J. Fox, the third president of the United States, was responsible for establishing Presbyterianism as the state religion of the new federation after its peaceful secession from the English …]]></description>
+			<link>https://quillette.com/2021/02/20/thinking-critically-about-critical-thinking/</link>
+		</item>
+		<item>
+			<title>A Ripple Effect of Loss: U.S. Covid Deaths Approach 500,000</title>
+			<source>The New York Times</source>
+			<pubDate>Feb 21, 2021</pubDate>
+			<description><![CDATA[Twice as many Americans have died as early worst-case projections.]]></description>
+			<link>https://www.nytimes.com/2021/02/21/us/coronavirus-deaths-us-half-a-million.html</link>
+		</item>
+		<item>
+			<title>What Are Sperm Telling Us?</title>
+			<source>The New York Times</source>
+			<pubDate>Feb 20, 2021</pubDate>
+			<description><![CDATA[Scientists are concerned by falling sperm counts and declining egg quality. Endocrine-disrupting chemicals may be the problem.]]></description>
+			<link>https://www.nytimes.com/2021/02/20/opinion/sunday/endocrine-disruptors-sperm.html</link>
+		</item>
+		<item>
+			<title>Scientists Find a Way to Communicate With Dreaming People</title>
+			<source>Gizmodo</source>
+			<pubDate>Feb 18, 2021</pubDate>
+			<description><![CDATA[The veil between dreamworld and reality may be thinner than we thought. In a new study released Thursday, scientists in four countries say they've shown it's possible to communicate with people while they're lucid dreaming. At least some of the time, the dreamers were reportedly able to respond to y…]]></description>
+			<link>https://gizmodo.com/scientists-find-a-way-to-communicate-with-dreaming-peop-1846292025</link>
+		</item>
+		<item>
+			<title>White House Now Says 100 Companies Hit by SolarWinds Hack, but More May Be Impacted</title>
+			<source>The Verge</source>
+			<pubDate>Feb 18, 2021</pubDate>
+			<description><![CDATA[The attack is 'likely of Russian origin']]></description>
+			<link>https://www.theverge.com/2021/2/18/22288961/solarwinds-hack-100-companies-9-federal-agencies</link>
+		</item>
+		<item>
+			<title>Data Breach Warning After California DMV Contractor Hit by File-Stealing Ransomware</title>
+			<source>TechCrunch</source>
+			<pubDate>Feb 18, 2021</pubDate>
+			<description><![CDATA[A file-stealing ransomware group claimed responsibility for the hack, and said it will sell the stolen data.]]></description>
+			<link>https://techcrunch.com/2021/02/18/california-motor-vehicles-afts-ransomware/</link>
+		</item>
+		<item>
+			<title>U.S. Charges Three North Koreans in $1.3 Billion Hacking Spree</title>
+			<source>Reuters</source>
+			<pubDate>Feb 17, 2021</pubDate>
+			<description><![CDATA[The United States has charged three North Korean computer programmers with a massive hacking spree aimed at stealing more than $1.3 billion in money and cryptocurrency, affecting companies from banks to Hollywood movie studios, the Department of Justice said on Wednesday.]]></description>
+			<link>https://www.reuters.com/article/us-northkorea-cyber-idUSKBN2AH2B5</link>
+		</item>
+		<item>
+			<title>Prisons Are Skimming Big Chunks of CARES Act Stimulus Checks</title>
+			<source>The Intercept</source>
+			<pubDate>Feb 17, 2021</pubDate>
+			<description><![CDATA[A September court ruling promised incarcerated people their slice of the federal stimulus. Some prisons still took a cut.]]></description>
+			<link>https://theintercept.com/2021/02/17/stimulus-checks-cares-prisons-skimming-irs/</link>
+		</item>
+		<item>
+			<title>We Haven't Seen a Quarter of Known Bee Species Since the 1990s</title>
+			<source>National Geographic</source>
+			<pubDate>Jan 22, 2021</pubDate>
+			<description><![CDATA[A sweeping analysis shows an overall downward trend in bee diversity worldwide, raising concerns about these crucial pollinators.]]></description>
+			<link>https://www.nationalgeographic.com/animals/article/we-havent-seen-quarter-of-known-bee-species-since-1990s</link>
+		</item>
+		<item>
+			<title>Congress Escalates Pressure on Tech Giants to Censor More, Threatening the First Amendment</title>
+			<source>Substack</source>
+			<pubDate>Jan 20, 2021</pubDate>
+			<description><![CDATA[In their zeal for control over online speech, House Democrats are getting closer and closer to the constitutional line, if they have not already crossed it.]]></description>
+			<link>https://greenwald.substack.com/p/congress-escalates-pressure-on-tech</link>
+		</item>
+		<item>
+			<title>Stay Calm Everyone, There's Prozac in the Drinking Water</title>
+			<source>The Guardian</source>
+			<pubDate>Dec 2, 2017</pubDate>
+			<description><![CDATA[It should make us happy, but environmentalists are deeply alarmed: Prozac, the anti-depression drug, is being taken in such large quantities that it can now be found in Britain's drinking water.]]></description>
+			<link>https://www.theguardian.com/society/2004/aug/08/health.mentalhealth</link>
+		</item>
+		<item>
+			<title>Biden's Protection of Murderous Saudi Despots Shows the Hidden Reality of U.S. Foreign Policy</title>
+			<source>Substack</source>
+			<pubDate>Mar 2, 2001</pubDate>
+			<description><![CDATA[That the U.S. opposes tyranny is a glaring myth. Yet it is not only believed but often used to justify wars, bombing campaigns, sanctions, and protracted conflict.]]></description>
+			<link>https://greenwald.substack.com/p/bidens-protection-of-murderous-saudi</link>
+		</item>
 		<item>
 			<title>After Pork Giant Was Exposed for Cruel Killings, the FBI Pursued Its Critics</title>
 			<source>The Intercept</source>
@@ -307,405 +706,6 @@
 			<pubDate>Jan 22, 2021</pubDate>
 			<description><![CDATA[Sales increase 43% globally in 2020 as plunging battery costs mean the cars will soon be the cheapest vehicles to buy]]></description>
 			<link>https://www.theguardian.com/environment/2021/jan/22/electric-vehicles-close-to-tipping-point-of-mass-adoption</link>
-		</item>
-		<item>
-			<title>Intelligence Analysts Use U.S. Smartphone Location Data Without Warrants, Memo Says</title>
-			<source>The New York Times</source>
-			<pubDate>Jan 22, 2021</pubDate>
-			<description><![CDATA[The disclosure comes amid growing legislative scrutiny of how the government uses commercially available location records.]]></description>
-			<link>https://www.nytimes.com/2021/01/22/us/politics/dia-surveillance-data.html</link>
-		</item>
-		<item>
-			<title>The Moronic Firing of Will Wilkinson Illustrates Why Fear and Bad Faith Mob Demands Reign Supreme</title>
-			<source>Substack</source>
-			<pubDate>Jan 22, 2021</pubDate>
-			<description><![CDATA[In the prevailing climate, the rational choice is to avoid social scorn and ostracization no matter how baseless the grievances one must appease.]]></description>
-			<link>https://greenwald.substack.com/p/the-moronic-firing-of-will-wilkinson</link>
-		</item>
-		<item>
-			<title>The Echo Chamber Era</title>
-			<source>Substack</source>
-			<pubDate>Jan 22, 2021</pubDate>
-			<description><![CDATA[Trust in media is down, but if journalists don't listen to critics anyway, why should they care?]]></description>
-			<link>https://taibbi.substack.com/p/the-echo-chamber-era</link>
-		</item>
-		<item>
-			<title>Forever Chemicals Are Widespread in U.S. Drinking Water</title>
-			<source>Scientific American</source>
-			<pubDate>Jan 22, 2021</pubDate>
-			<description><![CDATA[Experts hope that with the incoming Biden administration, the federal government will finally regulate a class of chemicals known as PFASs]]></description>
-			<link>https://www.scientificamerican.com/article/forever-chemicals-are-widespread-in-u-s-drinking-water/</link>
-		</item>
-		<item>
-			<title>Vertical Farms Grow Veggies on Site at Restaurants and Grocery Stores</title>
-			<source>New Atlas</source>
-			<pubDate>Jan 21, 2021</pubDate>
-			<description><![CDATA[Last month we reported that a huge vertical farming operation near Copenhagen in Denmark recently completed its first harvest. That setup uses hydroponics, but the veggies grown in Vertical Field urban farming pods take root in real soil.]]></description>
-			<link>https://newatlas.com/good-thinking/vertical-field-urban-farm-geoponics/</link>
-		</item>
-		<item>
-			<title>Palantir's God's-Eye View of Afghanistan</title>
-			<source>Wired</source>
-			<pubDate>Jan 20, 2021</pubDate>
-			<description><![CDATA[The company's software can sift through enormous amounts of data, and those metrics can be used to make life-or-death decisions.]]></description>
-			<link>https://www.wired.com/story/palantirs-gods-eye-view-of-afghanistan/</link>
-		</item>
-		<item>
-			<title>Social Media Bans Are Really, Actually, Shockingly Common</title>
-			<source>Wired</source>
-			<pubDate>Jan 20, 2021</pubDate>
-			<description><![CDATA[Booting Trump didn't set a precedent. From Yelp to Uber to Airbnb, platforms regularly ban users and content, but too often behind the scenes.]]></description>
-			<link>https://www.wired.com/story/opinion-social-media-bans-are-really-actually-shockingly-common/</link>
-		</item>
-		<item>
-			<title>Could Lab-Grown Plant Tissue Ease the Environmental Toll of Logging and Agriculture?</title>
-			<source>MIT News</source>
-			<pubDate>Jan 19, 2021</pubDate>
-			<description><![CDATA[MIT researchers have proposed a method for growing plant-based materials, like wood and fiber, in a lab. The technology is still in early development but might one day help reduce the environmental footprint of some types of agriculture.]]></description>
-			<link>https://news.mit.edu/2021/lab-grown-plant-tissue-0120</link>
-		</item>
-		<item>
-			<title>The Ongoing Collapse of the World's Aquifers</title>
-			<source>Wired</source>
-			<pubDate>Jan 19, 2021</pubDate>
-			<description><![CDATA[When humans over-exploit underground water supplies, the ground collapses like a huge empty water bottle. It's called subsidence, and it could affect 1.6 billion people by 2040.]]></description>
-			<link>https://www.wired.com/story/the-ongoing-collapse-of-the-worlds-aquifers/</link>
-		</item>
-		<item>
-			<title>The SolarWinds Hackers Used Tactics Other Groups Will Copy</title>
-			<source>Wired</source>
-			<pubDate>Jan 19, 2021</pubDate>
-			<description><![CDATA[The supply chain threat was just the beginning.]]></description>
-			<link>https://www.wired.com/story/solarwinds-hacker-methods-copycats/</link>
-		</item>
-		<item>
-			<title>A New SolarWinds Malware Strain Is Discovered</title>
-			<source>Gizmodo</source>
-			<pubDate>Jan 19, 2021</pubDate>
-			<description><![CDATA[SolarWinds: it's the hack that keeps on growing. On Monday, researchers announced the discovery of yet another malware strain used by foreign hackers to infiltrate a wide milieu of American government agencies and companies.]]></description>
-			<link>https://gizmodo.com/a-new-solarwinds-malware-strain-is-discovered-1846087775</link>
-		</item>
-		<item>
-			<title>The New Domestic War on Terror Is Coming</title>
-			<source>Substack</source>
-			<pubDate>Jan 19, 2021</pubDate>
-			<description><![CDATA[No speculation is needed. Those who wield power are demanding it. The only question is how much opposition they will encounter.]]></description>
-			<link>https://greenwald.substack.com/p/the-new-domestic-war-on-terror-is</link>
-		</item>
-		<item>
-			<title>Behind a Secret Deal Between Google and Facebook</title>
-			<source>The New York Times</source>
-			<pubDate>Jan 17, 2021</pubDate>
-			<description><![CDATA[Facebook was going to compete with Google for some advertising sales but backed away from the plan after the companies cut a preferential deal, according to court documents.]]></description>
-			<link>https://www.nytimes.com/2021/01/17/technology/google-facebook-ad-deal-antitrust.html</link>
-		</item>
-		<item>
-			<title>2020 Was the One of the Hottest Years on Record</title>
-			<source>Wired</source>
-			<pubDate>Jan 15, 2021</pubDate>
-			<description><![CDATA[Officials from NASA and NOAA say the warming of both the planet's air and water are driving weather disasters.]]></description>
-			<link>https://www.wired.com/story/2020-was-the-one-of-the-hottest-years-on-record/</link>
-		</item>
-		<item>
-			<title>Left Stranded: US Military Sonar Linked to Whale Beachings in Pacific, Say Scientists</title>
-			<source>The Guardian</source>
-			<pubDate>Jan 15, 2021</pubDate>
-			<description><![CDATA[Islands surrounded by US military study area, including Guam and Saipan, call for activity that harms the whales to stop]]></description>
-			<link>https://www.theguardian.com/world/2021/jan/16/left-stranded-us-military-sonar-linked-to-whale-beachings-in-pacific-say-scientists</link>
-		</item>
-		<item>
-			<title>Beyond Platforms: Private Censorship, Parler, and the Stack</title>
-			<source>EFF</source>
-			<pubDate>Jan 15, 2021</pubDate>
-			<description><![CDATA[Last week, following riots that saw supporters of President Trump breach and sack parts of the Capitol building, Facebook and Twitter made the decision to give the president the boot. That was notable enough, given that both companies had previously treated the president, like other political...]]></description>
-			<link>https://www.eff.org/deeplinks/2021/01/beyond-platforms-private-censorship-parler-and-stack</link>
-		</item>
-		<item>
-			<title>Billionaires Add $1tn to Net Worth During Pandemic as Their Workers Struggle</title>
-			<source>The Guardian</source>
-			<pubDate>Jan 15, 2021</pubDate>
-			<description><![CDATA[Companies' attempts at hazard pay have been paltry and fleeting as employees are threatened for protesting working conditions]]></description>
-			<link>https://www.theguardian.com/world/2021/jan/15/billionaires-net-worth-coronavirus-pandemic-jeff-bezos-elon-musk</link>
-		</item>
-		<item>
-			<title>Everything We Know Now About Schools, Kids, and Covid-19</title>
-			<source>Wired</source>
-			<pubDate>Jan 15, 2021</pubDate>
-			<description><![CDATA[Researchers are finally getting good data on how severely SARS-CoV-2 affects children and how they transmit it. What does it mean for reopening classrooms?]]></description>
-			<link>https://www.wired.com/story/everything-we-know-now-about-schools-kids-and-covid-19/</link>
-		</item>
-		<item>
-			<title>The Antifa Thugs Shame America</title>
-			<source>UnHerd</source>
-			<pubDate>Jan 15, 2021</pubDate>
-			<description><![CDATA[Andy Ngo's family came to the US to escape Communist tyranny — now he's fleeing a political mob]]></description>
-			<link>https://unherd.com/2021/01/the-antifa-thugs-shame-america/</link>
-		</item>
-		<item>
-			<title>Cult Nation</title>
-			<source>Substack</source>
-			<pubDate>Jan 14, 2021</pubDate>
-			<description><![CDATA[National politics has robbed us of our selves.]]></description>
-			<link>https://taibbi.substack.com/p/cult-nation-935</link>
-		</item>
-		<item>
-			<title>How Law Enforcement Gets Around Your Smartphone's Encryption</title>
-			<source>Wired</source>
-			<pubDate>Jan 13, 2021</pubDate>
-			<description><![CDATA[New research has dug into the openings that iOS and Android security provide for anyone with the right tools.]]></description>
-			<link>https://www.wired.com/story/smartphone-encryption-law-enforcement-tools/</link>
-		</item>
-		<item>
-			<title>Tech Companies Are Profiling Us From Before Birth</title>
-			<source>The MIT Press Reader</source>
-			<pubDate>Jan 13, 2021</pubDate>
-			<description><![CDATA[Children today are the very first generation of citizens to be datafied from before birth. The social and political consequences of this historical transformation have yet to be seen.]]></description>
-			<link>https://thereader.mitpress.mit.edu/tech-companies-are-profiling-us-from-before-birth/</link>
-		</item>
-		<item>
-			<title>Trump's Twitter Ban Obscures the Real Problem: State-Backed Manipulation Is Rampant on Social Media</title>
-			<source>The Conversation</source>
-			<pubDate>Jan 13, 2021</pubDate>
-			<description><![CDATA[Social media censorship in the US fails to tackle the rising trend of 'disinformation-for-hire' cyber troops.]]></description>
-			<link>https://theconversation.com/trumps-twitter-ban-obscures-the-real-problem-state-backed-manipulation-is-rampant-on-social-media-153136</link>
-		</item>
-		<item>
-			<title>Nasa's Curiosity Rover: 3,000 Days on Mars</title>
-			<source>BBC News</source>
-			<pubDate>Jan 12, 2021</pubDate>
-			<description><![CDATA[Three thousand days and counting: Nasa's Curiosity rover continues its extraordinary exploration of Mars.]]></description>
-			<link>https://www.bbc.com/news/science-environment-55562150</link>
-		</item>
-		<item>
-			<title>The Arctic Ocean Is Teeming With Microfibers From Clothes</title>
-			<source>Wired</source>
-			<pubDate>Jan 12, 2021</pubDate>
-			<description><![CDATA[Scientists find an average of 40 microplastic particles per cubic meter of the northern water. The likely source? The synthetic clothing in our washing machines.]]></description>
-			<link>https://www.wired.com/story/the-arctic-ocean-is-teeming-with-microfibers-from-clothes/</link>
-		</item>
-		<item>
-			<title>How Silicon Valley, in a Show of Monopolistic Force, Destroyed Parler</title>
-			<source>Substack</source>
-			<pubDate>Jan 12, 2021</pubDate>
-			<description><![CDATA[In the last three months, tech giants have censored political speech and journalism to manipulate U.S. politics, while liberals, with virtual unanimity, have cheered.]]></description>
-			<link>https://greenwald.substack.com/p/how-silicon-valley-in-a-show-of-monopolistic</link>
-		</item>
-		<item>
-			<title>The Mafia Is Thriving in Lockdown</title>
-			<source>UnHerd</source>
-			<pubDate>Jan 12, 2021</pubDate>
-			<description><![CDATA[Chaos has always been an opportunity for organised crime — as Britain could soon find out]]></description>
-			<link>https://unherd.com/2021/01/the-mafia-is-thriving-in-lockdown/</link>
-		</item>
-		<item>
-			<title>The Plan to Build a Global Network of Floating Power Stations</title>
-			<source>Wired</source>
-			<pubDate>Jan 11, 2021</pubDate>
-			<description><![CDATA[A lot of thermal energy is trapped in the ocean. An ex-NASA researcher has figured out how it might generate unlimited clean power for aquatic robots.]]></description>
-			<link>https://www.wired.com/story/the-plan-to-build-a-global-network-of-floating-power-stations/</link>
-		</item>
-		<item>
-			<title>SolarWinds Hackers Shared Tricks With Known Russian Cyberspies</title>
-			<source>Wired</source>
-			<pubDate>Jan 11, 2021</pubDate>
-			<description><![CDATA[Security researchers have found links between the attackers and Turla, a sophisticated team suspected of operating out of Moscow's FSB intelligence agency.]]></description>
-			<link>https://www.wired.com/story/solarwinds-russia-hackers-turla-malware/</link>
-		</item>
-		<item>
-			<title>We Need a New Media System</title>
-			<source>Substack</source>
-			<pubDate>Jan 11, 2021</pubDate>
-			<description><![CDATA[If you sell culture war all day, don't be surprised by the real-world consequences]]></description>
-			<link>https://taibbi.substack.com/p/we-need-a-new-media-system</link>
-		</item>
-		<item>
-			<title>Social-Media Oligopolists Are the New Railroad Barons. It's Time for Washington to Treat Them Accordingly</title>
-			<source>Quillette</source>
-			<pubDate>Jan 11, 2021</pubDate>
-			<description><![CDATA[In 1964, an Ohio Ku Klux Klan leader named Clarence Brandenburg told a Cincinnati-based reporter that his hate group would soon be holding a rally in a rural area of Hamilton County. In the filmed por]]></description>
-			<link>https://quillette.com/2021/01/11/social-media-oligopolists-are-the-new-railroad-barons-its-time-for-washington-to-treat-them-accordingly/</link>
-		</item>
-		<item>
-			<title>What Would It Take to Run a City on 100 Percent Clean Energy?</title>
-			<source>Wired</source>
-			<pubDate>Jan 09, 2021</pubDate>
-			<description><![CDATA[Most claims of running on 'clean' electricity come with caveats, and many technologies required for round-the-clock renewable energy aren't quite ready yet.]]></description>
-			<link>https://www.wired.com/story/what-would-it-take-to-run-a-city-on-100-percent-clean-energy/</link>
-		</item>
-		<item>
-			<title>Violence in the Capitol, Dangers in the Aftermath</title>
-			<source>Substack</source>
-			<pubDate>Jan 9, 2021</pubDate>
-			<description><![CDATA[From the Cold War to the War on Terror: the harms from authoritarian 'solutions' are often greater than the threats they are ostensibly designed to combat.]]></description>
-			<link>https://greenwald.substack.com/p/violence-in-the-capitol-dangers-in-bbe</link>
-		</item>
-		<item>
-			<title>Wednesday's Other Story</title>
-			<source>Substack</source>
-			<pubDate>Jan 8, 2021</pubDate>
-			<description><![CDATA[On the case of Julian Assange, and fearing empire more than Trump]]></description>
-			<link>https://taibbi.substack.com/p/wednesdays-other-story</link>
-		</item>
-		<item>
-			<title>EFF's Response to Social Media Companies' Decisions to Block President Trump's Accounts</title>
-			<source>Electronic Frontier Foundation</source>
-			<pubDate>Jan 8, 2021</pubDate>
-			<description><![CDATA[Like most people in the United States and around the world, EFF is shocked and disgusted by Wednesday's violent attack on the U.S. Capitol. We support all those who are working to defend the Constitution and the rule of law, and we are grateful for the service of policymakers, staffers, and other...]]></description>
-			<link>https://www.eff.org/deeplinks/2021/01/eff-response-social-media-companies-decision-block-president-trumps-accounts</link>
-		</item>
-		<item>
-			<title>Climate Change Is Turning Cities Into Ovens</title>
-			<source>Wired</source>
-			<pubDate>Jan 07, 2021</pubDate>
-			<description><![CDATA[A new model estimates that by 2100, cities across the world could warm as much as 4.4 degrees Celsius. It's a deadly consequence of the heat-island effect.]]></description>
-			<link>https://www.wired.com/story/climate-change-is-turning-cities-into-ovens/</link>
-		</item>
-		<item>
-			<title>Sealed U.S. Court Records Exposed in SolarWinds Breach</title>
-			<source>Krebs on Security</source>
-			<pubDate>Jan 7, 2021</pubDate>
-			<description><![CDATA[The ongoing breach affecting thousands of organizations that relied on backdoored products by network software firm SolarWinds may have jeopardized the privacy of countless sealed court documents on file with the U.S. federal court system, according to a memo released Wednesday by the Administrative…]]></description>
-			<link>https://krebsonsecurity.com/2021/01/sealed-u-s-court-records-exposed-in-solarwinds-breach/</link>
-		</item>
-		<item>
-			<title>How Security Failures Enabled Trump Mob to Storm U.S. Capitol</title>
-			<source>Reuters</source>
-			<pubDate>Jan 7, 2021</pubDate>
-			<description><![CDATA[By Joseph Tanfani, John Shiffman, Brad Heath, Andrea Januta and Mark Hosenball]]></description>
-			<link>https://www.reuters.com/article/us-usa-election-capitol-security-insight/how-security-failures-enabled-trump-mob-to-storm-u-s-capitol-idUSKBN29C0R5</link>
-		</item>
-		<item>
-			<title>SolarWinds Hackers Accessed More Than 3,000 DOJ Email Accounts</title>
-			<source>Gizmodo</source>
-			<pubDate>Jan 6, 2021</pubDate>
-			<description><![CDATA[In yet another dastardly twist in the ongoing SolarWinds debacle, the U.S. Department of Justice announced Wednesday that hackers had accessed the inboxes of over 3,000 DOJ employee Microsoft email accounts.]]></description>
-			<link>https://gizmodo.com/solarwinds-hackers-accessed-more-than-3-000-doj-email-a-1846001981</link>
-		</item>
-		<item>
-			<title>US Intelligence Agencies Say Russia Was Likely Behind the SolarWinds Hack</title>
-			<source>Engadget</source>
-			<pubDate>Jan 06, 2021</pubDate>
-			<description><![CDATA[The FBI, NSA and CISA say it'll take a lot of effort to fix the problem.]]></description>
-			<link>https://www.engadget.com/us-intelligence-agencies-fbi-nsa-cisa-solarwinds-hack-russia-111518166.html</link>
-		</item>
-		<item>
-			<title>Last Year Reusable Rockets Entered the Mainstream, and There's No Going Back</title>
-			<source>Ars Technica</source>
-			<pubDate>Jan 06, 2021</pubDate>
-			<description><![CDATA['If Rocket Lab ever builds a new vehicle, it will fundamentally be reusable.']]></description>
-			<link>https://arstechnica.com/science/2021/01/last-year-reusable-rockets-entered-the-mainstream-and-theres-no-going-back/</link>
-		</item>
-		<item>
-			<title>Gravity Energy Storage Will Show Its Potential in 2021</title>
-			<source>IEEE Spectrum</source>
-			<pubDate>Jan 05, 2021</pubDate>
-			<description><![CDATA[Gravitricity and Energy Vault are pioneering a radical new alternative to batteries for grid storage]]></description>
-			<link>https://spectrum.ieee.org/energy/batteries-storage/gravity-energy-storage-will-show-its-potential-in-2021</link>
-		</item>
-		<item>
-			<title>Researchers Find a Faster, More Efficient Way to 3D Print</title>
-			<source>Gizmodo</source>
-			<pubDate>Jan 05, 2021</pubDate>
-			<description><![CDATA[Two researchers at Penn State have created a new system for five-axis additive 3D-printing that reduces the amount and density of support materials needed for making printed objects.]]></description>
-			<link>https://gizmodo.com/researchers-find-a-faster-more-efficient-way-to-3d-pri-1845992030</link>
-		</item>
-		<item>
-			<title>China Blocks Entry to WHO Team Studying Covid's Origins</title>
-			<source>The Guardian</source>
-			<pubDate>Jan 05, 2021</pubDate>
-			<description><![CDATA[Officials say visas not yet approved for World Health Organization delegation due to visit Wuhan]]></description>
-			<link>https://www.theguardian.com/world/2021/jan/05/china-blocks-entry-to-who-team-studying-covids-origins</link>
-		</item>
-		<item>
-			<title>This Year, Autonomous Trucks Will Take to the Road With No One on Board</title>
-			<source>IEEE Spectrum</source>
-			<pubDate>Jan 04, 2021</pubDate>
-			<description><![CDATA[The startup TuSimple is deploying tractor-trailers that drive themselves from pickup to delivery]]></description>
-			<link>https://spectrum.ieee.org/transportation/self-driving/this-year-autonomous-trucks-will-take-to-the-road-with-no-one-on-board</link>
-		</item>
-		<item>
-			<title>The Lab-Leak Hypothesis</title>
-			<source>New York Magazine</source>
-			<pubDate>Jan 04, 2021</pubDate>
-			<description><![CDATA[For decades, scientists have been hot-wiring viruses in hopes of preventing a pandemic, not causing one. But what if …?]]></description>
-			<link>https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html</link>
-		</item>
-		<item>
-			<title>The Wokest News Stories of 2020</title>
-			<source>Substack</source>
-			<pubDate>Jan 04, 2021</pubDate>
-			<description><![CDATA[When editors in 2020 weren't being fired in bunches, they were taking aim at everything from Beethoven to mermaids to skyscrapers]]></description>
-			<link>https://taibbi.substack.com/p/the-wokest-news-stories-of-2020-d14</link>
-		</item>
-		<item>
-			<title>Meet the Censored: Mark Crispin Miller</title>
-			<source>Substack</source>
-			<pubDate>Jan 04, 2021</pubDate>
-			<description><![CDATA[The NYU Professor becomes the latest academic to fall afoul of idea police]]></description>
-			<link>https://taibbi.substack.com/p/meet-the-censored-mark-crispin-miller</link>
-		</item>
-		<item>
-			<title>The Kafkaesque Imprisonment of Julian Assange Exposes U.S. Myths About Freedom and Tyranny</title>
-			<source>Substack</source>
-			<pubDate>Dec 31, 2020</pubDate>
-			<description><![CDATA[The real measure of how free is a society is not how its mainstream, well-behaved ruling class servants are treated, but the fate of its actual dissidents.]]></description>
-			<link>https://greenwald.substack.com/p/the-kafkaesque-imprisonment-of-julian</link>
-		</item>
-		<item>
-			<title>The Woke Have No Vision of the Future</title>
-			<source>UnHerd</source>
-			<pubDate>Dec 31, 2020</pubDate>
-			<description><![CDATA[Today's SJWs believe all that needs to be done to bring about a new world is to destroy the old one]]></description>
-			<link>https://unherd.com/2020/12/the-woke-have-no-vision-of-the-future-2/</link>
-		</item>
-		<item>
-			<title>US Approves Sale of $290m in Bombs to Saudi Arabia</title>
-			<source>The Guardian</source>
-			<pubDate>Dec 30, 2020</pubDate>
-			<description><![CDATA[Arms deals with Middle East dictatorships are being rushed through by Trump, critics say, despite opposition over human rights records]]></description>
-			<link>https://www.theguardian.com/us-news/2020/dec/30/us-approves-sale-of-290m-in-bombs-to-saudi-arabia</link>
-		</item>
-		<item>
-			<title>Trump Pardon of Blackwater Iraq Contractors Violates International Law - UN</title>
-			<source>Reuters</source>
-			<pubDate>Dec 30, 2020</pubDate>
-			<description><![CDATA[U.S. President Donald Trump's pardon of four American men convicted of killing Iraqi civilians while working as contractors in 2007 violated U.S. obligations under international law, U.N. human rights experts said on Wednesday.]]></description>
-			<link>https://www.reuters.com/article/us-iraq-blackwater-un/trump-pardon-of-blackwater-iraq-contractors-violates-international-law-un-idUSKBN294108</link>
-		</item>
-		<item>
-			<title>The New Coronavirus Variant Is in the U.S.—Now What?</title>
-			<source>Gizmodo</source>
-			<pubDate>Dec 30, 2020</pubDate>
-			<description><![CDATA[Over the past 24 hours, health officials in Colorado have reported finding two suspected cases of covid-19 caused by a worrying new variant of the coronavirus.]]></description>
-			<link>https://gizmodo.com/the-new-coronavirus-variant-is-in-the-u-s-now-what-1845967832</link>
-		</item>
-		<item>
-			<title>Nearly All Inmates in Alaska's Largest Prison Have Contracted Covid-19</title>
-			<source>The Guardian</source>
-			<pubDate>Dec 30, 2020</pubDate>
-			<description><![CDATA[About 1,115 prisoners of the the total 1,236 prisoners at the Goose Creek correctional center had tested positive]]></description>
-			<link>https://www.theguardian.com/us-news/2020/dec/30/alaska-prison-inmates-contract-covid</link>
-		</item>
-		<item>
-			<title>Liberals Rarely Defend Liberalism</title>
-			<source>UnHerd</source>
-			<pubDate>Dec 30, 2020</pubDate>
-			<description><![CDATA[Don't kid yourself, the woke crocodile is coming for you too]]></description>
-			<link>https://unherd.com/2020/12/why-wont-liberals-defend-liberalism-2/</link>
-		</item>
-		<item>
-			<title>2020 Had Its Share of Memorable Hacks and Breaches. Here Are the Top 10</title>
-			<source>Ars Technica</source>
-			<pubDate>Dec 28, 2020</pubDate>
-			<description><![CDATA[The past 12 months teaches us that, yes, attacks do only get better.]]></description>
-			<link>https://arstechnica.com/information-technology/2020/12/2020-had-its-share-of-merorable-hacks-and-breaches-here-are-the-top-10/</link>
-		</item>
-		<item>
-			<title>How Your Digital Trails Wind Up in the Police's Hands</title>
-			<source>Wired</source>
-			<pubDate>Dec 28, 2020</pubDate>
-			<description><![CDATA[Phone calls. Web searches. Location tracks. Smart speaker requests. They've become crucial tools for law enforcement, while users often are unaware.]]></description>
-			<link>https://www.wired.com/story/your-digital-trails-polices-hands/</link>
 		</item>
 	</channel>
 </rss>
