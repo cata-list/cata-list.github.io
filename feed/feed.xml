@@ -3,10 +3,115 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>NZq4n4lD01iCLYJagr1Bs</id>
+		<id>xGRpf89hkOc5GcGvFxH4O</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Mon Mar 22 2021 11:10:00 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Sat Mar 27 2021 11:34:11 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>The Death of Humor</title>
+			<source>Substack</source>
+			<pubDate>Mar 26, 2021</pubDate>
+			<description><![CDATA[Review of 'Killer Cartoons,' edited by David Wallis, and 'White,' by Bret Easton Ellis]]></description>
+			<link>https://taibbi.substack.com/p/the-death-of-humor-f17</link>
+		</item>
+		<item>
+			<title>The Tyranny of Diversity Training</title>
+			<source>UnHerd</source>
+			<pubDate>Mar 26, 2021</pubDate>
+			<description><![CDATA[America is exporting its Calvinistic tendencies to British workplaces]]></description>
+			<link>https://unherd.com/2021/03/the-tyranny-of-diversity-training/</link>
+		</item>
+		<item>
+			<title>Taiwan Reports Largest Ever Incursion by Chinese Air Force</title>
+			<source>Reuters</source>
+			<pubDate>Mar 26, 2021</pubDate>
+			<description><![CDATA[Twenty Chinese military aircraft entered Taiwan's air defence identification zone on Friday, in the largest incursion yet reported by the island's defence ministry and marking a dramatic escalation of tension across the Taiwan Strait.]]></description>
+			<link>https://www.reuters.com/article/us-taiwna-china-security/taiwan-reports-largest-ever-incursion-by-chinese-air-force-idUSKBN2BI24D</link>
+		</item>
+		<item>
+			<title>The US Military Is Poisoning Communities Across the US With Toxic Chemicals</title>
+			<source>The Guardian</source>
+			<pubDate>Mar 25, 2021</pubDate>
+			<description><![CDATA[The Department of Defense has ordered the burning of 20m pounds of AFFF – despite risks to human health]]></description>
+			<link>https://www.theguardian.com/commentisfree/2021/mar/25/us-military-toxic-chemicals-us-states</link>
+		</item>
+		<item>
+			<title>The Dark Web Is Teeming With Vaccine Listings Right Now</title>
+			<source>Wired</source>
+			<pubDate>Mar 25, 2021</pubDate>
+			<description><![CDATA[Vendors are cashing in on people desperate to leapfrog the line—or falsely certify that they got the shot.]]></description>
+			<link>https://www.wired.com/story/dark-web-teeming-with-vaccine-listings/</link>
+		</item>
+		<item>
+			<title>Researchers Found a Way to Send Tiny Robots Into Mouse Brains</title>
+			<source>Gizmodo</source>
+			<pubDate>Mar 24, 2021</pubDate>
+			<description><![CDATA[In a mind-bending development, a team of researchers in China have managed to treat brain tumors in mice by delivering drugs to the tissues using microscopic robots. The robots jumped from the mice's bloodstreams into their brains by being coated in E. coli, which tricked the rodents' immune systems…]]></description>
+			<link>https://gizmodo.com/researchers-found-a-way-to-send-tiny-robots-into-mouse-1846544741</link>
+		</item>
+		<item>
+			<title>Deforestation and Palm Oil Plantations Are Fueling a Disease Boom, Study Suggests</title>
+			<source>Gizmodo</source>
+			<pubDate>Mar 24, 2021</pubDate>
+			<description><![CDATA[New research presents evidence that activities such as deforestation, building palm oil plantations, and even converting grassy areas into new forests are associated with outbreaks of disease, particularly those transmitted by mosquitoes and other vector animals.]]></description>
+			<link>https://earther.gizmodo.com/deforestation-and-palm-oil-plantations-are-fueling-a-di-1846543313</link>
+		</item>
+		<item>
+			<title>The U.S. Intelligence Community, Flouting Laws, Is Increasingly Involving Itself in Domestic Politics</title>
+			<source>Substack</source>
+			<pubDate>Mar 24, 2021</pubDate>
+			<description><![CDATA[A letter from House Intelligence Committee members demands answers from the DNI about illegal breaches of the wall guarding against CIA and NSA domestic activity.]]></description>
+			<link>https://greenwald.substack.com/p/the-us-intelligence-community-flouting</link>
+		</item>
+		<item>
+			<title>After Dramatic Rebuke, AstraZeneca Lowers Vaccine Efficacy Estimate—a Little</title>
+			<source>Ars Technica</source>
+			<pubDate>Mar 24, 2021</pubDate>
+			<description><![CDATA[Independent experts called the earlier analysis 'outdated and potentially misleading.']]></description>
+			<link>https://arstechnica.com/science/2021/03/after-dramatic-rebuke-astrazeneca-lowers-vaccine-efficacy-estimate-a-little/</link>
+		</item>
+		<item>
+			<title>A Biden Appointee's Troubling Views on the First Amendment</title>
+			<source>Substack</source>
+			<pubDate>Mar 23, 2021</pubDate>
+			<description><![CDATA[Columbia law professor Timothy Wu wonders if the First Amendment is 'obsolete,' and believes in 'returning the country to the kind of media environment that prevailed in the 1950s.']]></description>
+			<link>https://taibbi.substack.com/p/a-biden-appointees-troubling-views</link>
+		</item>
+		<item>
+			<title>Top Saudi Official Issued Death Threat Against UN's Khashoggi Investigator</title>
+			<source>The Guardian</source>
+			<pubDate>Mar 23, 2021</pubDate>
+			<description><![CDATA[Senior official twice threatened to have Agnès Callamard 'taken care of' in meeting with UN colleagues in Geneva in January 2020]]></description>
+			<link>https://www.theguardian.com/world/2021/mar/23/top-saudi-official-issued-death-threat-against-uns-khashoggi-investigator</link>
+		</item>
+		<item>
+			<title>AstraZeneca Messes Up Again, Called Out for Using Old Data in U.S. Trial Results</title>
+			<source>Gizmodo</source>
+			<pubDate>Mar 23, 2021</pubDate>
+			<description><![CDATA[Pharmaceutical company AstraZeneca isn't running out of rakes to step on anytime soon. Less than a day after the company announced promising preliminary results from the U.S. trial of its covid-19 vaccine jointly developed with Oxford University, an independent panel of scientists monitoring the stu…]]></description>
+			<link>https://gizmodo.com/astrazeneca-messes-up-again-called-out-for-using-old-d-1846534823</link>
+		</item>
+		<item>
+			<title>NASA's New Mars Rover Is About to Spawn a Tiny Helicopter</title>
+			<source>The Verge</source>
+			<pubDate>Mar 22, 2021</pubDate>
+			<description><![CDATA[Ingenuity, a 4-pound helicopter, is almost ready to fly.]]></description>
+			<link>https://www.theverge.com/2021/3/22/22345034/nasa-mars-rover-perseverance-ingenuity-helicopter</link>
+		</item>
+		<item>
+			<title>Ultrasound Reads Monkey Brains, Opening New Way to Control Machines With Thought</title>
+			<source>ScienceMag</source>
+			<pubDate>Mar 22, 2021</pubDate>
+			<description><![CDATA[Imaging with sound could offer a less invasive way to send commands to prostheses]]></description>
+			<link>https://www.sciencemag.org/news/2021/03/ultrasound-reads-monkey-brains-opening-new-way-control-machines-thought</link>
+		</item>
+		<item>
+			<title>Fossil Fuels Would Be Screwed Without U.S. Government Propping Them Up</title>
+			<source>Gizmodo</source>
+			<pubDate>Mar 22, 2021</pubDate>
+			<description><![CDATA[Conservatives have argued against regulating the fossil fuel industry for the climate's sake, claiming that doing so would interfere with the free market. A new study shows that's a fairy tale. The invisible hand isn't at work—implicit government subsidies are.]]></description>
+			<link>https://earther.gizmodo.com/the-fossil-fuel-industry-would-be-screwed-without-the-u-1846527447</link>
+		</item>
 		<item>
 			<title>Australia to Rescue Thousands as Sydney Faces Worst Floods in 60 Years</title>
 			<source>Reuters</source>
@@ -601,111 +706,6 @@
 			<pubDate>Feb 22, 2021</pubDate>
 			<description><![CDATA[NASA spotted more severe fires from space.]]></description>
 			<link>https://www.theverge.com/2021/2/22/22295437/amazon-rainforest-fires-worse-2020</link>
-		</item>
-		<item>
-			<title>500,000 Lives Lost</title>
-			<source>Reuters</source>
-			<pubDate>Feb 22, 2021</pubDate>
-			<description><![CDATA[The scale of the COVID-19 death toll in the United States]]></description>
-			<link>https://graphics.reuters.com/HEALTH-CORONAVIRUS/USA-CASUALTIES-CHRONOLOGY/xklpyomnrpg/index.html</link>
-		</item>
-		<item>
-			<title>China Hijacked an NSA Hacking Tool — and Used It for Years</title>
-			<source>Wired</source>
-			<pubDate>Feb 22, 2021</pubDate>
-			<description><![CDATA[The hackers used the agency's EpMe exploit to attack Windows devices years before the Shadow Brokers leaked the agency's zero-day arsenal online.]]></description>
-			<link>https://www.wired.com/story/china-nsa-hacking-tool-epme-hijack/</link>
-		</item>
-		<item>
-			<title>Thinking Critically About Critical Thinking</title>
-			<source>Quillette</source>
-			<pubDate>Feb 21, 2021</pubDate>
-			<description><![CDATA[Michael J. Fox, the third president of the United States, was responsible for establishing Presbyterianism as the state religion of the new federation after its peaceful secession from the English …]]></description>
-			<link>https://quillette.com/2021/02/20/thinking-critically-about-critical-thinking/</link>
-		</item>
-		<item>
-			<title>A Ripple Effect of Loss: U.S. Covid Deaths Approach 500,000</title>
-			<source>The New York Times</source>
-			<pubDate>Feb 21, 2021</pubDate>
-			<description><![CDATA[Twice as many Americans have died as early worst-case projections.]]></description>
-			<link>https://www.nytimes.com/2021/02/21/us/coronavirus-deaths-us-half-a-million.html</link>
-		</item>
-		<item>
-			<title>What Are Sperm Telling Us?</title>
-			<source>The New York Times</source>
-			<pubDate>Feb 20, 2021</pubDate>
-			<description><![CDATA[Scientists are concerned by falling sperm counts and declining egg quality. Endocrine-disrupting chemicals may be the problem.]]></description>
-			<link>https://www.nytimes.com/2021/02/20/opinion/sunday/endocrine-disruptors-sperm.html</link>
-		</item>
-		<item>
-			<title>Scientists Find a Way to Communicate With Dreaming People</title>
-			<source>Gizmodo</source>
-			<pubDate>Feb 18, 2021</pubDate>
-			<description><![CDATA[The veil between dreamworld and reality may be thinner than we thought. In a new study released Thursday, scientists in four countries say they've shown it's possible to communicate with people while they're lucid dreaming. At least some of the time, the dreamers were reportedly able to respond to y…]]></description>
-			<link>https://gizmodo.com/scientists-find-a-way-to-communicate-with-dreaming-peop-1846292025</link>
-		</item>
-		<item>
-			<title>White House Now Says 100 Companies Hit by SolarWinds Hack, but More May Be Impacted</title>
-			<source>The Verge</source>
-			<pubDate>Feb 18, 2021</pubDate>
-			<description><![CDATA[The attack is 'likely of Russian origin']]></description>
-			<link>https://www.theverge.com/2021/2/18/22288961/solarwinds-hack-100-companies-9-federal-agencies</link>
-		</item>
-		<item>
-			<title>Data Breach Warning After California DMV Contractor Hit by File-Stealing Ransomware</title>
-			<source>TechCrunch</source>
-			<pubDate>Feb 18, 2021</pubDate>
-			<description><![CDATA[A file-stealing ransomware group claimed responsibility for the hack, and said it will sell the stolen data.]]></description>
-			<link>https://techcrunch.com/2021/02/18/california-motor-vehicles-afts-ransomware/</link>
-		</item>
-		<item>
-			<title>U.S. Charges Three North Koreans in $1.3 Billion Hacking Spree</title>
-			<source>Reuters</source>
-			<pubDate>Feb 17, 2021</pubDate>
-			<description><![CDATA[The United States has charged three North Korean computer programmers with a massive hacking spree aimed at stealing more than $1.3 billion in money and cryptocurrency, affecting companies from banks to Hollywood movie studios, the Department of Justice said on Wednesday.]]></description>
-			<link>https://www.reuters.com/article/us-northkorea-cyber-idUSKBN2AH2B5</link>
-		</item>
-		<item>
-			<title>Prisons Are Skimming Big Chunks of CARES Act Stimulus Checks</title>
-			<source>The Intercept</source>
-			<pubDate>Feb 17, 2021</pubDate>
-			<description><![CDATA[A September court ruling promised incarcerated people their slice of the federal stimulus. Some prisons still took a cut.]]></description>
-			<link>https://theintercept.com/2021/02/17/stimulus-checks-cares-prisons-skimming-irs/</link>
-		</item>
-		<item>
-			<title>We Haven't Seen a Quarter of Known Bee Species Since the 1990s</title>
-			<source>National Geographic</source>
-			<pubDate>Jan 22, 2021</pubDate>
-			<description><![CDATA[A sweeping analysis shows an overall downward trend in bee diversity worldwide, raising concerns about these crucial pollinators.]]></description>
-			<link>https://www.nationalgeographic.com/animals/article/we-havent-seen-quarter-of-known-bee-species-since-1990s</link>
-		</item>
-		<item>
-			<title>Congress Escalates Pressure on Tech Giants to Censor More, Threatening the First Amendment</title>
-			<source>Substack</source>
-			<pubDate>Jan 20, 2021</pubDate>
-			<description><![CDATA[In their zeal for control over online speech, House Democrats are getting closer and closer to the constitutional line, if they have not already crossed it.]]></description>
-			<link>https://greenwald.substack.com/p/congress-escalates-pressure-on-tech</link>
-		</item>
-		<item>
-			<title>Stay Calm Everyone, There's Prozac in the Drinking Water</title>
-			<source>The Guardian</source>
-			<pubDate>Dec 2, 2017</pubDate>
-			<description><![CDATA[It should make us happy, but environmentalists are deeply alarmed: Prozac, the anti-depression drug, is being taken in such large quantities that it can now be found in Britain's drinking water.]]></description>
-			<link>https://www.theguardian.com/society/2004/aug/08/health.mentalhealth</link>
-		</item>
-		<item>
-			<title>Biden's Protection of Murderous Saudi Despots Shows the Hidden Reality of U.S. Foreign Policy</title>
-			<source>Substack</source>
-			<pubDate>Mar 2, 2001</pubDate>
-			<description><![CDATA[That the U.S. opposes tyranny is a glaring myth. Yet it is not only believed but often used to justify wars, bombing campaigns, sanctions, and protracted conflict.]]></description>
-			<link>https://greenwald.substack.com/p/bidens-protection-of-murderous-saudi</link>
-		</item>
-		<item>
-			<title>After Pork Giant Was Exposed for Cruel Killings, the FBI Pursued Its Critics</title>
-			<source>The Intercept</source>
-			<pubDate>Feb 17, 2021</pubDate>
-			<description><![CDATA[The agency, seeking information on an animal rights group, attempted to recruit a former truck driver as an informant, the truck driver says.]]></description>
-			<link>https://theintercept.com/2021/02/17/fbi-iowa-select-pigs-whistleblower/</link>
 		</item>
 	</channel>
 </rss>
