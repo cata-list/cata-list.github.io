@@ -3,10 +3,45 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>xGRpf89hkOc5GcGvFxH4O</id>
+		<id>0rZ8piONyo1OhuQRnr1EP</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Sat Mar 27 2021 11:34:11 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Sun Mar 28 2021 14:05:40 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Congress, in a Five-Hour Hearing, Demands Tech CEOs Censor the Internet Even More Aggressively</title>
+			<source>Substack</source>
+			<pubDate>Mar 30, 2021</pubDate>
+			<description><![CDATA[The repressive objective of the Democratic-controlled Congress is to transfer the power to police and censor political discourse from these tech giants to themselves.]]></description>
+			<link>https://greenwald.substack.com/p/congress-in-a-five-hour-hearing-demands-0cf</link>
+		</item>
+		<item>
+			<title>Alternatives to Censorship: Interview With Matt Stoller</title>
+			<source>Substack</source>
+			<pubDate>Mar 30, 2021</pubDate>
+			<description><![CDATA[As Congress once again demands that Silicon Valley crack down on speech, the Director of Research at the American Economic Liberties Project outlines the real problem, and better solutions]]></description>
+			<link>https://taibbi.substack.com/p/alternatives-to-censorship-interview-834</link>
+		</item>
+		<item>
+			<title>NASA's TESS Spacecraft Has Already Found 2,200 Possible Planets | Engadget</title>
+			<source>Engadget</source>
+			<pubDate>Mar 28, 2021</pubDate>
+			<description><![CDATA[NASA's TESS spacecraft has already found 2,200 potential planets, surpassing its original goal and raising hope of finding Earth-like worlds.]]></description>
+			<link>https://www.engadget.com/nasa-tess-2200-exoplanets-184133840.html</link>
+		</item>
+		<item>
+			<title>Scotland's Renewable Energy Matched 97 Percent of Demand in 2020 | Engadget</title>
+			<source>Engadget</source>
+			<pubDate>Mar 27, 2021</pubDate>
+			<description><![CDATA[97.4 percent of Scotland's gross electric consumption came from clean energy sources in 2020.]]></description>
+			<link>https://www.engadget.com/scotland-renewable-energy-97-percent-electricity-needs-2020-180436107.html</link>
+		</item>
+		<item>
+			<title>Eating Mostly Restaurant Meals Linked to Higher Risk of Early Death</title>
+			<source>Gizmodo</source>
+			<pubDate>Mar 26, 2021</pubDate>
+			<description><![CDATA[Dining out often might come with a hidden cost down the road, new research suggests. The study found an association between frequently eating at restaurants and a higher risk of dying earlier, along with deaths caused by cardiovascular disease and cancer.]]></description>
+			<link>https://gizmodo.com/eating-mostly-restaurant-meals-linked-to-higher-risk-of-1846560637</link>
+		</item>
 		<item>
 			<title>The Death of Humor</title>
 			<source>Substack</source>
@@ -671,41 +706,6 @@
 			<pubDate>Feb 23, 2021</pubDate>
 			<description><![CDATA[In coronavirus's wake, garden-variety germs may come roaring back.]]></description>
 			<link>https://arstechnica.com/science/2021/02/covid-precautions-no-match-for-the-common-cold-and-its-ready-for-a-comeback/</link>
-		</item>
-		<item>
-			<title>SolarWinds Hackers Also Went After NASA and the FAA</title>
-			<source>Gizmodo</source>
-			<pubDate>Feb 23, 2021</pubDate>
-			<description><![CDATA[Apparently not content with having penetrated the networks of such piddling federal agencies as the U.S. State Department, the Department of Homeland Security, and that agency that maintains our nuclear stockpile, the hackers of the 'SolarWinds' affair also went after NASA and the Federal Aviatio…]]></description>
-			<link>https://gizmodo.com/solarwinds-hackers-also-went-after-nasa-and-the-faa-1846340394</link>
-		</item>
-		<item>
-			<title>Student Surveillance Vendor Proctorio Files SLAPP Lawsuit to Silence a Critic</title>
-			<source>Electronic Frontier Foundation</source>
-			<pubDate>Feb 23, 2021</pubDate>
-			<description><![CDATA[During the pandemic, a dangerous business has prospered: invading students' privacy with proctoring software and apps. In the last year, we've seen universities compel students to download apps that collect their face images, driver's license data, and network information. Students who want to move.…]]></description>
-			<link>https://www.eff.org/deeplinks/2021/02/student-surveillance-vendor-proctorio-files-slapp-lawsuit-silence-critic</link>
-		</item>
-		<item>
-			<title>Humans Had Never Seen a Spacecraft Land on Another Planet—Until Now</title>
-			<source>Ars Technica</source>
-			<pubDate>Feb 22, 2021</pubDate>
-			<description><![CDATA['I can, and have, watched those videos for hours.']]></description>
-			<link>https://arstechnica.com/science/2021/02/humans-had-never-seen-a-spacecraft-land-on-another-planet-until-now/</link>
-		</item>
-		<item>
-			<title>Unreal Video of Perseverance Landing on Mars Will Take Your Breath Away</title>
-			<source>Gizmodo</source>
-			<pubDate>Feb 22, 2021</pubDate>
-			<description><![CDATA[NASA has released stunning footage of the Perseverance rover landing on Mars, in what is a seminal achievement for the space agency.]]></description>
-			<link>https://gizmodo.com/unreal-video-of-perseverance-landing-on-mars-will-take-1846328878</link>
-		</item>
-		<item>
-			<title>Amazon Rainforest Fires Got Even Worse Last Year</title>
-			<source>The Verge</source>
-			<pubDate>Feb 22, 2021</pubDate>
-			<description><![CDATA[NASA spotted more severe fires from space.]]></description>
-			<link>https://www.theverge.com/2021/2/22/22295437/amazon-rainforest-fires-worse-2020</link>
 		</item>
 	</channel>
 </rss>
