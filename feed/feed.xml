@@ -3,37 +3,163 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>0rZ8piONyo1OhuQRnr1EP</id>
+		<id>UoZa5f0B7klbEHB0RQT9E</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Sun Mar 28 2021 14:05:40 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Sat Apr 03 2021 08:26:26 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
 		<item>
-			<title>NASA's TESS Spacecraft Has Already Found 2,200 Possible Planets | Engadget</title>
+			<title>The US Is Finally Trying to Unlock the Power of Wave Energy</title>
+			<source>Wired</source>
+			<pubDate>Apr 3, 2021</pubDate>
+			<description><![CDATA[After decades of false starts, the federal approval of a new testing site off the coast of Oregon could give the technology a much-needed jolt.]]></description>
+			<link>https://www.wired.com/story/the-us-is-finally-trying-to-unlock-the-power-of-wave-energy/</link>
+		</item>
+		<item>
+			<title>Nuclear Should Be Considered Part of Clean Energy Standard, White House Says</title>
+			<source>Ars Technica</source>
+			<pubDate>Apr 2, 2021</pubDate>
+			<description><![CDATA[Biden's plan goes beyond most states' definitions of clean power.]]></description>
+			<link>https://arstechnica.com/tech-policy/2021/04/nuclear-should-be-considered-part-of-clean-energy-standard-white-house-says/</link>
+		</item>
+		<item>
+			<title>Fossil Fuels Companies Got Billions in Bailouts, Then Fired of Workers</title>
+			<source>Gizmodo</source>
+			<pubDate>Apr 2, 2021</pubDate>
+			<description><![CDATA[Fossil fuel companies made out like bandits from last year's government bailout. Now, new data shows that big names in the industry laid off tens of thousands of workers last year while padding their bank accounts with public money.]]></description>
+			<link>https://earther.gizmodo.com/fossil-fuels-got-billions-in-bailouts-fired-thousands-1846604863</link>
+		</item>
+		<item>
+			<title>Is Traditional Liberalism Vanishing?</title>
+			<source>Substack</source>
+			<pubDate>Apr 02, 2021</pubDate>
+			<description><![CDATA['Mighty Ira,' a documentary about legendary former ACLU chief Ira Glasser, is simultaneously inspiring and unnerving]]></description>
+			<link>https://taibbi.substack.com/p/is-traditional-liberalism-vanishing</link>
+		</item>
+		<item>
+			<title>We Sampled Tap Water Across the US – and Found Arsenic, Lead and Toxic Chemicals</title>
+			<source>The Guardian</source>
+			<pubDate>Apr 2, 2021</pubDate>
+			<description><![CDATA[A nine-month investigation by the Guardian and Consumer Reports found alarming levels of forever chemicals, arsenic and lead in samples taken across the US]]></description>
+			<link>https://www.theguardian.com/us-news/2021/mar/31/americas-tap-water-samples-forever-chemicals</link>
+		</item>
+		<item>
+			<title>Trump's EPA Helped Erase Records of Almost 270,000 Pounds of Carcinogenic Pollution</title>
+			<source>The Intercept</source>
+			<pubDate>Mar 31, 2021</pubDate>
+			<description><![CDATA[Investigative reporter Sharon Lerner explains how 270,000 pounds of the chemical ethylene oxide vanished from the public record.]]></description>
+			<link>https://theintercept.com/2021/03/31/intercepted-ethylene-oxide-trump-cancer-epa/</link>
+		</item>
+		<item>
+			<title>Data Withheld From WHO Team Probing COVID-19 Origins in China: Tedros</title>
+			<source>Reuters</source>
+			<pubDate>Mar 31, 2021</pubDate>
+			<description><![CDATA[(This March 30 story removes reference in 7th para to the European Union which did not sign that joint statement)]]></description>
+			<link>https://www.reuters.com/article/us-health-coronavirus-who-china-report-idUSKBN2BM26S</link>
+		</item>
+		<item>
+			<title>Big Chunks of Corporate Tax Cuts End Up in Executives' Pockets</title>
+			<source>The Intercept</source>
+			<pubDate>Mar 30, 2021</pubDate>
+			<description><![CDATA[A new study finds that recent tax breaks may be worth hundreds of billions in personal boodle for corporate royalty.]]></description>
+			<link>https://theintercept.com/2021/03/30/corporate-tax-cuts-executives/</link>
+		</item>
+		<item>
+			<title>Has American Liberalism Abandoned Free Speech? Interview With Thomas Frank</title>
+			<source>Substack</source>
+			<pubDate>Mar 30, 2021</pubDate>
+			<description><![CDATA[The celebrated author writes an article in The Guardian opposing censorship, and is stunned by negative responses]]></description>
+			<link>https://taibbi.substack.com/p/has-american-liberalism-abandoned-d72</link>
+		</item>
+		<item>
+			<title>Whistleblower: Ubiquiti Breach 'Catastrophic'</title>
+			<source>Krebs on Security</source>
+			<pubDate>Mar 30, 2021</pubDate>
+			<description><![CDATA[On Jan. 11, Ubiquiti Inc. [NYSE:UI] — a major vendor of cloud-enabled Internet of Things (IoT) devices such as routers, network video recorders and security cameras — disclosed that a breach involving a third-party cloud provider had exposed customer account…]]></description>
+			<link>https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/</link>
+		</item>
+		<item>
+			<title>Jordan Peterson's Fairytale World</title>
+			<source>UnHerd</source>
+			<pubDate>Mar 29, 2021</pubDate>
+			<description><![CDATA[The psychology professor understands that our cherished beliefs are just stories]]></description>
+			<link>https://unherd.com/2021/03/jordan-petersons-most-important-lesson/</link>
+		</item>
+		<item>
+			<title>Boston Dynamics' New Robot Doesn't Dance. It Has a Warehouse Job</title>
+			<source>Wired</source>
+			<pubDate>Mar 29, 2021</pubDate>
+			<description><![CDATA[Called Stretch, the machine may look wildly different than its famous cousins Spot and Atlas, but it shares a ton of their DNA.]]></description>
+			<link>https://www.wired.com/story/boston-dynamics-new-robot-has-a-warehouse-job/</link>
+		</item>
+		<item>
+			<title>Gallup: U.S. Church Membership Dips Below 50% for First Time</title>
+			<source>Axios</source>
+			<pubDate>Mar 29, 2021</pubDate>
+			<description><![CDATA[It's the first time the poll indicates a majority of Americans do not belong to a church.]]></description>
+			<link>https://www.axios.com/church-membership-gallup-26cc020b-5405-417a-a786-e10c286a30db.html</link>
+		</item>
+		<item>
+			<title>Journalists Attack the Powerless, Then Self-Victimize to Bar Criticisms of Themselves</title>
+			<source>Substack</source>
+			<pubDate>Mar 29, 2021</pubDate>
+			<description><![CDATA[Powerful media figures now invoke sexist and racist tropes to cast themselves as so fragile and marginalized that critiques of their work constitute bullying and assault.]]></description>
+			<link>https://greenwald.substack.com/p/journalists-attack-the-powerless</link>
+		</item>
+		<item>
+			<title>Master List of Official Russia Claims That Proved to Be Bogus</title>
+			<source>Substack</source>
+			<pubDate>Mar 29, 2021</pubDate>
+			<description><![CDATA[The Director of National Intelligence releases a report, and the press rushes to kick the football again.]]></description>
+			<link>https://taibbi.substack.com/p/master-list-of-official-russia-claims</link>
+		</item>
+		<item>
+			<title>SolarWinds Hack Reportedly Accessed Emails for Key DHS Officials | Engadget</title>
+			<source>Engadget</source>
+			<pubDate>Mar 29, 2021</pubDate>
+			<description><![CDATA[SolarWinds hackers reportedly compromised the email of Homeland Security officials, including acting Secretary Chad Wolf.]]></description>
+			<link>https://www.engadget.com/solarwinds-hack-email-homeland-security-officials-132329009.html</link>
+		</item>
+		<item>
+			<title>How U.S. Media Lost the Trust of the Public</title>
+			<source>CBC</source>
+			<pubDate>Mar 28, 2021</pubDate>
+			<description><![CDATA[A global pandemic, anti-racism protests and a turbulent U.S. presidential election had Americans glued to their screens in 2020, but as people consumed more news, they began to trust media less, surveys suggested. The CBC documentary Big News takes a look at why the public lost faith in the media an…]]></description>
+			<link>https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622</link>
+		</item>
+		<item>
+			<title>America's Obsession With Wipes Is Tearing Up Sewer Systems</title>
+			<source>Bloomberg</source>
+			<pubDate>Mar 26, 2021</pubDate>
+			<description><![CDATA[Across the U.S., cities and towns are being forced to throw more money at solving blockages as consumers buy (and flush) more wipes than ever.]]></description>
+			<link>https://www.bloomberg.com/news/articles/2021-03-26/pandemic-wipes-create-sewer-clogging-fatbergs</link>
+		</item>
+		<item>
+			<title>Congress, in a Five-Hour Hearing, Demands Tech CEOs Censor the Internet Even More Aggressively</title>
+			<source>Substack</source>
+			<pubDate>Mar 30, 2021</pubDate>
+			<description><![CDATA[The repressive objective of the Democratic-controlled Congress is to transfer the power to police and censor political discourse from these tech giants to themselves.]]></description>
+			<link>https://greenwald.substack.com/p/congress-in-a-five-hour-hearing-demands-0cf</link>
+		</item>
+		<item>
+			<title>Alternatives to Censorship: Interview With Matt Stoller</title>
+			<source>Substack</source>
+			<pubDate>Mar 30, 2021</pubDate>
+			<description><![CDATA[As Congress once again demands that Silicon Valley crack down on speech, the Director of Research at the American Economic Liberties Project outlines the real problem, and better solutions]]></description>
+			<link>https://taibbi.substack.com/p/alternatives-to-censorship-interview-834</link>
+		</item>
+		<item>
+			<title>NASA's TESS Spacecraft Has Already Found 2,200 Possible Planets</title>
 			<source>Engadget</source>
 			<pubDate>Mar 28, 2021</pubDate>
 			<description><![CDATA[NASA's TESS spacecraft has already found 2,200 potential planets, surpassing its original goal and raising hope of finding Earth-like worlds.]]></description>
 			<link>https://www.engadget.com/nasa-tess-2200-exoplanets-184133840.html</link>
 		</item>
 		<item>
-			<title>Alternatives to Censorship: Interview With Matt Stoller</title>
-			<source>Substack</source>
-			<pubDate>Mar 27, 2021</pubDate>
-			<description><![CDATA[As Congress once again demands that Silicon Valley crack down on speech, the Director of Research at the American Economic Liberties Project outlines the real problem, and better solutions]]></description>
-			<link>https://taibbi.substack.com/p/alternatives-to-censorship-interview-834</link>
-		</item>
-		<item>
-			<title>Scotland's Renewable Energy Matched 97 Percent of Demand in 2020 | Engadget</title>
+			<title>Scotland's Renewable Energy Matched 97 Percent of Demand in 2020</title>
 			<source>Engadget</source>
 			<pubDate>Mar 27, 2021</pubDate>
 			<description><![CDATA[97.4 percent of Scotland's gross electric consumption came from clean energy sources in 2020.]]></description>
 			<link>https://www.engadget.com/scotland-renewable-energy-97-percent-electricity-needs-2020-180436107.html</link>
-		</item>
-		<item>
-			<title>Congress, in a Five-Hour Hearing, Demands Tech CEOs Censor the Internet Even More Aggressively</title>
-			<source>Substack</source>
-			<pubDate>Mar 26, 2021</pubDate>
-			<description><![CDATA[The repressive objective of the Democratic-controlled Congress is to transfer the power to police and censor political discourse from these tech giants to themselves.]]></description>
-			<link>https://greenwald.substack.com/p/congress-in-a-five-hour-hearing-demands-0cf</link>
 		</item>
 		<item>
 			<title>Eating Mostly Restaurant Meals Linked to Higher Risk of Early Death</title>
@@ -580,132 +706,6 @@
 			<pubDate>Mar 2, 2021</pubDate>
 			<description><![CDATA[The United States faces a $2.59 trillion shortfall in infrastructure needs that requires a massive jump in government spending to address crumbling roads, bridges and other programs, according to an assessment by an engineers group issued on Wednesday.]]></description>
 			<link>https://www.reuters.com/article/us-usa-infrastructure-idUSKBN2AV0DD</link>
-		</item>
-		<item>
-			<title>Kids Are Being Exposed to a Lot of Concerning Chemicals Through Plastic Toys</title>
-			<source>Gizmodo</source>
-			<pubDate>Mar 1, 2021</pubDate>
-			<description><![CDATA[Children's toys contain many potentially toxic chemicals, recent research suggests. The study highlights over 120 concerning chemicals commonly found in plastic toys that could possibly raise a person's risk of health problems, including cancer.]]></description>
-			<link>https://gizmodo.com/kids-are-being-exposed-to-a-lot-of-concerning-chemicals-1846383124</link>
-		</item>
-		<item>
-			<title>Food Prices Are Soaring Faster Than Inflation and Incomes</title>
-			<source>Bloomberg</source>
-			<pubDate>Feb 28, 2021</pubDate>
-			<description><![CDATA[As the Covid-19 pandemic wreaks havoc on economic growth, concerns about hunger and malnutrition are rising around the world.]]></description>
-			<link>https://www.bloomberg.com/news/articles/2021-03-01/inflation-2021-malnutrition-and-hunger-fears-rise-as-food-prices-soar-globally</link>
-		</item>
-		<item>
-			<title>Atlantic Currents Seem to Have Started Fading Last Century</title>
-			<source>Ars Technica</source>
-			<pubDate>Feb 27, 2021</pubDate>
-			<description><![CDATA[Another predicted impact of climate change may be here.]]></description>
-			<link>https://arstechnica.com/science/2021/02/atlantic-currents-seem-to-have-started-fading-last-century/</link>
-		</item>
-		<item>
-			<title>The Evolutionary Advantages of Playing Victim</title>
-			<source>Quillette</source>
-			<pubDate>Feb 27, 2021</pubDate>
-			<description><![CDATA[Victimhood is defined in negative terms: 'the condition of having been hurt, damaged, or made to suffer.' Yet humans have evolved to empathize with the suffering of others, and to provide assistanc…]]></description>
-			<link>https://quillette.com/2021/02/27/the-evolutionary-advantages-of-playing-victim/</link>
-		</item>
-		<item>
-			<title>Hackers Tied to Russia's GRU Targeted the US Grid for Years</title>
-			<source>Ars Technica</source>
-			<pubDate>Feb 27, 2021</pubDate>
-			<description><![CDATA[Sandworm-aligned group has breached US critical infrastructure a handful of times.]]></description>
-			<link>https://arstechnica.com/information-technology/2021/02/hackers-tied-to-russias-gru-targeted-the-us-grid-for-years/</link>
-		</item>
-		<item>
-			<title>Saudi De Facto Ruler Approved Operation That Led to Khashoggi's Death: U.S.</title>
-			<source>Reuters</source>
-			<pubDate>Feb 27, 2021</pubDate>
-			<description><![CDATA[FILE PHOTO: The Committee to Protect Journalists and other press freedom activists hold a candlelight vigil in front of the Saudi Embassy to mark the anniversary of the killing of journalist Jamal Kha]]></description>
-			<link>https://www.reuters.com/news/picture/saudi-crown-prince-approved-khashoggi-mu-idUSKBN2AQ2OC</link>
-		</item>
-		<item>
-			<title>Erik Prince and the Failed Plot to Arm a CIA Asset-Turned-Warlord in Libya</title>
-			<source>The Intercept</source>
-			<pubDate>Feb 26, 2021</pubDate>
-			<description><![CDATA[Sources and exclusive documents reveal new details about Prince's long campaign to back Libyan strongman Khalifa Hifter.]]></description>
-			<link>https://theintercept.com/2021/02/26/erik-prince-jordan-libya-weapons-opus/</link>
-		</item>
-		<item>
-			<title>Sen. John Thune, Opposing $15 Min Wage, Says He Earned $6 as a Kid — That's $24 With Inflation</title>
-			<source>Newsweek</source>
-			<pubDate>Feb 26, 2021</pubDate>
-			<description><![CDATA['I started working by bussing tables at the Star Family Restaurant for $1/hour & slowly moved up to cook—the big leagues for a kid like me—to earn $6/hour,' Thune wrote.]]></description>
-			<link>https://www.newsweek.com/sen-john-thune-opposing-15-min-wage-says-he-earned-6-kidthats-24-inflation-1571915</link>
-		</item>
-		<item>
-			<title>Amazon Rainforest Plots Sold via Facebook Marketplace Ads</title>
-			<source>BBC News</source>
-			<pubDate>Feb 25, 2021</pubDate>
-			<description><![CDATA[Protected land reserved for Brazil's indigenous communities is being traded on the social network.]]></description>
-			<link>https://www.bbc.com/news/technology-56168844</link>
-		</item>
-		<item>
-			<title>Why Is the Woke Mob So Scared?</title>
-			<source>UnHerd</source>
-			<pubDate>Feb 25, 2021</pubDate>
-			<description><![CDATA[The no-platforming of yet another academic raises uncomfortable questions about free speech]]></description>
-			<link>https://unherd.com/2021/02/why-is-the-woke-mob-so-scared/</link>
-		</item>
-		<item>
-			<title>The Problem With 'Indigenizing the University'</title>
-			<source>Quillette</source>
-			<pubDate>Feb 24, 2021</pubDate>
-			<description><![CDATA[The idea that academics need to 'Indigenize' the Canadian education system has become popular in recent years. The Congress of the Humanities and Social Sciences, the Canadian Association of Univer…]]></description>
-			<link>https://quillette.com/2021/02/24/the-problem-with-indigenizing-the-university/</link>
-		</item>
-		<item>
-			<title>A Quantum Computer Just Solved a Decades-Old Problem Three Million Times Faster Than a Classical Computer</title>
-			<source>ZDNet</source>
-			<pubDate>Feb 23, 2021</pubDate>
-			<description><![CDATA[Using a method called quantum annealing, D-Wave's researchers demonstrated that a quantum computational advantage could be achieved over classical means.]]></description>
-			<link>https://www.zdnet.com/article/a-quantum-computer-just-solved-a-decades-old-problem-three-million-times-faster-than-a-classical-computer/</link>
-		</item>
-		<item>
-			<title>Musk: Starlink Will Hit 300Mbps and Expand to 'Most of Earth' This Year</title>
-			<source>Ars Technica</source>
-			<pubDate>Feb 23, 2021</pubDate>
-			<description><![CDATA[SpaceX CEO teases higher speeds, lower latency, and near-global coverage.]]></description>
-			<link>https://arstechnica.com/information-technology/2021/02/musk-starlink-will-hit-300mbps-and-expand-to-most-of-earth-this-year/</link>
-		</item>
-		<item>
-			<title>A Major Ocean Current May Be Hurtling Towards Collapse</title>
-			<source>Gizmodo</source>
-			<pubDate>Feb 23, 2021</pubDate>
-			<description><![CDATA[The ocean may have less time than we thought before massive, irreversible shifts take place. A new study finds that a crucial ocean system may reach its 'tipping point' sooner than predicted if the rate of climate change continues at a breakneck pace.]]></description>
-			<link>https://earther.gizmodo.com/a-major-ocean-current-may-be-hurtling-towards-collapse-1846337333</link>
-		</item>
-		<item>
-			<title>Fossil Fuel Executives Gloat About Profits, PR From Texas Winter Storm Crisis</title>
-			<source>The Intercept</source>
-			<pubDate>Feb 23, 2021</pubDate>
-			<description><![CDATA[Comstock Resources, a shale drilling company, apologized for describing gas prices from the Texas storm as a 'jackpot.']]></description>
-			<link>https://theintercept.com/2021/02/23/texas-winter-storm-gas-prices-executives/</link>
-		</item>
-		<item>
-			<title>House Democrats, Targeting Right-Wing Cable Outlets, Are Assaulting Core Press Freedoms</title>
-			<source>Substack</source>
-			<pubDate>Feb 23, 2021</pubDate>
-			<description><![CDATA[Democrats' justification for silencing their adversaries online and in media -- 'they are spreading fake news and inciting extremism' -- is what despots everywhere say.]]></description>
-			<link>https://greenwald.substack.com/p/house-democrats-targeting-right-wing</link>
-		</item>
-		<item>
-			<title>Even by Democratic Party Standards, Censoring Fox News Is an Insanely Stupid Idea</title>
-			<source>Substack</source>
-			<pubDate>Feb 23, 2021</pubDate>
-			<description><![CDATA[How will the latest campaign against 'misinformation' backfire for the country? Let's count the ways]]></description>
-			<link>https://taibbi.substack.com/p/i-cant-stand-fox-news-but-censoring-94b</link>
-		</item>
-		<item>
-			<title>Garden-Variety Germs May Explode in COVID's Wake, Study Suggests</title>
-			<source>Ars Technica</source>
-			<pubDate>Feb 23, 2021</pubDate>
-			<description><![CDATA[In coronavirus's wake, garden-variety germs may come roaring back.]]></description>
-			<link>https://arstechnica.com/science/2021/02/covid-precautions-no-match-for-the-common-cold-and-its-ready-for-a-comeback/</link>
 		</item>
 	</channel>
 </rss>

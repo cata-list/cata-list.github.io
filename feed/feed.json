@@ -3,36 +3,162 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "3/28/2021, 2:05:40 PM",
-  "id": "0rZ8piONyo1OhuQRnr1EP",
+  "date": "4/3/2021, 8:26:26 AM",
+  "id": "UoZa5f0B7klbEHB0RQT9E",
   "articles": [
     {
-      "title": "NASA's TESS Spacecraft Has Already Found 2,200 Possible Planets | Engadget",
+      "title": "The US Is Finally Trying to Unlock the Power of Wave Energy",
+      "source": "Wired",
+      "date": "Apr 3, 2021",
+      "description": "After decades of false starts, the federal approval of a new testing site off the coast of Oregon could give the technology a much-needed jolt.",
+      "link": "https://www.wired.com/story/the-us-is-finally-trying-to-unlock-the-power-of-wave-energy/"
+    },
+    {
+      "title": "Nuclear Should Be Considered Part of Clean Energy Standard, White House Says",
+      "source": "Ars Technica",
+      "date": "Apr 2, 2021",
+      "description": "Biden's plan goes beyond most states' definitions of clean power.",
+      "link": "https://arstechnica.com/tech-policy/2021/04/nuclear-should-be-considered-part-of-clean-energy-standard-white-house-says/"
+    },
+    {
+      "title": "Fossil Fuels Companies Got Billions in Bailouts, Then Fired of Workers",
+      "source": "Gizmodo",
+      "date": "Apr 2, 2021",
+      "description": "Fossil fuel companies made out like bandits from last year's government bailout. Now, new data shows that big names in the industry laid off tens of thousands of workers last year while padding their bank accounts with public money.",
+      "link": "https://earther.gizmodo.com/fossil-fuels-got-billions-in-bailouts-fired-thousands-1846604863"
+    },
+    {
+      "title": "Is Traditional Liberalism Vanishing?",
+      "source": "Substack",
+      "date": "Apr 02, 2021",
+      "description": "'Mighty Ira,' a documentary about legendary former ACLU chief Ira Glasser, is simultaneously inspiring and unnerving",
+      "link": "https://taibbi.substack.com/p/is-traditional-liberalism-vanishing"
+    },
+    {
+      "title": "We Sampled Tap Water Across the US – and Found Arsenic, Lead and Toxic Chemicals",
+      "source": "The Guardian",
+      "date": "Apr 2, 2021",
+      "description": "A nine-month investigation by the Guardian and Consumer Reports found alarming levels of forever chemicals, arsenic and lead in samples taken across the US",
+      "link": "https://www.theguardian.com/us-news/2021/mar/31/americas-tap-water-samples-forever-chemicals"
+    },
+    {
+      "title": "Trump's EPA Helped Erase Records of Almost 270,000 Pounds of Carcinogenic Pollution",
+      "source": "The Intercept",
+      "date": "Mar 31, 2021",
+      "description": "Investigative reporter Sharon Lerner explains how 270,000 pounds of the chemical ethylene oxide vanished from the public record.",
+      "link": "https://theintercept.com/2021/03/31/intercepted-ethylene-oxide-trump-cancer-epa/"
+    },
+    {
+      "title": "Data Withheld From WHO Team Probing COVID-19 Origins in China: Tedros",
+      "source": "Reuters",
+      "date": "Mar 31, 2021",
+      "description": "(This March 30 story removes reference in 7th para to the European Union which did not sign that joint statement)",
+      "link": "https://www.reuters.com/article/us-health-coronavirus-who-china-report-idUSKBN2BM26S"
+    },
+    {
+      "title": "Big Chunks of Corporate Tax Cuts End Up in Executives' Pockets",
+      "source": "The Intercept",
+      "date": "Mar 30, 2021",
+      "description": "A new study finds that recent tax breaks may be worth hundreds of billions in personal boodle for corporate royalty.",
+      "link": "https://theintercept.com/2021/03/30/corporate-tax-cuts-executives/"
+    },
+    {
+      "title": "Has American Liberalism Abandoned Free Speech? Interview With Thomas Frank",
+      "source": "Substack",
+      "date": "Mar 30, 2021",
+      "description": "The celebrated author writes an article in The Guardian opposing censorship, and is stunned by negative responses",
+      "link": "https://taibbi.substack.com/p/has-american-liberalism-abandoned-d72"
+    },
+    {
+      "title": "Whistleblower: Ubiquiti Breach 'Catastrophic'",
+      "source": "Krebs on Security",
+      "date": "Mar 30, 2021",
+      "description": "On Jan. 11, Ubiquiti Inc. [NYSE:UI] — a major vendor of cloud-enabled Internet of Things (IoT) devices such as routers, network video recorders and security cameras — disclosed that a breach involving a third-party cloud provider had exposed customer account…",
+      "link": "https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/"
+    },
+    {
+      "title": "Jordan Peterson's Fairytale World",
+      "source": "UnHerd",
+      "date": "Mar 29, 2021",
+      "description": "The psychology professor understands that our cherished beliefs are just stories",
+      "link": "https://unherd.com/2021/03/jordan-petersons-most-important-lesson/"
+    },
+    {
+      "title": "Boston Dynamics' New Robot Doesn't Dance. It Has a Warehouse Job",
+      "source": "Wired",
+      "date": "Mar 29, 2021",
+      "description": "Called Stretch, the machine may look wildly different than its famous cousins Spot and Atlas, but it shares a ton of their DNA.",
+      "link": "https://www.wired.com/story/boston-dynamics-new-robot-has-a-warehouse-job/"
+    },
+    {
+      "title": "Gallup: U.S. Church Membership Dips Below 50% for First Time",
+      "source": "Axios",
+      "date": "Mar 29, 2021",
+      "description": "It's the first time the poll indicates a majority of Americans do not belong to a church.",
+      "link": "https://www.axios.com/church-membership-gallup-26cc020b-5405-417a-a786-e10c286a30db.html"
+    },
+    {
+      "title": "Journalists Attack the Powerless, Then Self-Victimize to Bar Criticisms of Themselves",
+      "source": "Substack",
+      "date": "Mar 29, 2021",
+      "description": "Powerful media figures now invoke sexist and racist tropes to cast themselves as so fragile and marginalized that critiques of their work constitute bullying and assault.",
+      "link": "https://greenwald.substack.com/p/journalists-attack-the-powerless"
+    },
+    {
+      "title": "Master List of Official Russia Claims That Proved to Be Bogus",
+      "source": "Substack",
+      "date": "Mar 29, 2021",
+      "description": "The Director of National Intelligence releases a report, and the press rushes to kick the football again.",
+      "link": "https://taibbi.substack.com/p/master-list-of-official-russia-claims"
+    },
+    {
+      "title": "SolarWinds Hack Reportedly Accessed Emails for Key DHS Officials | Engadget",
+      "source": "Engadget",
+      "date": "Mar 29, 2021",
+      "description": "SolarWinds hackers reportedly compromised the email of Homeland Security officials, including acting Secretary Chad Wolf.",
+      "link": "https://www.engadget.com/solarwinds-hack-email-homeland-security-officials-132329009.html"
+    },
+    {
+      "title": "How U.S. Media Lost the Trust of the Public",
+      "source": "CBC",
+      "date": "Mar 28, 2021",
+      "description": "A global pandemic, anti-racism protests and a turbulent U.S. presidential election had Americans glued to their screens in 2020, but as people consumed more news, they began to trust media less, surveys suggested. The CBC documentary Big News takes a look at why the public lost faith in the media an…",
+      "link": "https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622"
+    },
+    {
+      "title": "America's Obsession With Wipes Is Tearing Up Sewer Systems",
+      "source": "Bloomberg",
+      "date": "Mar 26, 2021",
+      "description": "Across the U.S., cities and towns are being forced to throw more money at solving blockages as consumers buy (and flush) more wipes than ever.",
+      "link": "https://www.bloomberg.com/news/articles/2021-03-26/pandemic-wipes-create-sewer-clogging-fatbergs"
+    },
+    {
+      "title": "Congress, in a Five-Hour Hearing, Demands Tech CEOs Censor the Internet Even More Aggressively",
+      "source": "Substack",
+      "date": "Mar 30, 2021",
+      "description": "The repressive objective of the Democratic-controlled Congress is to transfer the power to police and censor political discourse from these tech giants to themselves.",
+      "link": "https://greenwald.substack.com/p/congress-in-a-five-hour-hearing-demands-0cf"
+    },
+    {
+      "title": "Alternatives to Censorship: Interview With Matt Stoller",
+      "source": "Substack",
+      "date": "Mar 30, 2021",
+      "description": "As Congress once again demands that Silicon Valley crack down on speech, the Director of Research at the American Economic Liberties Project outlines the real problem, and better solutions",
+      "link": "https://taibbi.substack.com/p/alternatives-to-censorship-interview-834"
+    },
+    {
+      "title": "NASA's TESS Spacecraft Has Already Found 2,200 Possible Planets",
       "source": "Engadget",
       "date": "Mar 28, 2021",
       "description": "NASA's TESS spacecraft has already found 2,200 potential planets, surpassing its original goal and raising hope of finding Earth-like worlds.",
       "link": "https://www.engadget.com/nasa-tess-2200-exoplanets-184133840.html"
     },
-		{
-			"title": "Alternatives to Censorship: Interview With Matt Stoller",
-			"source": "Substack",
-			"date": "Mar 27, 2021",
-			"description": "As Congress once again demands that Silicon Valley crack down on speech, the Director of Research at the American Economic Liberties Project outlines the real problem, and better solutions",
-			"link": "https://taibbi.substack.com/p/alternatives-to-censorship-interview-834"
-		},
     {
-      "title": "Scotland's Renewable Energy Matched 97 Percent of Demand in 2020 | Engadget",
+      "title": "Scotland's Renewable Energy Matched 97 Percent of Demand in 2020",
       "source": "Engadget",
       "date": "Mar 27, 2021",
       "description": "97.4 percent of Scotland's gross electric consumption came from clean energy sources in 2020.",
       "link": "https://www.engadget.com/scotland-renewable-energy-97-percent-electricity-needs-2020-180436107.html"
-		},
-    {
-      "title": "Congress, in a Five-Hour Hearing, Demands Tech CEOs Censor the Internet Even More Aggressively",
-      "source": "Substack",
-      "date": "Mar 26, 2021",
-      "description": "The repressive objective of the Democratic-controlled Congress is to transfer the power to police and censor political discourse from these tech giants to themselves.",
-      "link": "https://greenwald.substack.com/p/congress-in-a-five-hour-hearing-demands-0cf"
     },
     {
       "title": "Eating Mostly Restaurant Meals Linked to Higher Risk of Early Death",
@@ -579,132 +705,6 @@
       "date": "Mar 2, 2021",
       "description": "The United States faces a $2.59 trillion shortfall in infrastructure needs that requires a massive jump in government spending to address crumbling roads, bridges and other programs, according to an assessment by an engineers group issued on Wednesday.",
       "link": "https://www.reuters.com/article/us-usa-infrastructure-idUSKBN2AV0DD"
-    },
-    {
-      "title": "Kids Are Being Exposed to a Lot of Concerning Chemicals Through Plastic Toys",
-      "source": "Gizmodo",
-      "date": "Mar 1, 2021",
-      "description": "Children's toys contain many potentially toxic chemicals, recent research suggests. The study highlights over 120 concerning chemicals commonly found in plastic toys that could possibly raise a person's risk of health problems, including cancer.",
-      "link": "https://gizmodo.com/kids-are-being-exposed-to-a-lot-of-concerning-chemicals-1846383124"
-    },
-    {
-      "title": "Food Prices Are Soaring Faster Than Inflation and Incomes",
-      "source": "Bloomberg",
-      "date": "Feb 28, 2021",
-      "description": "As the Covid-19 pandemic wreaks havoc on economic growth, concerns about hunger and malnutrition are rising around the world.",
-      "link": "https://www.bloomberg.com/news/articles/2021-03-01/inflation-2021-malnutrition-and-hunger-fears-rise-as-food-prices-soar-globally"
-    },
-    {
-      "title": "Atlantic Currents Seem to Have Started Fading Last Century",
-      "source": "Ars Technica",
-      "date": "Feb 27, 2021",
-      "description": "Another predicted impact of climate change may be here.",
-      "link": "https://arstechnica.com/science/2021/02/atlantic-currents-seem-to-have-started-fading-last-century/"
-    },
-    {
-      "title": "The Evolutionary Advantages of Playing Victim",
-      "source": "Quillette",
-      "date": "Feb 27, 2021",
-      "description": "Victimhood is defined in negative terms: 'the condition of having been hurt, damaged, or made to suffer.' Yet humans have evolved to empathize with the suffering of others, and to provide assistanc…",
-      "link": "https://quillette.com/2021/02/27/the-evolutionary-advantages-of-playing-victim/"
-    },
-    {
-      "title": "Hackers Tied to Russia's GRU Targeted the US Grid for Years",
-      "source": "Ars Technica",
-      "date": "Feb 27, 2021",
-      "description": "Sandworm-aligned group has breached US critical infrastructure a handful of times.",
-      "link": "https://arstechnica.com/information-technology/2021/02/hackers-tied-to-russias-gru-targeted-the-us-grid-for-years/"
-    },
-    {
-      "title": "Saudi De Facto Ruler Approved Operation That Led to Khashoggi's Death: U.S.",
-      "source": "Reuters",
-      "date": "Feb 27, 2021",
-      "description": "FILE PHOTO: The Committee to Protect Journalists and other press freedom activists hold a candlelight vigil in front of the Saudi Embassy to mark the anniversary of the killing of journalist Jamal Kha",
-      "link": "https://www.reuters.com/news/picture/saudi-crown-prince-approved-khashoggi-mu-idUSKBN2AQ2OC"
-    },
-    {
-      "title": "Erik Prince and the Failed Plot to Arm a CIA Asset-Turned-Warlord in Libya",
-      "source": "The Intercept",
-      "date": "Feb 26, 2021",
-      "description": "Sources and exclusive documents reveal new details about Prince's long campaign to back Libyan strongman Khalifa Hifter.",
-      "link": "https://theintercept.com/2021/02/26/erik-prince-jordan-libya-weapons-opus/"
-    },
-    {
-      "title": "Sen. John Thune, Opposing $15 Min Wage, Says He Earned $6 as a Kid — That's $24 With Inflation",
-      "source": "Newsweek",
-      "date": "Feb 26, 2021",
-      "description": "'I started working by bussing tables at the Star Family Restaurant for $1/hour & slowly moved up to cook—the big leagues for a kid like me—to earn $6/hour,' Thune wrote.",
-      "link": "https://www.newsweek.com/sen-john-thune-opposing-15-min-wage-says-he-earned-6-kidthats-24-inflation-1571915"
-    },
-    {
-      "title": "Amazon Rainforest Plots Sold via Facebook Marketplace Ads",
-      "source": "BBC News",
-      "date": "Feb 25, 2021",
-      "description": "Protected land reserved for Brazil's indigenous communities is being traded on the social network.",
-      "link": "https://www.bbc.com/news/technology-56168844"
-    },
-    {
-      "title": "Why Is the Woke Mob So Scared?",
-      "source": "UnHerd",
-      "date": "Feb 25, 2021",
-      "description": "The no-platforming of yet another academic raises uncomfortable questions about free speech",
-      "link": "https://unherd.com/2021/02/why-is-the-woke-mob-so-scared/"
-    },
-    {
-      "title": "The Problem With 'Indigenizing the University'",
-      "source": "Quillette",
-      "date": "Feb 24, 2021",
-      "description": "The idea that academics need to 'Indigenize' the Canadian education system has become popular in recent years. The Congress of the Humanities and Social Sciences, the Canadian Association of Univer…",
-      "link": "https://quillette.com/2021/02/24/the-problem-with-indigenizing-the-university/"
-    },
-    {
-      "title": "A Quantum Computer Just Solved a Decades-Old Problem Three Million Times Faster Than a Classical Computer",
-      "source": "ZDNet",
-      "date": "Feb 23, 2021",
-      "description": "Using a method called quantum annealing, D-Wave's researchers demonstrated that a quantum computational advantage could be achieved over classical means.",
-      "link": "https://www.zdnet.com/article/a-quantum-computer-just-solved-a-decades-old-problem-three-million-times-faster-than-a-classical-computer/"
-    },
-    {
-      "title": "Musk: Starlink Will Hit 300Mbps and Expand to 'Most of Earth' This Year",
-      "source": "Ars Technica",
-      "date": "Feb 23, 2021",
-      "description": "SpaceX CEO teases higher speeds, lower latency, and near-global coverage.",
-      "link": "https://arstechnica.com/information-technology/2021/02/musk-starlink-will-hit-300mbps-and-expand-to-most-of-earth-this-year/"
-    },
-    {
-      "title": "A Major Ocean Current May Be Hurtling Towards Collapse",
-      "source": "Gizmodo",
-      "date": "Feb 23, 2021",
-      "description": "The ocean may have less time than we thought before massive, irreversible shifts take place. A new study finds that a crucial ocean system may reach its 'tipping point' sooner than predicted if the rate of climate change continues at a breakneck pace.",
-      "link": "https://earther.gizmodo.com/a-major-ocean-current-may-be-hurtling-towards-collapse-1846337333"
-    },
-    {
-      "title": "Fossil Fuel Executives Gloat About Profits, PR From Texas Winter Storm Crisis",
-      "source": "The Intercept",
-      "date": "Feb 23, 2021",
-      "description": "Comstock Resources, a shale drilling company, apologized for describing gas prices from the Texas storm as a 'jackpot.'",
-      "link": "https://theintercept.com/2021/02/23/texas-winter-storm-gas-prices-executives/"
-    },
-    {
-      "title": "House Democrats, Targeting Right-Wing Cable Outlets, Are Assaulting Core Press Freedoms",
-      "source": "Substack",
-      "date": "Feb 23, 2021",
-      "description": "Democrats' justification for silencing their adversaries online and in media -- 'they are spreading fake news and inciting extremism' -- is what despots everywhere say.",
-      "link": "https://greenwald.substack.com/p/house-democrats-targeting-right-wing"
-    },
-    {
-      "title": "Even by Democratic Party Standards, Censoring Fox News Is an Insanely Stupid Idea",
-      "source": "Substack",
-      "date": "Feb 23, 2021",
-      "description": "How will the latest campaign against 'misinformation' backfire for the country? Let's count the ways",
-      "link": "https://taibbi.substack.com/p/i-cant-stand-fox-news-but-censoring-94b"
-    },
-    {
-      "title": "Garden-Variety Germs May Explode in COVID's Wake, Study Suggests",
-      "source": "Ars Technica",
-      "date": "Feb 23, 2021",
-      "description": "In coronavirus's wake, garden-variety germs may come roaring back.",
-      "link": "https://arstechnica.com/science/2021/02/covid-precautions-no-match-for-the-common-cold-and-its-ready-for-a-comeback/"
     }
   ]
 }
