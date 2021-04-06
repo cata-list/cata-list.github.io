@@ -3,9 +3,79 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "4/3/2021, 8:26:26 AM",
-  "id": "UoZa5f0B7klbEHB0RQT9E",
+  "date": "4/6/2021, 2:04:31 PM",
+  "id": "knTWJAneECG82Nvic52a-",
   "articles": [
+    {
+      "title": "Clear Link Between AstraZeneca Vaccine and Rare Blood Clots in Brain, EMA Official Tells Paper",
+      "source": "Reuters",
+      "date": "Apr 6, 2021",
+      "description": "There is a link between AstraZeneca's COVID-19 vaccine and very rare blood clots in the brain but the possible causes are still unknown, a senior official for the European Medicines Agency (EMA) said in an interview published on Tuesday.",
+      "link": "https://www.reuters.com/article/us-health-coronavirus-astrazeneca-vaccin/clear-link-between-astrazeneca-vaccine-and-rare-blood-clots-in-brain-ema-official-tells-paper-idUSKBN2BT1ER"
+    },
+    {
+      "title": "On the Miserable Necessity of Doing Censorship Stories in Pairs",
+      "source": "Substack",
+      "date": "Apr 6, 2021",
+      "description": "'Meet the Censored' will now come out in sets of left and right bans, in the (probably vain) hope that fewer people will cheer news of deletions and suspensions",
+      "link": "https://taibbi.substack.com/p/on-the-miserable-necessity-of-doing"
+    },
+    {
+      "title": "How a Facial Recognition Tool Found Its Way Into Hundreds of US Police Departments, Schools, and Taxpayer-Funded Organizations",
+      "source": "BuzzFeed News",
+      "date": "Apr 6, 2021",
+      "description": "A BuzzFeed News investigation has found that employees at law enforcement agencies across the US ran thousands of Clearview AI facial recognition searches — often without the knowledge of the public or even their own departments.",
+      "link": "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-local-police-facial-recognition"
+    },
+    {
+      "title": "Navy Still Has No Idea What Mysterious Drones That Stalked Its Ships for Days Were",
+      "source": "Gizmodo",
+      "date": "Apr 6, 2021",
+      "description": "The U.S. Navy still has no idea who sent a swarm of drones to buzz warships off the coast of California in July 2019, or really even what kind of drones they were or what they were doing.",
+      "link": "https://gizmodo.com/navy-still-has-no-idea-what-unidentified-drones-that-st-1846629629"
+    },
+    {
+      "title": "Cops Crowdfunded Their K-9's Hospital Bills — Then Quietly Admitted They Had Shot Him",
+      "source": "The Intercept",
+      "date": "Apr 5, 2021",
+      "description": "The cops in Thurston County, Washington, made no such efforts to support the recovery of the man they shot and who had to be hospitalized.",
+      "link": "https://theintercept.com/2021/04/05/police-shot-k9-dog-arlo-gofundme/"
+    },
+    {
+      "title": "553,000,000 Reasons Not to Let Facebook Make Decisions About Your Privacy",
+      "source": "EFF",
+      "date": "Apr 5, 2021",
+      "description": "Another day, another horrific Facebook privacy scandal. We know what comes next: Facebook will argue that losing a lot of our data means bad third-party actors are the real problem that we should trust Facebook to make more decisions about our data to protect against them. If history is any...",
+      "link": "https://www.eff.org/deeplinks/2021/04/553000000-reasons-not-let-facebook-make-decisions-about-your-privacy"
+    },
+    {
+      "title": "Cells Form Into Living 'Xenobots' on Their Own",
+      "source": "Wired",
+      "date": "Apr 4, 2021",
+      "description": "Embryonic cells can self-assemble into new forms that don't resemble the bodies they usually generate, challenging old ideas of what defines an organism.",
+      "link": "https://www.wired.com/story/cells-form-into-living-xenobots-on-their-own/"
+    },
+    {
+      "title": "533 Million Facebook Users' Phone Numbers and Personal Data Have Been Leaked Online",
+      "source": "Business Insider",
+      "date": "Apr 2, 2021",
+      "description": "The data includes phone numbers, Facebook IDs, full names, locations, birthdates, bios, and, in some cases, email addresses.",
+      "link": "https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4"
+    },
+    {
+      "title": "Lithium Battery Costs Have Fallen by 98% in Three Decades",
+      "source": "The Economist",
+      "date": "Mar 31, 2021",
+      "description": "In a few years electric vehicles may cost the same as their combustion-engine counterparts | Graphic detail",
+      "link": "https://www.economist.com/graphic-detail/2021/03/31/lithium-battery-costs-have-fallen-by-98-in-three-decades"
+    },
+    {
+      "title": "Exclusive: Oxford Kept COVID-19 Vaccine Trial Volunteers in Dark About Dosing Error, Letter Shows",
+      "source": "Reuters",
+      "date": "Feb 1, 2021",
+      "description": "- About 1,500 of the initial volunteers in a late-stage clinical trial of the Oxford/AstraZeneca COVID-19 vaccine were given the wrong dose, but weren't informed that a mistake had been made after the blunder was discovered, documents obtained by Reuters show.",
+      "link": "https://www.reuters.com/article/us-health-coronavirus-vaccine-oxford-exc/exclusive-oxford-kept-covid-19-vaccine-trial-volunteers-in-dark-about-dosing-error-letter-shows-idUSKBN2A1263"
+    },
     {
       "title": "The US Is Finally Trying to Unlock the Power of Wave Energy",
       "source": "Wired",
@@ -21,7 +91,7 @@
       "link": "https://arstechnica.com/tech-policy/2021/04/nuclear-should-be-considered-part-of-clean-energy-standard-white-house-says/"
     },
     {
-      "title": "Fossil Fuels Companies Got Billions in Bailouts, Then Fired of Workers",
+      "title": "Fossil Fuels Companies Got Billions in Bailouts, Then Fired Thousands of Workers",
       "source": "Gizmodo",
       "date": "Apr 2, 2021",
       "description": "Fossil fuel companies made out like bandits from last year's government bailout. Now, new data shows that big names in the industry laid off tens of thousands of workers last year while padding their bank accounts with public money.",
@@ -112,7 +182,7 @@
       "link": "https://taibbi.substack.com/p/master-list-of-official-russia-claims"
     },
     {
-      "title": "SolarWinds Hack Reportedly Accessed Emails for Key DHS Officials | Engadget",
+      "title": "SolarWinds Hack Reportedly Accessed Emails for Key DHS Officials",
       "source": "Engadget",
       "date": "Mar 29, 2021",
       "description": "SolarWinds hackers reportedly compromised the email of Homeland Security officials, including acting Secretary Chad Wolf.",
@@ -400,7 +470,7 @@
     },
     {
       "title": "With Ratings Down, the Networks Hunt for a Trump Replacement",
-      "source": "TK News by Matt TaibbiShareShare",
+      "source": "Substack",
       "date": "Mar 16, 2021",
       "description": "Trump saved the cable news business once. Without him, things are looking bleak again. Who will news outlets find to feed the outrage machine?",
       "link": "https://taibbi.substack.com/p/without-trump-is-a-depression-in-293"
@@ -554,15 +624,15 @@
     },
     {
       "title": "Meet the (Unsuccessfully) Censored: Jesse Singal and Katie Herzog",
-      "source": "TK News by Matt TaibbiShareShare",
-      "date": "Mar 20, 2001",
+      "source": "Substack",
+      "date": "Mar 20, 2021",
       "description": "The media business keeps trying to ruin Jesse Singal and Katie Herzog, and they keep prospering. On the loony Substack controversy, and the paradox of moral panic in media",
       "link": "https://taibbi.substack.com/p/meet-the-unsuccessfully-censored-0aa"
     },
     {
       "title": "Daniel Ellsberg Talks About Whistleblowing, the Pervasiveness of Official Lies, and the Dangers of the Espionage Act",
-      "source": "TK News by Matt TaibbiShareShare",
-      "date": "Mar 17, 2001",
+      "source": "Substack",
+      "date": "Mar 17, 2021",
       "description": "In an interview with 'Useful Idiots,' Daniel Ellsberg talks about official deceptions, and how he was upheld as the 'good' whistleblower to disparage the likes of Ed Snowden and Julian Assange",
       "link": "https://taibbi.substack.com/p/daniel-ellsberg-talks-about-whistleblowing-d2e"
     },
@@ -635,76 +705,6 @@
       "date": "Mar 5, 2021",
       "description": "A single group appears to have infiltrated tens of thousands of Microsoft Exchange servers in an ongoing onslaught.",
       "link": "https://www.wired.com/story/china-microsoft-exchange-server-hack-victims/"
-    },
-    {
-      "title": "Hackers Just Looted Passenger Data From Some of the Biggest Airlines",
-      "source": "Gizmodo",
-      "date": "Mar 5, 2021",
-      "description": "The breach may have not exposed incredibly personal details, but it reveals the data third parties collect.",
-      "link": "https://gizmodo.com/hackers-just-looted-passenger-data-from-some-of-the-wor-1846417692"
-    },
-    {
-      "title": "At Least 30,000 U.S. Organizations Newly Hacked via Holes in Microsoft's Email Software",
-      "source": "Krebs on Security",
-      "date": "Mar 5, 2021",
-      "description": "At least 30,000 organizations across the United States -- including a significant number of small businesses, towns, cities and local governments -- have over the past few days been hacked by an unusually aggressive Chinese cyber espionage unit that's focused on stealing email from victim organizati…",
-      "link": "https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/"
-    },
-    {
-      "title": "How to Poison the Data That Big Tech Uses to Surveil You",
-      "source": "MIT Technology Review",
-      "date": "Mar 5, 2021",
-      "description": "Algorithms are meaningless without good data. The public can exploit that to demand change.",
-      "link": "https://www.technologyreview.com/2021/03/05/1020376/resist-big-tech-surveillance-data/"
-    },
-    {
-      "title": "As the Insurrection Narrative Crumbles, Democrats Cling to It More Desperately Than Ever",
-      "source": "Substack",
-      "date": "Mar 5, 2021",
-      "description": "If the threat of 'armed insurrectionists' and 'domestic terrorists' is as great as some claim, why do they have to keep lying and peddling crude media fictions about it?",
-      "link": "https://greenwald.substack.com/p/as-the-insurrection-narrative-crumbles"
-    },
-    {
-      "title": "Dr. Seuss Books Deemed Offensive Will Be Delisted From eBay",
-      "source": "The Wall Street Journal",
-      "date": "Mar 4, 2021",
-      "description": "EBay is working to prevent the resale of six Dr. Seuss books pulled this week by the company in charge of the late author's works because they contain offensive imagery.",
-      "link": "https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201"
-    },
-    {
-      "title": "A Cephalopod Has Passed a Cognitive Test Designed for Human Children",
-      "source": "ScienceAlert",
-      "date": "Mar 3, 2021",
-      "description": "A new test of cephalopod smarts has reinforced how important it is for us humans to not underestimate animal intelligence.",
-      "link": "https://www.sciencealert.com/cuttlefish-can-pass-a-cognitive-test-designed-for-children"
-    },
-    {
-      "title": "Ancient Memorization Trick Boosts Long-Term Memory, Changes the Brain",
-      "source": "Gizmodo",
-      "date": "Mar 3, 2021",
-      "description": "A mnemonic, called the 'method of loci,' has been around for centuries, and it's surprisingly effective for memorizing things. New research published in Science Advances on Wednesday suggests it is good for both short-term memory and also long-term recall.",
-      "link": "https://gizmodo.com/ancient-memorization-trick-boosts-long-term-memory-and-1846398066"
-    },
-    {
-      "title": "Mars: NASA's Perseverance Rover Sends Stunning Images",
-      "source": "BBC News",
-      "date": "Mar 2, 2021",
-      "description": "Amazing images as Nasa's Perseverance rover lands on Mars and seeks signs of past microbial life.",
-      "link": "https://www.bbc.com/news/in-pictures-56238018"
-    },
-    {
-      "title": "China's 'Sharp Eyes' Program Aims to Surveil 100% of Public Space",
-      "source": "Medium",
-      "date": "Mar 2, 2021",
-      "description": "The program turns neighbors into agents of the surveillance state",
-      "link": "https://onezero.medium.com/chinas-sharp-eyes-program-aims-to-surveil-100-of-public-space-ddc22d63e015"
-    },
-    {
-      "title": "U.S. Gets 'C-,' Faces $2.59 Trillion in Infrastructure Needs Over 10 Years: Report",
-      "source": "Reuters",
-      "date": "Mar 2, 2021",
-      "description": "The United States faces a $2.59 trillion shortfall in infrastructure needs that requires a massive jump in government spending to address crumbling roads, bridges and other programs, according to an assessment by an engineers group issued on Wednesday.",
-      "link": "https://www.reuters.com/article/us-usa-infrastructure-idUSKBN2AV0DD"
     }
   ]
 }
