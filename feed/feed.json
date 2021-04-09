@@ -3,9 +3,86 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "4/6/2021, 2:04:31 PM",
-  "id": "knTWJAneECG82Nvic52a-",
+  "date": "4/9/2021, 1:45:19 PM",
+  "id": "gt8jD_eTjc19MW2MY4ENt",
   "articles": [
+    {
+      "title": "The Two Faces of Joe Biden",
+      "source": "Substack",
+      "date": "Apr 9, 2021",
+      "description": "The press is building an image of a 'radical' progressive hero, while reality looks a lot like the same corporate Democrat",
+      "link": "https://taibbi.substack.com/p/the-two-faces-of-joe-biden-cec"
+    },
+    {
+      "title": "How Gadgets Could Unlock the Potential of Lucid Dreaming",
+      "source": "Engadget",
+      "date": "Apr 9, 2021",
+      "description": "Recent experiments show we can learn in our dreams. What else could we do with the right technology?",
+      "link": "https://www.engadget.com/how-gadgets-could-unlock-the-magic-potential-of-lucid-dreaming-150039868.html"
+    },
+    {
+      "title": "Neuralink's Brain-Computer Interface Demo Shows a Monkey Playing Pong",
+      "source": "Engadget",
+      "date": "Apr 9, 2021",
+      "description": "Elon Musk's Neuralink is building brain-computer interfaces, like the one that allows this monkey to control a game of Pong with its thoughts.",
+      "link": "https://www.engadget.com/monkey-mindpong-link-003709524.html"
+    },
+    {
+      "title": "We're Entombing the Earth in an Impenetrable Shell of Dead Satellites",
+      "source": "Engadget",
+      "date": "Apr 8, 2021",
+      "description": "A recent study suggests that there is now nowhere on Earth free from the light pollution produced by overhead debris and satellites. Researchers expect that problem to only get worse as mega-constellations of internet-beaming mini-satellites, like SpaceX's Starlink program, take off.",
+      "link": "https://www.engadget.com/were-entombing-the-earth-in-an-impenetrable-shell-of-dead-satellites-163002560.html"
+    },
+    {
+      "title": "Japan Says Sorry, but It Has to Dump This Radioactive Water Into the Ocean",
+      "source": "Futurism",
+      "date": "Apr 7, 2021",
+      "description": "'What to do with the [treated] water is a task that the government can no longer put off without setting a policy.'",
+      "link": "https://futurism.com/the-byte/japan-sorry-dump-radioactive-water-ocean"
+    },
+    {
+      "title": "Facebook Does Not Plan to Notify Half-Billion Users Affected by Data Leak",
+      "source": "Reuters",
+      "date": "Apr 7, 2021",
+      "description": "Facebook Inc did not notify the more than 530 million users whose details were obtained through the misuse of a feature before 2019 and recently made public in a database, and does not currently have plans to do so, a company spokesman said on Wednesday.",
+      "link": "https://www.reuters.com/article/us-facebook-data-leak-idUSKBN2BU2ZY"
+    },
+    {
+      "title": "Nobody Will Win the Culture Wars",
+      "source": "UnHerd",
+      "date": "Apr 7, 2021",
+      "description": "Today's 'cancel culture' debates are designed to fail",
+      "link": "https://unherd.com/2021/04/nobody-will-win-the-culture-wars/"
+    },
+    {
+      "title": "Meet the Censored: The U.S. Right to Know Foundation",
+      "source": "Substack",
+      "date": "Apr 6, 2021",
+      "description": "A nonprofit that investigates Genetically Modified Organisms and the origins of Covid-19 is the latest to see its traffic plunge after a search engine update",
+      "link": "https://taibbi.substack.com/p/meet-the-censored-the-us-right-to"
+    },
+    {
+      "title": "The Scientists Who Say the Lab-Leak Hypothesis for SARS-CoV-2 Shouldn't Be Ruled Out",
+      "source": "MIT Technology Review",
+      "date": "Mar 18, 2021",
+      "description": "For many scientists, challenging the idea that SARS-CoV-2 has natural origins is seen as career suicide. But some say the idea it came from the Wuhan lab should still be discussed.",
+      "link": "https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/"
+    },
+    {
+      "title": "In One Year a Billion Tons of Food Got Wasted — Mostly at Home",
+      "source": "Bloomberg",
+      "date": "Mar 4, 2021",
+      "description": "Emissions produced by rotting scraps create a major climate problem",
+      "link": "https://www.bloomberg.com/news/articles/2021-03-04/in-one-year-a-billion-tons-of-food-got-wasted-mostly-at-home"
+    },
+    {
+      "title": "How to Start a Cult",
+      "source": "YouTube",
+      "date": "Jul 22, 2009",
+      "description": "How to guide. We are looking for franchisees.",
+      "link": "https://www.youtube.com/watch?v=EBK5aKOr2Fw"
+    },
     {
       "title": "Clear Link Between AstraZeneca Vaccine and Rare Blood Clots in Brain, EMA Official Tells Paper",
       "source": "Reuters",
@@ -628,83 +705,6 @@
       "date": "Mar 20, 2021",
       "description": "The media business keeps trying to ruin Jesse Singal and Katie Herzog, and they keep prospering. On the loony Substack controversy, and the paradox of moral panic in media",
       "link": "https://taibbi.substack.com/p/meet-the-unsuccessfully-censored-0aa"
-    },
-    {
-      "title": "Daniel Ellsberg Talks About Whistleblowing, the Pervasiveness of Official Lies, and the Dangers of the Espionage Act",
-      "source": "Substack",
-      "date": "Mar 17, 2021",
-      "description": "In an interview with 'Useful Idiots,' Daniel Ellsberg talks about official deceptions, and how he was upheld as the 'good' whistleblower to disparage the likes of Ed Snowden and Julian Assange",
-      "link": "https://taibbi.substack.com/p/daniel-ellsberg-talks-about-whistleblowing-d2e"
-    },
-    {
-      "title": "The Accellion Breach Keeps Getting Worse — and More Expensive",
-      "source": "Wired",
-      "date": "Mar 8, 2021",
-      "description": "What started as a few vulnerabilities in firewall equipment has snowballed into a global extortion spree.",
-      "link": "https://www.wired.com/story/accellion-breach-victims-extortion/"
-    },
-    {
-      "title": "For Our Own Good, We All Need a Glimpse of the Evil Queen",
-      "source": "Quillette",
-      "date": "Mar 7, 2021",
-      "description": "I had a client many years ago who was a real-life version of Sleeping Beauty. She was tall, blonde-haired, razor thin (as the saying goes), and profoundly unhappy. She was enrolled in a local junio…",
-      "link": "https://quillette.com/2021/03/07/for-our-own-good-we-all-need-a-glimpse-of-the-evil-queen/"
-    },
-    {
-      "title": "Chinese, Russian Hackers Reportedly Stole European Vaccine Data",
-      "source": "Gizmodo",
-      "date": "Mar 7, 2021",
-      "description": "Both China and Russia were reportedly behind two cyberattacks last year at the European Medicines Agency that compromised documents related to covid-19 vaccines and treatments.",
-      "link": "https://gizmodo.com/chinese-and-russian-hackers-reportedly-stole-vaccine-da-1846426656"
-    },
-    {
-      "title": "How to Tell Which Emails Quietly Track You",
-      "source": "Wired",
-      "date": "Mar 7, 2021",
-      "description": "Your emails know more about you than you might think, like when you open them or when you forward them to others. But you can reclaim your privacy.",
-      "link": "https://www.wired.com/story/how-to-tell-which-emails-track-you/"
-    },
-    {
-      "title": "This Rapid 3D-Printing Method Could Be the Secret to Developing 3D-Printed Organs",
-      "source": "Gizmodo",
-      "date": "Mar 6, 2021",
-      "description": "We may not have flying cars yet, but 3D-printed organs? That sci-fi fantasy just got one step closer to reality thanks to a rapid 3D-printing method developed by University of Buffalo engineers.",
-      "link": "https://gizmodo.com/this-rapid-3d-printing-method-could-be-the-secret-to-de-1846424035"
-    },
-    {
-      "title": "A North Carolina Pipeline Caused the Biggest Gas Spill in Decades",
-      "source": "Gizmodo",
-      "date": "Mar 6, 2021",
-      "description": "A slowly-unfolding, little-reported-on saga in North Carolina involves a company controlled by the Koch brothers and Shell, and a pipeline that has been transporting dirty energy for decades. And it has implications for pipelines everywhere across the U.S.",
-      "link": "https://earther.gizmodo.com/one-of-the-nation-s-largest-pipelines-caused-the-bigges-1846406684"
-    },
-    {
-      "title": "China's and Russia's Spying Sprees Will Take Years to Unpack",
-      "source": "Ars Technica",
-      "date": "Mar 6, 2021",
-      "description": "Full extent of SolarWinds hack, Hafnium's attack on Exchange Server may never be known.",
-      "link": "https://arstechnica.com/information-technology/2021/03/chinas-and-russias-spying-spree-will-take-years-to-unpack/"
-    },
-    {
-      "title": "World Wastes 1 Billion Tons of Food a Year, and It's Frying the Planet",
-      "source": "Gizmodo",
-      "date": "Mar 5, 2021",
-      "description": "If you've ever overstuffed your fridge and let some leftovers go bad in the back of it, you're not alone. People toss more than 1 billion tons of food in the trash every year, according to a new United Nations report. But it doesn't have to be this way.",
-      "link": "https://earther.gizmodo.com/our-wasted-food-is-fueling-climate-change-1846414880"
-    },
-    {
-      "title": "Under Intense Pressure, WHO Skips Summary Report on Coronavirus Origin",
-      "source": "Ars Technica",
-      "date": "Mar 5, 2021",
-      "description": "The full report, however, is expected the week of March 15.",
-      "link": "https://arstechnica.com/science/2021/03/under-intense-pressure-who-skips-summary-report-on-coronavirus-origin/"
-    },
-    {
-      "title": "Chinese Hacking Spree Hit an 'Astronomical' Number of Victims",
-      "source": "Wired",
-      "date": "Mar 5, 2021",
-      "description": "A single group appears to have infiltrated tens of thousands of Microsoft Exchange servers in an ongoing onslaught.",
-      "link": "https://www.wired.com/story/china-microsoft-exchange-server-hack-victims/"
     }
   ]
 }
