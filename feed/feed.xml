@@ -3,10 +3,66 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>gt8jD_eTjc19MW2MY4ENt</id>
+		<id>Isa8_Fpj4MLyDd6RJbG7a</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Fri Apr 09 2021 13:45:19 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Mon Apr 12 2021 10:59:48 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Interview: Noam Chomsky</title>
+			<source>Substack</source>
+			<pubDate>Apr 12, 2021</pubDate>
+			<description><![CDATA[On Biden vs. Trump, his new book, and why manufacturing consent 'is much easier now.']]></description>
+			<link>https://taibbi.substack.com/p/interview-noam-chomsky-1a2</link>
+		</item>
+		<item>
+			<title>Black Lives Matter, So Refund the Police</title>
+			<source>Quillette</source>
+			<pubDate>Apr 11, 2021</pubDate>
+			<description><![CDATA[During the summer of 2020, following the deaths of George Floyd and Breonna Taylor, it was easier to count how many cities didn't have Black Lives Matter (BLM) protests than to count the ones that …]]></description>
+			<link>https://quillette.com/2021/04/12/black-lives-matter-so-refund-the-police/</link>
+		</item>
+		<item>
+			<title>How Will Decolonizing the Curriculum Help the Poor and Dispossessed?</title>
+			<source>Quillette</source>
+			<pubDate>Apr 11, 2021</pubDate>
+			<description><![CDATA[On February 8th, 2021, the Students of Color Liberation Front at the University of Michigan made a series of anti-racist demands, including a call to 'Decolonize the University of Michigan's pedago…]]></description>
+			<link>https://quillette.com/2021/04/10/how-will-decolonizing-the-curriculum-help-the-poor-and-dispossessed/</link>
+		</item>
+		<item>
+			<title>Ecological Impacts of Solar Geoengineering Are Highly Uncertain</title>
+			<source>Ars Technica</source>
+			<pubDate>Apr 11, 2021</pubDate>
+			<description><![CDATA[New research describes the unknowns in our knowledge of solar geoengineering.]]></description>
+			<link>https://arstechnica.com/science/2021/04/unknowns-linger-for-idea-of-scattering-sunlight-to-cool-the-earth/</link>
+		</item>
+		<item>
+			<title>Georgetown's Cultural Revolution</title>
+			<source>Quillette</source>
+			<pubDate>Apr 10, 2021</pubDate>
+			<description><![CDATA[Sandra Sellers, an adjunct professor at Georgetown University's Law Center, was forced to resign because she was caught on video saying to her colleague and co-teacher David Batson: 'I hate t…]]></description>
+			<link>https://quillette.com/2021/04/09/georgetowns-cultural-revolution/</link>
+		</item>
+		<item>
+			<title>Facebook Had Years to Fix the Flaw That Leaked 500M Users' Data</title>
+			<source>Wired</source>
+			<pubDate>Apr 9, 2021</pubDate>
+			<description><![CDATA[Software makers can't catch every bug every time, but Facebook had ample warning about the privacy problems with its 'contact import' feature.]]></description>
+			<link>https://www.wired.com/story/facebook-data-leak-contact-import-flaws/</link>
+		</item>
+		<item>
+			<title>More Than Half of Older Millennials With Student Debt Say Their Loans Weren't Worth It</title>
+			<source>CNBC</source>
+			<pubDate>Apr 8, 2021</pubDate>
+			<description><![CDATA[Even as the oldest millennials turn 40 this year and approach middle age, student debt continues to follow them.]]></description>
+			<link>https://www.cnbc.com/2021/04/08/older-millennials-with-student-debt-say-their-loans-werent-worth-it.html</link>
+		</item>
+		<item>
+			<title>A Wireless Brain-Computer Interface Has Been Successfully Tested on Humans for the First Time</title>
+			<source>TheNextWeb</source>
+			<pubDate>Apr 7, 2021</pubDate>
+			<description><![CDATA[Scientists say the Braingate device is the first high-bandwidth wireless brain-computer interface (BCI) to be demonstrated on humans.]]></description>
+			<link>https://thenextweb.com/news/wireless-bci-brain-computer-interface-tested-on-humans-first-time-braingate</link>
+		</item>
 		<item>
 			<title>The Two Faces of Joe Biden</title>
 			<source>Substack</source>
@@ -650,62 +706,6 @@
 			<pubDate>Mar 9, 2021</pubDate>
 			<description><![CDATA[China wants a long-term presence on the Moon in the 2030s.]]></description>
 			<link>https://arstechnica.com/science/2021/03/china-and-russia-say-they-will-work-together-to-build-a-lunar-station/</link>
-		</item>
-		<item>
-			<title>SpaceX Moves to Beam Starlink Internet Into Trucks, Boats, and Aircraft</title>
-			<source>The Verge</source>
-			<pubDate>Mar 8, 2021</pubDate>
-			<description><![CDATA[Pending FCC approval, SpaceX's Starlink internet is expanding beyond homes for the road, sea, and air.]]></description>
-			<link>https://www.theverge.com/2021/3/8/22319761/spacex-starlink-fcc-internet-cars-boats-aircraft</link>
-		</item>
-		<item>
-			<title>Programmable Optical Quantum Computer Arrives Late, Steals the Show</title>
-			<source>Ars Technica</source>
-			<pubDate>Mar 8, 2021</pubDate>
-			<description><![CDATA[New optical quantum computer overcomes previous limits, looks like a winner.]]></description>
-			<link>https://arstechnica.com/science/2021/03/programmable-optical-quantum-computer-arrives-late-steals-the-show/</link>
-		</item>
-		<item>
-			<title>Chinese Hackers Targeted SolarWinds Customers in Parallel With Russian Op</title>
-			<source>Ars Technica</source>
-			<pubDate>Mar 8, 2021</pubDate>
-			<description><![CDATA[New data suggests that Russia wasn't the only nation-state hacking customers.]]></description>
-			<link>https://arstechnica.com/gadgets/2021/03/chinese-hackers-targeted-solarwinds-customers-in-parallel-with-russian-op/</link>
-		</item>
-		<item>
-			<title>Austria Suspends AstraZeneca COVID-19 Vaccine Batch After Death</title>
-			<source>Reuters</source>
-			<pubDate>Mar 7, 2021</pubDate>
-			<description><![CDATA[Austrian authorities have suspended inoculations with a batch of AstraZeneca's COVID-19 vaccine as a precaution while investigating the death of one person and the illness of another after the shots, a health agency said on Sunday.]]></description>
-			<link>https://www.reuters.com/article/us-health-coronavirus-austria-nurse/austria-suspends-astrazeneca-covid-19-vaccine-batch-after-death-idUSKBN2AZ0AO</link>
-		</item>
-		<item>
-			<title>In Defense of Substack</title>
-			<source>Substack</source>
-			<pubDate>Mar 1, 2021</pubDate>
-			<description><![CDATA[UCLA professor Sarah T. Roberts mourns the good old days of gatekeeping and credential-worship]]></description>
-			<link>https://taibbi.substack.com/p/in-defense-of-substack</link>
-		</item>
-		<item>
-			<title>Trust in Media Hits New Crisis Low</title>
-			<source>Axios</source>
-			<pubDate>Jan 21, 2021</pubDate>
-			<description><![CDATA[Fewer than half of all Americans trust traditional media.]]></description>
-			<link>https://www.axios.com/media-trust-crisis-2bf0ec1c-00c0-4901-9069-e26b21c283a9.html</link>
-		</item>
-		<item>
-			<title>American Chipmakers Had a Toxic Problem. Then They Outsourced It</title>
-			<source>Bloomberg</source>
-			<pubDate>Jun 15, 2017</pubDate>
-			<description><![CDATA[Twenty-five years ago, U.S. tech companies pledged to stop using chemicals that caused miscarriages and birth defects. They failed to ensure that their Asian suppliers did the same.]]></description>
-			<link>https://www.bloomberg.com/news/features/2017-06-15/american-chipmakers-had-a-toxic-problem-so-they-outsourced-it</link>
-		</item>
-		<item>
-			<title>Meet the (Unsuccessfully) Censored: Jesse Singal and Katie Herzog</title>
-			<source>Substack</source>
-			<pubDate>Mar 20, 2021</pubDate>
-			<description><![CDATA[The media business keeps trying to ruin Jesse Singal and Katie Herzog, and they keep prospering. On the loony Substack controversy, and the paradox of moral panic in media]]></description>
-			<link>https://taibbi.substack.com/p/meet-the-unsuccessfully-censored-0aa</link>
 		</item>
 	</channel>
 </rss>

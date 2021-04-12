@@ -3,9 +3,65 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "4/9/2021, 1:45:19 PM",
-  "id": "gt8jD_eTjc19MW2MY4ENt",
+  "date": "4/12/2021, 10:59:48 AM",
+  "id": "Isa8_Fpj4MLyDd6RJbG7a",
   "articles": [
+    {
+      "title": "Interview: Noam Chomsky",
+      "source": "Substack",
+      "date": "Apr 12, 2021",
+      "description": "On Biden vs. Trump, his new book, and why manufacturing consent 'is much easier now.'",
+      "link": "https://taibbi.substack.com/p/interview-noam-chomsky-1a2"
+    },
+    {
+      "title": "Black Lives Matter, So Refund the Police",
+      "source": "Quillette",
+      "date": "Apr 11, 2021",
+      "description": "During the summer of 2020, following the deaths of George Floyd and Breonna Taylor, it was easier to count how many cities didn't have Black Lives Matter (BLM) protests than to count the ones that …",
+      "link": "https://quillette.com/2021/04/12/black-lives-matter-so-refund-the-police/"
+    },
+    {
+      "title": "How Will Decolonizing the Curriculum Help the Poor and Dispossessed?",
+      "source": "Quillette",
+      "date": "Apr 11, 2021",
+      "description": "On February 8th, 2021, the Students of Color Liberation Front at the University of Michigan made a series of anti-racist demands, including a call to 'Decolonize the University of Michigan's pedago…",
+      "link": "https://quillette.com/2021/04/10/how-will-decolonizing-the-curriculum-help-the-poor-and-dispossessed/"
+    },
+    {
+      "title": "Ecological Impacts of Solar Geoengineering Are Highly Uncertain",
+      "source": "Ars Technica",
+      "date": "Apr 11, 2021",
+      "description": "New research describes the unknowns in our knowledge of solar geoengineering.",
+      "link": "https://arstechnica.com/science/2021/04/unknowns-linger-for-idea-of-scattering-sunlight-to-cool-the-earth/"
+    },
+    {
+      "title": "Georgetown's Cultural Revolution",
+      "source": "Quillette",
+      "date": "Apr 10, 2021",
+      "description": "Sandra Sellers, an adjunct professor at Georgetown University's Law Center, was forced to resign because she was caught on video saying to her colleague and co-teacher David Batson: 'I hate t…",
+      "link": "https://quillette.com/2021/04/09/georgetowns-cultural-revolution/"
+    },
+    {
+      "title": "Facebook Had Years to Fix the Flaw That Leaked 500M Users' Data",
+      "source": "Wired",
+      "date": "Apr 9, 2021",
+      "description": "Software makers can't catch every bug every time, but Facebook had ample warning about the privacy problems with its 'contact import' feature.",
+      "link": "https://www.wired.com/story/facebook-data-leak-contact-import-flaws/"
+    },
+    {
+      "title": "More Than Half of Older Millennials With Student Debt Say Their Loans Weren't Worth It",
+      "source": "CNBC",
+      "date": "Apr 8, 2021",
+      "description": "Even as the oldest millennials turn 40 this year and approach middle age, student debt continues to follow them.",
+      "link": "https://www.cnbc.com/2021/04/08/older-millennials-with-student-debt-say-their-loans-werent-worth-it.html"
+    },
+    {
+      "title": "A Wireless Brain-Computer Interface Has Been Successfully Tested on Humans for the First Time",
+      "source": "TheNextWeb",
+      "date": "Apr 7, 2021",
+      "description": "Scientists say the Braingate device is the first high-bandwidth wireless brain-computer interface (BCI) to be demonstrated on humans.",
+      "link": "https://thenextweb.com/news/wireless-bci-brain-computer-interface-tested-on-humans-first-time-braingate"
+    },
     {
       "title": "The Two Faces of Joe Biden",
       "source": "Substack",
@@ -649,62 +705,6 @@
       "date": "Mar 9, 2021",
       "description": "China wants a long-term presence on the Moon in the 2030s.",
       "link": "https://arstechnica.com/science/2021/03/china-and-russia-say-they-will-work-together-to-build-a-lunar-station/"
-    },
-    {
-      "title": "SpaceX Moves to Beam Starlink Internet Into Trucks, Boats, and Aircraft",
-      "source": "The Verge",
-      "date": "Mar 8, 2021",
-      "description": "Pending FCC approval, SpaceX's Starlink internet is expanding beyond homes for the road, sea, and air.",
-      "link": "https://www.theverge.com/2021/3/8/22319761/spacex-starlink-fcc-internet-cars-boats-aircraft"
-    },
-    {
-      "title": "Programmable Optical Quantum Computer Arrives Late, Steals the Show",
-      "source": "Ars Technica",
-      "date": "Mar 8, 2021",
-      "description": "New optical quantum computer overcomes previous limits, looks like a winner.",
-      "link": "https://arstechnica.com/science/2021/03/programmable-optical-quantum-computer-arrives-late-steals-the-show/"
-    },
-    {
-      "title": "Chinese Hackers Targeted SolarWinds Customers in Parallel With Russian Op",
-      "source": "Ars Technica",
-      "date": "Mar 8, 2021",
-      "description": "New data suggests that Russia wasn't the only nation-state hacking customers.",
-      "link": "https://arstechnica.com/gadgets/2021/03/chinese-hackers-targeted-solarwinds-customers-in-parallel-with-russian-op/"
-    },
-    {
-      "title": "Austria Suspends AstraZeneca COVID-19 Vaccine Batch After Death",
-      "source": "Reuters",
-      "date": "Mar 7, 2021",
-      "description": "Austrian authorities have suspended inoculations with a batch of AstraZeneca's COVID-19 vaccine as a precaution while investigating the death of one person and the illness of another after the shots, a health agency said on Sunday.",
-      "link": "https://www.reuters.com/article/us-health-coronavirus-austria-nurse/austria-suspends-astrazeneca-covid-19-vaccine-batch-after-death-idUSKBN2AZ0AO"
-    },
-    {
-      "title": "In Defense of Substack",
-      "source": "Substack",
-      "date": "Mar 1, 2021",
-      "description": "UCLA professor Sarah T. Roberts mourns the good old days of gatekeeping and credential-worship",
-      "link": "https://taibbi.substack.com/p/in-defense-of-substack"
-    },
-    {
-      "title": "Trust in Media Hits New Crisis Low",
-      "source": "Axios",
-      "date": "Jan 21, 2021",
-      "description": "Fewer than half of all Americans trust traditional media.",
-      "link": "https://www.axios.com/media-trust-crisis-2bf0ec1c-00c0-4901-9069-e26b21c283a9.html"
-    },
-    {
-      "title": "American Chipmakers Had a Toxic Problem. Then They Outsourced It",
-      "source": "Bloomberg",
-      "date": "Jun 15, 2017",
-      "description": "Twenty-five years ago, U.S. tech companies pledged to stop using chemicals that caused miscarriages and birth defects. They failed to ensure that their Asian suppliers did the same.",
-      "link": "https://www.bloomberg.com/news/features/2017-06-15/american-chipmakers-had-a-toxic-problem-so-they-outsourced-it"
-    },
-    {
-      "title": "Meet the (Unsuccessfully) Censored: Jesse Singal and Katie Herzog",
-      "source": "Substack",
-      "date": "Mar 20, 2021",
-      "description": "The media business keeps trying to ruin Jesse Singal and Katie Herzog, and they keep prospering. On the loony Substack controversy, and the paradox of moral panic in media",
-      "link": "https://taibbi.substack.com/p/meet-the-unsuccessfully-censored-0aa"
     }
   ]
 }
