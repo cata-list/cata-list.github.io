@@ -3,10 +3,66 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>Y1yCNk2vqZIC9kON-0bbZ</id>
+		<id>3vJUTNnoA_7rlaSq5kkOU</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Tue Apr 13 2021 11:39:46 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Thu Apr 15 2021 13:44:38 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Humans Have Destroyed 97% of Earth's Ecosystems</title>
+			<source>Gizmodo</source>
+			<pubDate>Apr 15, 2021</pubDate>
+			<description><![CDATA[Only 3% of land on Earth still qualifies as 'ecologically intact,' with undisturbed habitats and healthy populations of its original animal species, grim new research shows.]]></description>
+			<link>https://earther.gizmodo.com/humans-have-destroyed-97-of-earths-ecosystems-1846691917</link>
+		</item>
+		<item>
+			<title>Google Earth Is Now a 3D Time Machine</title>
+			<source>Ars Technica</source>
+			<pubDate>Apr 15, 2021</pubDate>
+			<description><![CDATA[Google puts 20 petabytes of historical satellite data into the Google Earth globe.]]></description>
+			<link>https://arstechnica.com/gadgets/2021/04/google-earth-is-now-a-3d-time-machine/</link>
+		</item>
+		<item>
+			<title>Anti-Colonialism's Bad History</title>
+			<source>Quillette</source>
+			<pubDate>Apr 14, 2021</pubDate>
+			<description><![CDATA[Prevailing academic theories of race relations hold that wealth and power differences between groups of people arose from social, economic, and legal systems created to benefit one group of people …]]></description>
+			<link>https://quillette.com/2021/04/13/anti-colonialisms-bad-history/</link>
+		</item>
+		<item>
+			<title>Psilocybin: Magic Mushroom Compound 'Promising' for Depression</title>
+			<source>BBC News</source>
+			<pubDate>Apr 14, 2021</pubDate>
+			<description><![CDATA[A study of 59 people compared the drug with a conventional antidepressant.]]></description>
+			<link>https://www.bbc.com/news/health-56745139</link>
+		</item>
+		<item>
+			<title>Navy Acknowledges Weird Footage of Unidentified Objects Flying Around Its Ships Is Real</title>
+			<source>Gizmodo</source>
+			<pubDate>Apr 14, 2021</pubDate>
+			<description><![CDATA[The Pentagon has officially verified that night-vision video circulating of unidentified, triangular aerial craft swarming around the Navy's Arleigh Burke-class destroyer USS Russell in 2019 is real, as first reported last week by Mystery Wire.]]></description>
+			<link>https://gizmodo.com/navy-acknowledges-weird-footage-of-unidentified-objects-1846684702</link>
+		</item>
+		<item>
+			<title>Can You Teach Children to Be Anti-Racist?</title>
+			<source>Quillette</source>
+			<pubDate>Apr 13, 2021</pubDate>
+			<description><![CDATA[In 1935, Richard Clarke Cabot, a professor of clinical medicine and social ethics at Harvard University, began one of the first randomized controlled experiments in the field of social science. In …]]></description>
+			<link>https://quillette.com/2021/04/13/can-you-teach-children-to-be-anti-racist/</link>
+		</item>
+		<item>
+			<title>I Refuse to Stand by While My Students Are Indoctrinated</title>
+			<source>Substack</source>
+			<pubDate>Apr 13, 2021</pubDate>
+			<description><![CDATA[Children are afraid to challenge the repressive ideology that rules our school. That's why I am.]]></description>
+			<link>https://bariweiss.substack.com/p/i-refuse-to-stand-by-while-my-students</link>
+		</item>
+		<item>
+			<title>The War Against Money-Laundering Is Being Lost</title>
+			<source>The Economist</source>
+			<pubDate>Apr 12, 2021</pubDate>
+			<description><![CDATA[The global system for financial crime is hugely expensive and largely ineffective | Finance & economics]]></description>
+			<link>https://www.economist.com/finance-and-economics/2021/04/12/the-war-against-money-laundering-is-being-lost</link>
+		</item>
 		<item>
 			<title>U.S. Pauses J&amp;J COVID-19 Vaccine Over Rare Blood Clots</title>
 			<source>Reuters</source>
@@ -43,14 +99,14 @@
 			<link>https://www.wired.com/story/opinion-data-brokers-are-a-threat-to-democracy/</link>
 		</item>
 		<item>
-			<title>Plastic Is Falling From the Sky. but Where's It Coming From?</title>
+			<title>Plastic Is Falling From the Sky. But Where's It Coming From?</title>
 			<source>Wired</source>
 			<pubDate>Apr 13, 2021</pubDate>
 			<description><![CDATA[At any given time, 1,100 tons of microplastic are floating over the western US. New modeling shows the surprising sources of the nefarious pollutant.]]></description>
 			<link>https://www.wired.com/story/plastic-is-falling-from-the-sky/</link>
 		</item>
 		<item>
-			<title>SpaceX's Falcon Heavy Rocket to Deliver an Astrobotic Lander and NASA Water-Hunting Rover to the Moon in 2023 – TechCrunch</title>
+			<title>SpaceX's Falcon Heavy Rocket to Deliver an Astrobotic Lander and NASA Water-Hunting Rover to the Moon in 2023</title>
 			<source>TechCrunch</source>
 			<pubDate>Apr 13, 2021</pubDate>
 			<description><![CDATA[SpaceX is set to send a payload to the Moon in 2023, using its larger (and infrequently used) Falcon Heavy launch vehicle. The mission will fly a lander built by space startup Astrobotic, which itself will be carrying NASA's VIPER, or Volatiles Investigating Polar Exploration Rover (this is t…]]></description>
@@ -650,62 +706,6 @@
 			<pubDate>Mar 17, 2021</pubDate>
 			<description><![CDATA[The last standing member of Texas's Public Utility Commission handed in his resignation on Tuesday following a report that he assured out-of-state investors who made big profits from last month's blackouts that he was working to help them keep their money.]]></description>
 			<link>https://earther.gizmodo.com/texas-utility-commissioner-resigns-after-leaked-call-pl-1846493798</link>
-		</item>
-		<item>
-			<title>Journalists, Illustrating How They Operate, Yesterday Spread a Significant Lie All Over Twitter</title>
-			<source>Substack</source>
-			<pubDate>Mar 17, 2021</pubDate>
-			<description><![CDATA[Eager to obtain vindication for the pre-election falsehood they spread about the Hunter Biden story, journalists falsely claim that the CIA blamed Russia for it.]]></description>
-			<link>https://greenwald.substack.com/p/journalists-illustrating-how-they</link>
-		</item>
-		<item>
-			<title>Britain's Academic Free Speech Bill</title>
-			<source>Quillette</source>
-			<pubDate>Mar 16, 2021</pubDate>
-			<description><![CDATA[The British Education Secretary, Gavin Williamson, recently set out proposals to strengthen free speech and academic freedom at universities in England. These include: appointing an Academic Freedo…]]></description>
-			<link>https://quillette.com/2021/03/15/britains-academic-free-speech-bill/</link>
-		</item>
-		<item>
-			<title>With Ratings Down, the Networks Hunt for a Trump Replacement</title>
-			<source>Substack</source>
-			<pubDate>Mar 16, 2021</pubDate>
-			<description><![CDATA[Trump saved the cable news business once. Without him, things are looking bleak again. Who will news outlets find to feed the outrage machine?]]></description>
-			<link>https://taibbi.substack.com/p/without-trump-is-a-depression-in-293</link>
-		</item>
-		<item>
-			<title>How Do Big Media Outlets So Often 'Independently Confirm' Each Other's Falsehoods?</title>
-			<source>Substack</source>
-			<pubDate>Mar 16, 2021</pubDate>
-			<description><![CDATA[The Washington Post's media-spread error about Trump's Georgia call shows the deceitful playbook first invented to undermine Trump and promote Russiagate.]]></description>
-			<link>https://greenwald.substack.com/p/how-do-big-media-outlets-so-often</link>
-		</item>
-		<item>
-			<title>Science Goes Rogue</title>
-			<source>Quillette</source>
-			<pubDate>Mar 15, 2021</pubDate>
-			<description><![CDATA[Social justice activists have been arguing for some time that scientific societies and institutions need to address systemic sexism and racism in STEM disciplines. However, their rationale is often…]]></description>
-			<link>https://quillette.com/2021/03/14/science-goes-rogue/</link>
-		</item>
-		<item>
-			<title>The UK Is Secretly Testing a Controversial Web Snooping Tool</title>
-			<source>Wired</source>
-			<pubDate>Mar 15, 2021</pubDate>
-			<description><![CDATA[The country passed its Investigatory Powers Act in 2016. Now, its building what could be the most powerful data collection system used by any democratic nation.]]></description>
-			<link>https://www.wired.com/story/uk-secretly-testing-controversial-web-snooping-tool/</link>
-		</item>
-		<item>
-			<title>Is Consciousness Everywhere?</title>
-			<source>The MIT Press Reader</source>
-			<pubDate>Mar 14, 2021</pubDate>
-			<description><![CDATA[Experience is in unexpected places, including in all animals, large and small, and perhaps even in brute matter itself.]]></description>
-			<link>https://thereader.mitpress.mit.edu/is-consciousness-everywhere/</link>
-		</item>
-		<item>
-			<title>Google Must Face $5B Lawsuit Over Tracking Private Internet Use, Judge Rules</title>
-			<source>CNET</source>
-			<pubDate>Mar 14, 2021</pubDate>
-			<description><![CDATA[Judge finds tech giant didn't notify users their data could still be collected in incognito mode.]]></description>
-			<link>https://www.cnet.com/news/google-must-face-5b-lawsuit-over-tracking-private-internet-use/</link>
 		</item>
 	</channel>
 </rss>
