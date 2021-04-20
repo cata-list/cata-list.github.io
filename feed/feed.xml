@@ -3,10 +3,38 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>LwO4zGGvBIYykQA8aTSjL</id>
+		<id>zqZa9-0N2Va1IvGYw3bj7</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Mon Apr 19 2021 10:38:35 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Tue Apr 20 2021 13:17:02 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Wall Street's Cooked Books Fueled the Financial Crisis in 2008. It's Happening Again.</title>
+			<source>The Intercept</source>
+			<pubDate>Apr 20, 2021</pubDate>
+			<description><![CDATA[This time, the issue is not a bubble in the housing market, but apparent widespread inflation of the value of commercial businesses, on which loans are based.]]></description>
+			<link>https://theintercept.com/2021/04/20/wall-street-cmbs-dollar-general-ladder-capital/</link>
+		</item>
+		<item>
+			<title>Psychedelics Are Transforming the Way We Understand Depression and Its Treatment</title>
+			<source>The Guardian</source>
+			<pubDate>Apr 20, 2021</pubDate>
+			<description><![CDATA[Psychiatry has long failed to explain depression. Our research into psilocybin suggests a new approach, says researcher Robin Carhart-Harris]]></description>
+			<link>https://www.theguardian.com/commentisfree/2021/apr/20/psychedelics-depression-treatment-psychiatry-psilocybin</link>
+		</item>
+		<item>
+			<title>The Media Lied Repeatedly About Officer Brian Sicknick's Death. and They Just Got Caught.</title>
+			<source>Substack</source>
+			<pubDate>Apr 19, 2021</pubDate>
+			<description><![CDATA[Just as with the Russia Bounty debacle, they will never acknowledge what they did. Their audience wants to be lied to for partisan gain and emotional pleasure.]]></description>
+			<link>https://greenwald.substack.com/p/the-media-lied-repeatedly-about-officer</link>
+		</item>
+		<item>
+			<title>More J&amp;J Troubles: Vaccine Manufacturing Halted and More Possible Clot Cases</title>
+			<source>Ars Technica</source>
+			<pubDate>Apr 19, 2021</pubDate>
+			<description><![CDATA[CDC advisory committee will meet Friday to decide the fate of the troubled vaccine.]]></description>
+			<link>https://arstechnica.com/science/2021/04/more-jj-troubles-vaccine-manufacturing-halted-and-more-possible-clot-cases/</link>
+		</item>
 		<item>
 			<title>How Anarchists Captured Portland</title>
 			<source>UnHerd</source>
@@ -678,34 +706,6 @@
 			<pubDate>Mar 22, 2021</pubDate>
 			<description><![CDATA[The very top sliver of high-income Americans may underreport their income at levels far beyond what was suggested by prior IRS research, according to a new paper.]]></description>
 			<link>https://www.wsj.com/articles/high-income-tax-avoidance-far-larger-than-thought-new-paper-estimates-11616364001</link>
-		</item>
-		<item>
-			<title>Philippines Says 220 Chinese Militia Vessels Seen in Disputed Waters This Month</title>
-			<source>Reuters</source>
-			<pubDate>Mar 20, 2021</pubDate>
-			<description><![CDATA[The Philippines expressed concern about hundreds of Chinese military vessels it said were spotted this month in the disputed South China Sea, the latest example of tension in the crucial waterway.]]></description>
-			<link>https://www.reuters.com/article/us-philippines-china-southchinasea/philippines-says-220-chinese-militia-vessels-seen-in-disputed-waters-this-month-idUSKBN2BD02P</link>
-		</item>
-		<item>
-			<title>Police Warn Students to Avoid Science Website</title>
-			<source>BBC News</source>
-			<pubDate>Mar 19, 2021</pubDate>
-			<description><![CDATA[Universities are urged to block a science research website, which police say could put data at risk.]]></description>
-			<link>https://www.bbc.com/news/education-56462390</link>
-		</item>
-		<item>
-			<title>Trump EPA Invited Companies to Revise Pollution Records of a Potent Carcinogen</title>
-			<source>The Intercept</source>
-			<pubDate>Mar 18, 2021</pubDate>
-			<description><![CDATA[After ethylene oxide was shown to be 30 times more carcinogenic than previously thought, polluters began rewriting their toxic history — with the EPA's help.]]></description>
-			<link>https://theintercept.com/2021/03/18/epa-pollution-cancer-ethylene-oxide/</link>
-		</item>
-		<item>
-			<title>Oil Firms Knew Decades Ago Fossil Fuels Posed Grave Health Risks, Files Reveal</title>
-			<source>The Guardian</source>
-			<pubDate>Mar 18, 2021</pubDate>
-			<description><![CDATA[Exclusive: documents seen by Guardian show companies fought clean-air rules despite being aware of harm caused by air pollution]]></description>
-			<link>https://www.theguardian.com/environment/2021/mar/18/oil-industry-fossil-fuels-air-pollution-documents</link>
 		</item>
 	</channel>
 </rss>

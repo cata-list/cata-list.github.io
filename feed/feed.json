@@ -3,9 +3,37 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "4/19/2021, 10:38:35 AM",
-  "id": "LwO4zGGvBIYykQA8aTSjL",
+  "date": "4/20/2021, 1:17:02 PM",
+  "id": "zqZa9-0N2Va1IvGYw3bj7",
   "articles": [
+    {
+      "title": "Wall Street's Cooked Books Fueled the Financial Crisis in 2008. It's Happening Again.",
+      "source": "The Intercept",
+      "date": "Apr 20, 2021",
+      "description": "This time, the issue is not a bubble in the housing market, but apparent widespread inflation of the value of commercial businesses, on which loans are based.",
+      "link": "https://theintercept.com/2021/04/20/wall-street-cmbs-dollar-general-ladder-capital/"
+    },
+    {
+      "title": "Psychedelics Are Transforming the Way We Understand Depression and Its Treatment",
+      "source": "The Guardian",
+      "date": "Apr 20, 2021",
+      "description": "Psychiatry has long failed to explain depression. Our research into psilocybin suggests a new approach, says researcher Robin Carhart-Harris",
+      "link": "https://www.theguardian.com/commentisfree/2021/apr/20/psychedelics-depression-treatment-psychiatry-psilocybin"
+    },
+    {
+      "title": "The Media Lied Repeatedly About Officer Brian Sicknick's Death. and They Just Got Caught.",
+      "source": "Substack",
+      "date": "Apr 19, 2021",
+      "description": "Just as with the Russia Bounty debacle, they will never acknowledge what they did. Their audience wants to be lied to for partisan gain and emotional pleasure.",
+      "link": "https://greenwald.substack.com/p/the-media-lied-repeatedly-about-officer"
+    },
+    {
+      "title": "More J&J Troubles: Vaccine Manufacturing Halted and More Possible Clot Cases",
+      "source": "Ars Technica",
+      "date": "Apr 19, 2021",
+      "description": "CDC advisory committee will meet Friday to decide the fate of the troubled vaccine.",
+      "link": "https://arstechnica.com/science/2021/04/more-jj-troubles-vaccine-manufacturing-halted-and-more-possible-clot-cases/"
+    },
     {
       "title": "How Anarchists Captured Portland",
       "source": "UnHerd",
@@ -677,34 +705,6 @@
       "date": "Mar 22, 2021",
       "description": "The very top sliver of high-income Americans may underreport their income at levels far beyond what was suggested by prior IRS research, according to a new paper.",
       "link": "https://www.wsj.com/articles/high-income-tax-avoidance-far-larger-than-thought-new-paper-estimates-11616364001"
-    },
-    {
-      "title": "Philippines Says 220 Chinese Militia Vessels Seen in Disputed Waters This Month",
-      "source": "Reuters",
-      "date": "Mar 20, 2021",
-      "description": "The Philippines expressed concern about hundreds of Chinese military vessels it said were spotted this month in the disputed South China Sea, the latest example of tension in the crucial waterway.",
-      "link": "https://www.reuters.com/article/us-philippines-china-southchinasea/philippines-says-220-chinese-militia-vessels-seen-in-disputed-waters-this-month-idUSKBN2BD02P"
-    },
-    {
-      "title": "Police Warn Students to Avoid Science Website",
-      "source": "BBC News",
-      "date": "Mar 19, 2021",
-      "description": "Universities are urged to block a science research website, which police say could put data at risk.",
-      "link": "https://www.bbc.com/news/education-56462390"
-    },
-    {
-      "title": "Trump EPA Invited Companies to Revise Pollution Records of a Potent Carcinogen",
-      "source": "The Intercept",
-      "date": "Mar 18, 2021",
-      "description": "After ethylene oxide was shown to be 30 times more carcinogenic than previously thought, polluters began rewriting their toxic history — with the EPA's help.",
-      "link": "https://theintercept.com/2021/03/18/epa-pollution-cancer-ethylene-oxide/"
-    },
-    {
-      "title": "Oil Firms Knew Decades Ago Fossil Fuels Posed Grave Health Risks, Files Reveal",
-      "source": "The Guardian",
-      "date": "Mar 18, 2021",
-      "description": "Exclusive: documents seen by Guardian show companies fought clean-air rules despite being aware of harm caused by air pollution",
-      "link": "https://www.theguardian.com/environment/2021/mar/18/oil-industry-fossil-fuels-air-pollution-documents"
     }
   ]
 }
