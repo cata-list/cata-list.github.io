@@ -3,9 +3,86 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "4/26/2021, 8:35:38 AM",
-  "id": "6NYrIpchzf4c1vFSOp-KY",
+  "date": "4/29/2021, 5:36:51 PM",
+  "id": "wfUS0cAATt53YpKm5z1Gr",
   "articles": [
+    {
+      "title": "Biden Erased Decades of Historic Crimes in His Speech to Congress",
+      "source": "Substack",
+      "date": "Apr 29, 2021",
+      "description": "Biden's claim that the Capitol Riot was the 'worst attack on our democracy since the Civil War' is ahistorical garbage.",
+      "link": "https://outsidevoices.substack.com/p/biden-erased-decades-of-historic"
+    },
+    {
+      "title": "The Journal of Controversial Ideas Is Here",
+      "source": "Quillette",
+      "date": "Apr 29, 2021",
+      "description": "The long-awaited first issue of Journal of Controversial Ideas (JCI), which allows academics of all disciplines to publish peer-reviewed research anonymously, has just been released. In an editoria…",
+      "link": "https://quillette.com/2021/04/28/the-journal-of-controversial-ideas-is-here/"
+    },
+    {
+      "title": "Court Rules That EPA's Delay 'Exposed a Generation of American Children' to Brain-Damaging Pesticide Chlorpyrifos",
+      "source": "The Intercept",
+      "date": "Apr 29, 2021",
+      "description": "The ruling represents a stark repudiation of the Trump EPA's refusal to ban chlorpyrifos.",
+      "link": "https://theintercept.com/2021/04/29/chlorpyrifos-epa-brain-damage-children/"
+    },
+    {
+      "title": "Satellites Show World's Glaciers Melting Faster Than Ever",
+      "source": "Associated Press",
+      "date": "Apr 28, 2021",
+      "description": "Glaciers are melting faster, losing 31% more snow and ice per year than they did 15 years earlier, according to three-dimensional satellite measurements of all the world's mountain glaciers. Scientists blame human-caused climate change. Using 20 years of recently declassified satellite data, scienti…",
+      "link": "https://apnews.com/article/mountains-climate-climate-change-oceans-glaciers-64abe6a2ebb9793d8d695735128284ef"
+    },
+    {
+      "title": "Empire Politician: A Half-Century of Joe Biden's Stances on War, Militarism, and the CIA",
+      "source": "The Intercept",
+      "date": "Apr 28, 2021",
+      "description": "The new president's paper trail reveals a man who has often betrayed his own bedrock principles.",
+      "link": "https://theintercept.com/2021/04/28/empire-politician-a-half-century-of-joe-bidens-stances-on-war-militarism-and-the-cia/"
+    },
+    {
+      "title": "Experian API Exposed Credit Scores of Most Americans",
+      "source": "Krebs on Security",
+      "date": "Apr 28, 2021",
+      "description": "Big-three consumer credit bureau Experian just fixed a weakness with a partner website that let anyone look up the credit score of tens of millions of Americans just by supplying their name and mailing address, KrebsOnSecurity has learned. Experian says…",
+      "link": "https://krebsonsecurity.com/2021/04/experian-api-exposed-credit-scores-of-most-americans/"
+    },
+    {
+      "title": "Nestlé Threatened With Cease-and-Desist Over Alleged Illegal Water Use",
+      "source": "Ars Technica",
+      "date": "Apr 28, 2021",
+      "description": "Company's claims hinge on how much water early-1900s rail cars carried.",
+      "link": "https://arstechnica.com/tech-policy/2021/04/nestle-threatened-with-cease-and-desist-over-alleged-illegal-water-use/"
+    },
+    {
+      "title": "High-Bandwidth Wireless BCI Demonstrated in Humans for First Time",
+      "source": "Ars Technica",
+      "date": "Apr 28, 2021",
+      "description": "BrainGate device complements Neuralink's successful test of wireless BCI in monkey.",
+      "link": "https://arstechnica.com/science/2021/04/new-high-bandwidth-wireless-bci-helps-tetraplegics-use-tablet-computers/"
+    },
+    {
+      "title": "You Can't Cure Racism",
+      "source": "UnHerd",
+      "date": "Apr 28, 2021",
+      "description": "Efforts to medicalise a social problem could be fatal",
+      "link": "https://unherd.com/2021/04/you-cant-cure-racism/"
+    },
+    {
+      "title": "CNN's New 'Reporter,' Natasha Bertrand, Is a Deranged Conspiracy Theorist and Scandal-Plagued CIA Propagandist",
+      "source": "Substack",
+      "date": "Apr 27, 2021",
+      "description": "In the U.S. corporate media, the surest way to advance is to loyally spread lies and deceit from the U.S. security state. Bertrand is just the latest example.",
+      "link": "https://greenwald.substack.com/p/cnns-new-reporter-natasha-bertrand"
+    },
+    {
+      "title": "25,000 Barrels of Suspected DDT Found Off the California Coast",
+      "source": "Gizmodo",
+      "date": "Apr 27, 2021",
+      "description": "A known DDT dump site off the coast of Southern California is considerably larger than suspected, in a discovery that's sounding the alarm bells. Research by the Scripps Institution of Oceanography shows thousands of potentially toxic barrels on the seafloor.",
+      "link": "https://earther.gizmodo.com/around-25-000-barrels-of-suspected-ddt-has-been-found-o-1846775004"
+    },
     {
       "title": "ACLU Again Cowardly Abstains From an Online Censorship Controversy: This Time Over BLM",
       "source": "Substack",
@@ -628,83 +705,6 @@
       "date": "Mar 30, 2021",
       "description": "The repressive objective of the Democratic-controlled Congress is to transfer the power to police and censor political discourse from these tech giants to themselves.",
       "link": "https://greenwald.substack.com/p/congress-in-a-five-hour-hearing-demands-0cf"
-    },
-    {
-      "title": "Alternatives to Censorship: Interview With Matt Stoller",
-      "source": "Substack",
-      "date": "Mar 30, 2021",
-      "description": "As Congress once again demands that Silicon Valley crack down on speech, the Director of Research at the American Economic Liberties Project outlines the real problem, and better solutions",
-      "link": "https://taibbi.substack.com/p/alternatives-to-censorship-interview-834"
-    },
-    {
-      "title": "NASA's TESS Spacecraft Has Already Found 2,200 Possible Planets",
-      "source": "Engadget",
-      "date": "Mar 28, 2021",
-      "description": "NASA's TESS spacecraft has already found 2,200 potential planets, surpassing its original goal and raising hope of finding Earth-like worlds.",
-      "link": "https://www.engadget.com/nasa-tess-2200-exoplanets-184133840.html"
-    },
-    {
-      "title": "Scotland's Renewable Energy Matched 97 Percent of Demand in 2020",
-      "source": "Engadget",
-      "date": "Mar 27, 2021",
-      "description": "97.4 percent of Scotland's gross electric consumption came from clean energy sources in 2020.",
-      "link": "https://www.engadget.com/scotland-renewable-energy-97-percent-electricity-needs-2020-180436107.html"
-    },
-    {
-      "title": "Eating Mostly Restaurant Meals Linked to Higher Risk of Early Death",
-      "source": "Gizmodo",
-      "date": "Mar 26, 2021",
-      "description": "Dining out often might come with a hidden cost down the road, new research suggests. The study found an association between frequently eating at restaurants and a higher risk of dying earlier, along with deaths caused by cardiovascular disease and cancer.",
-      "link": "https://gizmodo.com/eating-mostly-restaurant-meals-linked-to-higher-risk-of-1846560637"
-    },
-    {
-      "title": "The Death of Humor",
-      "source": "Substack",
-      "date": "Mar 26, 2021",
-      "description": "Review of 'Killer Cartoons,' edited by David Wallis, and 'White,' by Bret Easton Ellis",
-      "link": "https://taibbi.substack.com/p/the-death-of-humor-f17"
-    },
-    {
-      "title": "The Tyranny of Diversity Training",
-      "source": "UnHerd",
-      "date": "Mar 26, 2021",
-      "description": "America is exporting its Calvinistic tendencies to British workplaces",
-      "link": "https://unherd.com/2021/03/the-tyranny-of-diversity-training/"
-    },
-    {
-      "title": "Taiwan Reports Largest Ever Incursion by Chinese Air Force",
-      "source": "Reuters",
-      "date": "Mar 26, 2021",
-      "description": "Twenty Chinese military aircraft entered Taiwan's air defence identification zone on Friday, in the largest incursion yet reported by the island's defence ministry and marking a dramatic escalation of tension across the Taiwan Strait.",
-      "link": "https://www.reuters.com/article/us-taiwna-china-security/taiwan-reports-largest-ever-incursion-by-chinese-air-force-idUSKBN2BI24D"
-    },
-    {
-      "title": "The US Military Is Poisoning Communities Across the US With Toxic Chemicals",
-      "source": "The Guardian",
-      "date": "Mar 25, 2021",
-      "description": "The Department of Defense has ordered the burning of 20m pounds of AFFF – despite risks to human health",
-      "link": "https://www.theguardian.com/commentisfree/2021/mar/25/us-military-toxic-chemicals-us-states"
-    },
-    {
-      "title": "The Dark Web Is Teeming With Vaccine Listings Right Now",
-      "source": "Wired",
-      "date": "Mar 25, 2021",
-      "description": "Vendors are cashing in on people desperate to leapfrog the line—or falsely certify that they got the shot.",
-      "link": "https://www.wired.com/story/dark-web-teeming-with-vaccine-listings/"
-    },
-    {
-      "title": "Researchers Found a Way to Send Tiny Robots Into Mouse Brains",
-      "source": "Gizmodo",
-      "date": "Mar 24, 2021",
-      "description": "In a mind-bending development, a team of researchers in China have managed to treat brain tumors in mice by delivering drugs to the tissues using microscopic robots. The robots jumped from the mice's bloodstreams into their brains by being coated in E. coli, which tricked the rodents' immune systems…",
-      "link": "https://gizmodo.com/researchers-found-a-way-to-send-tiny-robots-into-mouse-1846544741"
-    },
-    {
-      "title": "Deforestation and Palm Oil Plantations Are Fueling a Disease Boom, Study Suggests",
-      "source": "Gizmodo",
-      "date": "Mar 24, 2021",
-      "description": "New research presents evidence that activities such as deforestation, building palm oil plantations, and even converting grassy areas into new forests are associated with outbreaks of disease, particularly those transmitted by mosquitoes and other vector animals.",
-      "link": "https://earther.gizmodo.com/deforestation-and-palm-oil-plantations-are-fueling-a-di-1846543313"
     }
   ]
 }
