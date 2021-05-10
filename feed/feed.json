@@ -3,9 +3,44 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "5/7/2021, 11:30:05 AM",
-  "id": "f1e8ah9DJ95gHsTei2meF",
+  "date": "5/10/2021, 8:44:50 AM",
+  "id": "5Yd1GHWWop4b0B1YlNfFQ",
   "articles": [
+    {
+      "title": "Tribalism Has Come to the West",
+      "source": "UnHerd",
+      "date": "May 10, 2021",
+      "description": "Hostile and polarised, today's America reminds me of my Somalian clan",
+      "link": "https://unherd.com/2021/05/tribalism-has-come-to-the-west/"
+    },
+    {
+      "title": "The Pentagon Inches Toward Letting AI Control Weapons",
+      "source": "Wired",
+      "date": "May 10, 2021",
+      "description": "Drills involving swarms of drones raise questions about whether machines could outperform a human operator in complex scenarios.",
+      "link": "https://www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/"
+    },
+    {
+      "title": "Bombshell Dossier Indicates China Has Been 'Preparing' for Bio-Warfare",
+      "source": "Sky News Australia",
+      "date": "May 10, 2021",
+      "description": "A recently uncovered bombshell dossier suggests Chinese scientists have been 'preparing' for a Third World War fought with 'biological and genetic weapons – including coronavirus,' according to Sky News host Alan Jones. 'The paper by Chinese scientists describes these biological weapons as the core…",
+      "link": "https://www.skynews.com.au/details/_6253473578001"
+    },
+    {
+      "title": "Antony Blinken Continues to Lecture the World on Values His Administration Aggressively Violates",
+      "source": "Substack",
+      "date": "May 9, 2021",
+      "description": "How can you feign anger over others' attacks on a free press when you imprison Assange as punishment for his vital revelations about U.S. officials?",
+      "link": "https://greenwald.substack.com/p/antony-blinken-continues-to-lecture"
+    },
+    {
+      "title": "Portland Man Recovering From Beating After Armed Standoff Amid Protest",
+      "source": "New York Post",
+      "date": "May 8, 2021",
+      "description": "Portland Police are trying to sort out exactly what happened that ended up sending Joseph Hall, 53, to the hospital.",
+      "link": "https://nypost.com/2021/05/08/portland-man-recovering-from-beating-after-standoff-amid-protest/"
+    },
     {
       "title": "Publishing Is Now a Left-Wing Bubble",
       "source": "UnHerd",
@@ -58,7 +93,7 @@
     {
       "title": "Be It Resolved: The Mainstream Media Is Dying, and That's OK. Matt Taibbi Debates Ben Bradlee, Jr.",
       "source": "Substack",
-      "date": "Apr 4, 2021",
+      "date": "May 4, 2021",
       "description": "In Canada's 'Munk Debates' series, a civil discussion about the future of media",
       "link": "https://taibbi.substack.com/p/be-it-resolved-the-mainstream-media"
     },
@@ -670,41 +705,6 @@
       "date": "Apr 3, 2021",
       "description": "After decades of false starts, the federal approval of a new testing site off the coast of Oregon could give the technology a much-needed jolt.",
       "link": "https://www.wired.com/story/the-us-is-finally-trying-to-unlock-the-power-of-wave-energy/"
-    },
-    {
-      "title": "Nuclear Should Be Considered Part of Clean Energy Standard, White House Says",
-      "source": "Ars Technica",
-      "date": "Apr 2, 2021",
-      "description": "Biden's plan goes beyond most states' definitions of clean power.",
-      "link": "https://arstechnica.com/tech-policy/2021/04/nuclear-should-be-considered-part-of-clean-energy-standard-white-house-says/"
-    },
-    {
-      "title": "Fossil Fuels Companies Got Billions in Bailouts, Then Fired Thousands of Workers",
-      "source": "Gizmodo",
-      "date": "Apr 2, 2021",
-      "description": "Fossil fuel companies made out like bandits from last year's government bailout. Now, new data shows that big names in the industry laid off tens of thousands of workers last year while padding their bank accounts with public money.",
-      "link": "https://earther.gizmodo.com/fossil-fuels-got-billions-in-bailouts-fired-thousands-1846604863"
-    },
-    {
-      "title": "Is Traditional Liberalism Vanishing?",
-      "source": "Substack",
-      "date": "Apr 02, 2021",
-      "description": "'Mighty Ira,' a documentary about legendary former ACLU chief Ira Glasser, is simultaneously inspiring and unnerving",
-      "link": "https://taibbi.substack.com/p/is-traditional-liberalism-vanishing"
-    },
-    {
-      "title": "We Sampled Tap Water Across the US – and Found Arsenic, Lead and Toxic Chemicals",
-      "source": "The Guardian",
-      "date": "Apr 2, 2021",
-      "description": "A nine-month investigation by the Guardian and Consumer Reports found alarming levels of forever chemicals, arsenic and lead in samples taken across the US",
-      "link": "https://www.theguardian.com/us-news/2021/mar/31/americas-tap-water-samples-forever-chemicals"
-    },
-    {
-      "title": "Trump's EPA Helped Erase Records of Almost 270,000 Pounds of Carcinogenic Pollution",
-      "source": "The Intercept",
-      "date": "Mar 31, 2021",
-      "description": "Investigative reporter Sharon Lerner explains how 270,000 pounds of the chemical ethylene oxide vanished from the public record.",
-      "link": "https://theintercept.com/2021/03/31/intercepted-ethylene-oxide-trump-cancer-epa/"
     }
   ]
 }
