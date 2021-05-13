@@ -3,9 +3,72 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "5/10/2021, 8:44:50 AM",
-  "id": "5Yd1GHWWop4b0B1YlNfFQ",
+  "date": "5/13/2021, 9:05:59 AM",
+  "id": "OXfhlTGtkFBPNepOyxfkg",
   "articles": [
+    {
+      "title": "Chemical Giants Hid Dangers of 'Forever Chemicals' in Food Packaging",
+      "source": "The Guardian",
+      "date": "May 13, 2021",
+      "description": "The chemicals, called 6:2 FTOH, are now linked to a range of serious health issues, and Americans are still being exposed to them",
+      "link": "https://www.theguardian.com/environment/2021/may/12/chemical-giants-hid-dangers-pfas-forever-chemicals-food-packaging-dupont"
+    },
+    {
+      "title": "Solar Pushback: How US Power Firms Try to Make People Pay for Going Green",
+      "source": "The Guardian",
+      "date": "May 13, 2021",
+      "description": "In states such as Kansas, energy companies are seeking to impose financial charges on people who install rooftop solar arrays",
+      "link": "https://www.theguardian.com/us-news/2021/may/13/solar-power-us-utility-companies-kansas"
+    },
+    {
+      "title": "AOC's Attack on Yang's Meaningless Israel Statement Shows Her Role: Protect Dem Leaders",
+      "source": "Substack",
+      "date": "May 12, 2021",
+      "description": "Real power over U.S. policy toward Israel and Gaza rests with Biden, Harris, Pelosi, Schumer, Blinken -- not Yang. But AOC's function is to shield them from leftist anger.",
+      "link": "https://greenwald.substack.com/p/aocs-attack-on-yangs-meaningless"
+    },
+    {
+      "title": "Neural Implant Lets Paralyzed Person Type by Imagining Writing",
+      "source": "Ars Technica",
+      "date": "May 12, 2021",
+      "description": "A paralyzed individual hit 90 characters per minute, 99% accuracy.",
+      "link": "https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/"
+    },
+    {
+      "title": "Better Than Holograms: 3D-Animated Starships Can Be Viewed From Any Angle",
+      "source": "Ars Technica",
+      "date": "May 12, 2021",
+      "description": "Unlike holograms, the optical trap display produces images viewable from all angles.",
+      "link": "https://arstechnica.com/science/2021/05/scientists-created-tiny-animated-starships-light-sabers-with-lasers/"
+    },
+    {
+      "title": "US Millionaire CEOs Saw 29% Pay Raise While Workers' Pay Fell, Report Finds",
+      "source": "The Guardian",
+      "date": "May 11, 2021",
+      "description": "Workers saw 2% decrease as companies gave leaders bonuses and forgiving performance benchmarks amid pandemic",
+      "link": "https://www.theguardian.com/business/2021/may/11/us-millionaire-ceos-saw-29-pay-raises-while-workers-had-decreases-report-says"
+    },
+    {
+      "title": "Will Science Survive Politics?",
+      "source": "UnHerd",
+      "date": "May 11, 2021",
+      "description": "Whether something is politically convenient or not doesn't affect its truth",
+      "link": "https://unherd.com/2021/05/will-science-survive-politics/"
+    },
+    {
+      "title": "Reporters Once Challenged the Spy State. Now, They're Agents of It",
+      "source": "Substack",
+      "date": "May 11, 2021",
+      "description": "News companies are pioneering a new brand of vigilante reporting, partnering with the spy agencies they once oversaw",
+      "link": "https://taibbi.substack.com/p/reporters-once-challenged-the-spy-a32"
+    },
+    {
+      "title": "Air Pollution Linked to Increased Mental Health Outpatient Visits",
+      "source": "Yale School of Medicine",
+      "date": "Jan 19, 2021",
+      "description": "More pollution in the air could be linked to higher rates of mental health service utilization, researchers at the Yale School of Public Health found in a new",
+      "link": "https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/"
+    },
     {
       "title": "Tribalism Has Come to the West",
       "source": "UnHerd",
@@ -642,69 +705,6 @@
       "date": "Apr 6, 2021",
       "description": "'Meet the Censored' will now come out in sets of left and right bans, in the (probably vain) hope that fewer people will cheer news of deletions and suspensions",
       "link": "https://taibbi.substack.com/p/on-the-miserable-necessity-of-doing"
-    },
-    {
-      "title": "How a Facial Recognition Tool Found Its Way Into Hundreds of US Police Departments, Schools, and Taxpayer-Funded Organizations",
-      "source": "BuzzFeed News",
-      "date": "Apr 6, 2021",
-      "description": "A BuzzFeed News investigation has found that employees at law enforcement agencies across the US ran thousands of Clearview AI facial recognition searches — often without the knowledge of the public or even their own departments.",
-      "link": "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-local-police-facial-recognition"
-    },
-    {
-      "title": "Navy Still Has No Idea What Mysterious Drones That Stalked Its Ships for Days Were",
-      "source": "Gizmodo",
-      "date": "Apr 6, 2021",
-      "description": "The U.S. Navy still has no idea who sent a swarm of drones to buzz warships off the coast of California in July 2019, or really even what kind of drones they were or what they were doing.",
-      "link": "https://gizmodo.com/navy-still-has-no-idea-what-unidentified-drones-that-st-1846629629"
-    },
-    {
-      "title": "Cops Crowdfunded Their K-9's Hospital Bills — Then Quietly Admitted They Had Shot Him",
-      "source": "The Intercept",
-      "date": "Apr 5, 2021",
-      "description": "The cops in Thurston County, Washington, made no such efforts to support the recovery of the man they shot and who had to be hospitalized.",
-      "link": "https://theintercept.com/2021/04/05/police-shot-k9-dog-arlo-gofundme/"
-    },
-    {
-      "title": "553,000,000 Reasons Not to Let Facebook Make Decisions About Your Privacy",
-      "source": "EFF",
-      "date": "Apr 5, 2021",
-      "description": "Another day, another horrific Facebook privacy scandal. We know what comes next: Facebook will argue that losing a lot of our data means bad third-party actors are the real problem that we should trust Facebook to make more decisions about our data to protect against them. If history is any...",
-      "link": "https://www.eff.org/deeplinks/2021/04/553000000-reasons-not-let-facebook-make-decisions-about-your-privacy"
-    },
-    {
-      "title": "Cells Form Into Living 'Xenobots' on Their Own",
-      "source": "Wired",
-      "date": "Apr 4, 2021",
-      "description": "Embryonic cells can self-assemble into new forms that don't resemble the bodies they usually generate, challenging old ideas of what defines an organism.",
-      "link": "https://www.wired.com/story/cells-form-into-living-xenobots-on-their-own/"
-    },
-    {
-      "title": "533 Million Facebook Users' Phone Numbers and Personal Data Have Been Leaked Online",
-      "source": "Business Insider",
-      "date": "Apr 2, 2021",
-      "description": "The data includes phone numbers, Facebook IDs, full names, locations, birthdates, bios, and, in some cases, email addresses.",
-      "link": "https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4"
-    },
-    {
-      "title": "Lithium Battery Costs Have Fallen by 98% in Three Decades",
-      "source": "The Economist",
-      "date": "Mar 31, 2021",
-      "description": "In a few years electric vehicles may cost the same as their combustion-engine counterparts | Graphic detail",
-      "link": "https://www.economist.com/graphic-detail/2021/03/31/lithium-battery-costs-have-fallen-by-98-in-three-decades"
-    },
-    {
-      "title": "Exclusive: Oxford Kept COVID-19 Vaccine Trial Volunteers in Dark About Dosing Error, Letter Shows",
-      "source": "Reuters",
-      "date": "Feb 1, 2021",
-      "description": "- About 1,500 of the initial volunteers in a late-stage clinical trial of the Oxford/AstraZeneca COVID-19 vaccine were given the wrong dose, but weren't informed that a mistake had been made after the blunder was discovered, documents obtained by Reuters show.",
-      "link": "https://www.reuters.com/article/us-health-coronavirus-vaccine-oxford-exc/exclusive-oxford-kept-covid-19-vaccine-trial-volunteers-in-dark-about-dosing-error-letter-shows-idUSKBN2A1263"
-    },
-    {
-      "title": "The US Is Finally Trying to Unlock the Power of Wave Energy",
-      "source": "Wired",
-      "date": "Apr 3, 2021",
-      "description": "After decades of false starts, the federal approval of a new testing site off the coast of Oregon could give the technology a much-needed jolt.",
-      "link": "https://www.wired.com/story/the-us-is-finally-trying-to-unlock-the-power-of-wave-energy/"
     }
   ]
 }
