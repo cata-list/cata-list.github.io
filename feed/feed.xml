@@ -3,10 +3,38 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>OXfhlTGtkFBPNepOyxfkg</id>
+		<id>zYrCmpnsjvnKmpOh7ZpTf</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Thu May 13 2021 09:05:59 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Sun May 16 2021 07:45:35 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Divers Haul 200lb of Trash From Lake Tahoe in a Day</title>
+			<source>The Guardian</source>
+			<pubDate>May 15, 2021</pubDate>
+			<description><![CDATA[Scuba team launches six-month effort that has already turned up fishing rods, tires and cans]]></description>
+			<link>https://www.theguardian.com/us-news/2021/may/14/lake-tahoe-cleanup-trash-scuba-divers</link>
+		</item>
+		<item>
+			<title>'Scientists' [Finally] Want a Serious Investigation Into the Origins of the Coronavirus</title>
+			<source>Gizmodo</source>
+			<pubDate>May 14, 2021</pubDate>
+			<description><![CDATA[Scientists in several countries are calling for a serious investigation into the beginnings of SARS-CoV-2, the novel coronavirus that gave rise to the covid-19 pandemic. In an open letter released Thursday, the group says that there are still too many unanswered questions about how the pandemic star…]]></description>
+			<link>https://gizmodo.com/scientists-want-a-serious-investigation-into-the-origin-1846899382</link>
+		</item>
+		<item>
+			<title>The Pentagon Is Tracking US Citizens Without a Warrant, Senator Says</title>
+			<source>Engadget</source>
+			<pubDate>May 14, 2021</pubDate>
+			<description><![CDATA[The Pentagon may be using commercial data to track Americans without due legal process, according to a letter from Senator Ron Wyden..]]></description>
+			<link>https://www.engadget.com/the-pentagon-is-doing-warrantless-us-surveillance-ron-wyden-101201315.html</link>
+		</item>
+		<item>
+			<title>Study Finds Alarming Levels of 'Forever Chemicals' in US Mothers' Breast Milk</title>
+			<source>The Guardian</source>
+			<pubDate>May 14, 2021</pubDate>
+			<description><![CDATA[Toxic chemicals known as PFAS found in all 50 samples tested at levels nearly 2,000 times what is considered safe in drinking water]]></description>
+			<link>https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study</link>
+		</item>
 		<item>
 			<title>Chemical Giants Hid Dangers of 'Forever Chemicals' in Food Packaging</title>
 			<source>The Guardian</source>
@@ -678,34 +706,6 @@
 			<pubDate>Mar 18, 2021</pubDate>
 			<description><![CDATA[For many scientists, challenging the idea that SARS-CoV-2 has natural origins is seen as career suicide. But some say the idea it came from the Wuhan lab should still be discussed.]]></description>
 			<link>https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/</link>
-		</item>
-		<item>
-			<title>In One Year a Billion Tons of Food Got Wasted — Mostly at Home</title>
-			<source>Bloomberg</source>
-			<pubDate>Mar 4, 2021</pubDate>
-			<description><![CDATA[Emissions produced by rotting scraps create a major climate problem]]></description>
-			<link>https://www.bloomberg.com/news/articles/2021-03-04/in-one-year-a-billion-tons-of-food-got-wasted-mostly-at-home</link>
-		</item>
-		<item>
-			<title>How to Start a Cult</title>
-			<source>YouTube</source>
-			<pubDate>Jul 22, 2009</pubDate>
-			<description><![CDATA[How to guide. We are looking for franchisees.]]></description>
-			<link>https://www.youtube.com/watch?v=EBK5aKOr2Fw</link>
-		</item>
-		<item>
-			<title>Clear Link Between AstraZeneca Vaccine and Rare Blood Clots in Brain, EMA Official Tells Paper</title>
-			<source>Reuters</source>
-			<pubDate>Apr 6, 2021</pubDate>
-			<description><![CDATA[There is a link between AstraZeneca's COVID-19 vaccine and very rare blood clots in the brain but the possible causes are still unknown, a senior official for the European Medicines Agency (EMA) said in an interview published on Tuesday.]]></description>
-			<link>https://www.reuters.com/article/us-health-coronavirus-astrazeneca-vaccin/clear-link-between-astrazeneca-vaccine-and-rare-blood-clots-in-brain-ema-official-tells-paper-idUSKBN2BT1ER</link>
-		</item>
-		<item>
-			<title>On the Miserable Necessity of Doing Censorship Stories in Pairs</title>
-			<source>Substack</source>
-			<pubDate>Apr 6, 2021</pubDate>
-			<description><![CDATA['Meet the Censored' will now come out in sets of left and right bans, in the (probably vain) hope that fewer people will cheer news of deletions and suspensions]]></description>
-			<link>https://taibbi.substack.com/p/on-the-miserable-necessity-of-doing</link>
 		</item>
 	</channel>
 </rss>
