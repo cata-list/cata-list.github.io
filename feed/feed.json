@@ -3,9 +3,100 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "5/25/2021, 8:25:15 AM",
-  "id": "7rFRou317Xrtt584EXHti",
+  "date": "5/27/2021, 8:52:08 AM",
+  "id": "oy6MRda-c1YmG7pzfUb47",
   "articles": [
+    {
+      "title": "How Many People Die When Polluters Exceed Their Limits?",
+      "source": "Wired",
+      "date": "May 27, 2021",
+      "description": "A new report tallies the death toll from excess emissions by looking at air pollution and spikes in local ozone levels.",
+      "link": "https://www.wired.com/story/how-many-people-die-when-polluters-exceed-their-limits/"
+    },
+    {
+      "title": "Clearview AI Hit With Sweeping Legal Complaints Over Controversial Face Scraping in Europe",
+      "source": "The Verge",
+      "date": "May 27, 2021",
+      "description": "Photos of faces were collected without clear consent.",
+      "link": "https://www.theverge.com/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu"
+    },
+    {
+      "title": "What a Wuhan Lab Leak Would Really Mean",
+      "source": "UnHerd",
+      "date": "May 26, 2021",
+      "description": "Scientists and the media eagerly denounced credible evidence as a conspiracy theory",
+      "link": "https://unherd.com/2021/05/what-if-there-was-a-lab-leak/"
+    },
+    {
+      "title": "Facebook Ends Ban on Posts Asserting Covid-19 Was Man-Made",
+      "source": "WSJ",
+      "date": "May 26, 2021",
+      "description": "Facebook has ended its ban on posts asserting Covid-19 was man-made or manufactured, reflecting a deepening debate over the origins of the pandemic.",
+      "link": "https://www.wsj.com/articles/facebook-ends-ban-on-posts-asserting-covid-19-was-man-made-11622094890"
+    },
+    {
+      "title": "Riot Erupts in Portland on Anniversary of George Floyd's Murder",
+      "source": "New York Post",
+      "date": "May 26, 2021",
+      "description": "More than 200 rioters — most fully clad in black and many wearing gas masks — trashed Portland soon after a peaceful march ended late Tuesday, according to the Portland Police Bureau (P…",
+      "link": "https://nypost.com/2021/05/26/portland-riots-on-anniversary-of-george-floyds-murder/"
+    },
+    {
+      "title": "Lab Asks FDA to Recall 78 Sunscreens Over Carcinogen Concerns",
+      "source": "Gizmodo",
+      "date": "May 26, 2021",
+      "description": "A lab company called Valisure is sounding the alarm over a carcinogen that they've detected in common sunscreens. This week, the lab sent a petition to the FDA warning that it's found potentially unsafe levels of benzene in dozens of sunscreen products.",
+      "link": "https://gizmodo.com/testing-lab-asks-fda-to-recall-78-sunscreens-over-carci-1846977439"
+    },
+    {
+      "title": "The Gathering Resistance to the Stigmatisation of Masculinity",
+      "source": "Quillette",
+      "date": "May 26, 2021",
+      "description": "On the face of it, Brilliant Bob is an unremarkable character for a children's book—a playful boy who loves football and embarks upon fun adventures with his friends Dazzling Dave, Genuine Ge…",
+      "link": "https://quillette.com/2021/05/26/the-gathering-resistance-to-the-stigmatisation-of-masculinity/"
+    },
+    {
+      "title": "Education and Masculinity — An Interview With Will Knowland",
+      "source": "Quillette",
+      "date": "May 26, 2021",
+      "description": "'What's the one thing we're not talking about but we really should be?' Triggernometry's Francis Foster asked now-sacked Eton teacher Will Knowland. 'I think the crisis of masculinity, …",
+      "link": "https://quillette.com/2021/05/26/education-and-masculinity-an-interview-with-will-knowland/"
+    },
+    {
+      "title": "Jeffrey Epstein's Jail Guards Avoid Prison as Judge Approves Pact With Prosecutors",
+      "source": "Reuters",
+      "date": "May 25, 2021",
+      "description": "Two jail guards who admitted to falsifying records on the night Jeffrey Epstein killed himself on their watch won a federal judge's approval on Tuesday for an agreement to end the criminal case against them and let them avoid prison.",
+      "link": "https://www.reuters.com/world/us/jeffrey-epsteins-jail-guards-avoid-prison-judge-approves-pact-with-prosecutors-2021-05-25/"
+    },
+    {
+      "title": "U.S. Calls for Second 'Transparent' Probe Into COVID Origins",
+      "source": "Reuters",
+      "date": "May 25, 2021",
+      "description": "The United States called on Tuesday for international experts to be allowed to evaluate the source of the coronavirus and the 'early days of the outbreak' in a second phase of an investigation into the origins of the coronavirus.",
+      "link": "https://www.reuters.com/video/watch/us-calls-for-second-transparent-probe-in-idOVEEGTEXR"
+    },
+    {
+      "title": "GCHQ's Mass Data Interception Violated Right to Privacy, Court Rules",
+      "source": "The Guardian",
+      "date": "May 25, 2021",
+      "description": "Human rights judgment follows legal challenge begun in 2013 after Edward Snowden's whistleblowing revelations",
+      "link": "https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules"
+    },
+    {
+      "title": "Mass Surveillance Must Have Meaningful Safeguards, Says ECHR",
+      "source": "TechCrunch",
+      "date": "May 25, 2021",
+      "description": "The highest chamber of the European Court of Human Rights (ECHR) has delivered a blow to anti-surveillance campaigners in Europe by failing to find that bulk interception of digital comms is inherently incompatible with human rights law — which enshrines individual rights to privacy and freed…",
+      "link": "https://techcrunch.com/2021/05/25/mass-surveillance-must-have-meaningful-safeguards-says-echr"
+    },
+    {
+      "title": "Greenland's Ice Sheet Is Releasing Huge Amounts of Mercury Into Rivers",
+      "source": "New Scientist",
+      "date": "May 24, 2021",
+      "description": "As Greenland's ice grinds up underlying rocks it frees up the toxic mercury they contain, potentially contaminating the aquatic life that Indigenous communities rely on for food",
+      "link": "https://www.newscientist.com/article/2278370-greenlands-ice-sheet-is-releasing-huge-amounts-of-mercury-into-rivers/"
+    },
     {
       "title": "America Has Given Up on Impartial Justice",
       "source": "UnHerd",
@@ -47,13 +138,6 @@
       "date": "May 22, 2021",
       "description": "Some teenagers and young adults who received COVID-19 vaccines experienced heart inflammation, a U.S. Centers for Disease Control and Prevention advisory group said, recommending further study of the rare condition.",
       "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-investigating-heart-problem-few-young-vaccine-recipients-nyt-2021-05-22/"
-    },
-    {
-      "title": "Jeffrey Epstein Prison Guards Spared Jail Time in Deal With US Prosecutors",
-      "source": "The Guardian",
-      "date": "May 22, 2021",
-      "description": "Pair accused of sleeping and browsing the internet instead of monitoring Epstein on night he died admitted falsifying records",
-      "link": "https://www.theguardian.com/us-news/2021/may/22/jeffrey-epstein-prison-guards-manhattan-prosecutors"
     },
     {
       "title": "Why Tech Firms Are Trying to Run Away From Politics — and Failing",
@@ -621,90 +705,6 @@
       "date": "Apr 19, 2021",
       "description": "Just as with the Russia Bounty debacle, they will never acknowledge what they did. Their audience wants to be lied to for partisan gain and emotional pleasure.",
       "link": "https://greenwald.substack.com/p/the-media-lied-repeatedly-about-officer"
-    },
-    {
-      "title": "More J&J Troubles: Vaccine Manufacturing Halted and More Possible Clot Cases",
-      "source": "Ars Technica",
-      "date": "Apr 19, 2021",
-      "description": "CDC advisory committee will meet Friday to decide the fate of the troubled vaccine.",
-      "link": "https://arstechnica.com/science/2021/04/more-jj-troubles-vaccine-manufacturing-halted-and-more-possible-clot-cases/"
-    },
-    {
-      "title": "How Anarchists Captured Portland",
-      "source": "UnHerd",
-      "date": "Apr 19, 2021",
-      "description": "Left-wing rioters are burning the city to the ground — while the police do nothing",
-      "link": "https://unherd.com/2021/04/how-anarchists-captured-portland/"
-    },
-    {
-      "title": "NASA's Ingenuity Mars Helicopter Succeeds in Historic First Flight",
-      "source": "NASA",
-      "date": "Apr 19, 2021",
-      "description": "Monday, NASA's Ingenuity Mars Helicopter became the first aircraft in history to make a powered, controlled flight on another planet. The Ingenuity team at the agency's Jet Propulsion Laboratory in Southern California confirmed the flight succeeded after receiving data from the helicopter via NASA's…",
-      "link": "https://www.nasa.gov/press-release/nasa-s-ingenuity-mars-helicopter-succeeds-in-historic-first-flight"
-    },
-    {
-      "title": "Journalists, Learning They Spread a CIA Fraud About Russia, Instantly Embrace a New One",
-      "source": "Substack",
-      "date": "Apr 16, 2021",
-      "description": "The most significant Trump-era alliance is between corporate outlets and security state agencies, whose evidence-free claims they unquestioningly disseminate.",
-      "link": "https://greenwald.substack.com/p/journalists-learning-they-spread"
-    },
-    {
-      "title": "The U.S. Could Have Left Afghanistan Years Ago, Sparing Many Lives",
-      "source": "The Intercept",
-      "date": "Apr 16, 2021",
-      "description": "America will depart without having accomplished its goals and with more Afghan suffering ahead.",
-      "link": "https://theintercept.com/2021/04/16/afghanistan-withdrawal-forever-war-biden/"
-    },
-    {
-      "title": "Chemical Industry Lobbyist in Trump EPA Suppressed Evidence of Cancer Risk",
-      "source": "The Intercept",
-      "date": "Apr 16, 2021",
-      "description": "The EPA inspector general found that Bill Wehrum, who ran the agency's office of Air and Radiation, buried data about cancer risks from ethylene oxide pollution.",
-      "link": "https://theintercept.com/2021/04/16/epa-cancer-ethylene-oxide-bill-wehrum/"
-    },
-    {
-      "title": "Why Spy Agencies Say the Future Is Bleak",
-      "source": "The New York Times",
-      "date": "Apr 15, 2021",
-      "description": "Climate change, technology, disease and financial crises will pose big challenges for the world, an intelligence report concludes.",
-      "link": "https://www.nytimes.com/2021/04/15/opinion/global-trends-intelligence-report.html"
-    },
-    {
-      "title": "Australia Finds Google Misled Users Over Data Collection",
-      "source": "CNBC",
-      "date": "Apr 15, 2021",
-      "description": "The ACCC said it is seeking declarations, pecuniary penalties, publication orders and compliance orders but did not specify any amount.",
-      "link": "https://www.cnbc.com/2021/04/16/australia-finds-google-misled-users-over-data-collection.html"
-    },
-    {
-      "title": "The Nation's Corn Belt Has Lost a Third of Its Topsoil",
-      "source": "Smithsonian Magazine",
-      "date": "Apr 14, 2021",
-      "description": "Researchers used satellite imaging and surface soil color to find out how much of the nutrient-rich earth has eroded away",
-      "link": "https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/"
-    },
-    {
-      "title": "Mice Fed Fast Food Get Noticeably Stupider, Scientists Warn",
-      "source": "Futurism",
-      "date": "Apr 6, 2021",
-      "description": "Diet seems to have a bigger impact on neurological health than scientists thought.",
-      "link": "https://futurism.com/neoscope/americanized-diets-linked-neurocognitive-dysfunction-doctors"
-    },
-    {
-      "title": "Credit Card Companies Are Tracking Shoppers Like Never Before: Inside the Next Phase of Surveillance Capitalism",
-      "source": "Fast Company",
-      "date": "May 18, 2020",
-      "description": "In the battle between data brokers and privacy advocates, the latest front is the credit card.",
-      "link": "https://www.fastcompany.com/90490923/credit-card-companies-are-tracking-shoppers-like-never-before-inside-the-next-phase-of-surveillance-capitalism"
-    },
-    {
-      "title": "Humans Have Destroyed 97% of Earth's Ecosystems",
-      "source": "Gizmodo",
-      "date": "Apr 15, 2021",
-      "description": "Only 3% of land on Earth still qualifies as 'ecologically intact,' with undisturbed habitats and healthy populations of its original animal species, grim new research shows.",
-      "link": "https://earther.gizmodo.com/humans-have-destroyed-97-of-earths-ecosystems-1846691917"
     }
   ]
 }
