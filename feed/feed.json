@@ -3,9 +3,65 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "5/27/2021, 8:52:08 AM",
-  "id": "oy6MRda-c1YmG7pzfUb47",
+  "date": "5/29/2021, 8:14:22 AM",
+  "id": "DGC--Aje51-tcvNDupuhU",
   "articles": [
+    {
+      "title": "Joe Biden Is Filling Top Pentagon Positions With Defense Contractors",
+      "source": "The Intercept",
+      "date": "May 29, 2021",
+      "description": "Some of the top Defense Department officials — including Defense Secretary nominee Lloyd Austin — have deep ties to the private sector.",
+      "link": "https://theintercept.com/2021/05/28/biden-pentagon-defense-contractors/"
+    },
+    {
+      "title": "Outrage as Regulators Let Pesticides From Factory Pollute US Town for Years",
+      "source": "The Guardian",
+      "date": "May 29, 2021",
+      "description": "Contamination from an ethanol plant in Mead, Nebraska, came from some of the world's largest agricultural companies",
+      "link": "https://www.theguardian.com/us-news/2021/may/29/environmental-catastrophe-mead-nebraska"
+    },
+    {
+      "title": "Appellate Court Strikes Down Racial and Gender Preferences in Biden's COVID Relief Law",
+      "source": "Substack",
+      "date": "May 28, 2021",
+      "description": "This judicial ruling about the raging debates over group-based benefits vividly highlights the social, political and culture divisions driving U.S. politics.",
+      "link": "https://greenwald.substack.com/p/appellate-court-strikes-down-racial"
+    },
+    {
+      "title": "Why Does the West Hate Itself?",
+      "source": "UnHerd",
+      "date": "May 28, 2021",
+      "description": "White progressives are blinded by their own guilt",
+      "link": "https://unherd.com/2021/05/the-self-loathing-of-the-west/"
+    },
+    {
+      "title": "U.S. Soldiers Accidentally Leaked Nuclear Weapons Secrets Online",
+      "source": "Gizmodo",
+      "date": "May 28, 2021",
+      "description": "U.S. soldiers stationed at various bases in Europe accidentally exposed sensitive data related to America's nuclear weapons stockpile via poorly secured flashcard apps they were using to memorize said secrets, according to a new report.",
+      "link": "https://gizmodo.com/u-s-soldiers-accidentally-leaked-nuclear-weapons-secre-1846994377"
+    },
+    {
+      "title": "SolarWinds Hackers Are Back With a New Mass Campaign, Microsoft Says",
+      "source": "Ars Technica",
+      "date": "May 28, 2021",
+      "description": "Kremlin-backed group uses hacked account to impersonate US aid agency.",
+      "link": "https://arstechnica.com/gadgets/2021/05/microsoft-says-solarwinds-hackers-targeted-us-agencies-in-a-new-campaign/"
+    },
+    {
+      "title": "Google Employees Admit in Lawsuit That the Company Made It Nearly Impossible for Users to Keep Their Location Private",
+      "source": "Business Insider",
+      "date": "May 27, 2021",
+      "description": "Google misled phone makers into hiding privacy settings users liked in order to collect more location data, according to newly unredacted documents.",
+      "link": "https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5"
+    },
+    {
+      "title": "Black Lives Matter and the Psychology of Progressive Fatalism",
+      "source": "Quillette",
+      "date": "May 27, 2021",
+      "description": "Former Minneapolis police officer Derek Chauvin has been convicted of murder, but the ramifications of his fateful encounter with George Floyd will reverberate through American culture and politics…",
+      "link": "https://quillette.com/2021/05/28/black-lives-matter-and-the-psychology-of-progressive-fatalism/"
+    },
     {
       "title": "How Many People Die When Polluters Exceed Their Limits?",
       "source": "Wired",
@@ -29,7 +85,7 @@
     },
     {
       "title": "Facebook Ends Ban on Posts Asserting Covid-19 Was Man-Made",
-      "source": "WSJ",
+      "source": "The Wall Street Journal",
       "date": "May 26, 2021",
       "description": "Facebook has ended its ban on posts asserting Covid-19 was man-made or manufactured, reflecting a deepening debate over the origins of the pandemic.",
       "link": "https://www.wsj.com/articles/facebook-ends-ban-on-posts-asserting-covid-19-was-man-made-11622094890"
@@ -61,13 +117,6 @@
       "date": "May 26, 2021",
       "description": "'What's the one thing we're not talking about but we really should be?' Triggernometry's Francis Foster asked now-sacked Eton teacher Will Knowland. 'I think the crisis of masculinity, …",
       "link": "https://quillette.com/2021/05/26/education-and-masculinity-an-interview-with-will-knowland/"
-    },
-    {
-      "title": "Jeffrey Epstein's Jail Guards Avoid Prison as Judge Approves Pact With Prosecutors",
-      "source": "Reuters",
-      "date": "May 25, 2021",
-      "description": "Two jail guards who admitted to falsifying records on the night Jeffrey Epstein killed himself on their watch won a federal judge's approval on Tuesday for an agreement to end the criminal case against them and let them avoid prison.",
-      "link": "https://www.reuters.com/world/us/jeffrey-epsteins-jail-guards-avoid-prison-judge-approves-pact-with-prosecutors-2021-05-25/"
     },
     {
       "title": "U.S. Calls for Second 'Transparent' Probe Into COVID Origins",
@@ -656,55 +705,6 @@
       "date": "Apr 23, 2021",
       "description": "New lobbying disclosures show over 100 drug lobbyists working to defeat the IP waiver request at the WTO.",
       "link": "https://theintercept.com/2021/04/23/covid-vaccine-ip-waiver-lobbying/"
-    },
-    {
-      "title": "The Heroic Congressional Fight to Save the Rich",
-      "source": "Substack",
-      "date": "Apr 23, 2021",
-      "description": "A handful of Democrats want to hold up a $2 trillion infrastructure bill to save a choice tax deduction for the wealthy, not that you'll hear it described that way",
-      "link": "https://taibbi.substack.com/p/the-heroic-congressional-fight-to"
-    },
-    {
-      "title": "NASA Generates Oxygen on Mars, Setting Stage for Crewed Missions",
-      "source": "Gizmodo",
-      "date": "Apr 22, 2021",
-      "description": "A device on the Perseverance rover produced roughly 5 grams of oxygen, a potentially huge leap for humanity and our aspirations on Mars.",
-      "link": "https://gizmodo.com/nasa-generates-oxygen-on-mars-setting-stage-for-crewed-1846739185"
-    },
-    {
-      "title": "Space Junk Is Our New Tragedy of the Commons",
-      "source": "Bloomberg",
-      "date": "Apr 16, 2021",
-      "description": "Unless countries overcome their differences and regulate the use of satellites, we’re all headed for trouble.",
-      "link": "https://www.bloomberg.com/opinion/articles/2021-04-17/space-junk-like-overfishing-and-pollution-is-a-global-tragedy-of-the-commons"
-    },
-    {
-      "title": "Fukushima: Japan Announces It Will Dump Contaminated Water Into Sea",
-      "source": "The Guardian",
-      "date": "Apr 13, 2021",
-      "description": "Environmental groups and neighbours condemn plan to release more than 1m tonnes of contaminated water in two years' time",
-      "link": "https://www.theguardian.com/environment/2021/apr/13/fukushima-japan-to-start-dumping-contaminated-water-pacific-ocean"
-    },
-    {
-      "title": "Wall Street's Cooked Books Fueled the Financial Crisis in 2008. It's Happening Again.",
-      "source": "The Intercept",
-      "date": "Apr 20, 2021",
-      "description": "This time, the issue is not a bubble in the housing market, but apparent widespread inflation of the value of commercial businesses, on which loans are based.",
-      "link": "https://theintercept.com/2021/04/20/wall-street-cmbs-dollar-general-ladder-capital/"
-    },
-    {
-      "title": "Psychedelics Are Transforming the Way We Understand Depression and Its Treatment",
-      "source": "The Guardian",
-      "date": "Apr 20, 2021",
-      "description": "Psychiatry has long failed to explain depression. Our research into psilocybin suggests a new approach, says researcher Robin Carhart-Harris",
-      "link": "https://www.theguardian.com/commentisfree/2021/apr/20/psychedelics-depression-treatment-psychiatry-psilocybin"
-    },
-    {
-      "title": "The Media Lied Repeatedly About Officer Brian Sicknick's Death. and They Just Got Caught.",
-      "source": "Substack",
-      "date": "Apr 19, 2021",
-      "description": "Just as with the Russia Bounty debacle, they will never acknowledge what they did. Their audience wants to be lied to for partisan gain and emotional pleasure.",
-      "link": "https://greenwald.substack.com/p/the-media-lied-repeatedly-about-officer"
     }
   ]
 }

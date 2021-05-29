@@ -3,10 +3,66 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>oy6MRda-c1YmG7pzfUb47</id>
+		<id>DGC--Aje51-tcvNDupuhU</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Thu May 27 2021 08:52:08 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Sat May 29 2021 08:14:22 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Joe Biden Is Filling Top Pentagon Positions With Defense Contractors</title>
+			<source>The Intercept</source>
+			<pubDate>May 29, 2021</pubDate>
+			<description><![CDATA[Some of the top Defense Department officials — including Defense Secretary nominee Lloyd Austin — have deep ties to the private sector.]]></description>
+			<link>https://theintercept.com/2021/05/28/biden-pentagon-defense-contractors/</link>
+		</item>
+		<item>
+			<title>Outrage as Regulators Let Pesticides From Factory Pollute US Town for Years</title>
+			<source>The Guardian</source>
+			<pubDate>May 29, 2021</pubDate>
+			<description><![CDATA[Contamination from an ethanol plant in Mead, Nebraska, came from some of the world's largest agricultural companies]]></description>
+			<link>https://www.theguardian.com/us-news/2021/may/29/environmental-catastrophe-mead-nebraska</link>
+		</item>
+		<item>
+			<title>Appellate Court Strikes Down Racial and Gender Preferences in Biden's COVID Relief Law</title>
+			<source>Substack</source>
+			<pubDate>May 28, 2021</pubDate>
+			<description><![CDATA[This judicial ruling about the raging debates over group-based benefits vividly highlights the social, political and culture divisions driving U.S. politics.]]></description>
+			<link>https://greenwald.substack.com/p/appellate-court-strikes-down-racial</link>
+		</item>
+		<item>
+			<title>Why Does the West Hate Itself?</title>
+			<source>UnHerd</source>
+			<pubDate>May 28, 2021</pubDate>
+			<description><![CDATA[White progressives are blinded by their own guilt]]></description>
+			<link>https://unherd.com/2021/05/the-self-loathing-of-the-west/</link>
+		</item>
+		<item>
+			<title>U.S. Soldiers Accidentally Leaked Nuclear Weapons Secrets Online</title>
+			<source>Gizmodo</source>
+			<pubDate>May 28, 2021</pubDate>
+			<description><![CDATA[U.S. soldiers stationed at various bases in Europe accidentally exposed sensitive data related to America's nuclear weapons stockpile via poorly secured flashcard apps they were using to memorize said secrets, according to a new report.]]></description>
+			<link>https://gizmodo.com/u-s-soldiers-accidentally-leaked-nuclear-weapons-secre-1846994377</link>
+		</item>
+		<item>
+			<title>SolarWinds Hackers Are Back With a New Mass Campaign, Microsoft Says</title>
+			<source>Ars Technica</source>
+			<pubDate>May 28, 2021</pubDate>
+			<description><![CDATA[Kremlin-backed group uses hacked account to impersonate US aid agency.]]></description>
+			<link>https://arstechnica.com/gadgets/2021/05/microsoft-says-solarwinds-hackers-targeted-us-agencies-in-a-new-campaign/</link>
+		</item>
+		<item>
+			<title>Google Employees Admit in Lawsuit That the Company Made It Nearly Impossible for Users to Keep Their Location Private</title>
+			<source>Business Insider</source>
+			<pubDate>May 27, 2021</pubDate>
+			<description><![CDATA[Google misled phone makers into hiding privacy settings users liked in order to collect more location data, according to newly unredacted documents.]]></description>
+			<link>https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5</link>
+		</item>
+		<item>
+			<title>Black Lives Matter and the Psychology of Progressive Fatalism</title>
+			<source>Quillette</source>
+			<pubDate>May 27, 2021</pubDate>
+			<description><![CDATA[Former Minneapolis police officer Derek Chauvin has been convicted of murder, but the ramifications of his fateful encounter with George Floyd will reverberate through American culture and politics…]]></description>
+			<link>https://quillette.com/2021/05/28/black-lives-matter-and-the-psychology-of-progressive-fatalism/</link>
+		</item>
 		<item>
 			<title>How Many People Die When Polluters Exceed Their Limits?</title>
 			<source>Wired</source>
@@ -30,7 +86,7 @@
 		</item>
 		<item>
 			<title>Facebook Ends Ban on Posts Asserting Covid-19 Was Man-Made</title>
-			<source>WSJ</source>
+			<source>The Wall Street Journal</source>
 			<pubDate>May 26, 2021</pubDate>
 			<description><![CDATA[Facebook has ended its ban on posts asserting Covid-19 was man-made or manufactured, reflecting a deepening debate over the origins of the pandemic.]]></description>
 			<link>https://www.wsj.com/articles/facebook-ends-ban-on-posts-asserting-covid-19-was-man-made-11622094890</link>
@@ -62,13 +118,6 @@
 			<pubDate>May 26, 2021</pubDate>
 			<description><![CDATA['What's the one thing we're not talking about but we really should be?' Triggernometry's Francis Foster asked now-sacked Eton teacher Will Knowland. 'I think the crisis of masculinity, …]]></description>
 			<link>https://quillette.com/2021/05/26/education-and-masculinity-an-interview-with-will-knowland/</link>
-		</item>
-		<item>
-			<title>Jeffrey Epstein's Jail Guards Avoid Prison as Judge Approves Pact With Prosecutors</title>
-			<source>Reuters</source>
-			<pubDate>May 25, 2021</pubDate>
-			<description><![CDATA[Two jail guards who admitted to falsifying records on the night Jeffrey Epstein killed himself on their watch won a federal judge's approval on Tuesday for an agreement to end the criminal case against them and let them avoid prison.]]></description>
-			<link>https://www.reuters.com/world/us/jeffrey-epsteins-jail-guards-avoid-prison-judge-approves-pact-with-prosecutors-2021-05-25/</link>
 		</item>
 		<item>
 			<title>U.S. Calls for Second 'Transparent' Probe Into COVID Origins</title>
@@ -657,55 +706,6 @@
 			<pubDate>Apr 23, 2021</pubDate>
 			<description><![CDATA[New lobbying disclosures show over 100 drug lobbyists working to defeat the IP waiver request at the WTO.]]></description>
 			<link>https://theintercept.com/2021/04/23/covid-vaccine-ip-waiver-lobbying/</link>
-		</item>
-		<item>
-			<title>The Heroic Congressional Fight to Save the Rich</title>
-			<source>Substack</source>
-			<pubDate>Apr 23, 2021</pubDate>
-			<description><![CDATA[A handful of Democrats want to hold up a $2 trillion infrastructure bill to save a choice tax deduction for the wealthy, not that you'll hear it described that way]]></description>
-			<link>https://taibbi.substack.com/p/the-heroic-congressional-fight-to</link>
-		</item>
-		<item>
-			<title>NASA Generates Oxygen on Mars, Setting Stage for Crewed Missions</title>
-			<source>Gizmodo</source>
-			<pubDate>Apr 22, 2021</pubDate>
-			<description><![CDATA[A device on the Perseverance rover produced roughly 5 grams of oxygen, a potentially huge leap for humanity and our aspirations on Mars.]]></description>
-			<link>https://gizmodo.com/nasa-generates-oxygen-on-mars-setting-stage-for-crewed-1846739185</link>
-		</item>
-		<item>
-			<title>Space Junk Is Our New Tragedy of the Commons</title>
-			<source>Bloomberg</source>
-			<pubDate>Apr 16, 2021</pubDate>
-			<description><![CDATA[Unless countries overcome their differences and regulate the use of satellites, we’re all headed for trouble.]]></description>
-			<link>https://www.bloomberg.com/opinion/articles/2021-04-17/space-junk-like-overfishing-and-pollution-is-a-global-tragedy-of-the-commons</link>
-		</item>
-		<item>
-			<title>Fukushima: Japan Announces It Will Dump Contaminated Water Into Sea</title>
-			<source>The Guardian</source>
-			<pubDate>Apr 13, 2021</pubDate>
-			<description><![CDATA[Environmental groups and neighbours condemn plan to release more than 1m tonnes of contaminated water in two years' time]]></description>
-			<link>https://www.theguardian.com/environment/2021/apr/13/fukushima-japan-to-start-dumping-contaminated-water-pacific-ocean</link>
-		</item>
-		<item>
-			<title>Wall Street's Cooked Books Fueled the Financial Crisis in 2008. It's Happening Again.</title>
-			<source>The Intercept</source>
-			<pubDate>Apr 20, 2021</pubDate>
-			<description><![CDATA[This time, the issue is not a bubble in the housing market, but apparent widespread inflation of the value of commercial businesses, on which loans are based.]]></description>
-			<link>https://theintercept.com/2021/04/20/wall-street-cmbs-dollar-general-ladder-capital/</link>
-		</item>
-		<item>
-			<title>Psychedelics Are Transforming the Way We Understand Depression and Its Treatment</title>
-			<source>The Guardian</source>
-			<pubDate>Apr 20, 2021</pubDate>
-			<description><![CDATA[Psychiatry has long failed to explain depression. Our research into psilocybin suggests a new approach, says researcher Robin Carhart-Harris]]></description>
-			<link>https://www.theguardian.com/commentisfree/2021/apr/20/psychedelics-depression-treatment-psychiatry-psilocybin</link>
-		</item>
-		<item>
-			<title>The Media Lied Repeatedly About Officer Brian Sicknick's Death. and They Just Got Caught.</title>
-			<source>Substack</source>
-			<pubDate>Apr 19, 2021</pubDate>
-			<description><![CDATA[Just as with the Russia Bounty debacle, they will never acknowledge what they did. Their audience wants to be lied to for partisan gain and emotional pleasure.]]></description>
-			<link>https://greenwald.substack.com/p/the-media-lied-repeatedly-about-officer</link>
 		</item>
 	</channel>
 </rss>
