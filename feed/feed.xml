@@ -3,10 +3,45 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>DGC--Aje51-tcvNDupuhU</id>
+		<id>KLIktDa9EvJLL0z2FzN25</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Sat May 29 2021 08:14:22 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Mon May 31 2021 15:58:25 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>How Facebook Censored the Lab Leak Hypothesis</title>
+			<source>UnHerd</source>
+			<pubDate>May 31, 2021</pubDate>
+			<description><![CDATA[Its latest crackdown on 'misinformation' proves the tech giant hasn't learnt its lesson]]></description>
+			<link>https://unherd.com/2021/05/how-facebook-censored-the-lab-leak-theory/</link>
+		</item>
+		<item>
+			<title>The Movement to Protect Your Mind From Brain-Computer Technologies</title>
+			<source>Gizmodo</source>
+			<pubDate>May 31, 2021</pubDate>
+			<description><![CDATA[Researchers say the first steps toward mind-reading and perception-manipulating technologies have already arrived. Through a concept called 'neuro rights,' they want to put in place safeguards for our most precious biological possessions: our mind.]]></description>
+			<link>https://gizmodo.com/the-movement-to-protect-your-mind-from-brain-computer-t-1846943756</link>
+		</item>
+		<item>
+			<title>Should Public Schools Ban Critical Race Theory?</title>
+			<source>Substack</source>
+			<pubDate>May 30, 2021</pubDate>
+			<description><![CDATA[Listen now (75 min) | A debate between Christopher Rufo and David French.]]></description>
+			<link>https://bariweiss.substack.com/p/should-public-schools-ban-critical</link>
+		</item>
+		<item>
+			<title>Killer Drone Autonomously 'Hunted Down' a Human Target, UN Experts Say</title>
+			<source>Gizmodo</source>
+			<pubDate>May 30, 2021</pubDate>
+			<description><![CDATA[A 'lethal' weaponized drone 'hunted down' and 'remotely engaged' human targets without its handlers' say-so during a conflict in Libya last year, according to a United Nations report first covered by New Scientist this week. Whether there were any casualties remains unclear, but if confirmed, it wou…]]></description>
+			<link>https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471</link>
+		</item>
+		<item>
+			<title>In Mexico, Cartels Are Hunting Down Police at Their Homes</title>
+			<source>Associated Press</source>
+			<pubDate>May 30, 2021</pubDate>
+			<description><![CDATA[MEXICO CITY (AP) — The notoriously violent Jalisco cartel has responded to Mexico's 'hugs, not bullets' policy with a policy of its own: The cartel kidnapped several members of an elite police force in the state of Guanajuato, tortured them to obtain names and addresses of fellow officers and is now…]]></description>
+			<link>https://apnews.com/article/caribbean-mexico-police-f6ea7798ca3cc171ac13b3a5a6a6c266</link>
+		</item>
 		<item>
 			<title>Joe Biden Is Filling Top Pentagon Positions With Defense Contractors</title>
 			<source>The Intercept</source>
@@ -671,41 +706,6 @@
 			<pubDate>Apr 26, 2021</pubDate>
 			<description><![CDATA[The once-principled group issues P.R.-scripted excuses or engages in obfuscation to avoid taking stances that would offend its liberal donor base.]]></description>
 			<link>https://greenwald.substack.com/p/aclu-again-cowardly-abstains-from</link>
-		</item>
-		<item>
-			<title>Interview: Glenn Greenwald, on 'Securing Democracy,' Twitter, and the Media Business</title>
-			<source>Substack</source>
-			<pubDate>Apr 24, 2021</pubDate>
-			<description><![CDATA['I tend to have a pretty polarizing effect on the discourse,' says the author, in a free-ranging talk about Bolsonaro's Brazil, his time at The Intercept, and critics who accuse him of being pro-Trump]]></description>
-			<link>https://taibbi.substack.com/p/interview-glenn-greenwald-on-securing-1bb</link>
-		</item>
-		<item>
-			<title>Grade Inflation Is Ruining Education</title>
-			<source>Quillette</source>
-			<pubDate>Apr 24, 2021</pubDate>
-			<description><![CDATA['When people lose the connection between their actions and their consequences, they lose their hold on reality and the further this goes the more it looks like madness.' ~ Robert Greene A recent st…]]></description>
-			<link>https://quillette.com/2021/04/24/grade-inflation-is-ruining-education/</link>
-		</item>
-		<item>
-			<title>The Slander Industry</title>
-			<source>The New York Times</source>
-			<pubDate>Apr 24, 2021</pubDate>
-			<description><![CDATA[Who makes money from destroying reputations online?]]></description>
-			<link>https://www.nytimes.com/interactive/2021/04/24/technology/online-slander-websites.html</link>
-		</item>
-		<item>
-			<title>Climate Crisis Has Shifted the Earth's Axis, Study Shows</title>
-			<source>The Guardian</source>
-			<pubDate>Apr 23, 2021</pubDate>
-			<description><![CDATA[Massive melting of glaciers has tilted the planet's rotation, showing the impact of human activities]]></description>
-			<link>https://www.theguardian.com/environment/2021/apr/23/climate-crisis-has-shifted-the-earths-axis-study-shows</link>
-		</item>
-		<item>
-			<title>Pharmaceutical Industry Dispatches Army of Lobbyists to Block Generic Covid-19 Vaccines</title>
-			<source>The Intercept</source>
-			<pubDate>Apr 23, 2021</pubDate>
-			<description><![CDATA[New lobbying disclosures show over 100 drug lobbyists working to defeat the IP waiver request at the WTO.]]></description>
-			<link>https://theintercept.com/2021/04/23/covid-vaccine-ip-waiver-lobbying/</link>
 		</item>
 	</channel>
 </rss>

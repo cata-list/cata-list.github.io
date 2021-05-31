@@ -3,9 +3,44 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "5/29/2021, 8:14:22 AM",
-  "id": "DGC--Aje51-tcvNDupuhU",
+  "date": "5/31/2021, 3:58:25 PM",
+  "id": "KLIktDa9EvJLL0z2FzN25",
   "articles": [
+    {
+      "title": "How Facebook Censored the Lab Leak Hypothesis",
+      "source": "UnHerd",
+      "date": "May 31, 2021",
+      "description": "Its latest crackdown on 'misinformation' proves the tech giant hasn't learnt its lesson",
+      "link": "https://unherd.com/2021/05/how-facebook-censored-the-lab-leak-theory/"
+    },
+    {
+      "title": "The Movement to Protect Your Mind From Brain-Computer Technologies",
+      "source": "Gizmodo",
+      "date": "May 31, 2021",
+      "description": "Researchers say the first steps toward mind-reading and perception-manipulating technologies have already arrived. Through a concept called 'neuro rights,' they want to put in place safeguards for our most precious biological possessions: our mind.",
+      "link": "https://gizmodo.com/the-movement-to-protect-your-mind-from-brain-computer-t-1846943756"
+    },
+    {
+      "title": "Should Public Schools Ban Critical Race Theory?",
+      "source": "Substack",
+      "date": "May 30, 2021",
+      "description": "Listen now (75 min) | A debate between Christopher Rufo and David French.",
+      "link": "https://bariweiss.substack.com/p/should-public-schools-ban-critical"
+    },
+    {
+      "title": "Killer Drone Autonomously 'Hunted Down' a Human Target, UN Experts Say",
+      "source": "Gizmodo",
+      "date": "May 30, 2021",
+      "description": "A 'lethal' weaponized drone 'hunted down' and 'remotely engaged' human targets without its handlers' say-so during a conflict in Libya last year, according to a United Nations report first covered by New Scientist this week. Whether there were any casualties remains unclear, but if confirmed, it wou…",
+      "link": "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471"
+    },
+    {
+      "title": "In Mexico, Cartels Are Hunting Down Police at Their Homes",
+      "source": "Associated Press",
+      "date": "May 30, 2021",
+      "description": "MEXICO CITY (AP) — The notoriously violent Jalisco cartel has responded to Mexico's 'hugs, not bullets' policy with a policy of its own: The cartel kidnapped several members of an elite police force in the state of Guanajuato, tortured them to obtain names and addresses of fellow officers and is now…",
+      "link": "https://apnews.com/article/caribbean-mexico-police-f6ea7798ca3cc171ac13b3a5a6a6c266"
+    },
     {
       "title": "Joe Biden Is Filling Top Pentagon Positions With Defense Contractors",
       "source": "The Intercept",
@@ -670,41 +705,6 @@
       "date": "Apr 26, 2021",
       "description": "The once-principled group issues P.R.-scripted excuses or engages in obfuscation to avoid taking stances that would offend its liberal donor base.",
       "link": "https://greenwald.substack.com/p/aclu-again-cowardly-abstains-from"
-    },
-    {
-      "title": "Interview: Glenn Greenwald, on 'Securing Democracy,' Twitter, and the Media Business",
-      "source": "Substack",
-      "date": "Apr 24, 2021",
-      "description": "'I tend to have a pretty polarizing effect on the discourse,' says the author, in a free-ranging talk about Bolsonaro's Brazil, his time at The Intercept, and critics who accuse him of being pro-Trump",
-      "link": "https://taibbi.substack.com/p/interview-glenn-greenwald-on-securing-1bb"
-    },
-    {
-      "title": "Grade Inflation Is Ruining Education",
-      "source": "Quillette",
-      "date": "Apr 24, 2021",
-      "description": "'When people lose the connection between their actions and their consequences, they lose their hold on reality and the further this goes the more it looks like madness.' ~ Robert Greene A recent st…",
-      "link": "https://quillette.com/2021/04/24/grade-inflation-is-ruining-education/"
-    },
-    {
-      "title": "The Slander Industry",
-      "source": "The New York Times",
-      "date": "Apr 24, 2021",
-      "description": "Who makes money from destroying reputations online?",
-      "link": "https://www.nytimes.com/interactive/2021/04/24/technology/online-slander-websites.html"
-    },
-    {
-      "title": "Climate Crisis Has Shifted the Earth's Axis, Study Shows",
-      "source": "The Guardian",
-      "date": "Apr 23, 2021",
-      "description": "Massive melting of glaciers has tilted the planet's rotation, showing the impact of human activities",
-      "link": "https://www.theguardian.com/environment/2021/apr/23/climate-crisis-has-shifted-the-earths-axis-study-shows"
-    },
-    {
-      "title": "Pharmaceutical Industry Dispatches Army of Lobbyists to Block Generic Covid-19 Vaccines",
-      "source": "The Intercept",
-      "date": "Apr 23, 2021",
-      "description": "New lobbying disclosures show over 100 drug lobbyists working to defeat the IP waiver request at the WTO.",
-      "link": "https://theintercept.com/2021/04/23/covid-vaccine-ip-waiver-lobbying/"
     }
   ]
 }
