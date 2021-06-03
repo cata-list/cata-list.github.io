@@ -3,9 +3,93 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "5/31/2021, 3:58:25 PM",
-  "id": "KLIktDa9EvJLL0z2FzN25",
+  "date": "6/2/2021, 5:37:36 PM",
+  "id": "SHJfcac-KBVB5BWuI8TBx",
   "articles": [
+    {
+      "title": "The Culture Wars Are Real",
+      "source": "UnHerd",
+      "date": "Jun 2, 2021",
+      "description": "The Left wants to pretend they're a Right-wing fantasy",
+      "link": "https://unherd.com/2021/06/do-the-culture-wars-really-exist/"
+    },
+    {
+      "title": "The New Domestic War on Terror Has Already Begun -- Even Without the New Laws Biden Wants",
+      "source": "Substack",
+      "date": "Jun 2, 2021",
+      "description": "Homeland Security just issued its fourth danger bulletin this year. And both the weapons and rhetorical tactics of the first War on Terror are increasingly visible.",
+      "link": "https://greenwald.substack.com/p/the-new-domestic-war-on-terror-has"
+    },
+    {
+      "title": "If the Wuhan Lab-Leak Hypothesis Is True, Expect a Political Earthquake",
+      "source": "The Guardian",
+      "date": "Jun 1, 2021",
+      "description": "The potential consequences of the origins of the virus are shattering – if they can be proved",
+      "link": "https://www.theguardian.com/commentisfree/2021/jun/01/wuhan-coronavirus-lab-leak-covid-virus-origins-china"
+    },
+    {
+      "title": "The Fossil Fuel Industry's Biggest Methane Polluter Is a Nobody",
+      "source": "Gizmodo",
+      "date": "Jun 2, 2021",
+      "description": "When it comes to the U.S. oil and gas industry's greenhouse gas pollution, I tend to think of well-known and much-hated oil giants like Chevron and Exxon. But a new analysis shows small, relatively unknown fossil fuel drillers are some of the worst culprits.",
+      "link": "https://gizmodo.com/you-ve-almost-certainly-never-heard-of-the-fossil-fuel-1847017100"
+    },
+    {
+      "title": "Burning Ship Leaking Billions of Plastic Pellets Sinks Off Sri Lanka",
+      "source": "Gizmodo",
+      "date": "Jun 2, 2021",
+      "description": "Sri Lanka is facing a rapidly unfolding environmental crisis after a cargo ship that caught fire last month sunk, pouring tons of plastic pellets and chemicals into the surrounding fishing waters. Government officials worry an oil spill could come next.",
+      "link": "https://gizmodo.com/smoldering-ship-leaking-billions-of-plastic-pellets-sin-1847015857"
+    },
+    {
+      "title": "Pesticides Are Killing the World's Soils",
+      "source": "Scientific American",
+      "date": "Jun 1, 2021",
+      "description": "They cause significant harm to earthworms, beetles, ground-nesting bees and thousands of other vital subterranean species",
+      "link": "https://www.scientificamerican.com/article/pesticides-are-killing-the-worlds-soils/"
+    },
+    {
+      "title": "World's Richest Countries Gave $190 Billion to Fossil Fuel Industry in 2020",
+      "source": "Gizmodo",
+      "date": "Jun 1, 2021",
+      "description": "The world's leading economies have made lots of commitments about reducing carbon emissions, but their actions tell a different story. A report released Tuesday finds that G7 governments pumped $190 billion into coal, oil, and gas from January 2020 to March 2021.",
+      "link": "https://gizmodo.com/the-world-s-richest-countries-have-given-190-billion-t-1847010819"
+    },
+    {
+      "title": "Why Electric Cars Will Take Over Sooner Than You Think",
+      "source": "BBC News",
+      "date": "Jun 1, 2021",
+      "description": "The BBC's Justin Rowlatt explains why we are accelerating towards an electric car future.",
+      "link": "https://www.bbc.com/news/business-57253947"
+    },
+    {
+      "title": "Johnson & Johnson to Pay $2.1 Billion in Baby Powder Cancer Case",
+      "source": "Gizmodo",
+      "date": "Jun 1, 2021",
+      "description": "Johnson & Johnson will not be getting out of its obligation to pay up for losing a civil court case over its baby powder products that allegedly contained asbestos. On Tuesday, the Supreme Court announced it would not hear the company's appeal of a $2.1 billion case.",
+      "link": "https://gizmodo.com/johnson-johnson-forced-to-pay-2-1-billion-in-baby-po-1847007818"
+    },
+    {
+      "title": "Facebook Says U.S. Is the Top Target of Disinformation Campaigns",
+      "source": "Axios",
+      "date": "Jun 1, 2021",
+      "description": "A significant number targeting people in the U.S. originated in the U.S.",
+      "link": "https://www.axios.com/facebook-disinformation-campaigns-globally-8859f7a8-f846-4899-93cb-dab635461c87.html"
+    },
+    {
+      "title": "U.S. Spied on Merkel and Other Europeans Through Danish Cables",
+      "source": "Reuters",
+      "date": "May 30, 2021",
+      "description": "The U.S. National Security Agency (NSA) used a partnership with Denmark's foreign intelligence unit to spy on senior officials of neighbouring countries, including German Chancellor Angela Merkel, Danish state broadcaster DR said.",
+      "link": "https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30/"
+    },
+    {
+      "title": "Arizona 'Refurbishes' Its Gas Chamber to Prepare for Executions, Documents Reveal",
+      "source": "The Guardian",
+      "date": "May 27, 2021",
+      "description": "The corrections department has spent more than $2,000 on ingredients to make cyanide gas, the same used in Auschwitz",
+      "link": "https://www.theguardian.com/us-news/2021/may/28/arizona-gas-chamber-executions-documents"
+    },
     {
       "title": "How Facebook Censored the Lab Leak Hypothesis",
       "source": "UnHerd",
@@ -234,7 +318,7 @@
       "title": "Science Has Become a Cartel",
       "source": "UnHerd",
       "date": "May 21, 2021",
-      "description": "There's a reason the medical establishment dismissed the lab leak theory",
+      "description": "There's a reason the medical establishment dismissed the lab leak hypothesis",
       "link": "https://unherd.com/2021/05/how-scientists-sacrificed-scepticism/"
     },
     {
@@ -621,90 +705,6 @@
       "date": "May 1, 2021",
       "description": "Equating accusations with proven fact is reckless and repressive. It is also standard behavior in liberal politics, whereby they ruin lives without a second thought.",
       "link": "https://greenwald.substack.com/p/the-left-continues-to-destroy-itself"
-    },
-    {
-      "title": "Biden Erased Decades of Historic Crimes in His Speech to Congress",
-      "source": "Substack",
-      "date": "Apr 29, 2021",
-      "description": "Biden's claim that the Capitol Riot was the 'worst attack on our democracy since the Civil War' is ahistorical garbage.",
-      "link": "https://outsidevoices.substack.com/p/biden-erased-decades-of-historic"
-    },
-    {
-      "title": "The Journal of Controversial Ideas Is Here",
-      "source": "Quillette",
-      "date": "Apr 29, 2021",
-      "description": "The long-awaited first issue of Journal of Controversial Ideas (JCI), which allows academics of all disciplines to publish peer-reviewed research anonymously, has just been released. In an editoria…",
-      "link": "https://quillette.com/2021/04/28/the-journal-of-controversial-ideas-is-here/"
-    },
-    {
-      "title": "Court Rules That EPA's Delay 'Exposed a Generation of American Children' to Brain-Damaging Pesticide Chlorpyrifos",
-      "source": "The Intercept",
-      "date": "Apr 29, 2021",
-      "description": "The ruling represents a stark repudiation of the Trump EPA's refusal to ban chlorpyrifos.",
-      "link": "https://theintercept.com/2021/04/29/chlorpyrifos-epa-brain-damage-children/"
-    },
-    {
-      "title": "Satellites Show World's Glaciers Melting Faster Than Ever",
-      "source": "Associated Press",
-      "date": "Apr 28, 2021",
-      "description": "Glaciers are melting faster, losing 31% more snow and ice per year than they did 15 years earlier, according to three-dimensional satellite measurements of all the world's mountain glaciers. Scientists blame human-caused climate change. Using 20 years of recently declassified satellite data, scienti…",
-      "link": "https://apnews.com/article/mountains-climate-climate-change-oceans-glaciers-64abe6a2ebb9793d8d695735128284ef"
-    },
-    {
-      "title": "Empire Politician: A Half-Century of Joe Biden's Stances on War, Militarism, and the CIA",
-      "source": "The Intercept",
-      "date": "Apr 28, 2021",
-      "description": "The new president's paper trail reveals a man who has often betrayed his own bedrock principles.",
-      "link": "https://theintercept.com/2021/04/28/empire-politician-a-half-century-of-joe-bidens-stances-on-war-militarism-and-the-cia/"
-    },
-    {
-      "title": "Experian API Exposed Credit Scores of Most Americans",
-      "source": "Krebs on Security",
-      "date": "Apr 28, 2021",
-      "description": "Big-three consumer credit bureau Experian just fixed a weakness with a partner website that let anyone look up the credit score of tens of millions of Americans just by supplying their name and mailing address, KrebsOnSecurity has learned. Experian says…",
-      "link": "https://krebsonsecurity.com/2021/04/experian-api-exposed-credit-scores-of-most-americans/"
-    },
-    {
-      "title": "Nestlé Threatened With Cease-and-Desist Over Alleged Illegal Water Use",
-      "source": "Ars Technica",
-      "date": "Apr 28, 2021",
-      "description": "Company's claims hinge on how much water early-1900s rail cars carried.",
-      "link": "https://arstechnica.com/tech-policy/2021/04/nestle-threatened-with-cease-and-desist-over-alleged-illegal-water-use/"
-    },
-    {
-      "title": "High-Bandwidth Wireless BCI Demonstrated in Humans for First Time",
-      "source": "Ars Technica",
-      "date": "Apr 28, 2021",
-      "description": "BrainGate device complements Neuralink's successful test of wireless BCI in monkey.",
-      "link": "https://arstechnica.com/science/2021/04/new-high-bandwidth-wireless-bci-helps-tetraplegics-use-tablet-computers/"
-    },
-    {
-      "title": "You Can't Cure Racism",
-      "source": "UnHerd",
-      "date": "Apr 28, 2021",
-      "description": "Efforts to medicalise a social problem could be fatal",
-      "link": "https://unherd.com/2021/04/you-cant-cure-racism/"
-    },
-    {
-      "title": "CNN's New 'Reporter,' Natasha Bertrand, Is a Deranged Conspiracy Theorist and Scandal-Plagued CIA Propagandist",
-      "source": "Substack",
-      "date": "Apr 27, 2021",
-      "description": "In the U.S. corporate media, the surest way to advance is to loyally spread lies and deceit from the U.S. security state. Bertrand is just the latest example.",
-      "link": "https://greenwald.substack.com/p/cnns-new-reporter-natasha-bertrand"
-    },
-    {
-      "title": "25,000 Barrels of Suspected DDT Found Off the California Coast",
-      "source": "Gizmodo",
-      "date": "Apr 27, 2021",
-      "description": "A known DDT dump site off the coast of Southern California is considerably larger than suspected, in a discovery that's sounding the alarm bells. Research by the Scripps Institution of Oceanography shows thousands of potentially toxic barrels on the seafloor.",
-      "link": "https://earther.gizmodo.com/around-25-000-barrels-of-suspected-ddt-has-been-found-o-1846775004"
-    },
-    {
-      "title": "ACLU Again Cowardly Abstains From an Online Censorship Controversy: This Time Over BLM",
-      "source": "Substack",
-      "date": "Apr 26, 2021",
-      "description": "The once-principled group issues P.R.-scripted excuses or engages in obfuscation to avoid taking stances that would offend its liberal donor base.",
-      "link": "https://greenwald.substack.com/p/aclu-again-cowardly-abstains-from"
     }
   ]
 }
