@@ -3,9 +3,44 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "6/5/2021, 5:05:35 PM",
-  "id": "069Q69jFLxs7hqCvN0UGT",
+  "date": "6/8/2021, 11:23:25 AM",
+  "id": "SQGaMCEgRCraujPvU4f-P",
   "articles": [
+    {
+      "title": "Beijing's Useful Idiots",
+      "source": "UnHerd",
+      "date": "Jun 8, 2021",
+      "description": "Science journals have encouraged and enforced a false Covid narrative",
+      "link": "https://unherd.com/2021/06/beijings-useful-idiots/"
+    },
+    {
+      "title": "The Secret IRS Files: Trove of Never-Before-Seen Records Reveal How the Wealthiest Avoid Income Tax",
+      "source": "ProPublica",
+      "date": "Jun 8, 2021",
+      "description": "ProPublica has obtained a vast cache of IRS information showing how billionaires like Jeff Bezos, Elon Musk and Warren Buffett pay little in income tax compared to their massive wealth — sometimes, even nothing.",
+      "link": "https://www.propublica.org/article/the-secret-irs-files-trove-of-never-before-seen-records-reveal-how-the-wealthiest-avoid-income-tax"
+    },
+    {
+      "title": "No, Critical Race Theory Isn't a New Civil Rights Movement. (Just the Opposite)",
+      "source": "Quillette",
+      "date": "Jun 6, 2021",
+      "description": "Critical Race Theory has become a prominent subject in American political discourse. Several state legislatures have advanced measures aimed at banning it from public schools, on the basis that its…",
+      "link": "https://quillette.com/2021/06/06/no-critical-race-theory-isnt-a-new-civil-rights-movement-just-the-opposite/"
+    },
+    {
+      "title": "Coastal Arctic Sea Ice Is Thinning Faster Than Previously Thought",
+      "source": "Scientific American",
+      "date": "Jun 4, 2021",
+      "description": "Old maps of snow depth on the ice had led researchers to underestimate melting",
+      "link": "https://www.scientificamerican.com/article/coastal-arctic-sea-ice-is-thinning-faster-than-previously-thought1/"
+    },
+    {
+      "title": "Brain-Computer Interface Smashes Previous Record for Typing Speed",
+      "source": "IEEE Spectrum",
+      "date": "Jun 1, 2021",
+      "description": "Imagining writing-by-hand is faster than imagining moving a cursor in new BCI system",
+      "link": "https://spectrum.ieee.org/the-human-os/biomedical/devices/braincomputer-interface-smashes-previous-record-for-typing-speed"
+    },
     {
       "title": "Why We Should Welcome the Lab Leak Hypothesis",
       "source": "UnHerd",
@@ -42,7 +77,7 @@
       "link": "https://quillette.com/2021/06/04/winners-and-losers-the-global-economy-after-covid/"
     },
     {
-      "title": "The FBI's Strange Anthrax Investigation Sheds Light on COVID Lab-Leak Hypothesis and Fauci's Emails",
+      "title": "The FBI's Strange Anthrax Investigation Sheds Light on COVID Lab-Leak Theory and Fauci's Emails",
       "source": "Substack",
       "date": "Jun 3, 2021",
       "description": "Mainstream institutions doubted the FBI had solved the 2001 anthrax case. Either way, revelations that emerged about U.S. Government bio-labs have newfound relevance.",
@@ -670,41 +705,6 @@
       "date": "May 9, 2021",
       "description": "How can you feign anger over others' attacks on a free press when you imprison Assange as punishment for his vital revelations about U.S. officials?",
       "link": "https://greenwald.substack.com/p/antony-blinken-continues-to-lecture"
-    },
-    {
-      "title": "Portland Man Recovering From Beating After Armed Standoff Amid Protest",
-      "source": "New York Post",
-      "date": "May 8, 2021",
-      "description": "Portland Police are trying to sort out exactly what happened that ended up sending Joseph Hall, 53, to the hospital.",
-      "link": "https://nypost.com/2021/05/08/portland-man-recovering-from-beating-after-standoff-amid-protest/"
-    },
-    {
-      "title": "Publishing Is Now a Left-Wing Bubble",
-      "source": "UnHerd",
-      "date": "May 6, 2021",
-      "description": "A letter filled with hysterical analogies indicates an industry in crisis",
-      "link": "https://unherd.com/2021/05/publishing-is-now-a-leftist-bubble/"
-    },
-    {
-      "title": "China's Carbon Pollution Now Surpasses All Developed Countries Combined",
-      "source": "Ars Technica",
-      "date": "May 6, 2021",
-      "description": "As China's coal-reliant economy has boomed, so, too, have its emissions.",
-      "link": "https://arstechnica.com/tech-policy/2021/05/chinas-carbon-pollution-now-surpasses-all-developed-countries-combined/"
-    },
-    {
-      "title": "Biggest ISPs Paid for 8.5 Million Fake FCC Comments Opposing Net Neutrality",
-      "source": "Ars Technica",
-      "date": "May 6, 2021",
-      "description": "ISP-funded astroturfing used millions of real names and faked consent records.",
-      "link": "https://arstechnica.com/tech-policy/2021/05/biggest-isps-paid-for-8-5-million-fake-fcc-comments-opposing-net-neutrality/"
-    },
-    {
-      "title": "Natural Gas Is Now More Deadly Than Coal in 19 States",
-      "source": "Gizmodo",
-      "date": "May 6, 2021",
-      "description": "Unhealthy air pollution generally brings to mind coal-fired plants spewing black soot. But that image may quickly be outdated. A study published on Wednesday in found that natural gas air pollution caused more deaths in 19 states than burning coal.",
-      "link": "https://earther.gizmodo.com/natural-gas-is-now-more-deadly-than-coal-in-19-states-1846831696"
     }
   ]
 }
