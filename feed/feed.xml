@@ -3,10 +3,87 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>QlPP6WIL9Rv4pG9sF7Q8v</id>
+		<id>avFzbW6MW1i0ROZixMwIZ</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Fri Jun 11 2021 13:49:07 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Thu Jun 17 2021 12:47:02 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>NASA: Earth Is Absorbing an 'Unprecedented' Amount of Heat</title>
+			<source>Gizmodo</source>
+			<pubDate>Jun 17, 2021</pubDate>
+			<description><![CDATA[Breaking: Earth. No, seriously. It's breaking, according to new research from NASA.]]></description>
+			<link>https://gizmodo.com/nasa-earth-is-absorbing-an-unprecedented-amount-of-hea-1847120967</link>
+		</item>
+		<item>
+			<title>Why Are There Dangerous Levels of Arsenic and Lead in American Baby Food?</title>
+			<source>The Guardian</source>
+			<pubDate>Jun 17, 2021</pubDate>
+			<description><![CDATA[An investigation found that popular baby food products are tainted with dangerous levels of chemicals. Yet not enough is being done about it]]></description>
+			<link>https://www.theguardian.com/commentisfree/2021/jun/17/why-are-there-dangerous-levels-of-arsenic-and-lead-in-american-baby-food</link>
+		</item>
+		<item>
+			<title>Biden's Defense Budget Is a Big Win for Hypersonic Weapons Contractors</title>
+			<source>The Intercept</source>
+			<pubDate>Jun 17, 2021</pubDate>
+			<description><![CDATA[The fiscal year 2022 proposal includes $3.8 billion for the ultrafast weapons, but some arms control experts question their effectiveness.]]></description>
+			<link>https://theintercept.com/2021/06/17/hypersonic-weapons-contractors-biden-defense-budget/</link>
+		</item>
+		<item>
+			<title>A Backlash Against Gender Ideology Is Starting in Universities</title>
+			<source>The Economist</source>
+			<pubDate>Jun 16, 2021</pubDate>
+			<description><![CDATA[Academics are speaking up against the stifling of debate | International]]></description>
+			<link>https://www.economist.com/international/2021/06/05/a-backlash-against-gender-ideology-is-starting-in-universities</link>
+		</item>
+		<item>
+			<title>Survey Shows People No Longer Believe Working Hard Will Lead to a Better Life</title>
+			<source>Insider Mag</source>
+			<pubDate>Jun 15, 2021</pubDate>
+			<description><![CDATA[The 2020 Edelman Trust Barometer – now in its 20th year – has found many people no longer believe working hard will give them a better life.]]></description>
+			<link>https://insidermag.net/survey-shows-people-no-longer-believe-working-hard-will-lead-to-a-better-life/</link>
+		</item>
+		<item>
+			<title>Most Hospitals Aren't Complying With Price Transparency Rule</title>
+			<source>Axios</source>
+			<pubDate>Jun 15, 2021</pubDate>
+			<description><![CDATA[They're particularly unlikely to disclose negotiated rates and cash prices.]]></description>
+			<link>https://www.axios.com/hospitals-price-transparency-costs-regulations-noncompliance-ebf6bd21-5709-4298-b67a-74c8a90a1ec1.html</link>
+		</item>
+		<item>
+			<title>Why Is the Society for American Archaeology Promoting Indigenous Creationism?</title>
+			<source>Quillette</source>
+			<pubDate>Jun 15, 2021</pubDate>
+			<description><![CDATA[In April, one of us—Elizabeth Weiss—gave a talk, titled Has Creationism Crept Back into Archaeology?, at the 86th Annual Meeting of the Society for American Archaeology (SAA). The 87-year-old SAA i…]]></description>
+			<link>https://quillette.com/2021/06/13/why-is-the-society-for-american-archaeology-promoting-indigenous-creationism/</link>
+		</item>
+		<item>
+			<title>How Some Americans Are Breaking Out of Political Echo Chambers</title>
+			<source>Wired</source>
+			<pubDate>Jun 14, 2021</pubDate>
+			<description><![CDATA[A growing number of people are seeking a wider diversity of news sources or opinions contrary to their own to combat information silos within social media.]]></description>
+			<link>https://www.wired.com/story/how-americans-breaking-political-echo-chambers/</link>
+		</item>
+		<item>
+			<title>The Enduring False Narrative About the PULSE Massacre Shows the Power of Media Propaganda</title>
+			<source>Substack</source>
+			<pubDate>Jun 14, 2021</pubDate>
+			<description><![CDATA[Politicians and activists should stop ratifying the fiction that Omar Mateen was motivated by anti-LGBT hatred. It dishonors the victims and obscures the real motive.]]></description>
+			<link>https://greenwald.substack.com/p/the-enduring-false-narrative-about</link>
+		</item>
+		<item>
+			<title>Critical Entities Targeted in Suspected Chinese Cyber Spying</title>
+			<source>Associated Press</source>
+			<pubDate>Jun 14, 2021</pubDate>
+			<description><![CDATA[RICHMOND, Va. (AP) — A cyberespionage campaign blamed on China was more sweeping than previously known, with suspected state-backed hackers exploiting a device meant to boost internet security to penetrate the computers of critical U.S.]]></description>
+			<link>https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9</link>
+		</item>
+		<item>
+			<title>What Makes Quantum Computing So Hard to Explain?</title>
+			<source>Wired</source>
+			<pubDate>Jun 13, 2021</pubDate>
+			<description><![CDATA[Before we can even begin to talk about these computers' potential applications, we need to understand the fundamental physics behind them.]]></description>
+			<link>https://www.wired.com/story/what-makes-quantum-computing-so-hard-to-explain/</link>
+		</item>
 		<item>
 			<title>Trump DOJ Obtained Data on Schiff and Swalwell, Two Long-Time Champions of Domestic Spying</title>
 			<source>Substack</source>
@@ -629,83 +706,6 @@
 			<pubDate>Feb 1, 2021</pubDate>
 			<description><![CDATA[My front-page column in today's New York Post. Plus: Ayaan Hirsi Ali.]]></description>
 			<link>https://bariweiss.substack.com/p/lincoln-isnt-evil-neither-is-the</link>
-		</item>
-		<item>
-			<title>Schools Must Resist Destructive Anti-Racist Demands</title>
-			<source>The Atlantic</source>
-			<pubDate>Jan 29, 2021</pubDate>
-			<description><![CDATA[Contrary to what activists seem to believe, campuses are not bastions of social injustice.]]></description>
-			<link>https://www.theatlantic.com/ideas/archive/2021/01/when-antiracist-manifestos-become-antiracist-wrecking-balls/617841/</link>
-		</item>
-		<item>
-			<title>Divers Haul 200lb of Trash From Lake Tahoe in a Day</title>
-			<source>The Guardian</source>
-			<pubDate>May 15, 2021</pubDate>
-			<description><![CDATA[Scuba team launches six-month effort that has already turned up fishing rods, tires and cans]]></description>
-			<link>https://www.theguardian.com/us-news/2021/may/14/lake-tahoe-cleanup-trash-scuba-divers</link>
-		</item>
-		<item>
-			<title>'Scientists' [Finally] Want a Serious Investigation Into the Origins of the Coronavirus</title>
-			<source>Gizmodo</source>
-			<pubDate>May 14, 2021</pubDate>
-			<description><![CDATA[Scientists in several countries are calling for a serious investigation into the beginnings of SARS-CoV-2, the novel coronavirus that gave rise to the covid-19 pandemic. In an open letter released Thursday, the group says that there are still too many unanswered questions about how the pandemic star…]]></description>
-			<link>https://gizmodo.com/scientists-want-a-serious-investigation-into-the-origin-1846899382</link>
-		</item>
-		<item>
-			<title>The Pentagon Is Tracking US Citizens Without a Warrant, Senator Says</title>
-			<source>Engadget</source>
-			<pubDate>May 14, 2021</pubDate>
-			<description><![CDATA[The Pentagon may be using commercial data to track Americans without due legal process, according to a letter from Senator Ron Wyden..]]></description>
-			<link>https://www.engadget.com/the-pentagon-is-doing-warrantless-us-surveillance-ron-wyden-101201315.html</link>
-		</item>
-		<item>
-			<title>Study Finds Alarming Levels of 'Forever Chemicals' in US Mothers' Breast Milk</title>
-			<source>The Guardian</source>
-			<pubDate>May 14, 2021</pubDate>
-			<description><![CDATA[Toxic chemicals known as PFAS found in all 50 samples tested at levels nearly 2,000 times what is considered safe in drinking water]]></description>
-			<link>https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study</link>
-		</item>
-		<item>
-			<title>Chemical Giants Hid Dangers of 'Forever Chemicals' in Food Packaging</title>
-			<source>The Guardian</source>
-			<pubDate>May 13, 2021</pubDate>
-			<description><![CDATA[The chemicals, called 6:2 FTOH, are now linked to a range of serious health issues, and Americans are still being exposed to them]]></description>
-			<link>https://www.theguardian.com/environment/2021/may/12/chemical-giants-hid-dangers-pfas-forever-chemicals-food-packaging-dupont</link>
-		</item>
-		<item>
-			<title>Solar Pushback: How US Power Firms Try to Make People Pay for Going Green</title>
-			<source>The Guardian</source>
-			<pubDate>May 13, 2021</pubDate>
-			<description><![CDATA[In states such as Kansas, energy companies are seeking to impose financial charges on people who install rooftop solar arrays]]></description>
-			<link>https://www.theguardian.com/us-news/2021/may/13/solar-power-us-utility-companies-kansas</link>
-		</item>
-		<item>
-			<title>AOC's Attack on Yang's Meaningless Israel Statement Shows Her Role: Protect Dem Leaders</title>
-			<source>Substack</source>
-			<pubDate>May 12, 2021</pubDate>
-			<description><![CDATA[Real power over U.S. policy toward Israel and Gaza rests with Biden, Harris, Pelosi, Schumer, Blinken -- not Yang. But AOC's function is to shield them from leftist anger.]]></description>
-			<link>https://greenwald.substack.com/p/aocs-attack-on-yangs-meaningless</link>
-		</item>
-		<item>
-			<title>Neural Implant Lets Paralyzed Person Type by Imagining Writing</title>
-			<source>Ars Technica</source>
-			<pubDate>May 12, 2021</pubDate>
-			<description><![CDATA[A paralyzed individual hit 90 characters per minute, 99% accuracy.]]></description>
-			<link>https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/</link>
-		</item>
-		<item>
-			<title>Better Than Holograms: 3D-Animated Starships Can Be Viewed From Any Angle</title>
-			<source>Ars Technica</source>
-			<pubDate>May 12, 2021</pubDate>
-			<description><![CDATA[Unlike holograms, the optical trap display produces images viewable from all angles.]]></description>
-			<link>https://arstechnica.com/science/2021/05/scientists-created-tiny-animated-starships-light-sabers-with-lasers/</link>
-		</item>
-		<item>
-			<title>US Millionaire CEOs Saw 29% Pay Raise While Workers' Pay Fell, Report Finds</title>
-			<source>The Guardian</source>
-			<pubDate>May 11, 2021</pubDate>
-			<description><![CDATA[Workers saw 2% decrease as companies gave leaders bonuses and forgiving performance benchmarks amid pandemic]]></description>
-			<link>https://www.theguardian.com/business/2021/may/11/us-millionaire-ceos-saw-29-pay-raises-while-workers-had-decreases-report-says</link>
 		</item>
 	</channel>
 </rss>
