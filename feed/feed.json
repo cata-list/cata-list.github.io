@@ -3,9 +3,37 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "6/29/2021, 12:26:15 PM",
-  "id": "N66gTF3Rfa2YbfsKy-Lta",
+  "date": "6/30/2021, 5:37:22 PM",
+  "id": "MxYf1nsXZ_8jWhl1rIMoH",
   "articles": [
+    {
+      "title": "Our Endless Dinner With Robin DiAngelo",
+      "source": "Substack",
+      "date": "Jun 30, 2021",
+      "description": "Suburban America's self-proclaimed racial oracle returns with a monumentally oblivious sequel to 'White Fragility'",
+      "link": "https://taibbi.substack.com/p/our-endless-dinner-with-robin-diangelo"
+    },
+    {
+      "title": "How Pesticide Companies Corrupted the EPA and Poisoned America",
+      "source": "The Intercept",
+      "date": "Jun 30, 2021",
+      "description": "Pesticide manufacturers that have long dodged regulation by the EPA now face billions in damages for causing cancer, brain damage, and Parkinson's disease.",
+      "link": "https://theintercept.com/2021/06/30/epa-pesticides-exposure-opp/"
+    },
+    {
+      "title": "Conspiracy: In Theory and Practice",
+      "source": "Substack",
+      "date": "Jun 29, 2021",
+      "description": "Would you like to know a secret?",
+      "link": "https://edwardsnowden.substack.com/p/conspiracy-pt1"
+    },
+    {
+      "title": "On Victimhood and Culture — A Reply to Aaron Hanna",
+      "source": "Quillette",
+      "date": "Jun 29, 2021",
+      "description": "It was a pleasure to read Aaron Hanna's recent essay, 'The Limitations of Black Conservative Thought.' It is magnificently reasoned, informed, and fair. Shelby Steele and Thomas Sowell have rarely …",
+      "link": "https://quillette.com/2021/06/30/on-victimhood-and-culture-a-reply-to-aaron-hanna/"
+    },
     {
       "title": "Advertisers Are Selling Americans' Data to Hundreds of Shady Foreign Businesses",
       "source": "Gizmodo",
@@ -677,34 +705,6 @@
       "date": "May 27, 2021",
       "description": "A new report tallies the death toll from excess emissions by looking at air pollution and spikes in local ozone levels.",
       "link": "https://www.wired.com/story/how-many-people-die-when-polluters-exceed-their-limits/"
-    },
-    {
-      "title": "Clearview AI Hit With Sweeping Legal Complaints Over Controversial Face Scraping in Europe",
-      "source": "The Verge",
-      "date": "May 27, 2021",
-      "description": "Photos of faces were collected without clear consent.",
-      "link": "https://www.theverge.com/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu"
-    },
-    {
-      "title": "What a Wuhan Lab Leak Would Really Mean",
-      "source": "UnHerd",
-      "date": "May 26, 2021",
-      "description": "Scientists and the media eagerly denounced credible evidence as a conspiracy theory",
-      "link": "https://unherd.com/2021/05/what-if-there-was-a-lab-leak/"
-    },
-    {
-      "title": "Facebook Ends Ban on Posts Asserting Covid-19 Was Man-Made",
-      "source": "The Wall Street Journal",
-      "date": "May 26, 2021",
-      "description": "Facebook has ended its ban on posts asserting Covid-19 was man-made or manufactured, reflecting a deepening debate over the origins of the pandemic.",
-      "link": "https://www.wsj.com/articles/facebook-ends-ban-on-posts-asserting-covid-19-was-man-made-11622094890"
-    },
-    {
-      "title": "Riot Erupts in Portland on Anniversary of George Floyd's Murder",
-      "source": "New York Post",
-      "date": "May 26, 2021",
-      "description": "More than 200 rioters — most fully clad in black and many wearing gas masks — trashed Portland soon after a peaceful march ended late Tuesday, according to the Portland Police Bureau (P…",
-      "link": "https://nypost.com/2021/05/26/portland-riots-on-anniversary-of-george-floyds-murder/"
     }
   ]
 }

@@ -3,10 +3,38 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>N66gTF3Rfa2YbfsKy-Lta</id>
+		<id>MxYf1nsXZ_8jWhl1rIMoH</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Tue Jun 29 2021 12:26:15 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Wed Jun 30 2021 17:37:22 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Our Endless Dinner With Robin DiAngelo</title>
+			<source>Substack</source>
+			<pubDate>Jun 30, 2021</pubDate>
+			<description><![CDATA[Suburban America's self-proclaimed racial oracle returns with a monumentally oblivious sequel to 'White Fragility']]></description>
+			<link>https://taibbi.substack.com/p/our-endless-dinner-with-robin-diangelo</link>
+		</item>
+		<item>
+			<title>How Pesticide Companies Corrupted the EPA and Poisoned America</title>
+			<source>The Intercept</source>
+			<pubDate>Jun 30, 2021</pubDate>
+			<description><![CDATA[Pesticide manufacturers that have long dodged regulation by the EPA now face billions in damages for causing cancer, brain damage, and Parkinson's disease.]]></description>
+			<link>https://theintercept.com/2021/06/30/epa-pesticides-exposure-opp/</link>
+		</item>
+		<item>
+			<title>Conspiracy: In Theory and Practice</title>
+			<source>Substack</source>
+			<pubDate>Jun 29, 2021</pubDate>
+			<description><![CDATA[Would you like to know a secret?]]></description>
+			<link>https://edwardsnowden.substack.com/p/conspiracy-pt1</link>
+		</item>
+		<item>
+			<title>On Victimhood and Culture — A Reply to Aaron Hanna</title>
+			<source>Quillette</source>
+			<pubDate>Jun 29, 2021</pubDate>
+			<description><![CDATA[It was a pleasure to read Aaron Hanna's recent essay, 'The Limitations of Black Conservative Thought.' It is magnificently reasoned, informed, and fair. Shelby Steele and Thomas Sowell have rarely …]]></description>
+			<link>https://quillette.com/2021/06/30/on-victimhood-and-culture-a-reply-to-aaron-hanna/</link>
+		</item>
 		<item>
 			<title>Advertisers Are Selling Americans' Data to Hundreds of Shady Foreign Businesses</title>
 			<source>Gizmodo</source>
@@ -678,34 +706,6 @@
 			<pubDate>May 27, 2021</pubDate>
 			<description><![CDATA[A new report tallies the death toll from excess emissions by looking at air pollution and spikes in local ozone levels.]]></description>
 			<link>https://www.wired.com/story/how-many-people-die-when-polluters-exceed-their-limits/</link>
-		</item>
-		<item>
-			<title>Clearview AI Hit With Sweeping Legal Complaints Over Controversial Face Scraping in Europe</title>
-			<source>The Verge</source>
-			<pubDate>May 27, 2021</pubDate>
-			<description><![CDATA[Photos of faces were collected without clear consent.]]></description>
-			<link>https://www.theverge.com/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu</link>
-		</item>
-		<item>
-			<title>What a Wuhan Lab Leak Would Really Mean</title>
-			<source>UnHerd</source>
-			<pubDate>May 26, 2021</pubDate>
-			<description><![CDATA[Scientists and the media eagerly denounced credible evidence as a conspiracy theory]]></description>
-			<link>https://unherd.com/2021/05/what-if-there-was-a-lab-leak/</link>
-		</item>
-		<item>
-			<title>Facebook Ends Ban on Posts Asserting Covid-19 Was Man-Made</title>
-			<source>The Wall Street Journal</source>
-			<pubDate>May 26, 2021</pubDate>
-			<description><![CDATA[Facebook has ended its ban on posts asserting Covid-19 was man-made or manufactured, reflecting a deepening debate over the origins of the pandemic.]]></description>
-			<link>https://www.wsj.com/articles/facebook-ends-ban-on-posts-asserting-covid-19-was-man-made-11622094890</link>
-		</item>
-		<item>
-			<title>Riot Erupts in Portland on Anniversary of George Floyd's Murder</title>
-			<source>New York Post</source>
-			<pubDate>May 26, 2021</pubDate>
-			<description><![CDATA[More than 200 rioters — most fully clad in black and many wearing gas masks — trashed Portland soon after a peaceful march ended late Tuesday, according to the Portland Police Bureau (P…]]></description>
-			<link>https://nypost.com/2021/05/26/portland-riots-on-anniversary-of-george-floyds-murder/</link>
 		</item>
 	</channel>
 </rss>
