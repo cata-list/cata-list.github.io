@@ -3,10 +3,87 @@
 	<channel>
 		<title>cata-list</title>
 		<link>https://cata-list.github.io</link>
-		<id>ONeGIbWWSMc-cXmewnBpV</id>
+		<id>HEOIOHECSAAPv8f8WBVIS</id>
 		<description>Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.</description>
-		<lastBuildDate>Sat Jul 03 2021 08:34:25 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
+		<lastBuildDate>Fri Jul 09 2021 12:06:00 GMT-0700 (Pacific Daylight Time)</lastBuildDate>
 		<language>en-US</language>
+		<item>
+			<title>Is 'Critical Race Theory' the Wrong Term?</title>
+			<source>Substack</source>
+			<pubDate>Jul 8, 2021</pubDate>
+			<description><![CDATA[Are Republicans tilting at the wrong windmill? New Substack author Wesley Yang, who coined the term 'Successor Ideology,' describes a movement that goes far beyond race]]></description>
+			<link>https://taibbi.substack.com/p/is-critical-race-theory-the-wrong</link>
+		</item>
+		<item>
+			<title>Could You Resist a Cult?</title>
+			<source>UnHerd</source>
+			<pubDate>Jul 8, 2021</pubDate>
+			<description><![CDATA[Many of us yearn to be told what to do]]></description>
+			<link>https://unherd.com/2021/07/could-you-resist-a-cult/</link>
+		</item>
+		<item>
+			<title>'Heat Dome' Probably Killed 1bn Marine Animals on Canada Coast, Experts Say</title>
+			<source>The Guardian</source>
+			<pubDate>Jul 8, 2021</pubDate>
+			<description><![CDATA[British Columbia scientist says heat essentially cooked mussels: 'The shore doesn't usually crunch when you walk']]></description>
+			<link>https://www.theguardian.com/environment/2021/jul/08/heat-dome-canada-pacific-northwest-animal-deaths</link>
+		</item>
+		<item>
+			<title>Global Wind and Solar Power Capacity Grew at Record Rate in 2020</title>
+			<source>The Guardian</source>
+			<pubDate>Jul 8, 2021</pubDate>
+			<description><![CDATA[BP's annual report reveals renewable energy boom in pandemic coincided with slump in demand for oil]]></description>
+			<link>https://www.theguardian.com/business/2021/jul/08/bp-global-wind-and-solar-power-capacity-grew-at-record-rate-in-2020</link>
+		</item>
+		<item>
+			<title>The Capitol Police, Armed With $2 Billion in New Funding, Expanding Operations Outside of D.C.</title>
+			<source>Substack</source>
+			<pubDate>Jul 8, 2021</pubDate>
+			<description><![CDATA[AOC and two other Squad members -- who spent months chanting 'Defund the Police' -- had the power to stop this, but instead voted 'present' to ensure it passed.]]></description>
+			<link>https://greenwald.substack.com/p/the-capitol-police-armed-with-2-billion</link>
+		</item>
+		<item>
+			<title>15 States Reach a Deal With Purdue Pharma, Advancing a $4.5 Billion Opioids Settlement</title>
+			<source>The New York Times</source>
+			<pubDate>Jul 8, 2021</pubDate>
+			<description><![CDATA[The states, including Massachusetts and New York, agreed to drop opposition to the bankruptcy organization plan of the company, the maker of OxyContin.]]></description>
+			<link>https://www.nytimes.com/2021/07/08/health/purdue-pharma-opioids-settlement.html</link>
+		</item>
+		<item>
+			<title>How All My Politically Correct Bones Were Broken</title>
+			<source>Quillette</source>
+			<pubDate>Jul 7, 2021</pubDate>
+			<description><![CDATA[In my first 10 years of college teaching, from the mid-60s to mid-70s, I modeled myself on my best teachers—men and women who questioned my ideas vigorously. They let me know that I mattered to the…]]></description>
+			<link>https://quillette.com/2021/07/07/how-all-my-politically-correct-bones-were-broken/</link>
+		</item>
+		<item>
+			<title>Pacific Northwest Heat Wave 'Virtually Impossible' Without Climate Change - Research</title>
+			<source>Reuters</source>
+			<pubDate>Jul 7, 2021</pubDate>
+			<description><![CDATA[The suffocating heat wave that killed hundreds of people across the Pacific Northwest last week would have been 'virtually impossible' without climate change, a study has found.]]></description>
+			<link>https://www.reuters.com/business/environment/heat-wave-pacific-northwest-could-soon-repeat-due-climate-change-research-2021-07-07/</link>
+		</item>
+		<item>
+			<title>Rep. Ken Buck (R-CO) Speaks Out on Reining in Big Tech and Why Many House Members Refuse</title>
+			<source>Substack</source>
+			<pubDate>Jul 6, 2021</pubDate>
+			<description><![CDATA[As House Republicans vocally denounce Big Tech in media appearances, many simultaneously use their power to impede legislative reform. Rep. Buck is acting.]]></description>
+			<link>https://greenwald.substack.com/p/rep-ken-buck-r-co-speaks-out-on-reining</link>
+		</item>
+		<item>
+			<title>An Ugly War Among Leftist YouTubers Shows Two Common, Toxic Pathologies Plaguing U.S. Politics</title>
+			<source>Substack</source>
+			<pubDate>Jul 5, 2021</pubDate>
+			<description><![CDATA[Baselessly accusing people of being Russian agents and weaponizing accusations of sexual misconduct are reputation-destroying cancers at the heart of liberal discourse.]]></description>
+			<link>https://greenwald.substack.com/p/an-ugly-war-among-leftist-youtubers</link>
+		</item>
+		<item>
+			<title>Lifting the Mask</title>
+			<source>Substack</source>
+			<pubDate>Jun 15, 2021</pubDate>
+			<description><![CDATA[Edward Snowden on privacy, on liberty, on Substack]]></description>
+			<link>https://edwardsnowden.substack.com/p/lifting-the-mask</link>
+		</item>
 		<item>
 			<title>US Companies Hit by 'Colossal' Cyber-Attack</title>
 			<source>BBC News</source>
@@ -629,83 +706,6 @@
 			<pubDate>Jun 1, 2021</pubDate>
 			<description><![CDATA[They cause significant harm to earthworms, beetles, ground-nesting bees and thousands of other vital subterranean species]]></description>
 			<link>https://www.scientificamerican.com/article/pesticides-are-killing-the-worlds-soils/</link>
-		</item>
-		<item>
-			<title>World's Richest Countries Gave $190 Billion to Fossil Fuel Industry in 2020</title>
-			<source>Gizmodo</source>
-			<pubDate>Jun 1, 2021</pubDate>
-			<description><![CDATA[The world's leading economies have made lots of commitments about reducing carbon emissions, but their actions tell a different story. A report released Tuesday finds that G7 governments pumped $190 billion into coal, oil, and gas from January 2020 to March 2021.]]></description>
-			<link>https://gizmodo.com/the-world-s-richest-countries-have-given-190-billion-t-1847010819</link>
-		</item>
-		<item>
-			<title>Why Electric Cars Will Take Over Sooner Than You Think</title>
-			<source>BBC News</source>
-			<pubDate>Jun 1, 2021</pubDate>
-			<description><![CDATA[The BBC's Justin Rowlatt explains why we are accelerating towards an electric car future.]]></description>
-			<link>https://www.bbc.com/news/business-57253947</link>
-		</item>
-		<item>
-			<title>Johnson &amp; Johnson to Pay $2.1 Billion in Baby Powder Cancer Case</title>
-			<source>Gizmodo</source>
-			<pubDate>Jun 1, 2021</pubDate>
-			<description><![CDATA[Johnson & Johnson will not be getting out of its obligation to pay up for losing a civil court case over its baby powder products that allegedly contained asbestos. On Tuesday, the Supreme Court announced it would not hear the company's appeal of a $2.1 billion case.]]></description>
-			<link>https://gizmodo.com/johnson-johnson-forced-to-pay-2-1-billion-in-baby-po-1847007818</link>
-		</item>
-		<item>
-			<title>Facebook Says U.S. Is the Top Target of Disinformation Campaigns</title>
-			<source>Axios</source>
-			<pubDate>Jun 1, 2021</pubDate>
-			<description><![CDATA[A significant number targeting people in the U.S. originated in the U.S.]]></description>
-			<link>https://www.axios.com/facebook-disinformation-campaigns-globally-8859f7a8-f846-4899-93cb-dab635461c87.html</link>
-		</item>
-		<item>
-			<title>U.S. Spied on Merkel and Other Europeans Through Danish Cables</title>
-			<source>Reuters</source>
-			<pubDate>May 30, 2021</pubDate>
-			<description><![CDATA[The U.S. National Security Agency (NSA) used a partnership with Denmark's foreign intelligence unit to spy on senior officials of neighbouring countries, including German Chancellor Angela Merkel, Danish state broadcaster DR said.]]></description>
-			<link>https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30/</link>
-		</item>
-		<item>
-			<title>Arizona 'Refurbishes' Its Gas Chamber to Prepare for Executions, Documents Reveal</title>
-			<source>The Guardian</source>
-			<pubDate>May 27, 2021</pubDate>
-			<description><![CDATA[The corrections department has spent more than $2,000 on ingredients to make cyanide gas, the same used in Auschwitz]]></description>
-			<link>https://www.theguardian.com/us-news/2021/may/28/arizona-gas-chamber-executions-documents</link>
-		</item>
-		<item>
-			<title>How Facebook Censored the Lab Leak Hypothesis</title>
-			<source>UnHerd</source>
-			<pubDate>May 31, 2021</pubDate>
-			<description><![CDATA[Its latest crackdown on 'misinformation' proves the tech giant hasn't learnt its lesson]]></description>
-			<link>https://unherd.com/2021/05/how-facebook-censored-the-lab-leak-theory/</link>
-		</item>
-		<item>
-			<title>The Movement to Protect Your Mind From Brain-Computer Technologies</title>
-			<source>Gizmodo</source>
-			<pubDate>May 31, 2021</pubDate>
-			<description><![CDATA[Researchers say the first steps toward mind-reading and perception-manipulating technologies have already arrived. Through a concept called 'neuro rights,' they want to put in place safeguards for our most precious biological possessions: our mind.]]></description>
-			<link>https://gizmodo.com/the-movement-to-protect-your-mind-from-brain-computer-t-1846943756</link>
-		</item>
-		<item>
-			<title>Should Public Schools Ban Critical Race Theory?</title>
-			<source>Substack</source>
-			<pubDate>May 30, 2021</pubDate>
-			<description><![CDATA[Listen now (75 min) | A debate between Christopher Rufo and David French.]]></description>
-			<link>https://bariweiss.substack.com/p/should-public-schools-ban-critical</link>
-		</item>
-		<item>
-			<title>Killer Drone Autonomously 'Hunted Down' a Human Target, UN Experts Say</title>
-			<source>Gizmodo</source>
-			<pubDate>May 30, 2021</pubDate>
-			<description><![CDATA[A 'lethal' weaponized drone 'hunted down' and 'remotely engaged' human targets without its handlers' say-so during a conflict in Libya last year, according to a United Nations report first covered by New Scientist this week. Whether there were any casualties remains unclear, but if confirmed, it wou…]]></description>
-			<link>https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471</link>
-		</item>
-		<item>
-			<title>In Mexico, Cartels Are Hunting Down Police at Their Homes</title>
-			<source>Associated Press</source>
-			<pubDate>May 30, 2021</pubDate>
-			<description><![CDATA[MEXICO CITY (AP) — The notoriously violent Jalisco cartel has responded to Mexico's 'hugs, not bullets' policy with a policy of its own: The cartel kidnapped several members of an elite police force in the state of Guanajuato, tortured them to obtain names and addresses of fellow officers and is now…]]></description>
-			<link>https://apnews.com/article/caribbean-mexico-police-f6ea7798ca3cc171ac13b3a5a6a6c266</link>
 		</item>
 	</channel>
 </rss>
