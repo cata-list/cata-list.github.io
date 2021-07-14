@@ -3,9 +3,79 @@
   "link": "https://cata-list.github.io",
   "description": "Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.",
   "language": "en-US",
-  "date": "7/9/2021, 12:06:00 PM",
-  "id": "HEOIOHECSAAPv8f8WBVIS",
+  "date": "7/14/2021, 11:39:15 AM",
+  "id": "SbEfa378LpaFl9V4sam-Q",
   "articles": [
+    {
+      "title": "This Is How Democracy Dies",
+      "source": "UnHerd",
+      "date": "Jul 14, 2021",
+      "description": "If machines make all our decisions, who's in charge?",
+      "link": "https://unherd.com/2021/07/this-is-how-democracy-dies/"
+    },
+    {
+      "title": "Twitter Sees Jump in Govt Demands to Remove Content of Reporters, News Outlets",
+      "source": "Reuters",
+      "date": "Jul 14, 2021",
+      "description": "Twitter Inc (TWTR.N) saw a surge in government demands worldwide in 2020 to take down content posted by journalists and news outlets, according to data released by the social media platform.",
+      "link": "https://www.reuters.com/technology/exclusive-twitter-sees-jump-govt-demands-remove-content-journalists-news-outlets-2021-07-14/"
+    },
+    {
+      "title": "U.S. Health Official Says COVID-19 Boosters Could Risk More Serious Side Effects",
+      "source": "Reuters",
+      "date": "Jul 13, 2021",
+      "description": "The United States is reviewing the need for a third COVID-19 booster shot among residents who have already been vaccinated but needs to see more data to know if additional shots could raise people's risk of serious side effects, a U.S. health official said Tuesday.",
+      "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-health-official-says-covid-19-boosters-could-risk-more-serious-side-effects-2021-07-13/"
+    },
+    {
+      "title": "Almost Four Decades After Its Birth, the Diversity Industry Thrives on Its Own Failures",
+      "source": "Quillette",
+      "date": "Jul 13, 2021",
+      "description": "Campus diversity advocates have pulled off their greatest coup to date: They have declared 'diversity' to be a freestanding academic discipline, thus injecting their bureaucracy-heavy apparatus int…",
+      "link": "https://quillette.com/2021/07/12/almost-four-decades-after-its-birth-the-diversity-industry-thrives-on-its-own-failures/"
+    },
+    {
+      "title": "E.P.A. Approved Toxic Chemicals for Fracking a Decade Ago, New Files Show",
+      "source": "The New York Times",
+      "date": "Jul 13, 2021",
+      "description": "The compounds can form PFAS, also known as 'forever chemicals,' which have been linked to cancer and birth defects. The E.P.A. approvals came despite the agency's own concerns about toxicity.",
+      "link": "https://www.nytimes.com/2021/07/12/climate/epa-pfas-fracking-forever-chemicals.html"
+    },
+    {
+      "title": "The Strange Rehabilitation of the Black Panther Party",
+      "source": "Quillette",
+      "date": "Jul 13, 2021",
+      "description": "Isn't it a little late for the rehabilitation of the Black Panther Party (BPP)? After all, the organization that first caught the public's attention in 1969 was already in its death thr…",
+      "link": "https://quillette.com/2021/07/13/the-strange-rehabilitation-of-the-black-panther-party/"
+    },
+    {
+      "title": "U.S. Puts New Warning on J&J Coronavirus Vaccine for Autoimmune Disorder",
+      "source": "Reuters",
+      "date": "Jul 12, 2021",
+      "description": "The U.S. Food and Drug Administration on Monday added a warning to the fact sheet for Johnson & Johnson's (JNJ.N) COVID-19 vaccine saying that data suggests there is an increased risk of a rare neurological disorder in the six weeks after inoculation.",
+      "link": "https://www.reuters.com/article/us-health-coronavirus-johnson-johnson/u-s-to-announce-new-warning-on-jj-coronavirus-vaccine-for-autoimmune-disorder-washington-post-idINKBN2EI1YP"
+    },
+    {
+      "title": "A Witch Trial at the Legal Aid Society",
+      "source": "Substack",
+      "date": "Jul 12, 2021",
+      "description": "Maud Maron was a model public defender. Then she was forced out of her job because of her political views and her race.",
+      "link": "https://bariweiss.substack.com/p/a-witch-trial-at-the-legal-aid-society"
+    },
+    {
+      "title": "Study Projects a Surge in Coastal Flooding, Starting in 2030s",
+      "source": "NASA Sea Level Change Portal",
+      "date": "Jul 8, 2021",
+      "description": "In the mid-2030s, every U.S. coast will experience rapidly increasing high-tide floods, when a lunar cycle will amplify rising sea levels caused by climate change.",
+      "link": "https://sealevel.nasa.gov/news/222/study-projects-a-surge-in-coastal-flooding-starting-in-2030s/"
+    },
+    {
+      "title": "Solar Is Dirt-Cheap and About to Get Even More Powerful",
+      "source": "Bloomberg",
+      "date": "Jul 5, 2021",
+      "description": "After focusing for decades on cutting costs, the solar industry is shifting attention to making new advances in technology.",
+      "link": "https://www.bloomberg.com/news/articles/2021-07-05/solar-power-is-dirt-cheap-and-about-to-get-even-more-powerful"
+    },
     {
       "title": "Is 'Critical Race Theory' the Wrong Term?",
       "source": "Substack",
@@ -635,76 +705,6 @@
       "date": "Jun 4, 2021",
       "description": "The COVID-19 pandemic has transformed the world economy in ways that will be debated by pundits and future historians for decades to come. Yet, as hard as it is to predict a disrupted future accura…",
       "link": "https://quillette.com/2021/06/04/winners-and-losers-the-global-economy-after-covid/"
-    },
-    {
-      "title": "The FBI's Strange Anthrax Investigation Sheds Light on COVID Lab-Leak Theory and Fauci's Emails",
-      "source": "Substack",
-      "date": "Jun 3, 2021",
-      "description": "Mainstream institutions doubted the FBI had solved the 2001 anthrax case. Either way, revelations that emerged about U.S. Government bio-labs have newfound relevance.",
-      "link": "https://greenwald.substack.com/p/the-fbis-strange-anthrax-investigation"
-    },
-    {
-      "title": "The Lab-Leak Hypothesis: Inside the Fight to Uncover COVID-19's Origins",
-      "source": "Vanity Fair",
-      "date": "Jun 3, 2021",
-      "description": "Throughout 2020, the notion that the novel coronavirus leaked from a lab was off-limits. Those who dared to push for transparency say toxic politics and hidden agendas kept us in the dark.",
-      "link": "https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins"
-    },
-    {
-      "title": "What Happens When Doctors Can't Tell the Truth?",
-      "source": "Substack",
-      "date": "Jun 3, 2021",
-      "description": "Whole areas of research are off-limits. Top physicians treat patients based on their race. An ideological 'purge' is underway in American medicine.",
-      "link": "https://bariweiss.substack.com/p/what-happens-when-doctors-cant-speak"
-    },
-    {
-      "title": "In Defense of the Universal Values of Science",
-      "source": "Quillette",
-      "date": "Jun 3, 2021",
-      "description": "The progress of modern science has been a truly global phenomenon, a fact worth celebrating, just as the technological fruits of science have, to varying degrees, impacted the lives of everyone on …",
-      "link": "https://quillette.com/2021/06/02/in-defense-of-the-universal-values-of-science/"
-    },
-    {
-      "title": "The Culture Wars Are Real",
-      "source": "UnHerd",
-      "date": "Jun 2, 2021",
-      "description": "The Left wants to pretend they're a Right-wing fantasy",
-      "link": "https://unherd.com/2021/06/do-the-culture-wars-really-exist/"
-    },
-    {
-      "title": "The New Domestic War on Terror Has Already Begun -- Even Without the New Laws Biden Wants",
-      "source": "Substack",
-      "date": "Jun 2, 2021",
-      "description": "Homeland Security just issued its fourth danger bulletin this year. And both the weapons and rhetorical tactics of the first War on Terror are increasingly visible.",
-      "link": "https://greenwald.substack.com/p/the-new-domestic-war-on-terror-has"
-    },
-    {
-      "title": "If the Wuhan Lab-Leak Hypothesis Is True, Expect a Political Earthquake",
-      "source": "The Guardian",
-      "date": "Jun 1, 2021",
-      "description": "The potential consequences of the origins of the virus are shattering – if they can be proved",
-      "link": "https://www.theguardian.com/commentisfree/2021/jun/01/wuhan-coronavirus-lab-leak-covid-virus-origins-china"
-    },
-    {
-      "title": "The Fossil Fuel Industry's Biggest Methane Polluter Is a Nobody",
-      "source": "Gizmodo",
-      "date": "Jun 2, 2021",
-      "description": "When it comes to the U.S. oil and gas industry's greenhouse gas pollution, I tend to think of well-known and much-hated oil giants like Chevron and Exxon. But a new analysis shows small, relatively unknown fossil fuel drillers are some of the worst culprits.",
-      "link": "https://gizmodo.com/you-ve-almost-certainly-never-heard-of-the-fossil-fuel-1847017100"
-    },
-    {
-      "title": "Burning Ship Leaking Billions of Plastic Pellets Sinks Off Sri Lanka",
-      "source": "Gizmodo",
-      "date": "Jun 2, 2021",
-      "description": "Sri Lanka is facing a rapidly unfolding environmental crisis after a cargo ship that caught fire last month sunk, pouring tons of plastic pellets and chemicals into the surrounding fishing waters. Government officials worry an oil spill could come next.",
-      "link": "https://gizmodo.com/smoldering-ship-leaking-billions-of-plastic-pellets-sin-1847015857"
-    },
-    {
-      "title": "Pesticides Are Killing the World's Soils",
-      "source": "Scientific American",
-      "date": "Jun 1, 2021",
-      "description": "They cause significant harm to earthworms, beetles, ground-nesting bees and thousands of other vital subterranean species",
-      "link": "https://www.scientificamerican.com/article/pesticides-are-killing-the-worlds-soils/"
     }
   ]
 }
